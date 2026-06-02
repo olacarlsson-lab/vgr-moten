@@ -8,6 +8,7 @@ const listEl = $('#list')
 
 let allMeetings = []
 let activeBoards = new Set() // tomt = visa alla
+let timeFilter = 'upcoming'  // 'upcoming' | 'past' | 'all'
 
 function showBanner(text, kind = 'info') {
   banner.textContent = text
@@ -32,6 +33,7 @@ function formatDate(iso) {
 function render() {
   const meetings = allMeetings
     .filter((m) => activeBoards.size === 0 || activeBoards.has(m.boardId))
+    .filter((m) => timeFilter === 'all' || (timeFilter === 'upcoming' ? isUpcoming(m) : !isUpcoming(m)))
     .sort((a, b) => {
       const au = isUpcoming(a), bu = isUpcoming(b)
       if (au !== bu) return au ? -1 : 1                 // kommande före tidigare
@@ -42,10 +44,10 @@ function render() {
   listEl.innerHTML = ''
   $('#empty').hidden = meetings.length > 0
 
+  // Avdelare mellan kommande och tidigare – bara i "Alla"-läget.
   let pastDividerInserted = false
   for (const m of meetings) {
-    // Avdelare före första tidigare mötet.
-    if (!isUpcoming(m) && !pastDividerInserted) {
+    if (timeFilter === 'all' && !isUpcoming(m) && !pastDividerInserted) {
       pastDividerInserted = true
       const sep = document.createElement('li')
       sep.className = 'divider'
@@ -72,8 +74,20 @@ function render() {
     listEl.appendChild(li)
   }
 
-  const upcoming = meetings.filter(isUpcoming).length
-  $('#meta').textContent = `${meetings.length} möten · ${upcoming} kommande`
+  const label = timeFilter === 'past' ? 'tidigare' : timeFilter === 'upcoming' ? 'kommande' : 'totalt'
+  $('#meta').textContent = `${meetings.length} möten (${label})`
+}
+
+// ---- Tidsfilter (Kommande / Tidigare / Alla) --------------------------------
+function setupTimeFilter() {
+  const buttons = [...document.querySelectorAll('#timeFilter button')]
+  for (const btn of buttons) {
+    btn.addEventListener('click', () => {
+      timeFilter = btn.dataset.time
+      for (const b of buttons) b.setAttribute('aria-pressed', b === btn ? 'true' : 'false')
+      render()
+    })
+  }
 }
 
 function escapeHtml(s) {
@@ -195,5 +209,6 @@ function showSubscription(sub) {
 
 // ---- Init -------------------------------------------------------------------
 $('#notify').addEventListener('click', enableNotifications)
+setupTimeFilter()
 registerSW()
 loadData()

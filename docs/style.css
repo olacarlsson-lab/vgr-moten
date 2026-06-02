@@ -58,6 +58,29 @@ main.wrap { padding-top: 24px; padding-bottom: 32px; }
 /* ---- Controls ---- */
 .controls { display: flex; flex-direction: column; gap: 24px; margin-bottom: 24px; }
 
+.segmented {
+  display: inline-flex;
+  border: 1px solid var(--vgr-primary-action);
+  border-radius: 999px;
+  overflow: hidden;
+  align-self: flex-start;
+}
+.segmented button {
+  font-family: inherit;
+  font-size: 14px;
+  padding: 8px 16px;
+  border: 0;
+  background: var(--vgr-elevation-elevation1);
+  color: var(--vgr-primary-action);
+  cursor: pointer;
+}
+.segmented button + button { border-left: 1px solid var(--vgr-primary-action); }
+.segmented button[aria-pressed="true"] {
+  background: var(--vgr-primary-action);
+  color: var(--vgr-neutral-textinverted);
+  font-weight: bold;
+}
+
 .filters { display: flex; flex-wrap: wrap; gap: 8px; }
 .chip {
   font-family: inherit;
