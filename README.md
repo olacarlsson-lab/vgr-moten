@@ -100,6 +100,13 @@ fallback om du kör utan endpoint).
 - Öppna sidan, klicka **Aktivera notiser**, godkänn → prenumerationen registreras
   automatiskt i Workern. Klart.
 
+### Notisinställningar (per enhet)
+Under **Notisinställningar** på sidan väljer varje enhet vilka **nämnder** och
+vilka **notistyper** (Nya möten · Handlingar publicerade · Nya dokument ·
+Nya handlingar i ärenden) som ska ge notiser. Inställningarna sparas lokalt och
+skickas med till Workern (samma `/subscribe` uppdaterar dem). `push.mjs` filtrerar
+per prenumerant innan sändning. Prenumeranter utan inställningar får allt.
+
 ### iPhone/iPad
 iOS stöder Web Push först från **16.4** och **bara** för appar på hemskärmen:
 öppna i Safari → Dela → *Lägg till på hemskärmen*, öppna ikonen, klicka

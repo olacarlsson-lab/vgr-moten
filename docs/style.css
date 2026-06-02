@@ -81,6 +81,32 @@ main.wrap { padding-top: 24px; padding-bottom: 32px; }
   font-weight: bold;
 }
 
+/* ---- Notisinställningar ---- */
+.settings {
+  border: 1px solid var(--vgr-neutral-dividervariant);
+  border-radius: 12px;
+  background: var(--vgr-elevation-elevation1);
+  padding: 0 16px;
+}
+.settings summary {
+  cursor: pointer;
+  padding: 12px 0;
+  font-weight: bold;
+  color: var(--vgr-primary-action);
+}
+.settings-body { padding: 0 0 16px; display: flex; flex-direction: column; gap: 16px; }
+.settings fieldset {
+  border: 1px solid var(--vgr-neutral-dividervariant);
+  border-radius: 8px;
+  padding: 12px;
+  margin: 0;
+}
+.settings legend { font-weight: bold; padding: 0 4px; }
+.checks { display: flex; flex-direction: column; gap: 8px; }
+.checks label { display: flex; align-items: center; gap: 8px; cursor: pointer; }
+.checks input { width: 18px; height: 18px; accent-color: var(--vgr-primary-action); }
+#savePrefs { align-self: flex-start; }
+
 .filters { display: flex; flex-wrap: wrap; gap: 8px; }
 .chip {
   font-family: inherit;

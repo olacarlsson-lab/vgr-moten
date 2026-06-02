@@ -54,10 +54,24 @@ async function pruneSubscription(endpoint) {
   } catch { /* best effort */ }
 }
 
-const subscriptions = await loadSubscriptions()
-if (!Array.isArray(subscriptions) || subscriptions.length === 0) {
+// Normalisera till poster { subscription, prefs? }. Äldre poster kan vara råa
+// subscription-objekt (utan prefs) → behandlas som "allt på".
+const raw = await loadSubscriptions()
+const records = (Array.isArray(raw) ? raw : [])
+  .map((r) => (r && r.subscription ? r : { subscription: r }))
+  .filter((r) => r.subscription && typeof r.subscription.endpoint === 'string')
+if (records.length === 0) {
   console.log('Inga prenumerationer – hoppar över push.')
   process.exit(0)
+}
+
+// Vill den här prenumeranten ha den här ändringen? (nämnd + typ)
+const TYPE_OF = { new: 'meeting', documents: 'published', document: 'document', handling: 'handling', handlingar: 'handling' }
+function wants(prefs, c) {
+  if (!prefs) return true // inga prefs = allt på (bakåtkompatibelt)
+  if (Array.isArray(prefs.boards) && !prefs.boards.includes(c.boardId)) return false
+  if (prefs.types && prefs.types[TYPE_OF[c.change]] === false) return false
+  return true
 }
 
 let changes = []
@@ -83,18 +97,20 @@ function notice(c) {
 }
 
 let sent = 0
+let skipped = 0
 const dead = []
 for (const c of changes) {
   const n = notice(c)
   const url = c.document?.url || c.url
   const payload = JSON.stringify({ title: n.title, body: n.body, url, tag: `${c.key}-${c.change}-${c.document?.url || ''}` })
-  for (const sub of subscriptions) {
+  for (const rec of records) {
+    if (!wants(rec.prefs, c)) { skipped++; continue } // filtrerat bort av prefs
     try {
-      await webpush.sendNotification(sub, payload)
+      await webpush.sendNotification(rec.subscription, payload)
       sent++
     } catch (err) {
       if (err.statusCode === 404 || err.statusCode === 410) {
-        if (!dead.includes(sub)) dead.push(sub)
+        if (!dead.includes(rec.subscription)) dead.push(rec.subscription)
       } else {
         console.error(`Push misslyckades: ${err.statusCode || err.message}`)
       }
@@ -104,5 +120,7 @@ for (const c of changes) {
 
 for (const sub of dead) await pruneSubscription(sub.endpoint)
 
-console.log(`Skickade ${sent} notis(er) för ${changes.length} ändring(ar).` +
-  (dead.length ? ` Rensade ${dead.length} död(a) prenumeration(er).` : ''))
+console.log(
+  `Skickade ${sent} notis(er) för ${changes.length} ändring(ar) (${skipped} filtrerade av prefs).` +
+    (dead.length ? ` Rensade ${dead.length} död(a) prenumeration(er).` : '')
+)

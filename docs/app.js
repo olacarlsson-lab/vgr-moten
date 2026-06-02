@@ -7,8 +7,54 @@ const banner = $('#banner')
 const listEl = $('#list')
 
 let allMeetings = []
+let allBoards = []
 let activeBoards = new Set() // tomt = visa alla
 let timeFilter = 'upcoming'  // 'upcoming' | 'past' | 'all'
+
+// ---- Notispreferenser (per enhet, sparas lokalt + i Workern) ----------------
+const PREFS_KEY = 'vgr-prefs'
+const DEFAULT_TYPES = { meeting: true, published: true, document: true, handling: true }
+
+function loadPrefs() {
+  try {
+    const p = JSON.parse(localStorage.getItem(PREFS_KEY))
+    if (p && typeof p === 'object') return { boards: p.boards ?? 'all', types: { ...DEFAULT_TYPES, ...p.types } }
+  } catch { /* ignore */ }
+  return { boards: 'all', types: { ...DEFAULT_TYPES } }
+}
+
+function buildPrefBoards(boards) {
+  const el = $('#prefBoards')
+  el.innerHTML = ''
+  for (const b of boards) {
+    const label = document.createElement('label')
+    label.innerHTML = `<input type="checkbox" data-board="${b.id}" checked> ${escapeHtml(b.name)}`
+    el.appendChild(label)
+  }
+}
+
+function applyPrefsToUI(prefs) {
+  const boardSet = prefs.boards === 'all' ? null : new Set(prefs.boards)
+  document.querySelectorAll('#prefBoards input[data-board]').forEach((cb) => {
+    cb.checked = !boardSet || boardSet.has(cb.dataset.board)
+  })
+  document.querySelectorAll('#settings input[data-type]').forEach((cb) => {
+    cb.checked = prefs.types[cb.dataset.type] !== false
+  })
+}
+
+function gatherPrefs() {
+  const boardInputs = [...document.querySelectorAll('#prefBoards input[data-board]')]
+  const checked = boardInputs.filter((cb) => cb.checked).map((cb) => cb.dataset.board)
+  const boards = checked.length === boardInputs.length ? 'all' : checked
+  const types = {}
+  document.querySelectorAll('#settings input[data-type]').forEach((cb) => { types[cb.dataset.type] = cb.checked })
+  return { boards, types }
+}
+
+function persistPrefs(prefs) {
+  try { localStorage.setItem(PREFS_KEY, JSON.stringify(prefs)) } catch { /* ignore */ }
+}
 
 function showBanner(text, kind = 'info') {
   banner.textContent = text
@@ -123,7 +169,10 @@ async function loadData() {
     if (!res.ok) throw new Error(res.status)
     const data = await res.json()
     allMeetings = data.meetings || []
-    buildFilters(data.boards || [])
+    allBoards = data.boards || []
+    buildFilters(allBoards)
+    buildPrefBoards(allBoards)
+    applyPrefsToUI(loadPrefs())
     render()
     if (allMeetings.length === 0) {
       showBanner('Ingen data ännu – kör scrape-workflowet i GitHub Actions.', 'info')
@@ -177,15 +226,11 @@ async function enableNotifications() {
       applicationServerKey: urlBase64ToUint8Array(key)
     })
 
+    const prefs = gatherPrefs()
+    persistPrefs(prefs)
     const endpoint = window.VGR_CONFIG?.subscribeEndpoint
     if (endpoint) {
-      // Registrera automatiskt mot Cloudflare Worker.
-      const res = await fetch(endpoint.replace(/\/$/, '') + '/subscribe', {
-        method: 'POST',
-        headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ subscription: sub.toJSON() })
-      })
-      if (!res.ok) throw new Error('servern svarade ' + res.status)
+      await postSubscription(sub, prefs)
       showBanner('Notiser aktiverade på den här enheten.', 'success')
     } else {
       // Ingen endpoint konfigurerad – visa JSON för manuell secret-modell.
@@ -196,6 +241,37 @@ async function enableNotifications() {
     showBanner('Kunde inte aktivera notiser: ' + err.message, 'error')
   } finally {
     btn.disabled = false
+  }
+}
+
+// POST:ar prenumeration + prefs till Workern (samma endpoint uppdaterar prefs).
+async function postSubscription(sub, prefs) {
+  const endpoint = window.VGR_CONFIG?.subscribeEndpoint
+  if (!endpoint) throw new Error('ingen endpoint konfigurerad')
+  const res = await fetch(endpoint.replace(/\/$/, '') + '/subscribe', {
+    method: 'POST',
+    headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ subscription: sub.toJSON(), prefs })
+  })
+  if (!res.ok) throw new Error('servern svarade ' + res.status)
+}
+
+// "Spara inställningar" – uppdaterar prefs för en redan aktiverad prenumeration.
+async function savePrefs() {
+  const prefs = gatherPrefs()
+  persistPrefs(prefs)
+  const hint = $('#prefsHint')
+  const endpoint = window.VGR_CONFIG?.subscribeEndpoint
+  const sub = swReg && (await swReg.pushManager.getSubscription())
+  if (!sub || !endpoint) {
+    hint.textContent = 'Sparat. Inställningarna gäller när du aktiverar notiser.'
+    return
+  }
+  try {
+    await postSubscription(sub, prefs)
+    hint.textContent = 'Inställningar sparade.'
+  } catch (err) {
+    hint.textContent = 'Kunde inte spara mot servern: ' + err.message
   }
 }
 
@@ -211,6 +287,7 @@ function showSubscription(sub) {
 
 // ---- Init -------------------------------------------------------------------
 $('#notify').addEventListener('click', enableNotifications)
+$('#savePrefs').addEventListener('click', savePrefs)
 setupTimeFilter()
 registerSW()
 loadData()

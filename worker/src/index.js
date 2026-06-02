@@ -39,12 +39,14 @@ export default {
     if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers: cors })
 
     try {
-      // ---- Registrera prenumeration ----
+      // ---- Registrera/uppdatera prenumeration (+ ev. preferenser) ----
       if (request.method === 'POST' && url.pathname === '/subscribe') {
         const body = await request.json()
         const sub = body.subscription || body
         if (!sub || typeof sub.endpoint !== 'string') return json({ error: 'invalid subscription' }, 400, cors)
-        await env.SUBS.put(KEY_PREFIX + (await hash(sub.endpoint)), JSON.stringify(sub))
+        const record = { subscription: sub }
+        if (body.prefs && typeof body.prefs === 'object') record.prefs = body.prefs
+        await env.SUBS.put(KEY_PREFIX + (await hash(sub.endpoint)), JSON.stringify(record))
         return json({ ok: true }, 201, cors)
       }
 
@@ -68,7 +70,10 @@ export default {
           const list = await env.SUBS.list({ prefix: KEY_PREFIX, cursor })
           for (const k of list.keys) {
             const v = await env.SUBS.get(k.name)
-            if (v) out.push(JSON.parse(v))
+            if (!v) continue
+            const parsed = JSON.parse(v)
+            // Normalisera: äldre poster lagrades som råa subscription-objekt.
+            out.push(parsed.subscription ? parsed : { subscription: parsed })
           }
           cursor = list.list_complete ? undefined : list.cursor
         } while (cursor)

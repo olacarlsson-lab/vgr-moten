@@ -26,6 +26,28 @@
       <button id="notify" class="btn-primary" type="button" aria-live="polite">
         Aktivera notiser
       </button>
+
+      <details id="settings" class="settings">
+        <summary>Notisinställningar</summary>
+        <div class="settings-body">
+          <fieldset>
+            <legend>Nämnder</legend>
+            <div id="prefBoards" class="checks"></div>
+          </fieldset>
+          <fieldset>
+            <legend>Notistyper</legend>
+            <div class="checks">
+              <label><input type="checkbox" data-type="meeting" checked> Nya möten</label>
+              <label><input type="checkbox" data-type="published" checked> Handlingar publicerade</label>
+              <label><input type="checkbox" data-type="document" checked> Nya dokument (mötesnivå)</label>
+              <label><input type="checkbox" data-type="handling" checked> Nya handlingar (i ärenden)</label>
+            </div>
+          </fieldset>
+          <button id="savePrefs" class="btn-secondary" type="button">Spara inställningar</button>
+          <p id="prefsHint" class="meta" role="status"></p>
+        </div>
+      </details>
+
       <div id="timeFilter" class="segmented" role="group" aria-label="Tidsperiod">
         <button type="button" data-time="upcoming" aria-pressed="true">Kommande</button>
         <button type="button" data-time="past" aria-pressed="false">Tidigare</button>
