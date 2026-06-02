@@ -4,6 +4,6 @@
 //    t.ex. "https://vgr-moten-subs.<ditt-konto>.workers.dev". Lämna tom för att
 //    falla tillbaka på manuell secret-modell (visar prenumerations-JSON istället).
 window.VGR_CONFIG = {
-  vapidPublicKey: 'REPLACE_WITH_YOUR_VAPID_PUBLIC_KEY',
-  subscribeEndpoint: ''
+  vapidPublicKey: 'BIyYoH6wp0kmqUc0A3jBrBt2ubf4XDEoeM6WbZGnRndx38-nrvotLXDpz2eb8GIG1j9N-F0C3SFNfc192FMndS4',
+  subscribeEndpoint: 'https://vgr-moten-subs.pfzcgp8w76.workers.dev'
 }
