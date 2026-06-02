@@ -114,6 +114,23 @@ main.wrap { padding-top: 24px; padding-bottom: 32px; }
 .tag.published { background: var(--vgr-status-successurface); color: var(--vgr-status-successtext); }
 .tag.upcoming { background: var(--vgr-primary-bluesurface); color: var(--vgr-primary-action); }
 
+.divider {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 12px 0 0;
+  color: var(--vgr-neutral-textvariant);
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.divider::before, .divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--vgr-neutral-dividervariant);
+}
+
 .empty { text-align: center; padding: 32px 0; color: var(--vgr-neutral-textvariant); }
 
 /* ---- Footer ---- */

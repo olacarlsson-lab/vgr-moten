@@ -32,11 +32,27 @@ function formatDate(iso) {
 function render() {
   const meetings = allMeetings
     .filter((m) => activeBoards.size === 0 || activeBoards.has(m.boardId))
+    .sort((a, b) => {
+      const au = isUpcoming(a), bu = isUpcoming(b)
+      if (au !== bu) return au ? -1 : 1                 // kommande före tidigare
+      return au ? a.date.localeCompare(b.date)          // kommande: närmast först
+                : b.date.localeCompare(a.date)          // tidigare: senast först
+    })
 
   listEl.innerHTML = ''
   $('#empty').hidden = meetings.length > 0
 
+  let pastDividerInserted = false
   for (const m of meetings) {
+    // Avdelare före första tidigare mötet.
+    if (!isUpcoming(m) && !pastDividerInserted) {
+      pastDividerInserted = true
+      const sep = document.createElement('li')
+      sep.className = 'divider'
+      sep.innerHTML = '<span>Tidigare möten</span>'
+      listEl.appendChild(sep)
+    }
+
     const li = document.createElement('li')
     li.className = 'card'
 
