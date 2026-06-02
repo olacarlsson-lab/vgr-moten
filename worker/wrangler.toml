@@ -12,7 +12,7 @@ id = "655531cdae5540728148e3fe8eaafb19"
 [vars]
 # Kommaseparerade origins som får anropa /subscribe från webbläsaren.
 # Sätt till din Pages-URL, t.ex. "https://<användarnamn>.github.io".
-ALLOWED_ORIGINS = "*"
+ALLOWED_ORIGINS = "https://olacarlsson-lab.github.io"
 
 # SUBS_TOKEN sätts som secret (inte här):
 #   cd worker && npx wrangler secret put SUBS_TOKEN
