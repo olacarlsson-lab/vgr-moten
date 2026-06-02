@@ -1,0 +1,18 @@
+name = "vgr-moten-subs"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+# KV-namespace för prenumerationer. Skapa med:
+#   cd worker && npx wrangler kv namespace create SUBS
+# Klistra in id:t som kommandot skriver ut här nedanför.
+[[kv_namespaces]]
+binding = "SUBS"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+[vars]
+# Kommaseparerade origins som får anropa /subscribe från webbläsaren.
+# Sätt till din Pages-URL, t.ex. "https://<användarnamn>.github.io".
+ALLOWED_ORIGINS = "*"
+
+# SUBS_TOKEN sätts som secret (inte här):
+#   cd worker && npx wrangler secret put SUBS_TOKEN

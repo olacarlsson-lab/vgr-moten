@@ -1,0 +1,636 @@
+{
+  "generatedAt": "2026-06-02T16:01:38.192Z",
+  "siteName": "VGR Möten",
+  "boards": [
+    {
+      "id": "212615",
+      "name": "Regionfullmäktige"
+    },
+    {
+      "id": "212458",
+      "name": "Regionstyrelsen"
+    },
+    {
+      "id": "212298",
+      "name": "Ägarutskottet"
+    },
+    {
+      "id": "222324",
+      "name": "Styrelsen för fastighet, stöd och service"
+    }
+  ],
+  "meetings": [
+    {
+      "key": "222324|2026-12-16",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2026-12-16",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": []
+    },
+    {
+      "key": "212458|2026-12-15",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-12-15",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": []
+    },
+    {
+      "key": "222324|2026-11-27",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2026-11-27",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": []
+    },
+    {
+      "key": "212615|2026-11-24",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "Regionfullmäktige",
+      "date": "2026-11-24",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": []
+    },
+    {
+      "key": "212298|2026-11-17",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "Ägarutskottet",
+      "date": "2026-11-17",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": []
+    },
+    {
+      "key": "212458|2026-11-10",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-11-10",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": []
+    },
+    {
+      "key": "212615|2026-11-03",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "Regionfullmäktige",
+      "date": "2026-11-03",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": []
+    },
+    {
+      "key": "222324|2026-10-27",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2026-10-27",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": []
+    },
+    {
+      "key": "212615|2026-10-20",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "Regionfullmäktige",
+      "date": "2026-10-20",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": []
+    },
+    {
+      "key": "212458|2026-10-20",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-10-20",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": []
+    },
+    {
+      "key": "212615|2026-10-06",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "Regionfullmäktige",
+      "date": "2026-10-06",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": []
+    },
+    {
+      "key": "212298|2026-09-29",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "Ägarutskottet",
+      "date": "2026-09-29",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": []
+    },
+    {
+      "key": "222324|2026-09-25",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2026-09-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": []
+    },
+    {
+      "key": "212458|2026-09-22",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-09-22",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": []
+    },
+    {
+      "key": "212298|2026-09-02",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "Ägarutskottet",
+      "date": "2026-09-02",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": []
+    },
+    {
+      "key": "222324|2026-08-28",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2026-08-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": []
+    },
+    {
+      "key": "212458|2026-08-25",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-08-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": []
+    },
+    {
+      "key": "212298|2026-08-18",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "Ägarutskottet",
+      "date": "2026-08-18",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": []
+    },
+    {
+      "key": "212458|2026-06-22",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-06-22",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": []
+    },
+    {
+      "key": "212615|2026-06-15",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "Regionfullmäktige",
+      "date": "2026-06-15",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": []
+    },
+    {
+      "key": "222324|2026-06-12",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2026-06-12",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": []
+    },
+    {
+      "key": "212298|2026-06-09",
+      "meetingId": "3184050",
+      "boardId": "212298",
+      "board": "Ägarutskottet",
+      "date": "2026-06-09",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184050",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-06-09",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4554867.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-06-09&fileSize=121533"
+        }
+      ]
+    },
+    {
+      "key": "212458|2026-06-02",
+      "meetingId": "3184036",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-06-02",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184036",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-06-02",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4543670.PDF?fileName=Kallelse%20regionstyrelsen%202026-06-02&fileSize=132146"
+        }
+      ]
+    },
+    {
+      "key": "212615|2026-05-26",
+      "meetingId": "3148571",
+      "boardId": "212615",
+      "board": "Regionfullmäktige",
+      "date": "2026-05-26",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3148571",
+      "documents": [
+        {
+          "title": "Föredragningslista regionfullmäktige 2026-05-26",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4532571.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-05-26&fileSize=129724"
+        }
+      ]
+    },
+    {
+      "key": "222324|2026-05-22",
+      "meetingId": "3256301",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2026-05-22",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256301",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för fastighet, stöd och service 2026-05-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4524979.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-05-22&fileSize=119076"
+        },
+        {
+          "title": "Protokoll  styrelsen för fastighet, stöd och service 2026-05-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4531641.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-05-22&fileSize=1066836"
+        }
+      ]
+    },
+    {
+      "key": "212458|2026-05-19",
+      "meetingId": "3184035",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-05-19",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184035",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-05-19",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4526983.PDF?fileName=Kallelse%20regionstyrelsen%202026-05-19&fileSize=140862"
+        },
+        {
+          "title": "Protokoll 2 regionstyrelsen 2026-05-19",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4528104.PDF?fileName=Protokoll%202%20regionstyrelsen%202026-05-19&fileSize=1703757"
+        }
+      ]
+    },
+    {
+      "key": "212298|2026-05-05",
+      "meetingId": "3184048",
+      "boardId": "212298",
+      "board": "Ägarutskottet",
+      "date": "2026-05-05",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184048",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-05-05",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4510184.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-05-05&fileSize=114987"
+        },
+        {
+          "title": "Protokoll  ägarutskottet 2026-05-05",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511151.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-05-05&fileSize=988152"
+        }
+      ]
+    },
+    {
+      "key": "212458|2026-04-28",
+      "meetingId": "3184034",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-04-28",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184034",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-04-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4499581.PDF?fileName=Kallelse%20regionstyrelsen%202026-04-28&fileSize=144946"
+        },
+        {
+          "title": "Protokoll 2 regionstyrelsen 2026-04-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4502478.PDF?fileName=Protokoll%202%20regionstyrelsen%202026-04-28&fileSize=2841910"
+        }
+      ]
+    },
+    {
+      "key": "222324|2026-04-17",
+      "meetingId": "3256297",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2026-04-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256297",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för fastighet, stöd och service 2026-04-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4485101.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-04-17&fileSize=132054"
+        },
+        {
+          "title": "Protokoll  styrelsen för fastighet, stöd och service 2026-04-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4487736.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-04-17&fileSize=529956"
+        }
+      ]
+    },
+    {
+      "key": "212615|2026-04-14",
+      "meetingId": "3148567",
+      "boardId": "212615",
+      "board": "Regionfullmäktige",
+      "date": "2026-04-14",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3148567",
+      "documents": [
+        {
+          "title": "Föredragningslista regionfullmäktige 2026-04-14",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4477877.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-04-14&fileSize=148439"
+        },
+        {
+          "title": "Protokoll  regionfullmäktige 2026-04-14",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4491008.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-04-14&fileSize=3727161"
+        }
+      ]
+    },
+    {
+      "key": "212298|2026-03-31",
+      "meetingId": "3184047",
+      "boardId": "212298",
+      "board": "Ägarutskottet",
+      "date": "2026-03-31",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184047",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-03-31",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4466545.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-03-31&fileSize=111551"
+        },
+        {
+          "title": "Protokoll  ägarutskottet 2026-03-31",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4467233.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-03-31&fileSize=443159"
+        }
+      ]
+    },
+    {
+      "key": "212458|2026-03-17",
+      "meetingId": "3184033",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-03-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184033",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-03-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4446234.PDF?fileName=Kallelse%20regionstyrelsen%202026-03-17&fileSize=135980"
+        },
+        {
+          "title": "Protokoll 1 regionstyrelsen 2026-03-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4449457.PDF?fileName=Protokoll%201%20regionstyrelsen%202026-03-17&fileSize=484330"
+        },
+        {
+          "title": "Protokoll 2 regionstyrelsen 2026-03-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4454952.PDF?fileName=Protokoll%202%20regionstyrelsen%202026-03-17&fileSize=1346447"
+        }
+      ]
+    },
+    {
+      "key": "222324|2026-03-11",
+      "meetingId": "3256296",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2026-03-11",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256296",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för fastighet, stöd och service 2026-03-11",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4435584.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-03-11&fileSize=118337"
+        },
+        {
+          "title": "Protokoll 1 av 2 styrelsen för fastighet, stöd och service 2026-03-11",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4437200.PDF?fileName=Protokoll%201%20av%202%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-03-11&fileSize=1024839"
+        }
+      ]
+    },
+    {
+      "key": "212298|2026-03-03",
+      "meetingId": "3184046",
+      "boardId": "212298",
+      "board": "Ägarutskottet",
+      "date": "2026-03-03",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184046",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-03-03",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4424184.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-03-03&fileSize=113765"
+        },
+        {
+          "title": "Protokoll ägarutskottet 2026-03-03",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4429050.PDF?fileName=Protokoll%20%C3%A4garutskottet%202026-03-03&fileSize=524563"
+        }
+      ]
+    },
+    {
+      "key": "212458|2026-02-24",
+      "meetingId": "3184032",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-02-24",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184032",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-02-24",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4414819.PDF?fileName=Kallelse%20regionstyrelsen%202026-02-24&fileSize=119649"
+        },
+        {
+          "title": "Protokoll regionstyrelsen 2026-02-24",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4419831.PDF?fileName=Protokoll%20regionstyrelsen%202026-02-24&fileSize=1192776"
+        }
+      ]
+    },
+    {
+      "key": "212615|2026-02-17",
+      "meetingId": "3148566",
+      "boardId": "212615",
+      "board": "Regionfullmäktige",
+      "date": "2026-02-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3148566",
+      "documents": [
+        {
+          "title": "Föredragningslista regionfullmäktige 2026-02-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4396554.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-02-17&fileSize=146998"
+        },
+        {
+          "title": "Protokoll  regionfullmäktige 2026-02-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4416999.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-02-17&fileSize=4611258"
+        }
+      ]
+    },
+    {
+      "key": "212458|2026-02-17",
+      "meetingId": "3299188",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-02-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3299188",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-02-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4413444.PDF?fileName=Kallelse%20regionstyrelsen%202026-02-17&fileSize=100306"
+        }
+      ]
+    },
+    {
+      "key": "212458|2026-02-03",
+      "meetingId": "3184030",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-02-03",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184030",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-02-03",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4385314.PDF?fileName=Kallelse%20regionstyrelsen%202026-02-03&fileSize=137404"
+        },
+        {
+          "title": "Protokoll 1 regionstyrelsen 2026-02-03",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4392082.PDF?fileName=Protokoll%201%20regionstyrelsen%202026-02-03&fileSize=1729848"
+        }
+      ]
+    },
+    {
+      "key": "222324|2026-02-03",
+      "meetingId": "3256292",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2026-02-03",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256292",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för fastighet, stöd och service 2026-02-03",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4384858.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-02-03&fileSize=130594"
+        },
+        {
+          "title": "Protokoll 1 av 2 styrelsen för fastighet, stöd och service 2026-02-03",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4391206.PDF?fileName=Protokoll%201%20av%202%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-02-03&fileSize=1128823"
+        }
+      ]
+    },
+    {
+      "key": "212298|2026-01-27",
+      "meetingId": "3184042",
+      "boardId": "212298",
+      "board": "Ägarutskottet",
+      "date": "2026-01-27",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184042",
+      "documents": []
+    },
+    {
+      "key": "212458|2026-01-20",
+      "meetingId": "3184029",
+      "boardId": "212458",
+      "board": "Regionstyrelsen",
+      "date": "2026-01-20",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184029",
+      "documents": []
+    },
+    {
+      "key": "212298|2026-01-13",
+      "meetingId": "3184041",
+      "boardId": "212298",
+      "board": "Ägarutskottet",
+      "date": "2026-01-13",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184041",
+      "documents": []
+    }
+  ]
+}

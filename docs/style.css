@@ -1,0 +1,144 @@
+/* VGR Möten – webbstil byggd på VGR-designtokens (tokens.css).
+   Typografi Verdana, spacing 4/8/12/24/32, light+dark via tokens. */
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: Verdana, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--vgr-neutral-text);
+  background: var(--vgr-elevation-background);
+}
+
+.wrap {
+  width: 100%;
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ---- Topbar ---- */
+.topbar {
+  background: var(--vgr-primary-base);
+  color: var(--vgr-neutral-textinverted);
+  padding: 24px 0;
+}
+.topbar h1 { margin: 0; font-size: 28px; }
+.topbar .subtitle { margin: 4px 0 0; color: var(--vgr-neutral-textinverted); opacity: 0.9; }
+
+main.wrap { padding-top: 24px; padding-bottom: 32px; }
+
+/* ---- Knappar ---- */
+.btn-primary,
+.btn-secondary {
+  font-family: inherit;
+  font-size: 16px;
+  padding: 12px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 2px solid var(--vgr-primary-action);
+}
+.btn-primary {
+  background: var(--vgr-primary-action);
+  color: var(--vgr-neutral-textinverted);
+}
+.btn-secondary {
+  background: transparent;
+  color: var(--vgr-primary-action);
+}
+.btn-primary:disabled { opacity: 0.6; cursor: default; }
+
+:focus-visible {
+  outline: 3px solid var(--vgr-primary-bluegraphic);
+  outline-offset: 2px;
+}
+
+/* ---- Controls ---- */
+.controls { display: flex; flex-direction: column; gap: 24px; margin-bottom: 24px; }
+
+.filters { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  font-family: inherit;
+  font-size: 14px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--vgr-neutral-divider);
+  background: var(--vgr-elevation-elevation1);
+  color: var(--vgr-neutral-text);
+  cursor: pointer;
+}
+.chip[aria-pressed="true"] {
+  background: var(--vgr-primary-bluesurface);
+  border-color: var(--vgr-primary-action);
+  color: var(--vgr-primary-action);
+  font-weight: bold;
+}
+
+/* ---- Banner ---- */
+.banner {
+  padding: 12px 16px;
+  border-radius: 8px;
+  margin-bottom: 24px;
+}
+.banner.info { background: var(--vgr-status-informationsurface); color: var(--vgr-status-informationtext); }
+.banner.success { background: var(--vgr-status-successurface); color: var(--vgr-status-successtext); }
+.banner.error { background: var(--vgr-status-errorsurface); color: var(--vgr-status-errortext); }
+
+/* ---- Meta + lista ---- */
+.meta { color: var(--vgr-neutral-textvariant); font-size: 14px; margin: 0 0 12px; }
+
+.list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
+
+.card {
+  background: var(--vgr-elevation-elevation1);
+  border: 1px solid var(--vgr-neutral-dividervariant);
+  border-radius: 12px;
+  padding: 16px;
+}
+.card .title { margin: 0 0 4px; font-size: 18px; }
+.card .title a { color: var(--vgr-primary-action); text-decoration: underline; }
+.card .row { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; color: var(--vgr-neutral-textvariant); font-size: 14px; }
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 13px;
+  background: var(--vgr-primary-basesurfaceminimal);
+  color: var(--vgr-neutral-text);
+}
+.tag.published { background: var(--vgr-status-successurface); color: var(--vgr-status-successtext); }
+.tag.upcoming { background: var(--vgr-primary-bluesurface); color: var(--vgr-primary-action); }
+
+.empty { text-align: center; padding: 32px 0; color: var(--vgr-neutral-textvariant); }
+
+/* ---- Footer ---- */
+.footer { margin-top: 32px; padding-top: 24px; border-top: 1px solid var(--vgr-neutral-dividervariant); color: var(--vgr-neutral-textvariant); font-size: 14px; }
+.footer a, .banner a { color: var(--vgr-primary-action); text-decoration: underline; }
+
+/* ---- Dialog ---- */
+dialog {
+  max-width: 560px;
+  width: calc(100% - 48px);
+  border: 1px solid var(--vgr-neutral-divider);
+  border-radius: 12px;
+  background: var(--vgr-elevation-elevation1);
+  color: var(--vgr-neutral-text);
+  padding: 24px;
+}
+dialog::backdrop { background: rgba(0, 0, 0, 0.5); }
+dialog textarea {
+  width: 100%;
+  font-family: monospace;
+  font-size: 13px;
+  border-radius: 8px;
+  border: 1px solid var(--vgr-neutral-divider);
+  padding: 8px;
+  background: var(--vgr-elevation-background);
+  color: var(--vgr-neutral-text);
+}
+.dialog-actions { display: flex; gap: 12px; margin-top: 12px; }

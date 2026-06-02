@@ -1,0 +1,54 @@
+name: Scrape & notify
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # var 3:e timme
+  workflow_dispatch: {}
+
+# Tillåt att jobbet committar uppdaterad data tillbaka till repot.
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Scrapa möten
+        run: npm run scrape
+
+      - name: Skicka notiser
+        run: npm run push
+        env:
+          VAPID_PUBLIC: ${{ secrets.VAPID_PUBLIC }}
+          VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
+          VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
+          # Cloudflare Worker-endpoint (prenumerationer):
+          SUBS_ENDPOINT: ${{ secrets.SUBS_ENDPOINT }}
+          SUBS_TOKEN: ${{ secrets.SUBS_TOKEN }}
+          # Fallback om ingen endpoint används:
+          PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
+
+      - name: Committa uppdaterad data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data.json docs/feed.xml
+          if git diff --staged --quiet; then
+            echo "Inga ändringar att committa."
+          else
+            git commit -m "Uppdaterad mötesdata $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi

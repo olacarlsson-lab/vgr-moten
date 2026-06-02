@@ -1,0 +1,12 @@
+{
+  "host": "https://opengov.360online.com",
+  "path": "/Meetings/vgregion",
+  "siteName": "VGR Möten",
+  "years": [2026, 2027],
+  "boards": [
+    { "id": "212615", "name": "Regionfullmäktige" },
+    { "id": "212458", "name": "Regionstyrelsen" },
+    { "id": "212298", "name": "Ägarutskottet" },
+    { "id": "222324", "name": "Styrelsen för fastighet, stöd och service" }
+  ]
+}

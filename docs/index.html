@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="sv-SE">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>VGR Möten – bevakning</title>
+  <meta name="description" content="Bevakning av politiska möten i Västra Götalandsregionen med push-notiser." />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="VGR Möten" />
+  <meta name="theme-color" content="#005B89" />
+  <link rel="stylesheet" href="tokens.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap">
+      <h1>VGR Möten</h1>
+      <p class="subtitle">Bevakade nämnder i Västra Götalandsregionen</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Notiser och filter">
+      <button id="notify" class="btn-primary" type="button" aria-live="polite">
+        Aktivera notiser
+      </button>
+      <div id="filters" class="filters" role="group" aria-label="Filtrera på nämnd"></div>
+    </section>
+
+    <div id="banner" class="banner" role="status" hidden></div>
+
+    <section aria-label="Möten">
+      <p id="meta" class="meta"></p>
+      <ul id="list" class="list"></ul>
+      <div id="empty" class="empty" hidden>
+        <h2>Inga möten hittades</h2>
+        <p>Datan kan saknas eller fortfarande genereras. Försök igen senare.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap footer">
+    <p>
+      Data hämtas från
+      <a href="https://opengov.360online.com/Meetings/vgregion">opengov.360online.com/Meetings/vgregion</a>.
+      Även som <a href="feed.xml">RSS-flöde</a>.
+    </p>
+  </footer>
+
+  <dialog id="subDialog">
+    <form method="dialog">
+      <h2>Slutför notiser</h2>
+      <p>Kopiera prenumerationen nedan och lägg in den i repots secret
+        <code>PUSH_SUBSCRIPTIONS</code> (som ett element i JSON-arrayen).</p>
+      <textarea id="subJson" rows="8" readonly aria-label="Prenumerations-JSON"></textarea>
+      <div class="dialog-actions">
+        <button id="copySub" class="btn-primary" type="button">Kopiera</button>
+        <button class="btn-secondary" value="close">Stäng</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

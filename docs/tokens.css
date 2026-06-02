@@ -1,0 +1,241 @@
+/* VGR Designsystem — CSS-variabler.
+   Källa: github.com/Vastra-Gotalandsregionen/designsystem-ios (Assets.xcassets).
+   92 färgtokens × light/dark. Dark mode via @media (prefers-color-scheme: dark). */
+
+:root {
+  /* ---- Primary ---- */
+  --vgr-primary-action: #005B89;
+  --vgr-primary-actionFixed: #005B89;
+  --vgr-primary-actioninverted: #EBF2F5;
+  --vgr-primary-actioninvertedfixed: #EBF2F5;
+  --vgr-primary-actionvariant: #EBF2F5;
+  --vgr-primary-base: #37474F;
+  --vgr-primary-basegraphic: #899297;
+  --vgr-primary-basesurface: #E0E3E4;
+  --vgr-primary-basesurfacebold: #C2C7CA;
+  --vgr-primary-basesurfacefocus: #37474F;
+  --vgr-primary-basesurfaceminimal: #F0F1F1;
+  --vgr-primary-blue: #005B89;
+  --vgr-primary-bluegraphic: #6497B3;
+  --vgr-primary-bluesurface: #D7E4EC;
+  --vgr-primary-bluesurfacebold: #ADC8D6;
+  --vgr-primary-bluesurfacefocus: #005B89;
+  --vgr-primary-bluesurfaceminimal: #EBF2F5;
+
+  /* ---- Neutral ---- */
+  --vgr-neutral-border: #121212;
+  --vgr-neutral-borderdisabled: #E2E2E2;
+  --vgr-neutral-disabled: #C6C6C6;
+  --vgr-neutral-disabledvariant: #F1F1F1;
+  --vgr-neutral-divider: #C6C6C6;
+  --vgr-neutral-dividervariant: #E2E2E2;
+  --vgr-neutral-surfacedisabled: #F1F1F1;
+  --vgr-neutral-text: #121212;
+  --vgr-neutral-textdisabled: #E2E2E2;
+  --vgr-neutral-textfixed: #121212;
+  --vgr-neutral-textinverted: #F9F9F9;
+  --vgr-neutral-textinvertedfixed: #F9F9F9;
+  --vgr-neutral-textvariant: #737373;
+
+  /* ---- Status ---- */
+  --vgr-status-errorsurface: #FFECEC;
+  --vgr-status-errortext: #C00000;
+  --vgr-status-informationsurface: #F3F0EF;
+  --vgr-status-informationtext: #6B5B55;
+  --vgr-status-successtext: #2C6B2E;
+  --vgr-status-successurface: #E0F7E1;
+  --vgr-status-warningsurface: #FFECB3;
+  --vgr-status-warningtext: #8D4E18;
+
+  /* ---- Accent ---- */
+  --vgr-accent-brown: #6B5B55;
+  --vgr-accent-browngraphic: #A48C83;
+  --vgr-accent-brownsurface: #E7E1DF;
+  --vgr-accent-brownsurfacebold: #D0C4BF;
+  --vgr-accent-brownsurfacefixed: #E7E1DF;
+  --vgr-accent-brownsurfaceminimal: #F3F0EF;
+  --vgr-accent-cyan: #116875;
+  --vgr-accent-cyangraphic: #1A9FB3;
+  --vgr-accent-cyansurface: #BCEBF2;
+  --vgr-accent-cyansurfacebold: #74D5E4;
+  --vgr-accent-cyansurfaceminimal: #DEF5F9;
+  --vgr-accent-green: #2C6B2E;
+  --vgr-accent-greengraphic: #43A447;
+  --vgr-accent-greensurface: #C0EEC2;
+  --vgr-accent-greensurfacebold: #7ADC7E;
+  --vgr-accent-greensurfaceminimal: #E0F7E1;
+  --vgr-accent-lime: #5C6321;
+  --vgr-accent-limegraphic: #8D9732;
+  --vgr-accent-limesurface: #E0E991;
+  --vgr-accent-limesurfacebold: #CCDB49;
+  --vgr-accent-limesurfaceminimal: #EFF4C6;
+  --vgr-accent-orange: #A63A1F;
+  --vgr-accent-orangegraphic: #FC5930;
+  --vgr-accent-orangesurface: #FFDBD2;
+  --vgr-accent-orangesurfacebold: #FEB5A2;
+  --vgr-accent-orangesurfaceminimal: #FFEDE8;
+  --vgr-accent-pink: #B51D4E;
+  --vgr-accent-pinkgraphic: #EE6492;
+  --vgr-accent-pinkgraphicfixed: #EE6492;
+  --vgr-accent-pinksurface: #FBDAE5;
+  --vgr-accent-pinksurfacebold: #F7BBD0;
+  --vgr-accent-pinksurfaceminimal: #FDEDF2;
+  --vgr-accent-purple: #6F45BB;
+  --vgr-accent-purplegraphic: #9575CD;
+  --vgr-accent-purplesurface: #E6DFF3;
+  --vgr-accent-purplesurfacebold: #D1C4E9;
+  --vgr-accent-purplesurfaceminimal: #F3EFF9;
+  --vgr-accent-red: #C00000;
+  --vgr-accent-redgraphic: #FF5353;
+  --vgr-accent-redsurface: #FFDADA;
+  --vgr-accent-redsurfacebold: #FFB3B3;
+  --vgr-accent-redsurfaceminimal: #FFECEC;
+  --vgr-accent-yellow: #8D4E18;
+  --vgr-accent-yellowgraphic: #CF7E1F;
+  --vgr-accent-yellowsurface: #FFDD84;
+  --vgr-accent-yellowsurfacebold: #FFC107;
+  --vgr-accent-yellowsurfaceminimal: #FFECB3;
+
+  /* ---- Elevation ---- */
+  --vgr-elevation-background: #FAF9F9;
+  --vgr-elevation-elevation1: #FFFFFF;
+  --vgr-elevation-elevation2: #FFFFFF;
+  --vgr-elevation-elevation3: #FFFFFF;
+  --vgr-elevation-elevation4: #FFFFFF;
+  --vgr-elevation-elevation5: #FFFFFF;
+
+  /* ---- Customized ---- */
+  --vgr-customized-healthcare20: #04344D;
+
+  /* ---- Typografi ---- */
+  --vgr-font-web: Verdana, sans-serif;
+  --vgr-font-ios: -apple-system, BlinkMacSystemFont, 'SF Pro', sans-serif;
+  --vgr-font-android: Roboto, sans-serif;
+
+  /* ---- Spacing ---- */
+  --vgr-space-xs: 4px;
+  --vgr-space-sm: 8px;
+  --vgr-space-md: 12px;
+  --vgr-space-lg: 24px;
+  --vgr-space-xl: 32px;
+
+  /* ---- Radier ---- */
+  --vgr-radius-sm: 4px;
+  --vgr-radius-md: 8px;
+  --vgr-radius-lg: 16px;
+  --vgr-radius-pill: 9999px;
+
+  /* ---- Motion ---- */
+  --vgr-motion-fast: 120ms;
+  --vgr-motion-base: 200ms;
+  --vgr-motion-slow: 320ms;
+  --vgr-ease-standard: cubic-bezier(.2,.0,.0,1);
+}
+
+/* ---- Dark mode ---- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* primary */
+    --vgr-primary-action: #8AB1C5;
+    --vgr-primary-actionFixed: #005B89;
+    --vgr-primary-actioninverted: #04344D;
+    --vgr-primary-actioninvertedfixed: #EBF2F5;
+    --vgr-primary-actionvariant: #303030;
+    --vgr-primary-base: #A5ACB0;
+    --vgr-primary-basegraphic: #C2C7CA;
+    --vgr-primary-basesurface: #37474F;
+    --vgr-primary-basesurfacebold: #6C787E;
+    --vgr-primary-basesurfacefocus: #A5ACB0;
+    --vgr-primary-basesurfaceminimal: #273238;
+    --vgr-primary-blue: #8AB1C5;
+    --vgr-primary-bluegraphic: #ADC8D6;
+    --vgr-primary-bluesurface: #064B70;
+    --vgr-primary-bluesurfacebold: #377495;
+    --vgr-primary-bluesurfacefocus: #8AB1C5;
+    --vgr-primary-bluesurfaceminimal: #04344D;
+    /* neutral */
+    --vgr-neutral-border: #F9F9F9;
+    --vgr-neutral-borderdisabled: #303030;
+    --vgr-neutral-disabled: #303030;
+    --vgr-neutral-disabledvariant: #5E5E5E;
+    --vgr-neutral-divider: #474747;
+    --vgr-neutral-dividervariant: #303030;
+    --vgr-neutral-surfacedisabled: #5E5E5E;
+    --vgr-neutral-text: #F9F9F9;
+    --vgr-neutral-textdisabled: #303030;
+    --vgr-neutral-textfixed: #121212;
+    --vgr-neutral-textinverted: #121212;
+    --vgr-neutral-textinvertedfixed: #F9F9F9;
+    --vgr-neutral-textvariant: #C6C6C6;
+    /* status */
+    --vgr-status-errorsurface: #690000;
+    --vgr-status-errortext: #FF8888;
+    --vgr-status-informationsurface: #372F2B;
+    --vgr-status-informationtext: #BAA7A1;
+    --vgr-status-successtext: #4FC254;
+    --vgr-status-successurface: #173718;
+    --vgr-status-warningsurface: #4C270E;
+    --vgr-status-warningtext: #EF9820;
+    /* accent */
+    --vgr-accent-brown: #BAA7A1;
+    --vgr-accent-browngraphic: #D0C4BF;
+    --vgr-accent-brownsurface: #514440;
+    --vgr-accent-brownsurfacebold: #A48C83;
+    --vgr-accent-brownsurfacefixed: #E7E1DF;
+    --vgr-accent-brownsurfaceminimal: #372F2B;
+    --vgr-accent-cyan: #20BBD3;
+    --vgr-accent-cyangraphic: #74D5E4;
+    --vgr-accent-cyansurface: #0D4E58;
+    --vgr-accent-cyansurfacebold: #1A9FB3;
+    --vgr-accent-cyansurfaceminimal: #09363C;
+    --vgr-accent-green: #4FC254;
+    --vgr-accent-greengraphic: #7ADC7E;
+    --vgr-accent-greensurface: #215023;
+    --vgr-accent-greensurfacebold: #43A447;
+    --vgr-accent-greensurfaceminimal: #173718;
+    --vgr-accent-lime: #A7B33C;
+    --vgr-accent-limegraphic: #CCDB49;
+    --vgr-accent-limesurface: #454A19;
+    --vgr-accent-limesurfacebold: #8D9732;
+    --vgr-accent-limesurfaceminimal: #2F3311;
+    --vgr-accent-orange: #FE8B6F;
+    --vgr-accent-orangegraphic: #FEB5A2;
+    --vgr-accent-orangesurface: #7D2C18;
+    --vgr-accent-orangesurfacebold: #FC5930;
+    --vgr-accent-orangesurfaceminimal: #561E10;
+    --vgr-accent-pink: #F28CAD;
+    --vgr-accent-pinkgraphic: #F7BBD0;
+    --vgr-accent-pinkgraphicfixed: #EE6492;
+    --vgr-accent-pinksurface: #89163B;
+    --vgr-accent-pinksurfacebold: #EE6492;
+    --vgr-accent-pinksurfaceminimal: #600F29;
+    --vgr-accent-purple: #B7A1DD;
+    --vgr-accent-purplegraphic: #D1C4E9;
+    --vgr-accent-purplesurface: #553097;
+    --vgr-accent-purplesurfacebold: #9575CD;
+    --vgr-accent-purplesurfaceminimal: #3A2168;
+    --vgr-accent-red: #FF8888;
+    --vgr-accent-redgraphic: #FFB3B3;
+    --vgr-accent-redsurface: #930000;
+    --vgr-accent-redsurfacebold: #FF5353;
+    --vgr-accent-redsurfaceminimal: #690000;
+    --vgr-accent-yellow: #EF9820;
+    --vgr-accent-yellowgraphic: #FFC107;
+    --vgr-accent-yellowsurface: #6D3912;
+    --vgr-accent-yellowsurfacebold: #CF7E1F;
+    --vgr-accent-yellowsurfaceminimal: #4C270E;
+    /* elevation */
+    --vgr-elevation-background: #000000;
+    --vgr-elevation-elevation1: #121212;
+    --vgr-elevation-elevation2: #303030;
+    --vgr-elevation-elevation3: #474747;
+    --vgr-elevation-elevation4: #5E5E5E;
+    --vgr-elevation-elevation5: #737373;
+    /* customized */
+    --vgr-customized-healthcare20: #377495;
+  }
+}
+
+/* ---- Breakpoints (referens) ----
+   mobile: 320-768px | tablet: 768-1200px | desktop: 1200-1920px
+   min komponentbredd: 220px | max 4 komponenter/rad + vänstermeny */

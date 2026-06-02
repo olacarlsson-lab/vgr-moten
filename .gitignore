@@ -1,0 +1,5 @@
+node_modules/
+docs/_changes.json
+worker/.wrangler/
+*.log
+.DS_Store

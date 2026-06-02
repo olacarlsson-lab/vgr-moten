@@ -1,0 +1,16 @@
+{
+  "name": "vgr-moten",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bevakar politiska möten i Västra Götalandsregionen (opengov.360online.com/Meetings/vgregion) och skickar push-notiser. Frontend på GitHub Pages, scraping + push via GitHub Actions.",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape.mjs",
+    "push": "node scripts/push.mjs",
+    "serve": "npx --yes serve docs"
+  },
+  "dependencies": {
+    "opengov-meetings": "^5.0.0",
+    "web-push": "^3.6.7"
+  }
+}
