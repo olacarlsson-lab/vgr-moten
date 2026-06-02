@@ -10,8 +10,9 @@ import { readFile, writeFile } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
 import { dirname, join } from 'node:path'
 import openGov from 'opengov-meetings'
+import { fetchText, parseAgendaItems, parseDetailDocuments, mapLimit } from './agenda.mjs'
 
-const { getMeetings, getAgenda } = openGov
+const { getMeetings } = openGov
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..')
 const docs = join(root, 'docs')
@@ -22,6 +23,12 @@ const { host, path, siteName, years, boards } = config
 // Hämta agendadokument bara för möten inom det här fönstret (dagar bakåt) +
 // alla framtida — gamla möten ändras sällan och vi sparar requests.
 const DOC_LOOKBACK_DAYS = config.docLookbackDays ?? 120
+
+// Djupskanning av agendapunkter (handlingar per ärende) görs bara för
+// publicerade möten i ett kortare aktivt fönster (dyrare: ett anrop per punkt).
+const AGENDA_PAST_DAYS = config.agendaPastDays ?? 21
+const AGENDA_CONCURRENCY = config.agendaConcurrency ?? 6
+const AGENDA_NOTIFY_CAP = config.agendaNotifyCap ?? 6
 
 const meetingUrl = (m) =>
   m.meetingId
@@ -74,23 +81,70 @@ try {
 const prevByKey = new Map(previous.map((m) => [m.key, m]))
 const firstRun = previous.length === 0
 
-// --- Hämta dokumentlistor för publicerade möten inom fönstret -------------
+// --- Hämta dokument för publicerade möten ---------------------------------
+// En enda sidhämtning per möte ger både mötesnivå-dokumenten (Kallelse/protokoll)
+// och listan över agendapunkter. För möten i det aktiva fönstret djupskannar vi
+// dessutom varje agendapunkts handlingar (LoadAgendaItemDetail).
+// Tung per-ärende-data lagras i separat agenda-index.json (inte i data.json,
+// så webbappens nedladdning förblir liten).
 const cutoff = new Date(Date.now() - DOC_LOOKBACK_DAYS * 86400000).toISOString().slice(0, 10)
+const agendaCutoff = new Date(Date.now() - AGENDA_PAST_DAYS * 86400000).toISOString().slice(0, 10)
+const agendaDetailUrl = (id) => `${host}${path}/Meetings/LoadAgendaItemDetail/${id}`
+
+let prevIndex = {}
+try {
+  prevIndex = JSON.parse(await readFile(join(docs, 'agenda-index.json'), 'utf8')).meetings ?? {}
+} catch {
+  prevIndex = {}
+}
+const agendaIndex = {}
 let docFetches = 0
+let itemFetches = 0
+const sumDocs = (entry) => (entry?.items ?? []).reduce((a, it) => a + it.documents.length, 0)
+
 for (const m of all) {
-  if (!m.meetingId || m.date < cutoff) {
-    // Behåll ev. tidigare hämtade dokument för äldre möten.
-    m.documents = prevByKey.get(m.key)?.documents ?? []
-    continue
-  }
+  // Standard: behåll det vi redan visste (för möten utanför fönstren).
+  m.documents = prevByKey.get(m.key)?.documents ?? []
+  if (prevIndex[m.key]) agendaIndex[m.key] = prevIndex[m.key]
+  m.agendaDocCount = sumDocs(agendaIndex[m.key])
+
+  if (!m.meetingId || m.date < cutoff) continue
+
+  let html
   try {
-    const agenda = await getAgenda({ host, path, meetingId: m.meetingId })
-    m.documents = (agenda.documents ?? []).map((d) => ({ title: d.title, url: d.fileUrl }))
+    html = await fetchText(m.url)
     docFetches++
   } catch (err) {
-    console.error(`Kunde inte hämta agenda ${m.board} ${m.date}: ${err.message}`)
-    m.documents = prevByKey.get(m.key)?.documents ?? []
+    console.error(`Kunde inte hämta möte ${m.board} ${m.date}: ${err.message}`)
+    continue
   }
+  // Mötesnivå-dokument.
+  m.documents = parseDetailDocuments(html).map((d) => ({ title: d.title, url: host + d.url }))
+
+  // Djupskanna agendapunkter endast i det aktiva fönstret.
+  if (m.date < agendaCutoff) continue
+  const items = parseAgendaItems(html)
+  const withDocs = await mapLimit(items, AGENDA_CONCURRENCY, async (it) => {
+    // Ett försök + en retry; vid bestående fel behåll tidigare kända dokument
+    // (radera inte baseline → undvik falsk notis-skur nästa körning).
+    for (let attempt = 0; attempt < 2; attempt++) {
+      try {
+        const dh = await fetchText(agendaDetailUrl(it.agendaId))
+        itemFetches++
+        return {
+          agendaId: it.agendaId,
+          title: it.title,
+          documents: parseDetailDocuments(dh).map((d) => ({ title: d.title, url: host + d.url, category: d.category }))
+        }
+      } catch {
+        if (attempt === 0) await new Promise((r) => setTimeout(r, 500))
+      }
+    }
+    const prevItem = prevIndex[m.key]?.items?.find((p) => p.agendaId === it.agendaId)
+    return { agendaId: it.agendaId, title: it.title, documents: prevItem?.documents ?? [] }
+  })
+  agendaIndex[m.key] = { meetingId: m.meetingId, items: withDocs }
+  m.agendaDocCount = sumDocs(agendaIndex[m.key])
 }
 
 // --- Diffa mot förra data.json --------------------------------------------
@@ -106,12 +160,32 @@ for (const m of all) {
     changes.push({ ...m, change: 'documents' })
     continue
   }
-  // Redan publicerat tidigare → upptäck enskilda nya dokument.
+  // Redan publicerat tidigare → upptäck enskilda nya dokument (mötesnivå).
   const had = new Set((before.documents ?? []).map((d) => d.url))
   for (const d of m.documents ?? []) {
     if (!had.has(d.url)) {
       changes.push({ ...m, change: 'document', document: d })
     }
+  }
+}
+
+// --- Diffa agendapunkternas handlingar ------------------------------------
+for (const m of all) {
+  const cur = agendaIndex[m.key]
+  const prev = prevIndex[m.key]
+  if (!cur || !prev) continue // ej skannat, eller första djupskanningen (baseline → tyst)
+  const hadUrls = new Set(prev.items.flatMap((it) => it.documents.map((d) => d.url)))
+  const newDocs = []
+  for (const it of cur.items) {
+    for (const d of it.documents) {
+      if (!hadUrls.has(d.url)) newDocs.push({ itemTitle: it.title, doc: d })
+    }
+  }
+  if (newDocs.length === 0) continue
+  if (newDocs.length > AGENDA_NOTIFY_CAP) {
+    changes.push({ ...m, change: 'handlingar', count: newDocs.length }) // summerande notis
+  } else {
+    for (const nd of newDocs) changes.push({ ...m, change: 'handling', itemTitle: nd.itemTitle, document: nd.doc })
   }
 }
 
@@ -153,10 +227,18 @@ ${items}
 `
 await writeFile(join(docs, 'feed.xml'), rss)
 
+// --- Skriv agenda-index.json (per-ärende-handlingar, bara för diff) --------
+// Medvetet UTAN generatedAt: filen ändras då bara när innehållet faktiskt
+// ändras, så den committas inte i onödan var 3:e timme.
+await writeFile(
+  join(docs, 'agenda-index.json'),
+  JSON.stringify({ meetings: agendaIndex }, null, 2) + '\n'
+)
+
 // --- Skriv _changes.json för push-steget ----------------------------------
 await writeFile(join(docs, '_changes.json'), JSON.stringify({ generatedAt, changes }, null, 2) + '\n')
 
 console.log(
-  `Klart: ${all.length} möten, ${docFetches} agendor hämtade, ${changes.length} ändring(ar)` +
-    `${firstRun ? ' (första körningen, inga notiser)' : ''}.`
+  `Klart: ${all.length} möten, ${docFetches} agendor, ${itemFetches} agendapunkter, ` +
+    `${changes.length} ändring(ar)${firstRun ? ' (första körningen, inga notiser)' : ''}.`
 )

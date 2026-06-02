@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T17:03:19.619Z",
+  "generatedAt": "2026-06-02T17:25:35.334Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -29,7 +29,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-12-15",
@@ -40,7 +41,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "222324|2026-11-27",
@@ -51,7 +53,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212615|2026-11-24",
@@ -62,7 +65,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212298|2026-11-17",
@@ -73,7 +77,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-11-10",
@@ -84,7 +89,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212615|2026-11-03",
@@ -95,7 +101,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "222324|2026-10-27",
@@ -106,7 +113,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212615|2026-10-20",
@@ -117,7 +125,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-10-20",
@@ -128,7 +137,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212615|2026-10-06",
@@ -139,7 +149,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212298|2026-09-29",
@@ -150,7 +161,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "222324|2026-09-25",
@@ -161,7 +173,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-09-22",
@@ -172,7 +185,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212298|2026-09-02",
@@ -183,7 +197,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "222324|2026-08-28",
@@ -194,7 +209,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-08-25",
@@ -205,7 +221,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212298|2026-08-18",
@@ -216,7 +233,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-06-22",
@@ -227,7 +245,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212615|2026-06-15",
@@ -238,7 +257,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "222324|2026-06-12",
@@ -249,7 +269,8 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212298|2026-06-09",
@@ -265,7 +286,8 @@
           "title": "Kallelse ägarutskottet 2026-06-09",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4554867.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-06-09&fileSize=121533"
         }
-      ]
+      ],
+      "agendaDocCount": 31
     },
     {
       "key": "212458|2026-06-02",
@@ -281,7 +303,8 @@
           "title": "Kallelse regionstyrelsen 2026-06-02",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4543670.PDF?fileName=Kallelse%20regionstyrelsen%202026-06-02&fileSize=132146"
         }
-      ]
+      ],
+      "agendaDocCount": 90
     },
     {
       "key": "212615|2026-05-26",
@@ -297,7 +320,8 @@
           "title": "Föredragningslista regionfullmäktige 2026-05-26",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4532571.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-05-26&fileSize=129724"
         }
-      ]
+      ],
+      "agendaDocCount": 92
     },
     {
       "key": "222324|2026-05-22",
@@ -317,7 +341,8 @@
           "title": "Protokoll  styrelsen för fastighet, stöd och service 2026-05-22",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4531641.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-05-22&fileSize=1066836"
         }
-      ]
+      ],
+      "agendaDocCount": 153
     },
     {
       "key": "212458|2026-05-19",
@@ -337,7 +362,8 @@
           "title": "Protokoll 2 regionstyrelsen 2026-05-19",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4528104.PDF?fileName=Protokoll%202%20regionstyrelsen%202026-05-19&fileSize=1703757"
         }
-      ]
+      ],
+      "agendaDocCount": 144
     },
     {
       "key": "212298|2026-05-05",
@@ -357,7 +383,8 @@
           "title": "Protokoll  ägarutskottet 2026-05-05",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511151.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-05-05&fileSize=988152"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-04-28",
@@ -377,7 +404,8 @@
           "title": "Protokoll 2 regionstyrelsen 2026-04-28",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4502478.PDF?fileName=Protokoll%202%20regionstyrelsen%202026-04-28&fileSize=2841910"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "222324|2026-04-17",
@@ -397,7 +425,8 @@
           "title": "Protokoll  styrelsen för fastighet, stöd och service 2026-04-17",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4487736.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-04-17&fileSize=529956"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212615|2026-04-14",
@@ -417,7 +446,8 @@
           "title": "Protokoll  regionfullmäktige 2026-04-14",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4491008.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-04-14&fileSize=3727161"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212298|2026-03-31",
@@ -437,7 +467,8 @@
           "title": "Protokoll  ägarutskottet 2026-03-31",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4467233.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-03-31&fileSize=443159"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-03-17",
@@ -461,7 +492,8 @@
           "title": "Protokoll 2 regionstyrelsen 2026-03-17",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4454952.PDF?fileName=Protokoll%202%20regionstyrelsen%202026-03-17&fileSize=1346447"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "222324|2026-03-11",
@@ -481,7 +513,8 @@
           "title": "Protokoll 1 av 2 styrelsen för fastighet, stöd och service 2026-03-11",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4437200.PDF?fileName=Protokoll%201%20av%202%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-03-11&fileSize=1024839"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212298|2026-03-03",
@@ -501,7 +534,8 @@
           "title": "Protokoll ägarutskottet 2026-03-03",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4429050.PDF?fileName=Protokoll%20%C3%A4garutskottet%202026-03-03&fileSize=524563"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-02-24",
@@ -521,7 +555,8 @@
           "title": "Protokoll regionstyrelsen 2026-02-24",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4419831.PDF?fileName=Protokoll%20regionstyrelsen%202026-02-24&fileSize=1192776"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212615|2026-02-17",
@@ -541,7 +576,8 @@
           "title": "Protokoll  regionfullmäktige 2026-02-17",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4416999.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-02-17&fileSize=4611258"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-02-17",
@@ -557,7 +593,8 @@
           "title": "Kallelse regionstyrelsen 2026-02-17",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4413444.PDF?fileName=Kallelse%20regionstyrelsen%202026-02-17&fileSize=100306"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-02-03",
@@ -577,7 +614,8 @@
           "title": "Protokoll 1 regionstyrelsen 2026-02-03",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4392082.PDF?fileName=Protokoll%201%20regionstyrelsen%202026-02-03&fileSize=1729848"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "222324|2026-02-03",
@@ -597,7 +635,8 @@
           "title": "Protokoll 1 av 2 styrelsen för fastighet, stöd och service 2026-02-03",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4391206.PDF?fileName=Protokoll%201%20av%202%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-02-03&fileSize=1128823"
         }
-      ]
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212298|2026-01-27",
@@ -608,7 +647,8 @@
       "status": "Publisert",
       "published": true,
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184042",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212458|2026-01-20",
@@ -619,7 +659,8 @@
       "status": "Publisert",
       "published": true,
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184029",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     },
     {
       "key": "212298|2026-01-13",
@@ -630,7 +671,8 @@
       "status": "Publisert",
       "published": true,
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184041",
-      "documents": []
+      "documents": [],
+      "agendaDocCount": 0
     }
   ]
 }

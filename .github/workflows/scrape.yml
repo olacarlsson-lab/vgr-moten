@@ -45,7 +45,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data.json docs/feed.xml
+          git add docs/data.json docs/feed.xml docs/agenda-index.json
           if git diff --staged --quiet; then
             echo "Inga ändringar att committa."
           else

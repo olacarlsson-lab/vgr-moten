@@ -3,6 +3,10 @@
   "path": "/Meetings/vgregion",
   "siteName": "VGR Möten",
   "years": [2026, 2027],
+  "docLookbackDays": 120,
+  "agendaPastDays": 21,
+  "agendaConcurrency": 4,
+  "agendaNotifyCap": 6,
   "boards": [
     { "id": "212615", "name": "Regionfullmäktige" },
     { "id": "212458", "name": "Regionstyrelsen" },

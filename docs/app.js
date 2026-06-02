@@ -64,6 +64,8 @@ function render() {
     else tags.push('<span class="tag">Inplanerat</span>')
     const docCount = m.documents?.length || 0
     if (docCount) tags.push(`<span class="tag">${docCount} dokument</span>`)
+    const handlingar = m.agendaDocCount || 0
+    if (handlingar) tags.push(`<span class="tag">${handlingar} handlingar</span>`)
 
     li.innerHTML = `
       <h2 class="title"><a href="${escapeHtml(m.url)}" rel="noopener">${escapeHtml(m.board)}</a></h2>

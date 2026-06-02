@@ -76,7 +76,10 @@ webpush.setVapidDetails(VAPID_SUBJECT || 'mailto:noreply@example.com', VAPID_PUB
 function notice(c) {
   if (c.change === 'new') return { title: `Nytt möte: ${c.board}`, body: `Inplanerat ${c.date}` }
   if (c.change === 'documents') return { title: `Handlingar publicerade: ${c.board}`, body: `Möte ${c.date}` }
-  return { title: `Nytt dokument: ${c.board}`, body: `${c.date} · ${c.document?.title || 'dokument'}` }
+  if (c.change === 'document') return { title: `Nytt dokument: ${c.board}`, body: `${c.date} · ${c.document?.title || 'dokument'}` }
+  if (c.change === 'handlingar') return { title: `${c.count} nya handlingar: ${c.board}`, body: `Möte ${c.date}` }
+  // 'handling' – ny handling i en agendapunkt
+  return { title: `Ny handling: ${c.board}`, body: `${c.itemTitle || ''} · ${c.document?.title || 'dokument'}`.trim() }
 }
 
 let sent = 0
