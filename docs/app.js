@@ -322,6 +322,7 @@ function showSubscription(sub) {
 }
 
 // ---- Init -------------------------------------------------------------------
+$('#aboutBtn').addEventListener('click', () => $('#aboutDialog').showModal())
 $('#notify').addEventListener('click', enableNotifications)
 $('#savePrefs').addEventListener('click', savePrefs)
 $('#boardSearch').addEventListener('input', (e) => filterPrefBoards(e.target.value))

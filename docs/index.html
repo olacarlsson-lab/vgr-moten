@@ -15,9 +15,12 @@
 </head>
 <body>
   <header class="topbar">
-    <div class="wrap">
-      <h1>VGR Möten</h1>
-      <p class="subtitle">Bevakade nämnder i Västra Götalandsregionen</p>
+    <div class="wrap topbar-inner">
+      <div>
+        <h1>VGR Möten</h1>
+        <p class="subtitle">Bevakade nämnder i Västra Götalandsregionen</p>
+      </div>
+      <button id="aboutBtn" class="about-btn" type="button">Om tjänsten</button>
     </div>
   </header>
 
@@ -83,6 +86,54 @@
       Även som <a href="feed.xml">RSS-flöde</a>.
     </p>
   </footer>
+
+  <dialog id="aboutDialog" class="about">
+    <div class="about-content">
+      <h2>Om VGR Möten</h2>
+
+      <h3>Vad är det här?</h3>
+      <p>En tjänst som håller koll på politiska möten i Västra Götalandsregionen
+        och meddelar dig när något nytt händer — så du slipper leta själv på
+        regionens mötesportal.</p>
+
+      <h3>Vad får jag notiser om?</h3>
+      <p>Du väljer själv. För de nämnder du bevakar kan du få en notis när:</p>
+      <ul>
+        <li>ett <strong>nytt möte</strong> planeras in,</li>
+        <li><strong>handlingarna publiceras</strong> inför ett möte,</li>
+        <li>ett <strong>nytt dokument</strong> läggs till (kallelse, protokoll),</li>
+        <li>en <strong>ny handling</strong> dyker upp i ett ärende — notisen
+          länkar direkt till PDF:en.</li>
+      </ul>
+
+      <h3>Så kommer du igång</h3>
+      <ol>
+        <li>Öppna <strong>Notisinställningar</strong>.</li>
+        <li>Sök och kryssa i de nämnder du vill bevaka (alla regionens nämnder finns).</li>
+        <li>Välj vilka typer av notiser du vill ha.</li>
+        <li>Klicka <strong>Aktivera notiser</strong> och godkänn i webbläsaren.</li>
+      </ol>
+      <p>Inställningarna gäller per enhet — din telefon och din dator kan ha olika.</p>
+
+      <h3>På iPhone/iPad</h3>
+      <p>Apple kräver att du först lägger till sidan på hemskärmen
+        (<em>Dela → Lägg till på hemskärmen</em>) och öppnar den därifrån. Sedan
+        kan du aktivera notiser. På Android och dator funkar det direkt i webbläsaren.</p>
+
+      <h3>Bra att veta</h3>
+      <ul>
+        <li>Inget konto behövs.</li>
+        <li>Tjänsten letar efter nyheter ungefär var 20:e minut.</li>
+        <li>Du kan när som helst ändra dina val under Notisinställningar.</li>
+        <li>Informationen hämtas från regionens öppna mötesportal
+          (<a href="https://opengov.360online.com/Meetings/vgregion">opengov.360online.com</a>).
+          Det här är en inofficiell tjänst.</li>
+      </ul>
+    </div>
+    <form method="dialog" class="about-actions">
+      <button class="btn-primary" value="close">Stäng</button>
+    </form>
+  </dialog>
 
   <dialog id="subDialog">
     <form method="dialog">

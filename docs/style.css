@@ -27,6 +27,31 @@ body {
 }
 .topbar h1 { margin: 0; font-size: 28px; }
 .topbar .subtitle { margin: 4px 0 0; color: var(--vgr-neutral-textinverted); opacity: 0.9; }
+.topbar-inner { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; }
+.about-btn {
+  flex-shrink: 0;
+  font-family: inherit;
+  font-size: 14px;
+  padding: 8px 16px;
+  border-radius: 999px;
+  border: 1px solid var(--vgr-neutral-textinverted);
+  background: transparent;
+  color: var(--vgr-neutral-textinverted);
+  cursor: pointer;
+}
+
+/* ---- Om-tjänsten-dialog ---- */
+dialog.about { max-width: 640px; }
+.about-content h2 { margin: 0 0 16px; }
+.about-content h3 {
+  margin: 24px 0 4px;
+  font-size: 17px;
+  color: var(--vgr-primary-action);
+}
+.about-content p { margin: 4px 0; }
+.about-content ul, .about-content ol { margin: 4px 0; padding-left: 24px; }
+.about-content li { margin: 4px 0; }
+.about-actions { margin-top: 24px; display: flex; justify-content: flex-end; }
 
 main.wrap { padding-top: 24px; padding-bottom: 32px; }
 
