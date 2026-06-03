@@ -120,10 +120,31 @@
         (<em>Dela → Lägg till på hemskärmen</em>) och öppnar den därifrån. Sedan
         kan du aktivera notiser. På Android och dator funkar det direkt i webbläsaren.</p>
 
+      <h3>Så fungerar det tekniskt</h3>
+      <p>Mötesportalen saknar både API och RSS, så tjänsten <strong>läser av
+        (scrapar) webbsidorna</strong> direkt. Den består av tre delar:</p>
+      <ol>
+        <li><strong>Webbappen</strong> (det du ser) är helt statisk och ligger på
+          GitHub Pages. Den visar mötesdata och låter dig välja vad du vill bevaka.</li>
+        <li><strong>En bakgrundsmotor</strong> (GitHub Actions) kör automatiskt
+          ungefär var 20:e minut. Den hämtar mötessidorna för de nämnder som någon
+          bevakar, <strong>jämför mot förra hämtningen</strong>, och skickar notiser
+          bara för det som faktiskt är nytt.</li>
+        <li><strong>En push-tjänst</strong> (Cloudflare Worker) lagrar enheternas
+          prenumerationer. Notiserna skickas som krypterad Web Push (VAPID) och dyker
+          upp även när appen är stängd.</li>
+      </ol>
+      <p>För att hålla nere belastningen på portalen körs <strong>två lägen</strong>:
+        ett lätt läge ofta (kollar billigt om något ändrats och hämtar bara det nya)
+        och ett tungt läge några gånger per dygn (går igenom handlingarna i varje
+        ärende). Bara nämnder som minst en enhet faktiskt bevakar hämtas alls.</p>
+      <p>Koden är öppen:
+        <a href="https://github.com/olacarlsson-lab/vgr-moten">github.com/olacarlsson-lab/vgr-moten</a>.</p>
+
       <h3>Bra att veta</h3>
       <ul>
         <li>Inget konto behövs.</li>
-        <li>Tjänsten letar efter nyheter ungefär var 20:e minut.</li>
+        <li>Tjänsten letar efter nyheter ungefär var 20:e minut (kan dröja något).</li>
         <li>Du kan när som helst ändra dina val under Notisinställningar.</li>
         <li>Informationen hämtas från regionens öppna mötesportal
           (<a href="https://opengov.360online.com/Meetings/vgregion">opengov.360online.com</a>).
