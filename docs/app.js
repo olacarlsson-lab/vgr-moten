@@ -18,35 +18,63 @@ const DEFAULT_TYPES = { meeting: true, published: true, document: true, handling
 function loadPrefs() {
   try {
     const p = JSON.parse(localStorage.getItem(PREFS_KEY))
-    if (p && typeof p === 'object') return { boards: p.boards ?? 'all', types: { ...DEFAULT_TYPES, ...p.types } }
+    if (p && typeof p === 'object') {
+      // Förval: inga nämnder (välj själv). Äldre 'all' tolkas som alla.
+      const boards = p.boards === 'all' ? 'all' : Array.isArray(p.boards) ? p.boards : []
+      return { boards, types: { ...DEFAULT_TYPES, ...p.types } }
+    }
   } catch { /* ignore */ }
-  return { boards: 'all', types: { ...DEFAULT_TYPES } }
+  return { boards: [], types: { ...DEFAULT_TYPES } }
 }
 
+// Renderar nämndväljaren (alla instanser). Default: inget ikryssat.
 function buildPrefBoards(boards) {
   const el = $('#prefBoards')
   el.innerHTML = ''
   for (const b of boards) {
     const label = document.createElement('label')
-    label.innerHTML = `<input type="checkbox" data-board="${b.id}" checked> ${escapeHtml(b.name)}`
+    label.dataset.name = b.name.toLowerCase()
+    label.innerHTML = `<input type="checkbox" data-board="${b.id}"> ${escapeHtml(b.name)}`
     el.appendChild(label)
   }
+}
+
+function filterPrefBoards(query) {
+  const q = query.trim().toLowerCase()
+  document.querySelectorAll('#prefBoards label').forEach((l) => {
+    l.hidden = q && !l.dataset.name.includes(q)
+  })
+}
+
+// Markera/avmarkera alla SYNLIGA (efter sökfiltrering).
+function setVisibleBoards(checked) {
+  document.querySelectorAll('#prefBoards label').forEach((l) => {
+    if (!l.hidden) l.querySelector('input').checked = checked
+  })
+  updateBoardCount()
+}
+
+function updateBoardCount() {
+  const all = document.querySelectorAll('#prefBoards input[data-board]')
+  const n = [...all].filter((cb) => cb.checked).length
+  const el = $('#boardCount')
+  if (el) el.textContent = n ? `${n} valda` : 'Inga valda'
 }
 
 function applyPrefsToUI(prefs) {
   const boardSet = prefs.boards === 'all' ? null : new Set(prefs.boards)
   document.querySelectorAll('#prefBoards input[data-board]').forEach((cb) => {
-    cb.checked = !boardSet || boardSet.has(cb.dataset.board)
+    cb.checked = boardSet ? boardSet.has(cb.dataset.board) : true
   })
   document.querySelectorAll('#settings input[data-type]').forEach((cb) => {
     cb.checked = prefs.types[cb.dataset.type] !== false
   })
+  updateBoardCount()
 }
 
 function gatherPrefs() {
   const boardInputs = [...document.querySelectorAll('#prefBoards input[data-board]')]
-  const checked = boardInputs.filter((cb) => cb.checked).map((cb) => cb.dataset.board)
-  const boards = checked.length === boardInputs.length ? 'all' : checked
+  const boards = boardInputs.filter((cb) => cb.checked).map((cb) => cb.dataset.board) // explicit lista
   const types = {}
   document.querySelectorAll('#settings input[data-type]').forEach((cb) => { types[cb.dataset.type] = cb.checked })
   return { boards, types }
@@ -170,12 +198,15 @@ async function loadData() {
     const data = await res.json()
     allMeetings = data.meetings || []
     allBoards = data.boards || []
-    buildFilters(allBoards)
-    buildPrefBoards(allBoards)
+    // Filterchips: bara nämnder som faktiskt har mötesdata (inte alla 76).
+    const present = new Map()
+    for (const m of allMeetings) if (!present.has(m.boardId)) present.set(m.boardId, { id: m.boardId, name: m.board })
+    buildFilters([...present.values()].sort((a, b) => a.name.localeCompare(b.name, 'sv')))
+    buildPrefBoards(allBoards) // alla instanser i väljaren
     applyPrefsToUI(loadPrefs())
     render()
     if (allMeetings.length === 0) {
-      showBanner('Ingen data ännu – kör scrape-workflowet i GitHub Actions.', 'info')
+      showBanner('Inga bevakade nämnder ännu – välj nämnder under Notisinställningar och aktivera notiser.', 'info')
     }
   } catch (err) {
     $('#empty').hidden = false
@@ -210,6 +241,11 @@ async function enableNotifications() {
   }
   if (!('PushManager' in window) || !swReg) {
     showBanner('Den här webbläsaren stöder inte push. På iPhone: lägg först till på hemskärmen.', 'error')
+    return
+  }
+  if (gatherPrefs().boards.length === 0) {
+    $('#settings').open = true
+    showBanner('Välj minst en nämnd under Notisinställningar först.', 'error')
     return
   }
   btn.disabled = true
@@ -288,6 +324,10 @@ function showSubscription(sub) {
 // ---- Init -------------------------------------------------------------------
 $('#notify').addEventListener('click', enableNotifications)
 $('#savePrefs').addEventListener('click', savePrefs)
+$('#boardSearch').addEventListener('input', (e) => filterPrefBoards(e.target.value))
+$('#selectAll').addEventListener('click', () => setVisibleBoards(true))
+$('#selectNone').addEventListener('click', () => setVisibleBoards(false))
+$('#prefBoards').addEventListener('change', updateBoardCount)
 setupTimeFilter()
 registerSW()
 loadData()

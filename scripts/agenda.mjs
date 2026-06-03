@@ -9,6 +9,23 @@ export async function fetchText(url) {
   return res.text()
 }
 
+// Hämtar demand-mängden från Worker /board-demand:
+//   { meetingBoards: [id...], handlingBoards: [id...] }
+// meetingBoards = nämnder någon prenumererar på; handlingBoards = de där någon
+// dessutom har notistypen 'handlingar' på. Kastar vid fel (anroparen faller
+// tillbaka på fallbackBoards).
+export async function fetchDemand(endpoint, token) {
+  const res = await fetch(endpoint.replace(/\/$/, '') + '/board-demand', {
+    headers: { authorization: `Bearer ${token}` }
+  })
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  const d = await res.json()
+  return {
+    meetingBoards: Array.isArray(d.meetingBoards) ? d.meetingBoards.map(String) : [],
+    handlingBoards: Array.isArray(d.handlingBoards) ? d.handlingBoards.map(String) : []
+  }
+}
+
 export const decode = (s) =>
   String(s)
     .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCharCode(parseInt(h, 16)))

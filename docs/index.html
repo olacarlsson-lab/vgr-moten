@@ -32,7 +32,15 @@
         <div class="settings-body">
           <fieldset>
             <legend>Nämnder</legend>
-            <div id="prefBoards" class="checks"></div>
+            <div class="board-tools">
+              <input id="boardSearch" type="search" placeholder="Sök nämnd…" aria-label="Sök nämnd" />
+              <div class="board-actions">
+                <button id="selectAll" class="btn-link" type="button">Markera alla</button>
+                <button id="selectNone" class="btn-link" type="button">Avmarkera alla</button>
+                <span id="boardCount" class="meta"></span>
+              </div>
+            </div>
+            <div id="prefBoards" class="checks board-list"></div>
           </fieldset>
           <fieldset>
             <legend>Notistyper</legend>

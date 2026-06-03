@@ -7,7 +7,8 @@
   "agendaPastDays": 21,
   "agendaConcurrency": 4,
   "agendaNotifyCap": 6,
-  "boards": [
+  "fullModeHours": [6, 14, 22],
+  "fallbackBoards": [
     { "id": "212615", "name": "Regionfullmäktige" },
     { "id": "212458", "name": "Regionstyrelsen" },
     { "id": "212298", "name": "Ägarutskottet" },

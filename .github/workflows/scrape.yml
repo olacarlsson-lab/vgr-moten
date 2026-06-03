@@ -2,10 +2,14 @@ name: Scrape & notify
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # var 3:e timme
-  workflow_dispatch: {}
+    - cron: '*/20 * * * *' # var ~20:e minut (GitHub kan dröja/hoppa under last)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Scrape-läge (light/full). Tomt = auto utifrån timme."
+        required: false
+        default: ''
 
-# Tillåt att jobbet committar uppdaterad data tillbaka till repot.
 permissions:
   contents: write
 
@@ -26,8 +30,31 @@ jobs:
 
       - run: npm ci
 
+      # Bestäm läge: manuell input vinner; annars 'full' vid timmar i
+      # config.fullModeHours, annars 'light'.
+      - name: Bestäm läge
+        id: mode
+        run: |
+          INPUT="${{ github.event.inputs.mode }}"
+          if [ -n "$INPUT" ]; then
+            echo "mode=$INPUT" >> "$GITHUB_OUTPUT"
+          else
+            MODE=$(node -e '
+              const h = new Date().getUTCHours();
+              const cfg = require("./config.json");
+              const full = (cfg.fullModeHours || [6,14,22]).includes(h);
+              process.stdout.write(full ? "full" : "light");
+            ')
+            echo "mode=$MODE" >> "$GITHUB_OUTPUT"
+          fi
+          echo "Valt läge: $(cat "$GITHUB_OUTPUT" | sed -n 's/^mode=//p')"
+
       - name: Scrapa möten
         run: npm run scrape
+        env:
+          SCRAPE_MODE: ${{ steps.mode.outputs.mode }}
+          SUBS_ENDPOINT: ${{ secrets.SUBS_ENDPOINT }}
+          SUBS_TOKEN: ${{ secrets.SUBS_TOKEN }}
 
       - name: Skicka notiser
         run: npm run push
@@ -35,10 +62,8 @@ jobs:
           VAPID_PUBLIC: ${{ secrets.VAPID_PUBLIC }}
           VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
           VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
-          # Cloudflare Worker-endpoint (prenumerationer):
           SUBS_ENDPOINT: ${{ secrets.SUBS_ENDPOINT }}
           SUBS_TOKEN: ${{ secrets.SUBS_TOKEN }}
-          # Fallback om ingen endpoint används:
           PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
 
       - name: Committa uppdaterad data
@@ -49,6 +74,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "Inga ändringar att committa."
           else
-            git commit -m "Uppdaterad mötesdata $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "Uppdaterad mötesdata $(date -u +%Y-%m-%dT%H:%MZ) [${{ steps.mode.outputs.mode }}]"
             git push
           fi

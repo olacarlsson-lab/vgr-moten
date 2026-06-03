@@ -1,22 +1,310 @@
 {
-  "generatedAt": "2026-06-03T04:46:58.032Z",
+  "generatedAt": "2026-06-03T05:43:28.837Z",
   "siteName": "VGR Möten",
   "boards": [
     {
+      "id": "212815",
+      "name": "arvodesberedningen"
+    },
+    {
+      "id": "211915",
+      "name": "beredningen för externa relationer"
+    },
+    {
+      "id": "217560",
+      "name": "beredningen för folkhälsa och social hållbarhet"
+    },
+    {
+      "id": "212450",
+      "name": "beredningen för forskning och utveckling (FoU-beredningen)"
+    },
+    {
+      "id": "210654",
+      "name": "beredningen för hållbar utveckling"
+    },
+    {
+      "id": "225280",
+      "name": "beredningen för krav- och kvalitetsböcker"
+    },
+    {
+      "id": "217559",
+      "name": "beredningen för mänskliga rättigheter"
+    },
+    {
+      "id": "223010",
+      "name": "beredningen för nära vård"
+    },
+    {
+      "id": "222939",
+      "name": "beredningen för psykisk hälsa"
+    },
+    {
+      "id": "212588",
+      "name": "beredningen för överenskommelsen med den sociala ekonomin"
+    },
+    {
+      "id": "222308",
+      "name": "delregional nämnd Göteborg"
+    },
+    {
+      "id": "222318",
+      "name": "delregional nämnd norra"
+    },
+    {
+      "id": "222312",
+      "name": "delregional nämnd södra"
+    },
+    {
+      "id": "222309",
+      "name": "delregional nämnd västra"
+    },
+    {
+      "id": "222311",
+      "name": "delregional nämnd östra"
+    },
+    {
+      "id": "217561",
+      "name": "digitaliseringsberedningen"
+    },
+    {
+      "id": "225590",
+      "name": "digitaliseringsutskottet"
+    },
+    {
+      "id": "213467",
+      "name": "fastighetsnämnden"
+    },
+    {
+      "id": "209304",
+      "name": "folkhälsokommittén"
+    },
+    {
+      "id": "200894",
+      "name": "Göteborgs hälso- och sjukvårdsnämnd"
+    },
+    {
+      "id": "222310",
+      "name": "hållbarhetsutskottet"
+    },
+    {
+      "id": "212182",
+      "name": "hälso- och sjukvårdsstyrelsen"
+    },
+    {
+      "id": "222338",
+      "name": "infrastruktur- och kollektivtrafiknämnden"
+    },
+    {
+      "id": "207986",
+      "name": "kollektivtrafiknämnden"
+    },
+    {
+      "id": "209206",
+      "name": "kommittén för mänskliga rättigheter"
+    },
+    {
+      "id": "209231",
+      "name": "kulturnämnden"
+    },
+    {
+      "id": "222331",
+      "name": "miljö- och regionutvecklingsnämnden"
+    },
+    {
+      "id": "210378",
+      "name": "miljönämnden"
+    },
+    {
+      "id": "201411",
+      "name": "norra hälso- och sjukvårdsnämnden"
+    },
+    {
+      "id": "214078",
+      "name": "nämnden för Hälsan och Stressmedicin"
+    },
+    {
+      "id": "217558",
+      "name": "omställnings- och samordningsberedningen"
+    },
+    {
+      "id": "222298",
+      "name": "operativa hälso- och sjukvårdsnämnden"
+    },
+    {
+      "id": "209604",
+      "name": "patientnämnd Göteborg"
+    },
+    {
+      "id": "209602",
+      "name": "patientnämnd norra"
+    },
+    {
+      "id": "209605",
+      "name": "patientnämnd södra"
+    },
+    {
+      "id": "209606",
+      "name": "patientnämnd västra"
+    },
+    {
+      "id": "209603",
+      "name": "patientnämnd östra"
+    },
+    {
+      "id": "212433",
+      "name": "personalutskottet"
+    },
+    {
+      "id": "218891",
+      "name": "prioriteringsberedningen"
+    },
+    {
+      "id": "212152",
+      "name": "psykiatriberedningen"
+    },
+    {
       "id": "212615",
-      "name": "Regionfullmäktige"
+      "name": "regionfullmäktige"
     },
     {
       "id": "212458",
-      "name": "Regionstyrelsen"
+      "name": "regionstyrelsen"
     },
     {
-      "id": "212298",
-      "name": "Ägarutskottet"
+      "id": "210520",
+      "name": "regionutvecklingsnämnden"
+    },
+    {
+      "id": "213207",
+      "name": "revisorskollegiet"
+    },
+    {
+      "id": "218808",
+      "name": "samverkansnämnden"
+    },
+    {
+      "id": "212589",
+      "name": "servicenämnden"
+    },
+    {
+      "id": "222299",
+      "name": "strategiska hälso- och sjukvårdsnämnden"
+    },
+    {
+      "id": "212197",
+      "name": "styrelsen för  Västarvet"
+    },
+    {
+      "id": "213062",
+      "name": "styrelsen för Alingsås lasarett"
+    },
+    {
+      "id": "214363",
+      "name": "styrelsen för Angereds Närsjukhus"
+    },
+    {
+      "id": "207909",
+      "name": "styrelsen för beställd primärvård"
     },
     {
       "id": "222324",
-      "name": "Styrelsen för fastighet, stöd och service"
+      "name": "styrelsen för fastighet, stöd och service"
+    },
+    {
+      "id": "218402",
+      "name": "styrelsen för Film i Väst AB"
+    },
+    {
+      "id": "212463",
+      "name": "styrelsen för folkhögskolorna"
+    },
+    {
+      "id": "212613",
+      "name": "styrelsen för Folktandvården"
+    },
+    {
+      "id": "212797",
+      "name": "styrelsen för Göteborgs botaniska trädgård"
+    },
+    {
+      "id": "212269",
+      "name": "styrelsen för Habilitering & Hälsa"
+    },
+    {
+      "id": "222297",
+      "name": "styrelsen för Hälsan och Stressmedicin"
+    },
+    {
+      "id": "214010",
+      "name": "styrelsen för Kultur i Väst"
+    },
+    {
+      "id": "218697",
+      "name": "styrelsen för kulturutveckling"
+    },
+    {
+      "id": "212212",
+      "name": "styrelsen för Kungälvs sjukhus och Frölunda Specialistsjukhus"
+    },
+    {
+      "id": "222332",
+      "name": "styrelsen för logistik"
+    },
+    {
+      "id": "213183",
+      "name": "styrelsen för naturbruk"
+    },
+    {
+      "id": "214003",
+      "name": "styrelsen för NU-sjukvården"
+    },
+    {
+      "id": "207881",
+      "name": "styrelsen för Närhälsan"
+    },
+    {
+      "id": "217556",
+      "name": "styrelsen för Regionhälsan"
+    },
+    {
+      "id": "212950",
+      "name": "styrelsen för Sahlgrenska International Care AB"
+    },
+    {
+      "id": "212210",
+      "name": "styrelsen för Sahlgrenska Universitetssjukhuset"
+    },
+    {
+      "id": "217557",
+      "name": "styrelsen för Sjukhusen i väster"
+    },
+    {
+      "id": "212454",
+      "name": "styrelsen för Skaraborgs Sjukhus"
+    },
+    {
+      "id": "207884",
+      "name": "styrelsen för Södra Älvsborgs Sjukhus"
+    },
+    {
+      "id": "201173",
+      "name": "södra hälso- och sjukvårdsnämnden"
+    },
+    {
+      "id": "218819",
+      "name": "vårdvalsberedningen"
+    },
+    {
+      "id": "200906",
+      "name": "västra hälso- och sjukvårdsnämnden"
+    },
+    {
+      "id": "212298",
+      "name": "ägarutskottet"
+    },
+    {
+      "id": "201410",
+      "name": "östra hälso- och sjukvårdsnämnden"
     }
   ],
   "meetings": [
@@ -24,7 +312,7 @@
       "key": "222324|2026-12-16",
       "meetingId": "",
       "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
+      "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-12-16",
       "status": "Publisert",
       "published": false,
@@ -36,7 +324,7 @@
       "key": "212458|2026-12-15",
       "meetingId": "",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-12-15",
       "status": "Publisert",
       "published": false,
@@ -48,7 +336,7 @@
       "key": "222324|2026-11-27",
       "meetingId": "",
       "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
+      "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-11-27",
       "status": "Publisert",
       "published": false,
@@ -60,7 +348,7 @@
       "key": "212615|2026-11-24",
       "meetingId": "",
       "boardId": "212615",
-      "board": "Regionfullmäktige",
+      "board": "regionfullmäktige",
       "date": "2026-11-24",
       "status": "Publisert",
       "published": false,
@@ -72,7 +360,7 @@
       "key": "212298|2026-11-17",
       "meetingId": "",
       "boardId": "212298",
-      "board": "Ägarutskottet",
+      "board": "ägarutskottet",
       "date": "2026-11-17",
       "status": "Publisert",
       "published": false,
@@ -84,7 +372,7 @@
       "key": "212458|2026-11-10",
       "meetingId": "",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-11-10",
       "status": "Publisert",
       "published": false,
@@ -96,7 +384,7 @@
       "key": "212615|2026-11-03",
       "meetingId": "",
       "boardId": "212615",
-      "board": "Regionfullmäktige",
+      "board": "regionfullmäktige",
       "date": "2026-11-03",
       "status": "Publisert",
       "published": false,
@@ -108,7 +396,7 @@
       "key": "222324|2026-10-27",
       "meetingId": "",
       "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
+      "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-10-27",
       "status": "Publisert",
       "published": false,
@@ -120,7 +408,7 @@
       "key": "212615|2026-10-20",
       "meetingId": "",
       "boardId": "212615",
-      "board": "Regionfullmäktige",
+      "board": "regionfullmäktige",
       "date": "2026-10-20",
       "status": "Publisert",
       "published": false,
@@ -132,7 +420,7 @@
       "key": "212458|2026-10-20",
       "meetingId": "",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-10-20",
       "status": "Publisert",
       "published": false,
@@ -144,7 +432,7 @@
       "key": "212615|2026-10-06",
       "meetingId": "",
       "boardId": "212615",
-      "board": "Regionfullmäktige",
+      "board": "regionfullmäktige",
       "date": "2026-10-06",
       "status": "Publisert",
       "published": false,
@@ -156,7 +444,7 @@
       "key": "212298|2026-09-29",
       "meetingId": "",
       "boardId": "212298",
-      "board": "Ägarutskottet",
+      "board": "ägarutskottet",
       "date": "2026-09-29",
       "status": "Publisert",
       "published": false,
@@ -168,7 +456,7 @@
       "key": "222324|2026-09-25",
       "meetingId": "",
       "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
+      "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-09-25",
       "status": "Publisert",
       "published": false,
@@ -180,7 +468,7 @@
       "key": "212458|2026-09-22",
       "meetingId": "",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-09-22",
       "status": "Publisert",
       "published": false,
@@ -192,7 +480,7 @@
       "key": "212298|2026-09-02",
       "meetingId": "",
       "boardId": "212298",
-      "board": "Ägarutskottet",
+      "board": "ägarutskottet",
       "date": "2026-09-02",
       "status": "Publisert",
       "published": false,
@@ -204,7 +492,7 @@
       "key": "222324|2026-08-28",
       "meetingId": "",
       "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
+      "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-08-28",
       "status": "Publisert",
       "published": false,
@@ -216,7 +504,7 @@
       "key": "212458|2026-08-25",
       "meetingId": "",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-08-25",
       "status": "Publisert",
       "published": false,
@@ -228,7 +516,7 @@
       "key": "212298|2026-08-18",
       "meetingId": "",
       "boardId": "212298",
-      "board": "Ägarutskottet",
+      "board": "ägarutskottet",
       "date": "2026-08-18",
       "status": "Publisert",
       "published": false,
@@ -240,7 +528,7 @@
       "key": "212458|2026-06-22",
       "meetingId": "",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-06-22",
       "status": "Publisert",
       "published": false,
@@ -252,7 +540,7 @@
       "key": "212615|2026-06-15",
       "meetingId": "",
       "boardId": "212615",
-      "board": "Regionfullmäktige",
+      "board": "regionfullmäktige",
       "date": "2026-06-15",
       "status": "Publisert",
       "published": false,
@@ -264,7 +552,7 @@
       "key": "222324|2026-06-12",
       "meetingId": "",
       "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
+      "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-06-12",
       "status": "Publisert",
       "published": false,
@@ -276,7 +564,7 @@
       "key": "212298|2026-06-09",
       "meetingId": "3184050",
       "boardId": "212298",
-      "board": "Ägarutskottet",
+      "board": "ägarutskottet",
       "date": "2026-06-09",
       "status": "Publisert",
       "published": true,
@@ -293,7 +581,7 @@
       "key": "212458|2026-06-02",
       "meetingId": "3184036",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-06-02",
       "status": "Publisert",
       "published": true,
@@ -310,7 +598,7 @@
       "key": "212615|2026-05-26",
       "meetingId": "3148571",
       "boardId": "212615",
-      "board": "Regionfullmäktige",
+      "board": "regionfullmäktige",
       "date": "2026-05-26",
       "status": "Publisert",
       "published": true,
@@ -327,7 +615,7 @@
       "key": "222324|2026-05-22",
       "meetingId": "3256301",
       "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
+      "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-05-22",
       "status": "Publisert",
       "published": true,
@@ -348,7 +636,7 @@
       "key": "212458|2026-05-19",
       "meetingId": "3184035",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-05-19",
       "status": "Publisert",
       "published": true,
@@ -369,7 +657,7 @@
       "key": "212298|2026-05-05",
       "meetingId": "3184048",
       "boardId": "212298",
-      "board": "Ägarutskottet",
+      "board": "ägarutskottet",
       "date": "2026-05-05",
       "status": "Publisert",
       "published": true,
@@ -390,7 +678,7 @@
       "key": "212458|2026-04-28",
       "meetingId": "3184034",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-04-28",
       "status": "Publisert",
       "published": true,
@@ -411,7 +699,7 @@
       "key": "222324|2026-04-17",
       "meetingId": "3256297",
       "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
+      "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-04-17",
       "status": "Publisert",
       "published": true,
@@ -432,7 +720,7 @@
       "key": "212615|2026-04-14",
       "meetingId": "3148567",
       "boardId": "212615",
-      "board": "Regionfullmäktige",
+      "board": "regionfullmäktige",
       "date": "2026-04-14",
       "status": "Publisert",
       "published": true,
@@ -453,7 +741,7 @@
       "key": "212298|2026-03-31",
       "meetingId": "3184047",
       "boardId": "212298",
-      "board": "Ägarutskottet",
+      "board": "ägarutskottet",
       "date": "2026-03-31",
       "status": "Publisert",
       "published": true,
@@ -474,7 +762,7 @@
       "key": "212458|2026-03-17",
       "meetingId": "3184033",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-03-17",
       "status": "Publisert",
       "published": true,
@@ -499,7 +787,7 @@
       "key": "222324|2026-03-11",
       "meetingId": "3256296",
       "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
+      "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-03-11",
       "status": "Publisert",
       "published": true,
@@ -520,7 +808,7 @@
       "key": "212298|2026-03-03",
       "meetingId": "3184046",
       "boardId": "212298",
-      "board": "Ägarutskottet",
+      "board": "ägarutskottet",
       "date": "2026-03-03",
       "status": "Publisert",
       "published": true,
@@ -541,7 +829,7 @@
       "key": "212458|2026-02-24",
       "meetingId": "3184032",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-02-24",
       "status": "Publisert",
       "published": true,
@@ -562,7 +850,7 @@
       "key": "212615|2026-02-17",
       "meetingId": "3148566",
       "boardId": "212615",
-      "board": "Regionfullmäktige",
+      "board": "regionfullmäktige",
       "date": "2026-02-17",
       "status": "Publisert",
       "published": true,
@@ -583,7 +871,7 @@
       "key": "212458|2026-02-17",
       "meetingId": "3299188",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-02-17",
       "status": "Publisert",
       "published": true,
@@ -600,7 +888,7 @@
       "key": "212458|2026-02-03",
       "meetingId": "3184030",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-02-03",
       "status": "Publisert",
       "published": true,
@@ -621,7 +909,7 @@
       "key": "222324|2026-02-03",
       "meetingId": "3256292",
       "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
+      "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-02-03",
       "status": "Publisert",
       "published": true,
@@ -642,7 +930,7 @@
       "key": "212298|2026-01-27",
       "meetingId": "3184042",
       "boardId": "212298",
-      "board": "Ägarutskottet",
+      "board": "ägarutskottet",
       "date": "2026-01-27",
       "status": "Publisert",
       "published": true,
@@ -654,7 +942,7 @@
       "key": "212458|2026-01-20",
       "meetingId": "3184029",
       "boardId": "212458",
-      "board": "Regionstyrelsen",
+      "board": "regionstyrelsen",
       "date": "2026-01-20",
       "status": "Publisert",
       "published": true,
@@ -666,7 +954,7 @@
       "key": "212298|2026-01-13",
       "meetingId": "3184041",
       "boardId": "212298",
-      "board": "Ägarutskottet",
+      "board": "ägarutskottet",
       "date": "2026-01-13",
       "status": "Publisert",
       "published": true,

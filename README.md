@@ -3,41 +3,47 @@
 Bevakar politiska möten i Västra Götalandsregionen
 ([opengov.360online.com/Meetings/vgregion](https://opengov.360online.com/Meetings/vgregion))
 och skickar **push-notiser** när nya möten planeras in, när handlingar publiceras,
-och när **enskilda nya dokument** dyker upp. Webapp på **GitHub Pages**, scraping +
-push via **GitHub Actions**, och prenumerationer lagras i en **Cloudflare Worker**.
+och när **enskilda nya dokument/handlingar** dyker upp. Webapp på **GitHub Pages**,
+scraping + push via **GitHub Actions**, prenumerationer i en **Cloudflare Worker**.
 
-Bevakade nämnder (ändra i [`config.json`](config.json)):
-Regionfullmäktige · Regionstyrelsen · Ägarutskottet · Styrelsen för fastighet, stöd och service.
+**Alla ~76 instanser** på vgregion är valbara. Varje enhet väljer själv vilka
+nämnder och vilka notistyper den vill ha (per-enhet-inställningar).
 
 ## Hur det funkar
 
 Sajten saknar API och RSS — allt bygger på screen-scraping via paketet
-[`opengov-meetings`](https://github.com/zrrrzzt/opengov-meetings).
+[`opengov-meetings`](https://github.com/zrrrzzt/opengov-meetings) (+ egen parser
+för agendapunkter). Bara **bevakade** nämnder skannas (demand-styrt): scrapern
+frågar Workern vilka nämnder någon prenumererar på.
 
 ```
-GitHub Actions (cron var 3:e timme)
-  scripts/scrape.mjs  → docs/data.json + docs/feed.xml
-                        · för publicerade möten hämtas även dokumentlistan
-                        · diffar mot förra körningen
-  scripts/push.mjs    → hämtar prenumeranter från Cloudflare Worker
-                        → skickar Web Push för nya/ändrade möten + nya dokument
-  → committar uppdaterad data tillbaka till repot
+GitHub Actions – EN workflow, schema var ~20 min, två lägen:
+  light (oftast)  → board-listor för bevakade nämnder; hämtar mötessidor/
+                    djupskannar BARA nya/flippade möten → färska notiser billigt
+  full  (3×/dygn) → mötesnivå-dok för alla publicerade + per-ärende-djupskanning
+  scripts/scrape.mjs → docs/data.json (+ boards: alla 76) + feed.xml + agenda-index
+  scripts/push.mjs   → hämtar prenumeranter, FILTRERAR per prefs, skickar Web Push
+  → committar uppdaterad data (bara när något faktiskt ändrats)
 
 Cloudflare Worker (worker/)         GitHub Pages (servar /docs)
-  KV-lagring av prenumerationer       index.html / app.js  → VGR-vy + "Aktivera notiser"
-  POST /subscribe                     sw.js                → visar notiser
-  POST /unsubscribe                   feed.xml             → bonus RSS-flöde
-  GET  /subscriptions (token)
+  KV-lagring { subscription, prefs }  app.js → VGR-vy + nämndväljare (76) + notiser
+  POST /subscribe  /unsubscribe       sw.js  → visar notiser
+  GET  /subscriptions   (token)       feed.xml → bonus RSS
+  GET  /board-demand    (token)
 ```
 
-**Notistyper**
-- **Nytt möte** – ett nytt mötesdatum dyker upp för en bevakad nämnd.
+**Notistyper** (var och en kan väljas av/på per enhet):
+- **Nytt möte** – nytt mötesdatum för en bevakad nämnd.
 - **Handlingar publicerade** – ett inplanerat möte får sin agenda/länk.
-- **Nytt dokument** – ett nytt dokument läggs till på ett redan publicerat möte
-  (notisen länkar direkt till PDF:en).
+- **Nytt dokument** – nytt dokument på mötesnivå (kallelse/protokoll).
+- **Ny handling** – ny handling i ett enskilt ärende (länkar direkt till PDF:en);
+  vid masspublicering en summerande notis.
 
-Ett möte identifieras av **nämnd + datum**. Mötets `meetingId` (länken till
-handlingarna) är tomt tills handlingarna publiceras.
+Ett möte identifieras av **nämnd + datum**. `meetingId` är tomt tills handlingarna
+publiceras. **Demand:** en nämnd skannas bara om minst en enhet bevakar den; därför
+visar webbappen mötesdata bara för bevakade nämnder (väljaren listar alla 76).
+Justerbart i [`config.json`](config.json): `fullModeHours`, `fallbackBoards`
+(används om Workern ej nås), `agendaPastDays`, `docLookbackDays`.
 
 ## Köra lokalt
 

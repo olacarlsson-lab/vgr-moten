@@ -58,6 +58,34 @@ export default {
         return json({ ok: true }, 200, cors)
       }
 
+      // ---- Demand: vilka nämnder bevakas? (skyddad) ----
+      if (request.method === 'GET' && url.pathname === '/board-demand') {
+        const auth = request.headers.get('Authorization') || ''
+        if (!env.SUBS_TOKEN || auth !== `Bearer ${env.SUBS_TOKEN}`) {
+          return json({ error: 'unauthorized' }, 401, cors)
+        }
+        const meeting = new Set()
+        const handling = new Set()
+        let cursor
+        do {
+          const list = await env.SUBS.list({ prefix: KEY_PREFIX, cursor })
+          for (const k of list.keys) {
+            const v = await env.SUBS.get(k.name)
+            if (!v) continue
+            const rec = JSON.parse(v)
+            const prefs = rec.prefs
+            if (!prefs || !Array.isArray(prefs.boards)) continue // poster utan prefs bidrar inte
+            const wantsHandling = !prefs.types || prefs.types.handling !== false
+            for (const b of prefs.boards) {
+              meeting.add(String(b))
+              if (wantsHandling) handling.add(String(b))
+            }
+          }
+          cursor = list.list_complete ? undefined : list.cursor
+        } while (cursor)
+        return json({ meetingBoards: [...meeting], handlingBoards: [...handling] }, 200, cors)
+      }
+
       // ---- Lista (skyddad) ----
       if (request.method === 'GET' && url.pathname === '/subscriptions') {
         const auth = request.headers.get('Authorization') || ''

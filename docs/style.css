@@ -107,6 +107,38 @@ main.wrap { padding-top: 24px; padding-bottom: 32px; }
 .checks input { width: 18px; height: 18px; accent-color: var(--vgr-primary-action); }
 #savePrefs { align-self: flex-start; }
 
+/* Nämndväljare (alla instanser) */
+.board-tools { display: flex; flex-direction: column; gap: 8px; margin-bottom: 12px; }
+#boardSearch {
+  font-family: inherit;
+  font-size: 16px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--vgr-neutral-divider);
+  background: var(--vgr-elevation-background);
+  color: var(--vgr-neutral-text);
+}
+.board-actions { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.btn-link {
+  font-family: inherit;
+  font-size: 14px;
+  background: none;
+  border: 0;
+  padding: 0;
+  color: var(--vgr-primary-action);
+  text-decoration: underline;
+  cursor: pointer;
+}
+#boardCount { margin: 0; }
+.board-list {
+  max-height: 240px;
+  overflow-y: auto;
+  border: 1px solid var(--vgr-neutral-dividervariant);
+  border-radius: 8px;
+  padding: 12px;
+}
+.board-list label[hidden] { display: none; }
+
 .filters { display: flex; flex-wrap: wrap; gap: 8px; }
 .chip {
   font-family: inherit;
