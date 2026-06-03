@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T05:44:07.359Z",
+  "generatedAt": "2026-06-03T10:45:26.097Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -357,6 +357,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212298|2026-11-17",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-11-17",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2026-11-10",
       "meetingId": "",
       "boardId": "212458",
@@ -429,6 +441,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212298|2026-09-29",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-09-29",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222324|2026-09-25",
       "meetingId": "",
       "boardId": "222324",
@@ -453,6 +477,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212298|2026-09-02",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-09-02",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222324|2026-08-28",
       "meetingId": "",
       "boardId": "222324",
@@ -473,6 +509,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-08-18",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-08-18",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -511,6 +559,23 @@
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
       "documents": [],
       "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-06-09",
+      "meetingId": "3184050",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-06-09",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184050",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-06-09",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4554867.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-06-09&fileSize=121533"
+        }
+      ],
+      "agendaDocCount": 31
     },
     {
       "key": "212458|2026-06-02",
@@ -589,6 +654,27 @@
       "agendaDocCount": 144
     },
     {
+      "key": "212298|2026-05-05",
+      "meetingId": "3184048",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-05-05",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184048",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-05-05",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4510184.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-05-05&fileSize=114987"
+        },
+        {
+          "title": "Protokoll  ägarutskottet 2026-05-05",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511151.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-05-05&fileSize=988152"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2026-04-28",
       "meetingId": "3184034",
       "boardId": "212458",
@@ -652,6 +738,27 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212298|2026-03-31",
+      "meetingId": "3184047",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-03-31",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184047",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-03-31",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4466545.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-03-31&fileSize=111551"
+        },
+        {
+          "title": "Protokoll  ägarutskottet 2026-03-31",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4467233.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-03-31&fileSize=443159"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2026-03-17",
       "meetingId": "3184033",
       "boardId": "212458",
@@ -693,6 +800,27 @@
         {
           "title": "Protokoll 1 av 2 styrelsen för fastighet, stöd och service 2026-03-11",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4437200.PDF?fileName=Protokoll%201%20av%202%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-03-11&fileSize=1024839"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-03-03",
+      "meetingId": "3184046",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-03-03",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184046",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-03-03",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4424184.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-03-03&fileSize=113765"
+        },
+        {
+          "title": "Protokoll ägarutskottet 2026-03-03",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4429050.PDF?fileName=Protokoll%20%C3%A4garutskottet%202026-03-03&fileSize=524563"
         }
       ],
       "agendaDocCount": 0
@@ -799,6 +927,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212298|2026-01-27",
+      "meetingId": "3184042",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-01-27",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184042",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2026-01-20",
       "meetingId": "3184029",
       "boardId": "212458",
@@ -807,6 +947,18 @@
       "status": "Publisert",
       "published": true,
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184029",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-01-13",
+      "meetingId": "3184041",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-01-13",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184041",
       "documents": [],
       "agendaDocCount": 0
     }
