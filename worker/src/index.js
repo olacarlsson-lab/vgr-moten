@@ -6,6 +6,7 @@
 //   POST /subscribe     { subscription }      → lagra (öppet, CORS)
 //   POST /unsubscribe   { endpoint }          → ta bort (öppet, CORS)
 //   GET  /subscriptions Authorization: Bearer → lista (kräver SUBS_TOKEN)
+//   GET  /stats         Authorization: Bearer → antal prenumeranter per nämnd (kräver SUBS_TOKEN)
 //
 // Bindningar: KV-namespace `SUBS`. Secret `SUBS_TOKEN`. Var `ALLOWED_ORIGINS`.
 
@@ -106,6 +107,34 @@ export default {
           cursor = list.list_complete ? undefined : list.cursor
         } while (cursor)
         return json(out, 200, cors)
+      }
+
+      // ---- Statistik: antal prenumeranter och fördelning per nämnd (skyddad) ----
+      if (request.method === 'GET' && url.pathname === '/stats') {
+        const auth = request.headers.get('Authorization') || ''
+        if (!env.SUBS_TOKEN || auth !== `Bearer ${env.SUBS_TOKEN}`) {
+          return json({ error: 'unauthorized' }, 401, cors)
+        }
+        let total = 0
+        const byBoard = {}
+        let cursor
+        do {
+          const list = await env.SUBS.list({ prefix: KEY_PREFIX, cursor })
+          for (const k of list.keys) {
+            const v = await env.SUBS.get(k.name)
+            if (!v) continue
+            total++
+            const rec = JSON.parse(v)
+            const boards = rec.prefs?.boards
+            if (Array.isArray(boards)) {
+              for (const b of boards) {
+                byBoard[b] = (byBoard[b] || 0) + 1
+              }
+            }
+          }
+          cursor = list.list_complete ? undefined : list.cursor
+        } while (cursor)
+        return json({ total, byBoard }, 200, cors)
       }
 
       return json({ error: 'not found' }, 404, cors)
