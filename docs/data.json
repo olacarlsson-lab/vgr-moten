@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T20:35:52.792Z",
+  "generatedAt": "2026-06-04T22:09:22.849Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -590,9 +590,13 @@
         {
           "title": "Kallelse regionstyrelsen 2026-06-02",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4543670.PDF?fileName=Kallelse%20regionstyrelsen%202026-06-02&fileSize=132146"
+        },
+        {
+          "title": "Protokoll regionstyrelsen 2026-06-02",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4545160.PDF?fileName=Protokoll%20regionstyrelsen%202026-06-02&fileSize=1181037"
         }
       ],
-      "agendaDocCount": 90
+      "agendaDocCount": 105
     },
     {
       "key": "212615|2026-05-26",
