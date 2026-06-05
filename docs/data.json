@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T06:15:37.779Z",
+  "generatedAt": "2026-06-05T10:18:06.984Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -333,6 +333,30 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222299|2026-12-11",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-12-11",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-12-09",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-12-09",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222324|2026-11-27",
       "meetingId": "",
       "boardId": "222324",
@@ -341,6 +365,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-11-25",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-11-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -381,6 +417,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222299|2026-11-04",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-11-04",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212615|2026-11-03",
       "meetingId": "",
       "boardId": "212615",
@@ -401,6 +449,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-10-21",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-10-21",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -453,6 +513,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222299|2026-09-25",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-09-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222324|2026-09-25",
       "meetingId": "",
       "boardId": "222324",
@@ -465,6 +537,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222298|2026-09-23",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-09-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2026-09-22",
       "meetingId": "",
       "boardId": "212458",
@@ -473,6 +557,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-09-09",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-09-09",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -501,6 +597,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222298|2026-08-26",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-08-26",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2026-08-25",
       "meetingId": "",
       "boardId": "212458",
@@ -509,6 +617,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-08-19",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-08-19",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -533,6 +653,30 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-06-17",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-06-17",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-06-17",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-06-17",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -578,6 +722,23 @@
       "agendaDocCount": 31
     },
     {
+      "key": "222298|2026-06-08",
+      "meetingId": "3384356",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-06-08",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3384356",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-06-08",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4556658.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-08&fileSize=102988"
+        }
+      ],
+      "agendaDocCount": 3
+    },
+    {
       "key": "212458|2026-06-02",
       "meetingId": "3184036",
       "boardId": "212458",
@@ -597,6 +758,44 @@
         }
       ],
       "agendaDocCount": 105
+    },
+    {
+      "key": "222298|2026-05-29",
+      "meetingId": "3187541",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-05-29",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3187541",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-05-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539857.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-29&fileSize=152021"
+        }
+      ],
+      "agendaDocCount": 159
+    },
+    {
+      "key": "222299|2026-05-27",
+      "meetingId": "3190496",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-05-27",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3190496",
+      "documents": [
+        {
+          "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-05-27",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4534561.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-27&fileSize=136630"
+        },
+        {
+          "title": "Protokoll strategiska hälso- och sjukvårdsnämnden 2026-05-27",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539683.PDF?fileName=Protokoll%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-27&fileSize=1642071"
+        }
+      ],
+      "agendaDocCount": 180
     },
     {
       "key": "212615|2026-05-26",
@@ -700,6 +899,52 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222298|2026-04-22",
+      "meetingId": "3186065",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-04-22",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3186065",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-04-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490425.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-22&fileSize=153544"
+        },
+        {
+          "title": "Protokoll  1 av 2 operativa hälso- och sjukvårdsnämnden 2026-04-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4494848.PDF?fileName=Protokoll%20%201%20av%202%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-22&fileSize=197998"
+        },
+        {
+          "title": "Protokoll 2 av 2 operativa hälso- och sjukvårdsnämnden 2026-04-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4508149.PDF?fileName=Protokoll%202%20av%202%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-22&fileSize=1450392"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-04-21",
+      "meetingId": "3190487",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-04-21",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3190487",
+      "documents": [
+        {
+          "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-04-21",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4485311.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-21&fileSize=129594"
+        },
+        {
+          "title": "Protokoll  strategiska hälso- och sjukvårdsnämnden 2026-04-21",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490072.PDF?fileName=Protokoll%20%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-21&fileSize=1093296"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222324|2026-04-17",
       "meetingId": "3256297",
       "boardId": "222324",
@@ -763,6 +1008,52 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222298|2026-03-27",
+      "meetingId": "3187545",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-03-27",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3187545",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-03-27",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4460286.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-27&fileSize=157707"
+        },
+        {
+          "title": "Protokoll  2 av 2  operativa hälso- och sjukvårdsnämnden 2026-03-27",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4463831.PDF?fileName=Protokoll%20%202%20av%202%20%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-27&fileSize=1806218"
+        },
+        {
+          "title": "Protokoll 1 av 2 operativa hälso- och sjukvårdsnämnden 2026-03-27",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4467460.PDF?fileName=Protokoll%201%20av%202%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-27&fileSize=670385"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-03-25",
+      "meetingId": "3190482",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-03-25",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3190482",
+      "documents": [
+        {
+          "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-03-25",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4455996.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-25&fileSize=146534"
+        },
+        {
+          "title": "Protokoll strategiska hälso- och sjukvårdsnämnden 2026-03-25",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4463858.PDF?fileName=Protokoll%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-25&fileSize=2626523"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2026-03-17",
       "meetingId": "3184033",
       "boardId": "212458",
@@ -804,6 +1095,60 @@
         {
           "title": "Protokoll 1 av 2 styrelsen för fastighet, stöd och service 2026-03-11",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4437200.PDF?fileName=Protokoll%201%20av%202%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-03-11&fileSize=1024839"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-03-06",
+      "meetingId": "3190479",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-03-06",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3190479",
+      "documents": [
+        {
+          "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-03-06",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4420045.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-06&fileSize=119480"
+        },
+        {
+          "title": "Protokoll  strategiska hälso- och sjukvårdsnämnden 2026-03-06",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4444885.PDF?fileName=Protokoll%20%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-06&fileSize=1203375"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-03-04",
+      "meetingId": "3186062",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-03-04",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3186062",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-03-04",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4425749.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-04&fileSize=159305"
+        },
+        {
+          "title": "Protokoll 1 av 4 operativa hälso- och sjukvårdsnämnden 2026-03-04",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4429426.PDF?fileName=Protokoll%201%20av%204%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-04&fileSize=415346"
+        },
+        {
+          "title": "Protokoll 2 av 4  operativa hälso- och sjukvårdsnämnden 2026-03-04",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4429436.PDF?fileName=Protokoll%202%20av%204%20%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-04&fileSize=343964"
+        },
+        {
+          "title": "Protokoll 3 av 4  operativa hälso- och sjukvårdsnämnden 2026-03-04",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4429454.PDF?fileName=Protokoll%203%20av%204%20%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-04&fileSize=366976"
+        },
+        {
+          "title": "Protokoll 4 av 4 operativa hälso- och sjukvårdsnämnden 2026-03-04",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4436309.PDF?fileName=Protokoll%204%20av%204%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-04&fileSize=1836698"
         }
       ],
       "agendaDocCount": 0
@@ -889,6 +1234,39 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222299|2026-02-06",
+      "meetingId": "3190463",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-02-06",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3190463",
+      "documents": [
+        {
+          "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-02-06",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4389750.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-02-06&fileSize=148309"
+        },
+        {
+          "title": "Protokoll  strategiska hälso- och sjukvårdsnämnden 2026-02-06",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4394003.PDF?fileName=Protokoll%20%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-02-06&fileSize=1677331"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-02-04",
+      "meetingId": "3182435",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-02-04",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3182435",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2026-02-03",
       "meetingId": "3184030",
       "boardId": "212458",
@@ -931,6 +1309,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222298|2026-02-02",
+      "meetingId": "3288530",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-02-02",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3288530",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2026-01-27",
       "meetingId": "3184042",
       "boardId": "212298",
@@ -963,6 +1353,18 @@
       "status": "Publisert",
       "published": true,
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184041",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-01-08",
+      "meetingId": "3266613",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-01-08",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3266613",
       "documents": [],
       "agendaDocCount": 0
     }

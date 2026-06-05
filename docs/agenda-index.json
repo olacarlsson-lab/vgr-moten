@@ -249,6 +249,44 @@
         }
       ]
     },
+    "222298|2026-06-08": {
+      "meetingId": "3384356",
+      "items": [
+        {
+          "agendaId": "367828",
+          "title": "188 - Skyddad: OSL 17 kap 3 b § Utredning av rapporter om missförhållande",
+          "documents": [
+            {
+              "title": "Yrkande från Socialdemokraterna, Vänsterpartiet och Miljöpartiet om att framtidssäkra vården på Lundby sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4556540.PDF?fileName=Yrkande%20fr%C3%A5n%20Socialdemokraterna%2C%20V%C3%A4nsterpartiet%20och%20Milj%C3%B6partiet%20om%20att%20framtidss%C3%A4kra%20v%C3%A5rden%20p%C3%A5%20Lundby%20sjukhus&fileSize=282463",
+              "category": "Handling upprättad"
+            }
+          ]
+        },
+        {
+          "agendaId": "367826",
+          "title": "189 - Yrkande från Socialdemokraterna, Vänsterpartiet och Miljöpartiet om att framtidssäkra vården på Lundby sjukhus",
+          "documents": [
+            {
+              "title": "Yrkande från Sverigedemokraterna om att bevara sjukhuset på Hisingen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4556511.PDF?fileName=Yrkande%20fr%C3%A5n%20Sverigedemokraterna%20om%20att%20bevara%20sjukhuset%20p%C3%A5%20Hisingen&fileSize=161467",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "367829",
+          "title": "190 - Yrkande från Sverigedemokraterna om att bevara sjukhuset på Hisingen",
+          "documents": [
+            {
+              "title": "Yrkande från Kristdemokraterna, Moderaterna, Centerpartiet och Liberalerna om att barn ska få logopedstöd i tid och nära hemmet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4554297.PDF?fileName=Yrkande%20fr%C3%A5n%20Kristdemokraterna%2C%20Moderaterna%2C%20Centerpartiet%20och%20Liberalerna%20om%20att%20barn%20ska%20f%C3%A5%20logopedst%C3%B6d%20i%20tid%20och%20n%C3%A4ra%20hemmet&fileSize=75051",
+              "category": "Handling upprättad"
+            }
+          ]
+        }
+      ]
+    },
     "212458|2026-06-02": {
       "meetingId": "3184036",
       "items": [
@@ -1002,6 +1040,2565 @@
           "agendaId": "367393",
           "title": "Information om Västlänken och Västsvenska paketet",
           "documents": []
+        }
+      ]
+    },
+    "222298|2026-05-29": {
+      "meetingId": "3187541",
+      "items": [
+        {
+          "agendaId": "366446",
+          "title": "149 - Delårsrapport april 2026 för operativa hälso- och sjukvårdsnämnden",
+          "documents": [
+            {
+              "title": "Delårsrapport april 2026 för operativa hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519795.PDF?fileName=Del%C3%A5rsrapport%20april%202026%20f%C3%B6r%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=114572",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Delårsrapport per april 2026 operativa hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537581.PDF?fileName=Del%C3%A5rsrapport%20per%20april%202026%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=734726",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Resultatrapport 2604",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537604.PDF?fileName=Resultatrapport%202604&fileSize=38841",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Uppdragslista OSN - aktiva uppdrag per april 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537620.PDF?fileName=Uppdragslista%20OSN%20-%20aktiva%20uppdrag%20per%20april%202026&fileSize=57495",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366069",
+          "title": "150 - Tilläggsbudget operativa hälso- och sjukvårdsnämnden 2026",
+          "documents": [
+            {
+              "title": "Tilläggsbudget operativa hälso- och sjukvårdsnämnden 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4505701.PDF?fileName=Till%C3%A4ggsbudget%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026&fileSize=128563",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366587",
+          "title": "151 - Prognosrapport kostnadsutveckling för läkemedel i Västra Götalandsregionen 2026–2028",
+          "documents": [
+            {
+              "title": "Prognosrapport kostnadsutveckling för läkemedel i Västra Götalandsregionen 2026–2028",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4523526.PDF?fileName=Prognosrapport%20kostnadsutveckling%20f%C3%B6r%20l%C3%A4kemedel%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%202026%E2%80%932028&fileSize=185667",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Prognosrapport Kostnadsutvecklingen för läkemedel i Västra Götalandsregionen 2026-2028",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4524512.PDF?fileName=Prognosrapport%20Kostnadsutvecklingen%20f%C3%B6r%20l%C3%A4kemedel%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%202026-2028&fileSize=1222338",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366037",
+          "title": "152 - Lägesrapport vårdvalen - maj 2026",
+          "documents": [
+            {
+              "title": "Lägesrapport vårdvalen - maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4509369.PDF?fileName=L%C3%A4gesrapport%20v%C3%A5rdvalen%20-%20maj%202026&fileSize=84248",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "365940",
+          "title": "153 - Överenskommelse om ersättningar för år 2026 för hälso- och sjukvårdstjänster och tandvårdstjänster enligt samverkansavtal för Västra sjukvårdsregionen",
+          "documents": [
+            {
+              "title": "Överenskommelse om ersättningar för år 2026 för hälso- och sjukvårdstjänster och tandvårdstjänster enligt samverkansavtal för Västra sjukvårdsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4506606.PDF?fileName=%C3%96verenskommelse%20om%20ers%C3%A4ttningar%20f%C3%B6r%20%C3%A5r%202026%20f%C3%B6r%20h%C3%A4lso-%20och%20sjukv%C3%A5rdstj%C3%A4nster%20och%20tandv%C3%A5rdstj%C3%A4nster%20enligt%20samverkansavtal%20f%C3%B6r%20V%C3%A4stra%20sjukv%C3%A5rdsregionen&fileSize=111073",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Överenskommelse om ersättningar för år 2026 för hälso- och sjukvårdstjänster Bilaga 1",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4358085.PDF?fileName=%C3%96verenskommelse%20om%20ers%C3%A4ttningar%20f%C3%B6r%20%C3%A5r%202026%20f%C3%B6r%20h%C3%A4lso-%20och%20sjukv%C3%A5rdstj%C3%A4nster%20Bilaga%201&fileSize=144831",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Utomlänsprislista Västra sjukvårdsregionen 2026 Bilaga 3 inkl. tandvård bilaga 12a och 12b reviderad",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4475502.PDF?fileName=Utoml%C3%A4nsprislista%20V%C3%A4stra%20sjukv%C3%A5rdsregionen%202026%20Bilaga%203%20inkl.%20tandv%C3%A5rd%20bilaga%2012a%20och%2012b%20reviderad&fileSize=949699",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Överenskommelse om utomlänsvård inom tandvård 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4336870.PDF?fileName=%C3%96verenskommelse%20om%20utoml%C3%A4nsv%C3%A5rd%20inom%20tandv%C3%A5rd%202026&fileSize=280426",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365898",
+          "title": "154 - Utfärdande av vite för Backaplan Vårdcentral AB för enhet Backaplan Vårdcentral och BVC avseende förändringar hos leverantör",
+          "documents": [
+            {
+              "title": "Utfärdande av vite för Backaplan Vårdcentral AB för enhet Backaplan Vårdcentral och BVC avseende förändringar hos leverantör",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4502988.PDF?fileName=Utf%C3%A4rdande%20av%20vite%20f%C3%B6r%20Backaplan%20V%C3%A5rdcentral%20AB%20f%C3%B6r%20enhet%20Backaplan%20V%C3%A5rdcentral%20och%20BVC%20avseende%20f%C3%B6r%C3%A4ndringar%20hos%20leverant%C3%B6r&fileSize=116613",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "365830",
+          "title": "155 - Återbetalning av ersättning Hälsa hemma Sverige AB för felaktigt utbetalad ersättning gällande fast läkarkontakt",
+          "documents": [
+            {
+              "title": "Återbetalning Hälsa hemma Sverige AB för felaktigt utbetalad ersättning gällande fast läkarkontakt",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4499598.PDF?fileName=%C3%85terbetalning%20H%C3%A4lsa%20hemma%20Sverige%20AB%20f%C3%B6r%20felaktigt%20utbetalad%20ers%C3%A4ttning%20g%C3%A4llande%20fast%20l%C3%A4karkontakt&fileSize=125766",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Bilaga beräkning ersättning fast läkarkontakt",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4512107.PDF?fileName=Bilaga%20ber%C3%A4kning%20ers%C3%A4ttning%20fast%20l%C3%A4karkontakt&fileSize=246711",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "360955",
+          "title": "156 - Utökade hembesök inom barnhälsovården - förslag till modell och ersättning",
+          "documents": [
+            {
+              "title": "Utökade hembesök inom barnhälsovården - förslag till modell och ersättning - Krav- och kvalitetsbok Vårdval vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4369619.PDF?fileName=Ut%C3%B6kade%20hembes%C3%B6k%20inom%20barnh%C3%A4lsov%C3%A5rden%20-%20f%C3%B6rslag%20till%20modell%20och%20ers%C3%A4ttning%20-%20Krav-%20och%20kvalitetsbok%20V%C3%A5rdval%20v%C3%A5rdcentral&fileSize=170718",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Slutrapport Regionövergripande modell för utökade hembesöksprogram i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4476414.PDF?fileName=Slutrapport%20Region%C3%B6vergripande%20modell%20f%C3%B6r%20ut%C3%B6kade%20hembes%C3%B6ksprogram%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=254628",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från beredningen för krav- och kvalitetsböckers sammanträde den 29 april 2026 - Utökade hembesök inom barnhälsovården - förslag till modell och ersättning - Krav- och kvalitetsbok Vårdval vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4521527.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20krav-%20och%20kvalitetsb%C3%B6ckers%20sammantr%C3%A4de%20den%2029%20april%202026%20-%20Ut%C3%B6kade%20hembes%C3%B6k%20inom%20barnh%C3%A4lsov%C3%A5rden%20-%20f%C3%B6rslag%20till%20modell%20och%20ers%C3%A4ttning%20-%20Krav-%20och%20kvalitetsbok%20V%C3%A5rdval%20v%C3%A5rdcentral&fileSize=119447",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "364132",
+          "title": "157 - Lägesrapport regionövergripande verksamheter - maj 2026",
+          "documents": [
+            {
+              "title": "Lägesrapport regionövergripande verksamheter - maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4467727.PDF?fileName=L%C3%A4gesrapport%20region%C3%B6vergripande%20verksamheter%20-%20maj%202026&fileSize=85620",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366207",
+          "title": "158 - Svar på skrivelse från strategiska hälso- och sjukvårdsnämnden angående ungdomsmottagningar",
+          "documents": [
+            {
+              "title": "Svar på skrivelse från strategiska hälso- och sjukvårdsnämnden angående ungdomsmottagningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4514367.PDF?fileName=Svar%20p%C3%A5%20skrivelse%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20ang%C3%A5ende%20ungdomsmottagningar&fileSize=141266",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Informationsmaterial för ungdomsmottagningar i VG 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4532178.PDF?fileName=Informationsmaterial%20f%C3%B6r%20ungdomsmottagningar%20i%20VG%202026&fileSize=1774032",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Information UM per kommun I Västra Götaland 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4540431.PDF?fileName=Information%20UM%20per%20kommun%20I%20V%C3%A4stra%20G%C3%B6taland%202026&fileSize=6061067",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366608",
+          "title": "159 - Hantering av avtal Tandkliniken Sharareh Amin V. AB",
+          "documents": [
+            {
+              "title": "Hantering av avtal Tandkliniken Sharareh Amin V. AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4523836.PDF?fileName=Hantering%20av%20avtal%20Tandkliniken%20Sharareh%20Amin%20V.%20AB&fileSize=102037",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Protokoll konkursförhandling Alingsås Tingsrätt",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4531850.PDF?fileName=Protokoll%20konkursf%C3%B6rhandling%20Alings%C3%A5s%20Tingsr%C3%A4tt&fileSize=263004",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365705",
+          "title": "160 - Lägesrapport sjukhus i egen regi - maj 2026",
+          "documents": [
+            {
+              "title": "Lägesrapport sjukhus i egen regi - maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4496468.PDF?fileName=L%C3%A4gesrapport%20sjukhus%20i%20egen%20regi%20-%20maj%202026&fileSize=86067",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "364371",
+          "title": "161 - Information om Sjukhusen i västers redovisade behov av ersättning för omställningskostnader kopplade till utökad gynekologisk verksamhet på Kungälvs sjukhus",
+          "documents": [
+            {
+              "title": "Sjukhusen i västers redovisade uppstartskostnader för utökad gynekologisk verksamhet på Kungälvs sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4482413.PDF?fileName=Sjukhusen%20i%20v%C3%A4sters%20redovisade%20uppstartskostnader%20f%C3%B6r%20ut%C3%B6kad%20gynekologisk%20verksamhet%20p%C3%A5%20Kung%C3%A4lvs%20sjukhus&fileSize=101972",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "365887",
+          "title": "162 - Svar på begäran från styrelsen för NU-sjukvården om utökning av rättspsykiatriska vårdplatser Brinkåsen",
+          "documents": [
+            {
+              "title": "Svar på begäran från styrelsen för NU-sjukvården om utökning av rättspsykiatriska vårdplatser på Brinkåsen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4504337.PDF?fileName=Svar%20p%C3%A5%20beg%C3%A4ran%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20NU-sjukv%C3%A5rden%20om%20ut%C3%B6kning%20av%20r%C3%A4ttspsykiatriska%20v%C3%A5rdplatser%20p%C3%A5%20Brink%C3%A5sen&fileSize=116690",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Beslut från styrelsen för NU-sjukvården 2026-04-01 § 36 - Utökning av rättspsykiatriska vårdplatser Brinkåsen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4484460.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20NU-sjukv%C3%A5rden%202026-04-01%20%C2%A7%2036%20-%20Ut%C3%B6kning%20av%20r%C3%A4ttspsykiatriska%20v%C3%A5rdplatser%20Brink%C3%A5sen&fileSize=88569",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365954",
+          "title": "163 - Samlad uppföljning hälso- och sjukvård per april 2026",
+          "documents": [
+            {
+              "title": "Samlad uppföljning hälso- och sjukvård per april 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4507785.PDF?fileName=Samlad%20uppf%C3%B6ljning%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20per%20april%202026&fileSize=123614",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Status i arbetet med tillgängligheten april 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537256.PDF?fileName=Status%20i%20arbetet%20med%20tillg%C3%A4ngligheten%20april%202026&fileSize=1205500",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "363487",
+          "title": "164 - Uppföljning av tillgängligheten till klinisk radiologisk bröstdiagnostik",
+          "documents": [
+            {
+              "title": "Uppföljning av tillgängligheten till klinisk radiologisk bröstdiagnostik",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4447896.PDF?fileName=Uppf%C3%B6ljning%20av%20tillg%C3%A4ngligheten%20till%20klinisk%20radiologisk%20br%C3%B6stdiagnostik&fileSize=228115",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "362100",
+          "title": "165 - Lägesrapport - behovsöversyner, upphandlingar och avtal maj 2026",
+          "documents": [
+            {
+              "title": "Lägesrapport - behovsöversyner, upphandlingar och avtal maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4516103.PDF?fileName=L%C3%A4gesrapport%20-%20behovs%C3%B6versyner%2C%20upphandlingar%20och%20avtal%20maj%202026&fileSize=104564",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366119",
+          "title": "166 - Ansökan om idéburet offentligt partnerskap (IOP) mellan Svenska Sjöräddningssällskapet (SSRS) och Västra Götalandsregionen (VGR), gällande utlarmning via SOS Alarm vid förstahjälpen-larm i skärgårdsmiljö",
+          "documents": [
+            {
+              "title": "Beslut om idéburet offentligt partnerskap mellan Svenska Sjöräddningssällskapet och Västra Götalandsregionen, avseende utlarmning via SOS Alarm vid förstahjälpen-larm i skärgårdsmiljö",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511725.PDF?fileName=Beslut%20om%20id%C3%A9buret%20offentligt%20partnerskap%20mellan%20Svenska%20Sj%C3%B6r%C3%A4ddningss%C3%A4llskapet%20och%20V%C3%A4stra%20G%C3%B6talandsregionen%2C%20avseende%20utlarmning%20via%20SOS%20Alarm%20vid%20f%C3%B6rstahj%C3%A4lpen-larm%20i%20sk%C3%A4rg%C3%A5rdsmilj%C3%B6&fileSize=145579",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Idéburet offentligt partnerskap mellan Svenska Sjöräddningssällskapet och Västra Götalandsregionen 260429",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511865.PDF?fileName=Ide%CC%81buret%20offentligt%20partnerskap%20mellan%20Svenska%20Sjo%CC%88ra%CC%88ddningssa%CC%88llskapet%20och%20Va%CC%88stra%20Go%CC%88talandsregionen%20260429&fileSize=236062",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "364206",
+          "title": "167 - Nytillkomna riktade statsbidrag hälso- och sjukvård 2026 samt justering statsbidrag 2025",
+          "documents": [
+            {
+              "title": "Nytillkomna riktade statsbidrag hälso- och sjukvård 2026 samt justering statsbidrag 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4472762.PDF?fileName=Nytillkomna%20riktade%20statsbidrag%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%202026%20samt%20justering%20statsbidrag%202026&fileSize=256022",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Fördelning av nytillkomna riktade statsbidrag hälso- och sjukvård samt justering statsbidrag 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520331.PDF?fileName=F%C3%B6rdelning%20av%20nytillkomna%20riktade%20statsbidrag%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20samt%20justering%20statsbidrag%202026&fileSize=48307",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367142",
+          "title": "168 - Medel för flickors och kvinnors hälsa 2026",
+          "documents": [
+            {
+              "title": "Medel för flickors och kvinnors hälsa 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4534259.PDF?fileName=Medel%20f%C3%B6r%20flickors%20och%20kvinnors%20h%C3%A4lsa%202026&fileSize=138180",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "365886",
+          "title": "169 - Avrapportering av slutrapport – Uppdrag att säkerställa struktur och arbetssätt för utbildningsuppdraget för specialisttjänstgöring inom allmänmedicin",
+          "documents": [
+            {
+              "title": "Återrapport av uppdrag att säkerställa struktur och arbetssätt för utbildningsuppdraget för specialisttjänstgöring inom allmänmedicin",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4521497.PDF?fileName=%C3%85terrapport%20av%20uppdrag%20att%20s%C3%A4kerst%C3%A4lla%20struktur%20och%20arbetss%C3%A4tt%20f%C3%B6r%20utbildningsuppdraget%20f%C3%B6r%20specialisttj%C3%A4nstg%C3%B6ring%20inom%20allm%C3%A4nmedicin&fileSize=167254",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366002",
+          "title": "170 - Svar på remiss om förslag till policy för Västra Götalandsregionens budgetprocess",
+          "documents": [
+            {
+              "title": "Svar på remiss om förslag till policy för Västra Götalandsregionens budgetprocess",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4507946.PDF?fileName=Svar%20p%C3%A5%20remiss%20om%20f%C3%B6rslag%20till%20policy%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionens%20budgetprocess&fileSize=114317",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Förslag till Policy för Västra Götalandsregionens budgetprocess",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4452043.PDF?fileName=F%C3%B6rslag%20till%20Policy%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionens%20budgetprocess&fileSize=102364",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366094",
+          "title": "171 - Svar på återremiss: Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+          "documents": [
+            {
+              "title": "Svar på återremiss: Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4507542.PDF?fileName=Svar%20p%C3%A5%20%C3%A5terremiss%3A%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=173843",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Beslut från regionfullmäktige 2026-02-17 § 18 - Motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4433686.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-02-17%20%C2%A7%2018%20-%20Motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=53915",
+              "category": "Bilaga"
+            },
+            {
+              "title": "RF 2026-02-17 - Bilaga § 18a  Yrkande (RGL)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4433687.PDF?fileName=RF%202026-02-17%20-%20Bilaga%20%C2%A7%2018a%20%20Yrkande%20(RGL)&fileSize=172338",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/3963259.PDF?fileName=Motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=77196",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 20 januari 2026 - Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4381069.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%2020%20januari%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=155245",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4107566.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=139866",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2025-12-16 § 427 - Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den\nspecialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4360611.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202025-12-16%20%C2%A7%20427%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%0Aspecialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=109724",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från delregional nämnd östra 2025-12-18 § 179 - Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den sepcialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4355301.PDF?fileName=Beslut%20fr%C3%A5n%20delregional%20n%C3%A4mnd%20%C3%B6stra%202025-12-18%20%C2%A7%20179%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20sepcialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=105580",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2025-12-09 § 262 - Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inomn den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4351475.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202025-12-09%20%C2%A7%20262%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inomn%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=160419",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från styrelsen för Södra Älvsborgs Sjukhus 2025-05-28 § 55 - Södra Älvsborgs Sjukhus yttrande över motion av Håkan Lösnitz (SD)( med flera om att införa Vårdval inom denb specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4158229.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20S%C3%B6dra%20%C3%84lvsborgs%20Sjukhus%202025-05-28%20%C2%A7%2055%20-%20S%C3%B6dra%20%C3%84lvsborgs%20Sjukhus%20yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)(%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20denb%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=59672",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från styrelsen för Skaraborgs Sjukhus sammanträde den 23 maj 2025 - Yttrande över motion av Håkan Lösnitz (SD) med flera om at...",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4147001.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Skaraborgs%20Sjukhus%20sammantr%C3%A4de%20den%2023%20maj%202025%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20at...&fileSize=118444",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "364131",
+          "title": "172 - Yttrande över motion av Angelica Lundgren Bielinski (M) och Peter Heie (C) om att utreda behovet av familjecentraler i fler kommuner i Västra Götaland",
+          "documents": [
+            {
+              "title": "Yttrande över motion av Angelica Lundgren Bielinski (M) och Peter Heie (C) om att utreda behovet av familjecentraler i fler kommuner i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4369583.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Angelica%20Lundgren%20Bielinski%20(M)%20och%20Peter%20Heie%20(C)%20om%20att%20utreda%20behovet%20av%20familjecentraler%20i%20fler%20kommuner%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=153196",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Motion av Angelica Lundgren Bielinski (M) och Peter Heie (C) om att utreda behovet av familjecentraler i fler kommuner i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4312828.PDF?fileName=Motion%20av%20Angelica%20Lundgren%20Bielinski%20(M)%20och%20Peter%20Heie%20(C)%20om%20att%20utreda%20behovet%20av%20familjecentraler%20i%20fler%20kommuner%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=108687",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "364139",
+          "title": "173 - Yttrande över motion av Lars Holmin (M) med flera om att öppna för upphandling enligt Lag (2008:962) om valfrihetssystem (LOV) inom endoskopi",
+          "documents": [
+            {
+              "title": "Yttrande över motion av Lars Holmin (M) med flera om att öppna för upphandling enligt Lag (2008:962) om valfrihetssystem (LOV) inom endoskopi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4353977.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Lars%20Holmin%20(M)%20med%20flera%20om%20att%20%C3%B6ppna%20f%C3%B6r%20upphandling%20enligt%20Lag%20(2008%3A962)%20om%20valfrihetssystem%20(LOV)%20inom%20endoskopi&fileSize=147754",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Motion av Lars Holmin (M) med flera om att öppna för upphandling om valfrihetssystem inom endoskopi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4270804.PDF?fileName=Motion%20av%20Lars%20Holmin%20(M)%20med%20flera%20om%20att%20%C3%B6ppna%20f%C3%B6r%20upphandling%20om%20valfrihetssystem%20inom%20endoskopi&fileSize=105403",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "364140",
+          "title": "174 - Yttrande över motion av Lars Holmin (M) med flera om att öppna för upphandling enligt Lag (2008:962) om valfrihetssystem (LOV) inom höft- och knäprotesoperationer",
+          "documents": [
+            {
+              "title": "Yttrande över motion av Lars Holmin (M) med flera om att öppna för upphandling enligt Lag (2008:962) om valfrihetssystem (LOV) inom höft- och knäprotesoperationer",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4319790.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Lars%20Holmin%20(M)%20med%20flera%20om%20att%20%C3%B6ppna%20f%C3%B6r%20upphandling%20enligt%20Lag%20(2008%3A962)%20om%20valfrihetssystem%20(LOV)%20inom%20h%C3%B6ft-%20och%20kn%C3%A4protesoperationer&fileSize=148891",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Motion av Lars Holmin (M) med flera om att öppna för upphandling om valfrihetssystem inom höft- och knäprotesoperationer",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4270813.PDF?fileName=Motion%20av%20Lars%20Holmin%20(M)%20med%20flera%20om%20att%20%C3%B6ppna%20f%C3%B6r%20upphandling%20om%20valfrihetssystem%20inom%20h%C3%B6ft-%20och%20kn%C3%A4protesoperationer&fileSize=115601",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366904",
+          "title": "175 - Bordlagt ärende - Yrkande från Sverigedemokraterna om utökning av reproduktionsmedicinsk vård i Västra Götaland",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från operativa hälso- och sjukvårdsnämndens sammanträde den 22 april 2026 - Utökning av reproduktionsmedicinsk vård i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4518622.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2022%20april%202026%20-%20Ut%C3%B6kning%20av%20reproduktionsmedicinsk%20v%C3%A5rd%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=65292",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Yrkande från SD om utökning av reproduktionsmedicinsk vård i VGR",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4543152.PDF?fileName=Yrkande%20fr%C3%A5n%20SD%20om%20ut%C3%B6kning%20av%20reproduktionsmedicinsk%20v%C3%A5rd%20i%20VGR&fileSize=105791",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367480",
+          "title": "176 - Yrkande från Moderaterna, Kristdemokraterna, Centerpartiet och Liberalerna om att upphandla vårdkapacitet för att säkerställa fortsatt vård på Hisingen",
+          "documents": [
+            {
+              "title": "Yrkande från M, KD, C och L om att upphandla vårdkapacitet för att säkerställa fortsatt vård på Hisingen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539777.PDF?fileName=Yrkande%20fr%C3%A5n%20M%2C%20KD%2C%20C%20och%20L%20om%20att%20upphandla%20v%C3%A5rdkapacitet%20f%C3%B6r%20att%20s%C3%A4kerst%C3%A4lla%20fortsatt%20v%C3%A5rd%20p%C3%A5%20Hisingen&fileSize=129058",
+              "category": "Handling upprättad"
+            }
+          ]
+        },
+        {
+          "agendaId": "366447",
+          "title": "177 - Uppföljning av plan för intern kontroll 2026 för operativa hälso- och sjukvårdsnämnden",
+          "documents": [
+            {
+              "title": "Uppföljning av plan för intern kontroll 2026 för operativa hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519729.PDF?fileName=Uppf%C3%B6ljning%20av%20plan%20f%C3%B6r%20intern%20kontroll%202026%20f%C3%B6r%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=107895",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppföljning Plan för intern kontroll operativa hälso- och sjukvårdsnämnden per april 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537555.PDF?fileName=Uppf%C3%B6ljning%20Plan%20f%C3%B6r%20intern%20kontroll%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20per%20april%202026&fileSize=165344",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366957",
+          "title": "178 - Information om styrning och utveckling av 1177",
+          "documents": [
+            {
+              "title": "Information om styrning och utveckling av 1177",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4530773.PDF?fileName=Information%20om%20styrning%20och%20utveckling%20av%201177&fileSize=91286",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366384",
+          "title": "179 - Undertecknande av uppdaterade avtalshandlingar för Krav– och kvalitetsbok Vårdval rehab samt Krav- och kvalitetsbok Vårdval vårdcentral",
+          "documents": [
+            {
+              "title": "Undertecknande av uppdaterade avtal Krav – och kvalitetsbok Vårdval rehab och Krav och kvalitetsbok Vårdval vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4516714.PDF?fileName=Undertecknande%20av%20uppdaterade%20avtal%20Krav%20%E2%80%93%20och%20kvalitetsbok%20V%C3%A5rdval%20rehab%20och%20Krav%20och%20kvalitetsbok%20V%C3%A5rdval%20v%C3%A5rdcentral&fileSize=109777",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "365371",
+          "title": "180 - Beredningen informerar",
+          "documents": []
+        },
+        {
+          "agendaId": "364133",
+          "title": "181 - Presidiet informerar",
+          "documents": []
+        },
+        {
+          "agendaId": "364134",
+          "title": "182 - Ansvarig tjänsteperson  informerar",
+          "documents": []
+        },
+        {
+          "agendaId": "367830",
+          "title": "183 - Tillkommande ärende: Yrkande från Socialdemokraterna, Vänsterpartiet och Miljöpartiet om att framtidssäkra vården på Lundby sjukhus",
+          "documents": []
+        },
+        {
+          "agendaId": "367831",
+          "title": "184 - Tillkommande ärende: Yrkande från Sverigedemokraterna om att bevara sjukhuset på Hisingen",
+          "documents": []
+        },
+        {
+          "agendaId": "367832",
+          "title": "185 - Tillkommande ärende:  Yrkande från Kristdemokraterna, Moderaterna, Centerpartiet och Liberalerna om att barn ska få logopedstöd i tid och nära hemmet",
+          "documents": []
+        },
+        {
+          "agendaId": "365396",
+          "title": "Avskrivningar av kundfakturor 2025",
+          "documents": [
+            {
+              "title": "Avskrivningar av kundfakturor 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4354129.PDF?fileName=Avskrivningar%20av%20kundfakturor%202025&fileSize=98296",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "365874",
+          "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Susan (f d Ibtesam) Lundgren, vårdgivarkod 0308",
+          "documents": [
+            {
+              "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Susan (f d Ibtesam) Lundgren, vårdgivarkod 0308",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4493383.PDF?fileName=Tilldelningsbeslut%20f%C3%B6r%20f%C3%B6rs%C3%A4ljning%20av%20ers%C3%A4ttningsetablering%20enligt%20lag%20(1993%3A1651)%20om%20l%C3%A4karv%C3%A5rdsers%C3%A4ttning%20g%C3%A4llande%20Susan%20(f%20d%20Ibtesam)%20Lundgren%2C%20v%C3%A5rdgivarkod%200308&fileSize=97550",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "365875",
+          "title": "Beslut om samverkansavtal enligt lag (1993:1651) om\nläkarvårdsersättning inom allmänmedicin mellan operativa hälso- och sjukvårdsnämnden och\nZahid Al-Gburi, vårdgivarkod 0195",
+          "documents": [
+            {
+              "title": "Beslut om samverkansavtal enligt lag (1993:1651) om\r\nläkarvårdsersättning inom allmänmedicin mellan operativa hälso- och sjukvårdsnämnden och\r\nZahid Al-Gburi, vårdgivarkod 0195",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490620.PDF?fileName=Beslut%20om%20samverkansavtal%20enligt%20lag%20(1993%3A1651)%20om%0D%0Al%C3%A4karv%C3%A5rdsers%C3%A4ttning%20inom%20allm%C3%A4nmedicin%20mellan%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20och%0D%0AZahid%20Al-Gburi%2C%20v%C3%A5rdgivarkod%200195&fileSize=95706",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "366234",
+          "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Närhälsan Oden vårdcentral",
+          "documents": [
+            {
+              "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Närhälsan Oden vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4492470.PDF?fileName=%C3%85terkrav%20av%20utbetald%20ers%C3%A4ttning%20f%C3%B6r%20till%C3%A4ggsuppdrag%20Ungas%20Psykiska%20H%C3%A4lsa%20(UPH)%202025%2C%20N%C3%A4rh%C3%A4lsan%20Oden%20v%C3%A5rdcentral&fileSize=101938",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366235",
+          "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Kvarterskliniken Lorensberg",
+          "documents": [
+            {
+              "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Kvarterskliniken Lorensberg",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4446907.PDF?fileName=%C3%85terkrav%20av%20utbetald%20ers%C3%A4ttning%20f%C3%B6r%20till%C3%A4ggsuppdrag%20Ungas%20Psykiska%20H%C3%A4lsa%20(UPH)%202025%2C%20Kvarterskliniken%20Lorensberg&fileSize=112397",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "366236",
+          "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Omtanken Vårdcentral Kviberg",
+          "documents": [
+            {
+              "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Omtanken Vårdcentral Kviberg",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4447024.PDF?fileName=%C3%85terkrav%20av%20utbetald%20ers%C3%A4ttning%20f%C3%B6r%20till%C3%A4ggsuppdrag%20Ungas%20Psykiska%20H%C3%A4lsa%20(UPH)%202025%2C%20Omtanken%20V%C3%A5rdcentral%20Kviberg&fileSize=112625",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "366237",
+          "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Medpro Clinic Brålanda-Torpa UPH",
+          "documents": [
+            {
+              "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Medpro Clinic Brålanda-Torpa UPH",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4447254.PDF?fileName=%C3%85terkrav%20av%20utbetald%20ers%C3%A4ttning%20f%C3%B6r%20till%C3%A4ggsuppdrag%20Ungas%20Psykiska%20H%C3%A4lsa%20(UPH)%202025%2C%20Medpro%20Clinic%20Br%C3%A5landa-Torpa%20UPH&fileSize=112819",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "366238",
+          "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Omtanken Vårdcentral Pedagogen Park",
+          "documents": [
+            {
+              "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Omtanken Vårdcentral Pedagogen Park",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4447003.PDF?fileName=%C3%85terkrav%20av%20utbetald%20ers%C3%A4ttning%20f%C3%B6r%20till%C3%A4ggsuppdrag%20Ungas%20Psykiska%20H%C3%A4lsa%20(UPH)%202025%2C%20Omtanken%20V%C3%A5rdcentral%20Pedagogen%20Park&fileSize=111114",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "366239",
+          "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Medpro Clinic Lilla Edet Vårdcentral",
+          "documents": [
+            {
+              "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Medpro Clinic Lilla Edet Vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4463606.PDF?fileName=%C3%85terkrav%20av%20utbetald%20ers%C3%A4ttning%20f%C3%B6r%20till%C3%A4ggsuppdrag%20Ungas%20Psykiska%20H%C3%A4lsa%20(UPH)%202025%2C%20Medpro%20Clinic%20Lilla%20Edet%20V%C3%A5rdcentral&fileSize=111523",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "366240",
+          "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Sjöstadens Vårdcentral",
+          "documents": [
+            {
+              "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Sjöstadens Vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4446892.PDF?fileName=%C3%85terkrav%20av%20utbetald%20ers%C3%A4ttning%20f%C3%B6r%20till%C3%A4ggsuppdrag%20Ungas%20Psykiska%20H%C3%A4lsa%20(UPH)%202025%2C%20Sj%C3%B6stadens%20V%C3%A5rdcentral&fileSize=121048",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "366241",
+          "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Närhälsan Skene vårdcentral",
+          "documents": [
+            {
+              "title": "Återkrav av utbetald ersättning för tilläggsuppdrag Ungas Psykiska Hälsa (UPH) 2025, Närhälsan Skene vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4493011.PDF?fileName=%C3%85terkrav%20av%20utbetald%20ers%C3%A4ttning%20f%C3%B6r%20till%C3%A4ggsuppdrag%20Ungas%20Psykiska%20H%C3%A4lsa%20(UPH)%202025%2C%20N%C3%A4rh%C3%A4lsan%20Skene%20v%C3%A5rdcentral&fileSize=110067",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "366418",
+          "title": "Ansökan om förändrad storlek i tilläggsuppdrag Ungas Psykiska Hälsa (UPH) inom Vårdval Vårdcentral för enhet Medpro Clinic Noltorp",
+          "documents": [
+            {
+              "title": "Ansökan om förändrad storlek i tilläggsuppdrag Ungas Psykiska Hälsa (UPH) inom Vårdval Vårdcentral för enhet Medpro Clinic Noltorp Vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4502408.PDF?fileName=Ans%C3%B6kan%20om%20f%C3%B6r%C3%A4ndrad%20storlek%20i%20till%C3%A4ggsuppdrag%20Ungas%20Psykiska%20H%C3%A4lsa%20(UPH)%20inom%20V%C3%A5rdval%20V%C3%A5rdcentral%20f%C3%B6r%20enhet%20Medpro%20Clinic%20Noltorp%20V%C3%A5rdcentral&fileSize=104644",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366419",
+          "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
+          "documents": [
+            {
+              "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4501071.PDF?fileName=F%C3%B6r%C3%A4ndringar%20i%20uppdrag%202026%20inom%20ramen%20f%C3%B6r%20tillg%C3%A4nglighetsarbetet&fileSize=180964",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "366650",
+          "title": "Beslut om att Liudmila Sokolovas rätt till ersättning enligt lag (1993:1651) om läkarvårdsersättning upphört och om avregistrering från förteckningen över läkare verksamma enligt samma lag",
+          "documents": [
+            {
+              "title": "Beslut om att Liudmila Sokolovas rätt till ersättning enligt lag (1993:1651) om läkarvårdsersättning upphört och om avregistrering från förteckningen över läkare verksamma enligt samma lag",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4461236.PDF?fileName=Beslut%20om%20att%20Liudmila%20Sokolovas%20r%C3%A4tt%20till%20ers%C3%A4ttning%20enligt%20lag%20(1993%3A1651)%20om%20l%C3%A4karv%C3%A5rdsers%C3%A4ttning%20upph%C3%B6rt%20och%20om%20avregistrering%20fr%C3%A5n%20f%C3%B6rteckningen%20%C3%B6ver%20l%C3%A4kare%20verksamma%20enligt%20samma%20lag&fileSize=113511",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "367219",
+          "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1652) om ersättning för fysioterapi gällande Christer Söderling, vårdgivarkod 0145",
+          "documents": [
+            {
+              "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1652) om ersättning för fysioterapi gällande Christer Söderling, vårdgivarkod 0145",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511639.PDF?fileName=Tilldelningsbeslut%20f%C3%B6r%20f%C3%B6rs%C3%A4ljning%20av%20ers%C3%A4ttningsetablering%20enligt%20lag%20(1993%3A1652)%20om%20ers%C3%A4ttning%20f%C3%B6r%20fysioterapi%20g%C3%A4llande%20Christer%20S%C3%B6derling%2C%20v%C3%A5rdgivarkod%200145&fileSize=97046",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "367220",
+          "title": "Anmälan om ändrade ägarförhållanden för Backaplan Vårdcentral och BVC",
+          "documents": [
+            {
+              "title": "Anmälan om ändrade ägarförhållanden för Backaplan Vårdcentral och BVC",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519905.PDF?fileName=Anm%C3%A4lan%20om%20%C3%A4ndrade%20%C3%A4garf%C3%B6rh%C3%A5llanden%20f%C3%B6r%20Backaplan%20V%C3%A5rdcentral%20och%20BVC&fileSize=116796",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "367221",
+          "title": "Anmälan om ändrade\nägarförhållanden för Hönö Vårdcentral AB för enhet Hönö Vårdcentral",
+          "documents": [
+            {
+              "title": "Anmälan om ändrade\r\nägarförhållanden för Hönö Vårdcentral AB för enhet Hönö Vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4492907.PDF?fileName=Anm%C3%A4lan%20om%20%C3%A4ndrade%0D%0A%C3%A4garf%C3%B6rh%C3%A5llanden%20f%C3%B6r%20H%C3%B6n%C3%B6%20V%C3%A5rdcentral%20AB%20f%C3%B6r%20enhet%20H%C3%B6n%C3%B6%20V%C3%A5rdcentral&fileSize=109417",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "365832",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 46 -- Årsredovisning 2025 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 46 -- Årsredovisning 2025 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497973.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2046%20--%20%C3%85rsredovisning%202025%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=97255",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Årsredovisning 2025 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497974.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20%C3%85rsredovisning%202025%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=151272",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Årsredovisning för Västra Götalandsregionen 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497975.PDF?fileName=%C3%85rsredovisning%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%202025&fileSize=8343701",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Slutredovisning byggprojekt 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497976.PDF?fileName=Slutredovisning%20byggprojekt%202025&fileSize=60745",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365833",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 45 - \nBokslutsdispositioner 2025",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 45 - \nBokslutsdispositioner 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497893.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2045%20-%20%0ABokslutsdispositioner%202025&fileSize=93597",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Bokslutsdispositioner 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497894.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Bokslutsdispositioner%202025&fileSize=227321",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bokslutsdispositioner 2025 (1)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497895.PDF?fileName=Bokslutsdispositioner%202025%20(1)&fileSize=63976",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365834",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 47 -\nRevisionsberättelser och ansvarsprövning av 2025 års verksamhet",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 47 -\nRevisionsberättelser och ansvarsprövning av 2025 års verksamhet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498639.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2047%20-%0ARevisionsber%C3%A4ttelser%20och%20ansvarspr%C3%B6vning%20av%202025%20%C3%A5rs%20verksamhet&fileSize=102733",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Revisionsberättelser och ansvarsprövning av 2025 års verksamhet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498640.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Revisionsber%C3%A4ttelser%20och%20ansvarspr%C3%B6vning%20av%202025%20%C3%A5rs%20verksamhet&fileSize=115105",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Följebrev till RF – Revisionens granskning av  verksamhetsåret 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498641.PDF?fileName=Fo%CC%88ljebrev%20till%20RF%20%E2%80%93%20Revisionens%20granskning%20av%20%20verksamhets%C3%A5ret%202025&fileSize=64799",
+              "category": "Bilaga"
+            },
+            {
+              "title": "1. Revisionsberättelse 2025 gällande regionens nämnder, styrelser och räkenskaper",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498642.PDF?fileName=1.%20Revisionsber%C3%A4ttelse%202025%20g%C3%A4llande%20regionens%20n%C3%A4mnder%2C%20styrelser%20och%20r%C3%A4kenskaper&fileSize=168116",
+              "category": "Bilaga"
+            },
+            {
+              "title": "2. Revisionens redogörelse 2025 – en bilaga till revisionsberättelsen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498643.PDF?fileName=2.%20Revisionens%20redogo%CC%88relse%202025%20%E2%80%93%20en%20bilaga%20till%20revisionsbera%CC%88ttelsen&fileSize=361917",
+              "category": "Bilaga"
+            },
+            {
+              "title": "3. Revisorernas bedömning av delårsrapporten 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498644.PDF?fileName=3.%20Revisorernas%20bed%C3%B6mning%20av%20del%C3%A5rsrapporten%202025&fileSize=660355",
+              "category": "Bilaga"
+            },
+            {
+              "title": "4. Granskning av bokslut och årsredovisning 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498645.PDF?fileName=4.%20Granskning%20av%20bokslut%20och%20a%CC%8Arsredovisning%202025&fileSize=995139",
+              "category": "Bilaga"
+            },
+            {
+              "title": "5. Revisionsrapporter för styrelserna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498646.PDF?fileName=5.%20Revisionsrapporter%20f%C3%B6r%20styrelserna&fileSize=1027684",
+              "category": "Bilaga"
+            },
+            {
+              "title": "6. Revisionsrapporter för nämnderna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498647.PDF?fileName=6.%20Revisionsrapporter%20f%C3%B6r%20n%C3%A4mnderna&fileSize=1103061",
+              "category": "Bilaga"
+            },
+            {
+              "title": "7. Revisionsrapporter och granskningsrapporter för bolagen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498648.PDF?fileName=7.%20Revisionsrapporter%20och%20granskningsrapporter%20f%C3%B6r%20bolagen&fileSize=3963080",
+              "category": "Bilaga"
+            },
+            {
+              "title": "8. Revisionsrapporter från de fördjupade granskningarna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498649.PDF?fileName=8.%20Revisionsrapporter%20fr%C3%A5n%20de%20f%C3%B6rdjupade%20granskningarna&fileSize=1897011",
+              "category": "Bilaga"
+            },
+            {
+              "title": "9. Revisorernas rapport 2025 enligt lagen om insyn i vissa finansiella förbindelser m.m",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498650.PDF?fileName=9.%20Revisorernas%20rapport%202025%20enligt%20lagen%20om%20insyn%20i%20vissa%20finansiella%20f%C3%B6rbindelser%20m.m&fileSize=120434",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365835",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 49 - Förslag till detaljutformning av den politiska organisationen 2027 till 2030",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 49 - Förslag till detaljutformning av den politiska organisationen 2027 till 2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498982.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2049%20-%20F%C3%B6rslag%20till%20detaljutformning%20av%20den%20politiska%20organisationen%202027%20till%202030&fileSize=109302",
+              "category": "Handling in"
+            },
+            {
+              "title": "Förslag till detaljutformning av den politiska organisationen 2027 till 2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498983.PDF?fileName=F%C3%B6rslag%20till%20detaljutformning%20av%20den%20politiska%20organisationen%202027%20till%202030&fileSize=161127",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Politisk organisation 2027-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498984.PDF?fileName=Politisk%20organisation%202027-2030&fileSize=844599",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365876",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 59 - Ersättare i operativa hälso- och sjukvårdsnämnden",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 59 - Ersättare i operativa hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4502600.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2059%20-%20Ers%C3%A4ttare%20i%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=69897",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "366480",
+          "title": "Beslut från regionstyrelsen 2026-04-28 § 101 - Regiongemensam plan för utveckling av säkerhet och civil beredskap 2026 - 2030",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-04-28 § 101 - Regiongemensam plan för utveckling av säkerhet och civil beredskap 2026 - 2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520402.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-04-28%20%C2%A7%20101%20-%20Regiongemensam%20plan%20f%C3%B6r%20utveckling%20av%20s%C3%A4kerhet%20och%20civil%20beredskap%202026%20-%202030&fileSize=85287",
+              "category": "Handling in"
+            },
+            {
+              "title": "Regiongemensam plan för utveckling av säkerhet och civil beredskap 2026 - 2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520403.PDF?fileName=Regiongemensam%20plan%20f%C3%B6r%20utveckling%20av%20s%C3%A4kerhet%20och%20civil%20beredskap%202026%20-%202030&fileSize=118888",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regiongemensam plan för utveckling av säkerhet och civil beredskap 2026 - 2030 (2)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520404.PDF?fileName=Regiongemensam%20plan%20f%C3%B6r%20utveckling%20av%20s%C3%A4kerhet%20och%20civil%20beredskap%202026%20-%202030%20(2)&fileSize=539382",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366583",
+          "title": "Beslut från regionstyrelsen 2026-04-28 § 108 - Nationell högspecialiserad vård avseende Endokrin oftalmopati",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-04-28 § 108 - Nationell högspecialiserad vård avseende Endokrin oftalmopati",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520800.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-04-28%20%C2%A7%20108%20-%20Nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20Endokrin%20oftalmopati&fileSize=97245",
+              "category": "Handling in"
+            },
+            {
+              "title": "Nationell högspecialiserad vård avseende Endokrin oftalmopati",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520801.PDF?fileName=Nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20Endokrin%20oftalmopati&fileSize=141766",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regional konsekvensbeskrivning NHV Endokrin oftalmopati",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520802.PDF?fileName=Regional%20konsekvensbeskrivning%20NHV%20Endokrin%20oftalmopati&fileSize=499542",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366481",
+          "title": "Beslut från regionstyrelsen 2026-04-28 § 105 - Ansökan om att få bedriva nationell högspecialiserad vård avseende trakealkirurgi",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-04-28 § 105 - Ansökan om att få bedriva nationell högspecialiserad vård avseende trakealkirurgi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520479.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-04-28%20%C2%A7%20105%20-%20Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20trakealkirurgi&fileSize=100546",
+              "category": "Handling in"
+            },
+            {
+              "title": "Ansökan om att få bedriva nationell högspecialiserad vård avseende trakealkirurgi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520480.PDF?fileName=Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20trakealkirurgi&fileSize=192293",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regional konsekvensbeskrivning NHV Trakealkirurgi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520481.PDF?fileName=Regional%20konsekvensbeskrivning%20NHV%20Trakealkirurgi&fileSize=634268",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366482",
+          "title": "Beslut från regionstyrelsen 2026-04-28 § 106 - Ansökan om att få bedriva nationell högspecialiserad vård avseende perifera luftvägsfistlar",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-04-28 § 106 - Ansökan om att få bedriva nationell högspecialiserad vård avseende perifera luftvägsfistlar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520752.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-04-28%20%C2%A7%20106%20-%20Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20perifera%20luftv%C3%A4gsfistlar&fileSize=100356",
+              "category": "Handling in"
+            },
+            {
+              "title": "Ansökan om att få bedriva nationell högspecialiserad vård avseende perifera luftvägsfistlar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520753.PDF?fileName=Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20perifera%20luftv%C3%A4gsfistlar&fileSize=152700",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regional konsekvensbeskrivning NHV Komplicerade fistlar i perifera luftvägarna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520754.PDF?fileName=Regional%20konsekvensbeskrivning%20NHV%20Komplicerade%20fistlar%20i%20perifera%20luftv%C3%A4garna&fileSize=631217",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366483",
+          "title": "Beslut från regionstyrelsen 2026-04-28 § 107 - Ansökan om att få bedriva nationell högspecialiserad vård avseende sällsynta motorikstörningar",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-04-28 § 107 - Ansökan om att få bedriva nationell högspecialiserad vård avseende sällsynta motorikstörningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520771.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-04-28%20%C2%A7%20107%20-%20Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20s%C3%A4llsynta%20motorikst%C3%B6rningar&fileSize=101283",
+              "category": "Handling in"
+            },
+            {
+              "title": "Ansökan om att få bedriva nationell högspecialiserad vård avseende sällsynta motorikstörningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520772.PDF?fileName=Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20s%C3%A4llsynta%20motorikst%C3%B6rningar&fileSize=166325",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regional konsekvensbeskrivning NHV Sällsynta motorikstörningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520773.PDF?fileName=Regional%20konsekvensbeskrivning%20NHV%20S%C3%A4llsynta%20motorikst%C3%B6rningar&fileSize=767877",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365398",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-03-25 § 59 - Slutrapport: Omhändertagande av uppdrag kopplade till akut och oplanerad vård",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-03-25 § 59 - Slutrapport: Omhändertagande av uppdrag kopplade till akut och oplanerad vård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4482109.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-25%20%C2%A7%2059%20-%20Slutrapport%3A%20Omh%C3%A4ndertagande%20av%20uppdrag%20kopplade%20till%20akut%20och%20oplanerad%20v%C3%A5rd&fileSize=183748",
+              "category": "Handling in"
+            },
+            {
+              "title": "Slutrapport- Omhändertagande av uppdrag kopplade till akut och oplanerad vård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4482110.PDF?fileName=Slutrapport-%20Omh%C3%A4ndertagande%20av%20uppdrag%20kopplade%20till%20akut%20och%20oplanerad%20v%C3%A5rd&fileSize=253756",
+              "category": "Bilaga"
+            },
+            {
+              "title": "(Bilaga § 59) Yrkande (presidiet) Slutrapport- Omhändertagande av uppdrag kopplade till akut och oplanerad vård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4482111.PDF?fileName=(Bilaga%20%C2%A7%2059)%20Yrkande%20(presidiet)%20Slutrapport-%20Omh%C3%A4ndertagande%20av%20uppdrag%20kopplade%20till%20akut%20och%20oplanerad%20v%C3%A5rd&fileSize=74059",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366226",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-04-21 § 83 - Plan för hälso- och sjukvårdens utbud och lokalisering i Västra Götaland",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-04-21 § 83 - Plan för hälso- och sjukvårdens utbud och lokalisering i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4510659.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-21%20%C2%A7%2083%20-%20Plan%20f%C3%B6r%20h%C3%A4lso-%20och%20sjukv%C3%A5rdens%20utbud%20och%20lokalisering%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=98172",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Plan för hälso- och sjukvårdens utbud och lokalisering i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4510661.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Plan%20f%C3%B6r%20h%C3%A4lso-%20och%20sjukv%C3%A5rdens%20utbud%20och%20lokalisering%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=171608",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Plan för hälso- och sjukvårdens utbud och lokalisering i Västra Götaland (1)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4510660.PDF?fileName=Plan%20f%C3%B6r%20h%C3%A4lso-%20och%20sjukv%C3%A5rdens%20utbud%20och%20lokalisering%20i%20V%C3%A4stra%20G%C3%B6taland%20(1)&fileSize=275281",
+              "category": "Bilaga"
+            },
+            {
+              "title": "§ 83 Protokollsanteckning (SD) Plan för hälso- och sjukvårdens utbud och lokalisering i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4510662.PDF?fileName=%C2%A7%2083%20Protokollsanteckning%20(SD)%20Plan%20f%C3%B6r%20h%C3%A4lso-%20och%20sjukv%C3%A5rdens%20utbud%20och%20lokalisering%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=185653",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366227",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-04-21 § 95 - Information om omhändertagande av barn och unga med obesitas i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-04-21 § 95 - Information om omhändertagande av barn och unga med obesitas i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511967.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-21%20%C2%A7%2095%20-%20Information%20om%20omh%C3%A4ndertagande%20av%20barn%20och%20unga%20med%20obesitas%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=70995",
+              "category": "Handling in"
+            },
+            {
+              "title": "Information om omhändertagande av barn och unga med obesitas i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511968.PDF?fileName=Information%20om%20omh%C3%A4ndertagande%20av%20barn%20och%20unga%20med%20obesitas%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=104652",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366228",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-04-21 § 85 - Slutrapport - Utökat och likvärdigt stöd för barn och familjer i utsatta situationer",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-04-21 § 85 - Slutrapport - Utökat och likvärdigt stöd för barn och familjer i utsatta situationer",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511919.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-21%20%C2%A7%2085%20-%20Slutrapport%20-%20Ut%C3%B6kat%20och%20likv%C3%A4rdigt%20st%C3%B6d%20f%C3%B6r%20barn%20och%20familjer%20i%20utsatta%20situationer&fileSize=105142",
+              "category": "Handling in"
+            },
+            {
+              "title": "Slutrapport - Utökat och likvärdigt stöd för barn och familjer i utsatta situationer",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511920.PDF?fileName=Slutrapport%20-%20Ut%C3%B6kat%20och%20likv%C3%A4rdigt%20st%C3%B6d%20f%C3%B6r%20barn%20och%20familjer%20i%20utsatta%20situationer&fileSize=160805",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366229",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-04-21 § 84 - Länsgemensam riktlinje - Patientsäkerhet och avvikelser mellan vårdgivare i Västra Götalands län",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-04-21 § 84 - Länsgemensam riktlinje - Patientsäkerhet och avvikelser mellan vårdgivare i Västra Götalands län",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4510782.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-21%20%C2%A7%2084%20-%20L%C3%A4nsgemensam%20riktlinje%20-%20Patients%C3%A4kerhet%20och%20avvikelser%20mellan%20v%C3%A5rdgivare%20i%20V%C3%A4stra%20G%C3%B6talands%20l%C3%A4n&fileSize=104517",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Länsgemensam riktlinje - Patientsäkerhet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4510783.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20L%C3%A4nsgemensam%20riktlinje%20-%20Patients%C3%A4kerhet&fileSize=151887",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366230",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-04-21 § 87 - Länsgemensam handlingsplan för psykisk hälsa och suicidprevention 2025 och 2026",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-04-21 § 87 - Länsgemensam handlingsplan för psykisk hälsa och suicidprevention 2025 och 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511016.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-21%20%C2%A7%2087%20-%20L%C3%A4nsgemensam%20handlingsplan%20f%C3%B6r%20psykisk%20h%C3%A4lsa%20och%20suicidprevention%202025%20och%202026&fileSize=72857",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Länsgemensam handlingsplan för psykisk hälsa och suicidprevention 2025 och 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511017.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20L%C3%A4nsgemensam%20handlingsplan%20f%C3%B6r%20psykisk%20h%C3%A4lsa%20och%20suicidprevention%202025%20och%202026&fileSize=120949",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366584",
+          "title": "Protokoll  beredningen för krav- och kvalitetsböcker 2026-04-29",
+          "documents": [
+            {
+              "title": "Protokoll  beredningen för krav- och kvalitetsböcker 2026-04-29",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4507722.PDF?fileName=Protokoll%20%20beredningen%20f%C3%B6r%20krav-%20och%20kvalitetsb%C3%B6cker%202026-04-29&fileSize=645170",
+              "category": "Protokoll"
+            }
+          ]
+        },
+        {
+          "agendaId": "366965",
+          "title": "Beslut från delregional nämnd norra 2026-04-29 § 25 -  Nomineringsärende till operativa hälso- och sjukvårdsnämnden avseende samverkansavtal mellan Västra Götalandsregionen och Region Värmland",
+          "documents": [
+            {
+              "title": "Beslut från delregional nämnd norra 2026-04-29 § 25 -  Nomineringsärende till operativa hälso- och sjukvårdsnämnden avseende samverkansavtal mellan Västra Götalandsregionen och Region Värmland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4528618.PDF?fileName=Beslut%20fr%C3%A5n%20delregional%20n%C3%A4mnd%20norra%202026-04-29%20%C2%A7%2025%20-%20%20Nominerings%C3%A4rende%20till%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20avseende%20samverkansavtal%20mellan%20V%C3%A4stra%20G%C3%B6talandsregionen%20och%20Region%20V%C3%A4rmland&fileSize=85145",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "365941",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-04-21 § 38 -Hantering av flytt av ungdomsmottagning i Lidköping",
+          "documents": [
+            {
+              "title": "Beslut från styrelsen för Regionhälsan 2026-04-21 § 38 - Hantering av flytt av ungdomsmottagning i Lidköping",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4506792.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Regionh%C3%A4lsan%202026-04-21%20%C2%A7%2038%20-%20Hantering%20av%20flytt%20av%20ungdomsmottagning%20i%20Lidk%C3%B6ping&fileSize=80166",
+              "category": "Handling in"
+            },
+            {
+              "title": "Hantering av flytt av ungdomsmottagning i Lidköping",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4506793.PDF?fileName=Hantering%20av%20flytt%20av%20ungdomsmottagning%20i%20Lidk%C3%B6ping&fileSize=113391",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Hantering av flytt av ungdomsmottagningen i Lidköping",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4506794.PDF?fileName=Hantering%20av%20flytt%20av%20ungdomsmottagningen%20i%20Lidk%C3%B6ping&fileSize=99597",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslutsärende 6  bilaga 1",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4506795.PDF?fileName=Besluts%C3%A4rende%206%20%20bilaga%201&fileSize=49748",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366232",
+          "title": "Beslut från styrelsen för Närhälsan 2026-04-22 § 47 -\nUppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Närhälsan angående avslut av bassängverksamhet Lundbybadet",
+          "documents": [
+            {
+              "title": "Beslut från styrelsen för Närhälsan 2026-04-22 § 47 -\nUppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Närhälsan angående avslut av bassängverksamhet Lundbybadet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4513828.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20N%C3%A4rh%C3%A4lsan%202026-04-22%20%C2%A7%2047%20-%0AUppdrag%202027%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20till%20styrelsen%20f%C3%B6r%20N%C3%A4rh%C3%A4lsan%20ang%C3%A5ende%20avslut%20av%20bass%C3%A4ngverksamhet%20Lundbybadet&fileSize=65059",
+              "category": "Handling in"
+            },
+            {
+              "title": "Uppdrag 2027 från Operativa hälso- och sjukvårdsnämnden till styrelsen för Närhälsan angående avslut av bassängverksamhet Lundby",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4513829.PDF?fileName=Uppdrag%202027%20fr%C3%A5n%20Operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20till%20styrelsen%20f%C3%B6r%20N%C3%A4rh%C3%A4lsan%20ang%C3%A5ende%20avslut%20av%20bass%C3%A4ngverksamhet%20Lundby&fileSize=116070",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367124",
+          "title": "Beslut från personalutskottet 2026-05-12 § 22 - sammanträde den 12 maj 2026 - Årlig uppföljning systematisk arbetsmiljöarbete 2025 - resultat och förslag på åtgärder",
+          "documents": [
+            {
+              "title": "Beslut från personalutskottet 2026-05-12 § 22 - Årlig uppföljning systematisk arbetsmiljöarbete 2025 - resultat och förslag på åtgärder",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4531389.PDF?fileName=Beslut%20fr%C3%A5n%20personalutskottet%202026-05-12%20%C2%A7%2022%20-%20%C3%85rlig%20uppf%C3%B6ljning%20systematisk%20arbetsmilj%C3%B6arbete%202025%20-%20resultat%20och%20f%C3%B6rslag%20p%C3%A5%20%C3%A5tg%C3%A4rder&fileSize=102812",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "367361",
+          "title": "Beslut från patientnämnd Göteborg 2026-05-12 § 13 - Analysrapport: När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från patientnämnd Göteborgs sammanträde den 12 maj 2026 - Analysrapport- När barnet är patient - Närståendes kl",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537297.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20patientn%C3%A4mnd%20G%C3%B6teborgs%20sammantr%C3%A4de%20den%2012%20maj%202026%20-%20Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20kl&fileSize=77253",
+              "category": "Handling in"
+            },
+            {
+              "title": "Analysrapport- När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537298.PDF?fileName=Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20klagom%C3%A5l%20till%20patientn%C3%A4mnden%202025%20g%C3%A4llande%20barn%200-9%20%C3%A5r&fileSize=137962",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Analysrapport- När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537299.PDF?fileName=Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20klagom%C3%A5l%20till%20patientn%C3%A4mnden%202025%20g%C3%A4llande%20barn%200-9%20%C3%A5r&fileSize=3005979",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Följebrev",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537300.PDF?fileName=F%C3%B6ljebrev&fileSize=72768",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367362",
+          "title": "Beslut från patientnämnd västra 2026-05-13 § 12 - Analysrapport: När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från patientnämnd västras sammanträde den 13 maj 2026 - Analysrapport- När barnet är patient - Närståendes klag",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537304.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20patientn%C3%A4mnd%20v%C3%A4stras%20sammantr%C3%A4de%20den%2013%20maj%202026%20-%20Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20klag&fileSize=78289",
+              "category": "Handling in"
+            },
+            {
+              "title": "Analysrapport- När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537305.PDF?fileName=Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20klagom%C3%A5l%20till%20patientn%C3%A4mnden%202025%20g%C3%A4llande%20barn%200-9%20%C3%A5r&fileSize=120426",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Analysrapport- När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537306.PDF?fileName=Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20klagom%C3%A5l%20till%20patientn%C3%A4mnden%202025%20g%C3%A4llande%20barn%200-9%20%C3%A5r&fileSize=3005985",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Följebrev",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537307.PDF?fileName=F%C3%B6ljebrev&fileSize=72272",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367363",
+          "title": "Beslut från patientnämnd östra 2026-05-11 § 11 - Analysrapport: När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från patientnämnd östras sammanträde den 11 maj 2026 - Analysrapport- När barnet är patient - Närståendes klago",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537320.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20patientn%C3%A4mnd%20%C3%B6stras%20sammantr%C3%A4de%20den%2011%20maj%202026%20-%20Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20klago&fileSize=77152",
+              "category": "Handling in"
+            },
+            {
+              "title": "Analysrapport- När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537321.PDF?fileName=Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20klagom%C3%A5l%20till%20patientn%C3%A4mnden%202025%20g%C3%A4llande%20barn%200-9%20%C3%A5r&fileSize=119878",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Analysrapport- När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537322.PDF?fileName=Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20klagom%C3%A5l%20till%20patientn%C3%A4mnden%202025%20g%C3%A4llande%20barn%200-9%20%C3%A5r&fileSize=3005983",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Följebrev",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537323.PDF?fileName=F%C3%B6ljebrev&fileSize=72087",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367518",
+          "title": "Beslut från patientnämnd norra 2026-05-19 § 13 -  Analysrapport: När barnet är patient -\nNärståendes klagomål till patientnämnden 2025\ngällande barn 0-9 år",
+          "documents": [
+            {
+              "title": "Beslut från patientnämnd norra 2026-05-19 § 13 -  Analysrapport: När barnet är patient -\nNärståendes klagomål till patientnämnden 2025\ngällande barn 0-9 år",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539831.PDF?fileName=Beslut%20fr%C3%A5n%20patientn%C3%A4mnd%20norra%202026-05-19%20%C2%A7%2013%20-%20%20Analysrapport%3A%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%0AN%C3%A4rst%C3%A5endes%20klagom%C3%A5l%20till%20patientn%C3%A4mnden%202025%0Ag%C3%A4llande%20barn%200-9%20%C3%A5r&fileSize=76799",
+              "category": "Handling in"
+            },
+            {
+              "title": "Analysrapport- När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539832.PDF?fileName=Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20klagom%C3%A5l%20till%20patientn%C3%A4mnden%202025%20g%C3%A4llande%20barn%200-9%20%C3%A5r&fileSize=120345",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Analysrapport- När barnet är patient - Närståendes klagomål till patientnämnden 2025 gällande barn 0-9 år",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539833.PDF?fileName=Analysrapport-%20N%C3%A4r%20barnet%20%C3%A4r%20patient%20-%20N%C3%A4rst%C3%A5endes%20klagom%C3%A5l%20till%20patientn%C3%A4mnden%202025%20g%C3%A4llande%20barn%200-9%20%C3%A5r&fileSize=3005988",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366964",
+          "title": "Operativa hälso- och sjukvårdsnämnden – granskningsplan för verksamhetsåret 2026",
+          "documents": [
+            {
+              "title": "Operativa hälso- och sjukvårdsnämnden – granskningsplan för verksamhetsåret 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4528593.PDF?fileName=Operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20%E2%80%93%20granskningsplan%20f%C3%B6r%20verksamhets%C3%A5ret%202026&fileSize=122177",
+              "category": "Handling in"
+            }
+          ]
+        }
+      ]
+    },
+    "222299|2026-05-27": {
+      "meetingId": "3190496",
+      "items": [
+        {
+          "agendaId": "365866",
+          "title": "104 - Delårsrapport april 2026 för strategiska hälso- och sjukvårdsnämnden",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Delårsrapport april 2026 för strategiska hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548728.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Del%C3%A5rsrapport%20april%202026%20f%C3%B6r%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=75020",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Delårsrapport april 2026 för strategiska hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4500728.PDF?fileName=Del%C3%A5rsrapport%20april%202026%20f%C3%B6r%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=106606",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Delårsrapport april 2026 strategiska hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4528564.PDF?fileName=Del%C3%A5rsrapport%20april%202026%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=393770",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Nulägesbeskrivning av strategiska hälso- och sjukvårdsnämndens fördelning av FOU-medel",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4523814.PDF?fileName=Nul%C3%A4gesbeskrivning%20av%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20f%C3%B6rdelning%20av%20FOU-medel&fileSize=221385",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Uppdragslista SSN",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4535412.PDF?fileName=Uppdragslista%20SSN&fileSize=117350",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365173",
+          "title": "105 - Långsiktig inriktning - Skaraborgs Sjukhus Mariestad som nav för god och nära vård",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Långsiktig inriktning - Skaraborgs Sjukhus Mariestad som nav för god och nära vård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548729.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20L%C3%A5ngsiktig%20inriktning%20-%20Skaraborgs%20Sjukhus%20Mariestad%20som%20nav%20f%C3%B6r%20god%20och%20n%C3%A4ra%20v%C3%A5rd&fileSize=137937",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "(Bilaga § 105A) Yrkande (M, KD, C, L) Långsiktig inriktning - Skaraborgs Sjukhus Mariestad som nav för god och nära vård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549519.PDF?fileName=(Bilaga%20%C2%A7%20105A)%20Yrkande%20(M%2C%20KD%2C%20C%2C%20L)%20L%C3%A5ngsiktig%20inriktning%20-%20Skaraborgs%20Sjukhus%20Mariestad%20som%20nav%20f%C3%B6r%20god%20och%20n%C3%A4ra%20v%C3%A5rd&fileSize=76616",
+              "category": "Bilaga"
+            },
+            {
+              "title": "(Bilaga § 105B) Yrkande (S, V, MP) Långsiktig inriktning - Skaraborgs Sjukhus Mariestad som nav för god och nära vård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549520.PDF?fileName=(Bilaga%20%C2%A7%20105B)%20Yrkande%20(S%2C%20V%2C%20MP)%20L%C3%A5ngsiktig%20inriktning%20-%20Skaraborgs%20Sjukhus%20Mariestad%20som%20nav%20f%C3%B6r%20god%20och%20n%C3%A4ra%20v%C3%A5rd&fileSize=173439",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Långsiktig inriktning - Skaraborgs Sjukhus Mariestad som nav för god och nära vård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4482184.PDF?fileName=L%C3%A5ngsiktig%20inriktning%20-%20Skaraborgs%20Sjukhus%20Mariestad%20som%20nav%20f%C3%B6r%20god%20och%20n%C3%A4ra%20v%C3%A5rd&fileSize=191389",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Långsiktig inriktning för Skaraborgs Sjukhus Mariestad, daterad 260506",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4521370.PDF?fileName=L%C3%A5ngsiktig%20inriktning%20f%C3%B6r%20Skaraborgs%20Sjukhus%20Mariestad%2C%20daterad%20260506&fileSize=139772",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365180",
+          "title": "106 - Uppdrag om Handlingsplan för att nå riktmärke 1100 patienter per läkare inom primärvården",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Uppdrag om Handlingsplan för att nå riktmärke 1100 patienter per läkare inom primärvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548749.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Uppdrag%20om%20Handlingsplan%20f%C3%B6r%20att%20n%C3%A5%20riktm%C3%A4rke%201100%20patienter%20per%20l%C3%A4kare%20inom%20prim%C3%A4rv%C3%A5rden&fileSize=85540",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Uppdrag om Handlingsplan för att nå riktmärke 1100 patienter per läkare inom primärvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4401258.PDF?fileName=Uppdrag%20om%20Handlingsplan%20f%C3%B6r%20att%20n%C3%A5%20riktm%C3%A4rke%201100%20patienter%20per%20l%C3%A4kare%20inom%20prim%C3%A4rv%C3%A5rden&fileSize=209948",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Protokollsutdrag från operativa hälso- och sjukvårdsnämndens sammanträde den 29 augusti 2025 - Slutrapport - Uppdrag att säkerställa struktur och arbetssätt för utbildningsuppdraget för specialiseringstjänstgöring inom allmänmedicin",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519335.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2029%20augusti%202025%20-%20Slutrapport%20-%20Uppdrag%20att%20s%C3%A4kerst%C3%A4lla%20struktur%20och%20arbetss%C3%A4tt%20f%C3%B6r%20utbildningsuppdraget%20f%C3%B6r%20specialiseringstj%C3%A4nstg%C3%B6ring%20inom%20allm%C3%A4nmedicin&fileSize=61174",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Yrkande från OSN presidiet 2025-08-29 Slutrapport- Uppdrag att säkerställa struktur och arbetssätt för\nutbildningsuppdraget för specialiseringstjänstgöring inom\nallmänmedicin OSN 2023-02252",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519343.PDF?fileName=Yrkande%20fr%C3%A5n%20OSN%20presidiet%202025-08-29%20Slutrapport-%20Uppdrag%20att%20s%C3%A4kerst%C3%A4lla%20struktur%20och%20arbetss%C3%A4tt%20f%C3%B6r%0Autbildningsuppdraget%20f%C3%B6r%20specialiseringstj%C3%A4nstg%C3%B6ring%20inom%0Aallm%C3%A4nmedicin%20OSN%202023-02252&fileSize=577956",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Slutrapport - Uppdrag att säkerställa struktur och arbetssätt för utbildningsuppdraget för specialiseringstjänstgöring inom allmänmedicin",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519346.PDF?fileName=Slutrapport%20-%20Uppdrag%20att%20s%C3%A4kerst%C3%A4lla%20struktur%20och%20arbetss%C3%A4tt%20f%C3%B6r%20utbildningsuppdraget%20f%C3%B6r%20specialiseringstj%C3%A4nstg%C3%B6ring%20inom%20allm%C3%A4nmedicin&fileSize=85394",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365171",
+          "title": "107 - Avgiftsfrihet vid smittspårning och behandling",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Avgiftsfrihet vid smittspårning och behandling",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548750.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Avgiftsfrihet%20vid%20smittsp%C3%A5rning%20och%20behandling&fileSize=118193",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Avgiftsfrihet vid smittspårning och behandling",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4455386.PDF?fileName=Avgiftsfrihet%20vid%20smittsp%C3%A5rning%20och%20behandling&fileSize=179603",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365174",
+          "title": "108 - Samlad redovisning av hälso- och sjukvårdens kontinuitetsarbete",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Samlad redovisning av hälso- och sjukvårdens kontinuitetsarbete",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548751.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Samlad%20redovisning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rdens%20kontinuitetsarbete&fileSize=98852",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Samlad redovisning av hälso- och sjukvårdens kontinuitetsarbete",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4402683.PDF?fileName=Samlad%20redovisning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rdens%20kontinuitetsarbete&fileSize=143555",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366512",
+          "title": "109 - Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548767.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Tillf%C3%A4llig%20avgiftsfrihet%20f%C3%B6r%20ikappvaccination%20mot%20pneumokocker%2065%2B%20under%202026&fileSize=82958",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520341.PDF?fileName=Tillf%C3%A4llig%20avgiftsfrihet%20f%C3%B6r%20ikappvaccination%20mot%20pneumokocker%2065%2B%20under%202026&fileSize=122921",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "365567",
+          "title": "110 - Utvärdering utifrån samverkansavtal avseende lokalt folkhälsoarbete 2026 - 2028",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Utvärdering utifrån samverkansavtal avseende lokalt folkhälsoarbete 2026 - 2028",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548769.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Utv%C3%A4rdering%20utifr%C3%A5n%20samverkansavtal%20avseende%20lokalt%20folkh%C3%A4lsoarbete%202026%20-%202028&fileSize=83795",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Utvärdering utifrån samverkansavtal avseende lokalt folkhälsoarbete 2026 - 2028",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4492654.PDF?fileName=Utv%C3%A4rdering%20utifr%C3%A5n%20samverkansavtal%20avseende%20lokalt%20folkh%C3%A4lsoarbete%202026%20-%202028&fileSize=148699",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "365175",
+          "title": "111 - Uppföljning plan för intern kontroll per april 2026 för strategiska hälso- och sjukvårdsnämnden",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Uppföljning plan för intern kontroll per april 2026 för strategiska hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548770.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Uppf%C3%B6ljning%20plan%20f%C3%B6r%20intern%20kontroll%20per%20april%202026%20f%C3%B6r%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=86009",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Uppföljning plan för intern kontroll per april 2026 för strategiska hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4485723.PDF?fileName=Uppf%C3%B6ljning%20plan%20f%C3%B6r%20intern%20kontroll%20per%20april%202026%20f%C3%B6r%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=116770",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppföljning plan för intern kontroll - per april 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4514810.PDF?fileName=Uppf%C3%B6ljning%20plan%20f%C3%B6r%20intern%20kontroll%20-%20per%20april%202026&fileSize=135462",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365170",
+          "title": "112 - Svar på återremiss: Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Svar på återremiss: Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548771.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Svar%20p%C3%A5%20%C3%A5terremiss%3A%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=73458",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Svar på återremiss: Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4459804.PDF?fileName=Svar%20p%C3%A5%20%C3%A5terremiss%3A%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=174965",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Beslut från regionfullmäktige 2026-02-17 § 18 - Motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4433683.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-02-17%20%C2%A7%2018%20-%20Motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=53915",
+              "category": "Bilaga"
+            },
+            {
+              "title": "RF 2026-02-17 - Bilaga § 18a  Yrkande (RGL)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4433684.PDF?fileName=RF%202026-02-17%20-%20Bilaga%20%C2%A7%2018a%20%20Yrkande%20(RGL)&fileSize=172338",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 20 januari 2026 - Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519175.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%2020%20januari%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=77201",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519193.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=80659",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2025-12-16 § 427 - Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519200.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202025-12-16%20%C2%A7%20427%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=66690",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från delregional nämnd östra 2025-12-18 § 179 - Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den sepcialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519209.PDF?fileName=Beslut%20fr%C3%A5n%20delregional%20n%C3%A4mnd%20%C3%B6stra%202025-12-18%20%C2%A7%20179%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20sepcialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=541252",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 9 december 2025 - Yttrande över motion av Håkan Lösnitz (SD) med...",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4350005.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%209%20december%202025%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med...&fileSize=160419",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från styrelsen för Södra Älvsborgs Sjukhus 2025-05-28 § 55 - Södra Älvsborgs Sjukhus yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519239.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20S%C3%B6dra%20%C3%84lvsborgs%20Sjukhus%202025-05-28%20%C2%A7%2055%20-%20S%C3%B6dra%20%C3%84lvsborgs%20Sjukhus%20yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=54673",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från styrelsen för Skaraborgs Sjukhus sammanträde den 23 maj 2025 - Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519258.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Skaraborgs%20Sjukhus%20sammantr%C3%A4de%20den%2023%20maj%202025%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=109860",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/3963257.PDF?fileName=Motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20att%20inf%C3%B6ra%20V%C3%A5rdval%20inom%20den%20specialiserade%20%C3%B6gonsjukv%C3%A5rden&fileSize=77186",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365177",
+          "title": "113 - Yttrande över motion av Lisa Berglund (KD) om att minska risken för antibiotikaresistens",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Yttrande över motion av Lisa Berglund (KD) om att minska risken för antibiotikaresistens",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548772.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Lisa%20Berglund%20(KD)%20om%20att%20minska%20risken%20f%C3%B6r%20antibiotikaresistens&fileSize=102028",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Yttrande över motion av Lisa Berglund (KD) om att minska risken för antibiotikaresistens",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4371997.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Lisa%20Berglund%20(KD)%20om%20att%20minska%20risken%20f%C3%B6r%20antibiotikaresistens&fileSize=148918",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Motion av Lisa Berglund (KD) om att minska risken för antibiotikaresistens",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4337648.PDF?fileName=Motion%20av%20Lisa%20Berglund%20(KD)%20om%20att%20minska%20risken%20f%C3%B6r%20antibiotikaresistens&fileSize=141092",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365176",
+          "title": "114 - Yttrande över motion av Angelica Lundgren Bielinski (M) och Peter Heie (C) om att utreda behovet av familjecentraler i fler kommuner i Västra Götaland",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Yttrande över motion av Angelica Lundgren Bielinski (M) och Peter Heie (C) om att utreda behovet av familjecentraler i fler kommuner i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548773.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Angelica%20Lundgren%20Bielinski%20(M)%20och%20Peter%20Heie%20(C)%20om%20att%20utreda%20behovet%20av%20familjecentraler%20i%20fler%20kommuner%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=102731",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "(Bilaga § 114) Yrkande (M,KD,C,L) Yttrande över motion av Angelica Lundgren Bielinski (M) och Peter Heie (C)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549516.PDF?fileName=(Bilaga%20%C2%A7%20114)%20Yrkande%20(M%2CKD%2CC%2CL)%20Yttrande%20%C3%B6ver%20motion%20av%20Angelica%20Lundgren%20Bielinski%20(M)%20och%20Peter%20Heie%20(C)&fileSize=66057",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Yttrande över motion av Angelica Lundgren Bielinski (M) och Peter Heie (C) om att utreda behovet av familjecentraler i fler kommuner i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4409777.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Angelica%20Lundgren%20Bielinski%20(M)%20och%20Peter%20Heie%20(C)%20om%20att%20utreda%20behovet%20av%20familjecentraler%20i%20fler%20kommuner%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=155102",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Motion av Angelica Lundgren Bielinski (M) och Peter Heie (C) om att utreda behovet av familjecentraler i fler kommuner i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4312826.PDF?fileName=Motion%20av%20Angelica%20Lundgren%20Bielinski%20(M)%20och%20Peter%20Heie%20(C)%20om%20att%20utreda%20behovet%20av%20familjecentraler%20i%20fler%20kommuner%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=108687",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365181",
+          "title": "115 - Yttrande över remiss om förslag till nya regler för sjukresor i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Yttrande över remiss om förslag till nya regler för sjukresor i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548774.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Yttrande%20%C3%B6ver%20remiss%20om%20f%C3%B6rslag%20till%20nya%20regler%20f%C3%B6r%20sjukresor%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=71421",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Yttrande över remiss om förslag till nya regler för sjukresor i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4469476.PDF?fileName=Yttrande%20%C3%B6ver%20remiss%20om%20f%C3%B6rslag%20till%20nya%20regler%20f%C3%B6r%20sjukresor%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=109784",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Yttrande över remiss förslag till nya regler för sjukresor i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4475595.PDF?fileName=Yttrande%20%C3%B6ver%20remiss%20f%C3%B6rslag%20till%20nya%20regler%20f%C3%B6r%20sjukresor%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=170248",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Förslag till nya regler för sjukresor",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4424798.PDF?fileName=F%C3%B6rslag%20till%20nya%20regler%20f%C3%B6r%20sjukresor&fileSize=303745",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Översikt av föreslagna förändringar av regler för sjukresor",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4424800.PDF?fileName=%C3%96versikt%20av%20f%C3%B6reslagna%20f%C3%B6r%C3%A4ndringar%20av%20regler%20f%C3%B6r%20sjukresor&fileSize=275620",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367112",
+          "title": "116 - Svar på väckt ärende om inriktning och handlingsplan för Angereds närsjukhus",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Svar på väckt ärende om inriktning och handlingsplan för Angereds närsjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548775.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Svar%20p%C3%A5%20v%C3%A4ckt%20%C3%A4rende%20om%20inriktning%20och%20handlingsplan%20f%C3%B6r%20Angereds%20n%C3%A4rsjukhus&fileSize=79592",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Svar på väckt ärende om inriktning och handlingsplan för Angereds närsjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4531912.PDF?fileName=Svar%20p%C3%A5%20v%C3%A4ckt%20%C3%A4rende%20om%20inriktning%20och%20handlingsplan%20f%C3%B6r%20Angereds%20n%C3%A4rsjukhus&fileSize=112415",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Väckt ärende från (S), (V) och (MP) om inriktning och handlingsplan för Angereds närsjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4448038.PDF?fileName=V%C3%A4ckt%20%C3%A4rende%20fr%C3%A5n%20(S)%2C%20(V)%20och%20(MP)%20om%20inriktning%20och%20handlingsplan%20f%C3%B6r%20Angereds%20n%C3%A4rsjukhus&fileSize=148823",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365179",
+          "title": "117 - Svar på väckt ärende om inriktning för utveckling av god och nära vård vid Skene Närsjukhus",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Svar på väckt ärende om inriktning för utveckling av god och nära vård vid Skene Närsjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548777.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Svar%20p%C3%A5%20v%C3%A4ckt%20%C3%A4rende%20om%20inriktning%20f%C3%B6r%20utveckling%20av%20god%20och%20n%C3%A4ra%20v%C3%A5rd%20vid%20Skene%20N%C3%A4rsjukhus&fileSize=83300",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "(Bilaga § 117) Yrkande (M,KD,C,L) Svar på väckt ärende om inriktning för utveckling av god och nära vård vid Skene Närsjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549517.PDF?fileName=(Bilaga%20%C2%A7%20117)%20Yrkande%20(M%2CKD%2CC%2CL)%20Svar%20p%C3%A5%20v%C3%A4ckt%20%C3%A4rende%20om%20inriktning%20f%C3%B6r%20utveckling%20av%20god%20och%20n%C3%A4ra%20v%C3%A5rd%20vid%20Skene%20N%C3%A4rsjukhus&fileSize=72435",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Svar på väckt ärende om inriktning för utveckling av god och nära vård vid Skene Närsjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4488137.PDF?fileName=Svar%20p%C3%A5%20v%C3%A4ckt%20%C3%A4rende%20om%20inriktning%20f%C3%B6r%20utveckling%20av%20god%20och%20n%C3%A4ra%20v%C3%A5rd%20vid%20Skene%20N%C3%A4rsjukhus&fileSize=119128",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Väckt ärende från (M), (KD), (C) och (L) om inriktning för utveckling av god och nära vård vid Skene Närsjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4448024.PDF?fileName=V%C3%A4ckt%20%C3%A4rende%20fr%C3%A5n%20(M)%2C%20(KD)%2C%20(C)%20och%20(L)%20om%20inriktning%20f%C3%B6r%20utveckling%20av%20god%20och%20n%C3%A4ra%20v%C3%A5rd%20vid%20Skene%20N%C3%A4rsjukhus&fileSize=82122",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366517",
+          "title": "118 - Svar på väckt ärende att utreda vårdorganisatoriskt upptagningsområde",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Svar på väckt ärende att utreda vårdorganisatoriskt upptagningsområde",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548778.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Svar%20p%C3%A5%20v%C3%A4ckt%20%C3%A4rende%20att%20utreda%20v%C3%A5rdorganisatoriskt%20upptagningsomr%C3%A5de&fileSize=91597",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Svar på väckt ärende att utreda vårdorganisatoriskt upptagningsområde",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4504259.PDF?fileName=Svar%20p%C3%A5%20v%C3%A4ckt%20%C3%A4rende%20att%20utreda%20v%C3%A5rdorganisatoriskt%20upptagningsomr%C3%A5de&fileSize=122362",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Väckt ärende om att utreda vårdorganisatoriskt upptagningsområde",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4469236.PDF?fileName=V%C3%A4ckt%20%C3%A4rende%20om%20att%20utreda%20v%C3%A5rdorganisatoriskt%20upptagningsomr%C3%A5de&fileSize=63268",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365169",
+          "title": "119 - Svar på revisionsrapport - Granskning av ny politisk organisation, kvarstående rekommendationer",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Svar på revisionsrapport - Granskning av ny politisk organisation, kvarstående rekommendationer",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548780.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Svar%20p%C3%A5%20revisionsrapport%20-%20Granskning%20av%20ny%20politisk%20organisation%2C%20kvarst%C3%A5ende%20rekommendationer&fileSize=87191",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Svar på revisionsrapport - Granskning av ny politisk organisation, kvarstående rekommendationer",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4486768.PDF?fileName=Svar%20p%C3%A5%20revisionsrapport%20-%20Granskning%20av%20ny%20politisk%20organisation%2C%20kvarst%C3%A5ende%20rekommendationer&fileSize=165016",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366406",
+          "title": "120 - En mer sammanhållen vård för personer med skadligt bruk eller beroende och andra psykiatriska tillstånd",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - En mer sammanhållen vård för personer med skadligt bruk eller beroende och andra psykiatriska tillstånd",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548784.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20En%20mer%20sammanh%C3%A5llen%20v%C3%A5rd%20f%C3%B6r%20personer%20med%20skadligt%20bruk%20eller%20beroende%20och%20andra%20psykiatriska%20tillst%C3%A5nd&fileSize=88755",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "En mer sammanhållen vård för personer med skadligt bruk eller beroende och andra psykiatriska tillstånd",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4535260.PDF?fileName=En%20mer%20sammanh%C3%A5llen%20v%C3%A5rd%20f%C3%B6r%20personer%20med%20skadligt%20bruk%20eller%20beroende%20och%20andra%20psykiatriska%20tillst%C3%A5nd&fileSize=116355",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Regeringens proposition 202526251 En mer sammanhållen vård för personer med skadligt bruk eller beroende",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4527143.PDF?fileName=Regeringens%20proposition%20202526251%20En%20mer%20sammanh%C3%A5llen%20v%C3%A5rd%20f%C3%B6r%20personer%20med%20skadligt%20bruk%20eller%20beroende&fileSize=1712042",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regeringsbeslut Uppdrag till Socialstyrelsen att stödja reformen om en mer sammanhållen vård för personer med skadligt bruk eller beroende och andra psykiatriska tillstånd",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4527144.PDF?fileName=Regeringsbeslut%20Uppdrag%20till%20Socialstyrelsen%20att%20st%C3%B6dja%20reformen%20om%20en%20mer%20sammanh%C3%A5llen%20v%C3%A5rd%20f%C3%B6r%20personer%20med%20skadligt%20bruk%20eller%20beroende%20och%20andra%20psykiatriska%20tillst%C3%A5nd&fileSize=124221",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365178",
+          "title": "121 - Uppföljning av aktiviteter i genomförandeplan för strategi för omställning av hälso- och sjukvården",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Uppföljning av aktiviteter i genomförandeplan för strategi för omställning av hälso- och sjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548785.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Uppf%C3%B6ljning%20av%20aktiviteter%20i%20genomf%C3%B6randeplan%20f%C3%B6r%20strategi%20f%C3%B6r%20omst%C3%A4llning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rden&fileSize=79160",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Uppföljning av aktiviteter i genomförandeplan för strategi för omställning av hälso- och sjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4476874.PDF?fileName=Uppf%C3%B6ljning%20av%20aktiviteter%20i%20genomf%C3%B6randeplan%20f%C3%B6r%20strategi%20f%C3%B6r%20omst%C3%A4llning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rden&fileSize=137504",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Statusrapport om aktiviteter 2025 i genomförandeplan för omställningen av hälso- och sjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4504303.PDF?fileName=Statusrapport%20om%20aktiviteter%202025%20i%20genomf%C3%B6randeplan%20f%C3%B6r%20omst%C3%A4llningen%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rden&fileSize=199095",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Översikt över status i pågående och planerade aktiviteter, Bilaga till ”Statusrapport om aktiviteter 2025 i genomförandeplan för omställningen av hälso- och sjukvården ”",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4504302.PDF?fileName=%C3%96versikt%20%C3%B6ver%20status%20i%20p%C3%A5g%C3%A5ende%20och%20planerade%20aktiviteter%2C%20Bilaga%20till%20%E2%80%9DStatusrapport%20om%20aktiviteter%202025%20i%20genomf%C3%B6randeplan%20f%C3%B6r%20omst%C3%A4llningen%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rden%20%E2%80%9D&fileSize=852779",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367114",
+          "title": "122 - Information från hälso- och sjukvårdsutvecklingsdirektören",
+          "documents": []
+        },
+        {
+          "agendaId": "367115",
+          "title": "123 - Information från presidiet",
+          "documents": []
+        },
+        {
+          "agendaId": "367116",
+          "title": "124 - Information från beredningen",
+          "documents": []
+        },
+        {
+          "agendaId": "367117",
+          "title": "125 - Information från arbetsgrupper",
+          "documents": []
+        },
+        {
+          "agendaId": "367654",
+          "title": "126 - Tillkommande ärende: Göra en översyn av Hjälpmedelshandboken och riktlinjer för utskrivning av hjälpmedel",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Tillkommande ärende: Göra en översyn av hjälpmedelshandboken och riktlinjer för utskrivning av hjälpmedel",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548949.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Tillkommande%20%C3%A4rende%3A%20G%C3%B6ra%20en%20%C3%B6versyn%20av%20hj%C3%A4lpmedelshandboken%20och%20riktlinjer%20f%C3%B6r%20utskrivning%20av%20hj%C3%A4lpmedel&fileSize=92591",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "(Bilaga § 126) Väckt ärende (M, KD, C, L) om att göra en översyn av Hjälpmedelshandboken",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548952.PDF?fileName=(Bilaga%20%C2%A7%20126)%20V%C3%A4ckt%20%C3%A4rende%20(M%2C%20KD%2C%20C%2C%20L)%20om%20att%20g%C3%B6ra%20en%20%C3%B6versyn%20av%20Hj%C3%A4lpmedelshandboken&fileSize=73213",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367655",
+          "title": "127 - Tillkommande ärende: Stärka arbetet med ATMP i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Tillkommande ärende: Stärka arbetet med ATMP i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548963.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2027%20maj%202026%20-%20Tillkommande%20%C3%A4rende%3A%20St%C3%A4rka%20arbetet%20med%20ATMP%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=92171",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "(Bilaga § 127) Väckt ärende (S,V,MP) om att stärka arbetet med ATMP i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548965.PDF?fileName=(Bilaga%20%C2%A7%20127)%20V%C3%A4ckt%20%C3%A4rende%20(S%2CV%2CMP)%20om%20att%20st%C3%A4rka%20arbetet%20med%20ATMP%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=174226",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365495",
+          "title": "Sköldkörtelcancer - regional tillämpning av Nationellt vårdprogram",
+          "documents": [
+            {
+              "title": "Sköldkörtelcancer - regional tillämpning av Nationellt vårdprogram",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4475625.PDF?fileName=Sk%C3%B6ldk%C3%B6rtelcancer%20-%20regional%20till%C3%A4mpning%20av%20Nationellt%20v%C3%A5rdprogram&fileSize=124193",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Sköldkörtelcancer - regional tillämpning av Nationellt vårdprogram_final_260330",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4473495.PDF?fileName=Sko%CC%88ldko%CC%88rtelcancer%20-%20regional%20till%C3%A4mpning%20av%20Nationellt%20v%C3%A5rdprogram_final_260330&fileSize=195822",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365496",
+          "title": "Regional medicinsk riktlinje (RMR) - Sepsis - Tillämpning av personcentrerat och sammanhållet vårdförlopp",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje (RMR) - Sepsis - Tillämpning av personcentrerat och sammanhållet vårdförlopp",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4389989.PDF?fileName=Regional%20medicinsk%20riktlinje%20(RMR)%20-%20Sepsis%20-%20Till%C3%A4mpning%20av%20personcentrerat%20och%20sammanh%C3%A5llet%20v%C3%A5rdf%C3%B6rlopp&fileSize=101088",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Sepsis - tillämpning av personcentrerat och sammanhållet vårdförlopp",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4389930.PDF?fileName=RMR%20Sepsis%20-%20till%C3%A4mpning%20av%20personcentrerat%20och%20sammanh%C3%A5llet%20v%C3%A5rdf%C3%B6rlopp&fileSize=217794",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365497",
+          "title": "Regional medicinsk riktlinje (RMR) Reumatoid artrit - etablerad - Tillämpning av personcentrerat sammanhållet vårdförlopp\n Regional medicinsk riktlinje RA etablerad",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje (RMR) Reumatoid artrit - etablerad - Tillämpning av personcentrerat sammanhållet vårdförlopp",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4457858.PDF?fileName=Regional%20medicinsk%20riktlinje%20(RMR)%20Reumatoid%20artrit%20-%20etablerad%20-%20Till%C3%A4mpning%20av%20personcentrerat%20sammanh%C3%A5llet%20v%C3%A5rdf%C3%B6rlopp&fileSize=99392",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Reumatoid artrit etablerad – Tillämpning av personcentrerat sammanhållet vårdförlopp",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4457838.PDF?fileName=RMR%20Reumatoid%20artrit%20etablerad%20%E2%80%93%20Till%C3%A4mpning%20av%20personcentrerat%20sammanh%C3%A5llet%20v%C3%A5rdf%C3%B6rlopp&fileSize=201130",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365498",
+          "title": "Regional medicinsk riktlinje Reumatoid artrit 0 till 12 månader Tillämpning av personcentrerat sammanhållet vårdförlopp",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje Reumatoid artrit 0 till 12 månader Tillämpning av personcentrerat sammanhållet vårdförlopp",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4458082.PDF?fileName=Regional%20medicinsk%20riktlinje%20Reumatoid%20artrit%200%20till%2012%20m%C3%A5nader%20Till%C3%A4mpning%20av%20personcentrerat%20sammanh%C3%A5llet%20v%C3%A5rdf%C3%B6rlopp&fileSize=99747",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Reumatoid artrit 0 till 12 månader -Tillämpning av personcentrerat sammanhållet vårdförlopp",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4458075.PDF?fileName=RMR%20Reumatoid%20artrit%200%20till%2012%20m%C3%A5nader%20-Till%C3%A4mpning%20av%20personcentrerat%20sammanh%C3%A5llet%20v%C3%A5rdf%C3%B6rlopp&fileSize=497405",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365499",
+          "title": "Regional medicinsk riktlinje (RMR) - Inflammatorisk tarmsjukdom vuxna  - tillämpning av personcentrerat sammanhållet vårdförlopp",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje (RMR) - Inflammatorisk tarmsjukdom vuxna  - tillämpning av personcentrerat sammanhållet vårdförlopp",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4445486.PDF?fileName=Regional%20medicinsk%20riktlinje%20(RMR)%20-%20Inflammatorisk%20tarmsjukdom%20vuxna%20%20-%20till%C3%A4mpning%20av%20personcentrerat%20sammanh%C3%A5llet%20v%C3%A5rdf%C3%B6rlopp&fileSize=100044",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Inflammatorisk tarmsjukdom vuxna - tillämpning av personcentrerat sammanhållet vårdförlopp",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4445484.PDF?fileName=RMR%20Inflammatorisk%20tarmsjukdom%20vuxna%20-%20till%C3%A4mpning%20av%20personcentrerat%20sammanh%C3%A5llet%20v%C3%A5rdf%C3%B6rlopp&fileSize=129685",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365500",
+          "title": "Regional medicinsk riktlinje Hjärtsvikt, nydebuterad - Tillämpning av personcentrerat och sammanhållet vårdförlopp",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje Hjärtsvikt, nydebuterad - Tillämpning av personcentrerat och sammanhållet vårdförlopp",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4459525.PDF?fileName=Regional%20medicinsk%20riktlinje%20Hj%C3%A4rtsvikt%2C%20nydebuterad%20-%20Till%C3%A4mpning%20av%20personcentrerat%20och%20sammanh%C3%A5llet%20v%C3%A5rdf%C3%B6rlopp&fileSize=98722",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Hjärtsvikt nydebuterad",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4475033.PDF?fileName=RMR%20Hj%C3%A4rtsvikt%20nydebuterad&fileSize=703520",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365501",
+          "title": "Regional medicinsk riktlinje (RMR) - Ansvarsfördelning mellan dermatovenereologi och allmänmedicin",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje (RMR) - Ansvarsfördelning mellan dermatovenereologi och allmänmedicin",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4464313.PDF?fileName=Regional%20medicinsk%20riktlinje%20(RMR)%20-%20Ansvarsf%C3%B6rdelning%20mellan%20dermatovenereologi%20och%20allm%C3%A4nmedicin&fileSize=99203",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Ansvarsfördelning mellan dermatovenereologi och allmänmedicin",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4464285.PDF?fileName=RMR%20Ansvarsf%C3%B6rdelning%20mellan%20dermatovenereologi%20och%20allm%C3%A4nmedicin&fileSize=351477",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365502",
+          "title": "Regional medicinsk riktlinje (RMR) - Medfödd hörselnedsättning – tidig diagnostik och habilitering",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje (RMR) - Medfödd hörselnedsättning – tidig diagnostik och habilitering",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4451046.PDF?fileName=Regional%20medicinsk%20riktlinje%20(RMR)%20-%20Medf%C3%B6dd%20h%C3%B6rselneds%C3%A4ttning%20%E2%80%93%20tidig%20diagnostik%20och%20habilitering&fileSize=98128",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Medfödd hörselnedsättning - tidig diagnostik och habilitering",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4451027.PDF?fileName=RMR%20Medf%C3%B6dd%20h%C3%B6rselneds%C3%A4ttning%20-%20tidig%20diagnostik%20och%20habilitering&fileSize=631013",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365503",
+          "title": "Regional medicinsk riktlinje (RMR) - Läkemedel vid besök på vårdinrättning",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje (RMR) - Läkemedel vid besök på vårdinrättning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4468322.PDF?fileName=Regional%20medicinsk%20riktlinje%20(RMR)%20-%20L%C3%A4kemedel%20vid%20bes%C3%B6k%20p%C3%A5%20v%C3%A5rdinr%C3%A4ttning&fileSize=98902",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Läkemedel vid besök på vårdinrättning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4468251.PDF?fileName=RMR%20L%C3%A4kemedel%20vid%20bes%C3%B6k%20p%C3%A5%20v%C3%A5rdinr%C3%A4ttning&fileSize=275397",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365504",
+          "title": "Regional medicinsk riktlinje (RMR) - Bäckenbottenbesvär efter förlossning",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje (RMR) - Bäckenbottenbesvär efter förlossning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4469166.PDF?fileName=Regional%20medicinsk%20riktlinje%20(RMR)%20-%20B%C3%A4ckenbottenbesv%C3%A4r%20efter%20f%C3%B6rlossning&fileSize=99141",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Bäckenbottenbesvär efter förlossning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4469148.PDF?fileName=RMR%20B%C3%A4ckenbottenbesv%C3%A4r%20efter%20f%C3%B6rlossning&fileSize=687091",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "365505",
+          "title": "Beslut om stöd till Centrum för prehospital forskning 2026",
+          "documents": [
+            {
+              "title": "Beslut om stöd till Centrum för prehospital forskning 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4434650.PDF?fileName=Beslut%20om%20st%C3%B6d%20till%20Centrum%20f%C3%B6r%20prehospital%20forskning%202026&fileSize=104945",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Sammanfattning av PreHospens aktiviteter 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4435957.PDF?fileName=Sammanfattning%20av%20PreHospens%20aktiviteter%202025&fileSize=87329",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Verksamhetsplan_prehospen_2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4444055.PDF?fileName=Verksamhetsplan_prehospen_2026&fileSize=214786",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366020",
+          "title": "Beslut om finansiering av initiering av pilotstudie inom ramen för Västra Götalandsregionens multi omics-kohort (PRECISION WEST) 2026",
+          "documents": [
+            {
+              "title": "Beslut om finansiering av initiering av pilotstudie inom ramen för Västra Götalandsregionens multi omics-kohort (PRECISION WEST) 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4485722.PDF?fileName=Beslut%20om%20finansiering%20av%20initiering%20av%20pilotstudie%20inom%20ramen%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionens%20multi%20omics-kohort%20(PRECISION%20WEST)%202026&fileSize=131135",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "PRECISION-WEST_Årsrapport_20250301_20260228",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4495389.PDF?fileName=PRECISION-WEST_A%CC%8Arsrapport_20250301_20260228&fileSize=920787",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366021",
+          "title": "Regional medicinsk riktlinje (RMR) - Sfinkterprofylax - förebyggande åtgärder mot skada på bäckenbotten vid förlossning",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje (RMR) - Sfinkterprofylax - förebyggande åtgärder mot skada på bäckenbotten vid förlossning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4489823.PDF?fileName=Regional%20medicinsk%20riktlinje%20(RMR)%20-%20Sfinkterprofylax%20-%20f%C3%B6rebyggande%20%C3%A5tg%C3%A4rder%20mot%20skada%20p%C3%A5%20b%C3%A4ckenbotten%20vid%20f%C3%B6rlossning&fileSize=101456",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Sfinkterprofylax – förebyggande åtgärder mot skada på bäckenbotten vid förlossning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4489821.PDF?fileName=RMR%20Sfinkterprofylax%20%E2%80%93%20f%C3%B6rebyggande%20%C3%A5tg%C3%A4rder%20mot%20skada%20p%C3%A5%20b%C3%A4ckenbotten%20vid%20f%C3%B6rlossning&fileSize=314320",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366022",
+          "title": "Regional medicinsk riktlinje (RMR) Extern provtagning",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje (RMR) Extern provtagning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4491149.PDF?fileName=Regional%20medicinsk%20riktlinje%20(RMR)%20Extern%20provtagning&fileSize=99606",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Extern provtagning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4491143.PDF?fileName=RMR%20Extern%20provtagning&fileSize=99897",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Expediering av beslut regional medicinsk riktlinje (RMR) Extern provtagning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4494865.PDF?fileName=Expediering%20av%20beslut%20regional%20medicinsk%20riktlinje%20(RMR)%20Extern%20provtagning&fileSize=69293",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366023",
+          "title": "Deltagande vid byggstart för Sahlgrenska life",
+          "documents": [
+            {
+              "title": "Deltagande vid byggstart för Sahlgrenska life",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4489880.PDF?fileName=Deltagande%20vid%20byggstart%20f%C3%B6r%20Sahlgrenska%20life&fileSize=258701",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Inbjudan till byggstart för Sahlgrenska life",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4509712.PDF?fileName=Inbjudan%20till%20byggstart%20f%C3%B6r%20Sahlgrenska%20life&fileSize=386651",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366024",
+          "title": "Deltagande vid dialogkonferens om ny hälso- och sjukvårdstrategi för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Deltagande vid dialogkonferens om ny hälso- och sjukvårdstrategi för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4489889.PDF?fileName=Deltagande%20vid%20dialogkonferens%20om%20ny%20h%C3%A4lso-%20och%20sjukv%C3%A5rdstrategi%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=251739",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "366096",
+          "title": "Deltagande vid Repower NGO Ukraine - Seminarium",
+          "documents": [
+            {
+              "title": "Deltagande vid Repower NGO Ukraine - Seminarium",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511088.PDF?fileName=Deltagande%20vid%20Repower%20NGO%20Ukraine%20-%20Seminarium&fileSize=251319",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "INBJUDAN TILL SEMINARIUM Repower Ukraine 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511266.PDF?fileName=INBJUDAN%20TILL%20SEMINARIUM%20Repower%20Ukraine%202026&fileSize=67717",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366640",
+          "title": "Regional medicinsk riktlinje - Stressrelaterad psykisk ohälsa för vuxna, inklusive utmattningssyndrom (UMS)",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje - Stressrelaterad psykisk ohälsa för vuxna, inklusive utmattningssyndrom (UMS)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4492902.PDF?fileName=Regional%20medicinsk%20riktlinje%20-%20Stressrelaterad%20psykisk%20oh%C3%A4lsa%20f%C3%B6r%20vuxna%2C%20inklusive%20utmattningssyndrom%20(UMS)&fileSize=117669",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Stressrelaterad psykisk ohälsa för vuxna, inklusive utmattningssyndrom (UMS)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4492980.PDF?fileName=RMR%20Stressrelaterad%20psykisk%20oh%C3%A4lsa%20f%C3%B6r%20vuxna%2C%20inklusive%20utmattningssyndrom%20(UMS)&fileSize=403387",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366641",
+          "title": "Regional medicinsk riktlinje - OCD - Tvångssyndrom och relaterade syndrom (vuxna)",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje - Tvångssyndrom (OCD) och relaterade syndrom (vuxna)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4493381.PDF?fileName=Regional%20medicinsk%20riktlinje%20-%20Tv%C3%A5ngssyndrom%20(OCD)%20och%20relaterade%20syndrom%20(vuxna)&fileSize=117969",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR Tvångssyndrom (OCD) och relaterade syndrom (vuxna)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4493402.PDF?fileName=RMR%20Tv%C3%A5ngssyndrom%20(OCD)%20och%20relaterade%20syndrom%20(vuxna)&fileSize=217233",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366025",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 60 - Ersättare i strategiska hälso- och sjukvårdsnämnden",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 60 - Ersättare i strategiska hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4502602.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2060%20-%20Ers%C3%A4ttare%20i%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=70850",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "366026",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 46 -- Årsredovisning 2025 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 46 - Årsredovisning 2025 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497956.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2046%20-%20%C3%85rsredovisning%202025%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=97255",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Årsredovisning 2025 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497957.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20%C3%85rsredovisning%202025%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=151272",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Årsredovisning för Västra Götalandsregionen 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497958.PDF?fileName=%C3%85rsredovisning%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%202025&fileSize=8343701",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Slutredovisning byggprojekt 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497967.PDF?fileName=Slutredovisning%20byggprojekt%202025&fileSize=60745",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366027",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 53 - Motion av Jonas Eriksson (SD) med flera om att skapa en enhetlig prehospital förvaltning inom Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 53 - Motion av Jonas Eriksson (SD) med flera om att skapa en enhetlig prehospital förvaltning inom Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498388.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2053%20-%20Motion%20av%20Jonas%20Eriksson%20(SD)%20med%20flera%20om%20att%20skapa%20en%20enhetlig%20prehospital%20f%C3%B6rvaltning%20inom%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=103969",
+              "category": "Handling in"
+            },
+            {
+              "title": "Yttrande över motion av Jonas Eriksson (SD) med flera om att skapa en enhetlig prehospital förvaltning inom Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498389.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Jonas%20Eriksson%20(SD)%20med%20flera%20om%20att%20skapa%20en%20enhetlig%20prehospital%20f%C3%B6rvaltning%20inom%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=170061",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366028",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 52 - Motion av Lennart Jonsson (SD) med flera om utökning av utbildningsplatser för ambulanssjukvårdare i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 52 - Motion av Lennart Jonsson (SD) med flera om utökning av utbildningsplatser för ambulanssjukvårdare i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498286.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2052%20-%20Motion%20av%20Lennart%20Jonsson%20(SD)%20med%20flera%20om%20ut%C3%B6kning%20av%20utbildningsplatser%20f%C3%B6r%20ambulanssjukv%C3%A5rdare%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=103511",
+              "category": "Handling in"
+            },
+            {
+              "title": "RF bilaga § 52 omröstningsprotokoll",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498287.PDF?fileName=RF%20bilaga%20%C2%A7%2052%20omr%C3%B6stningsprotokoll&fileSize=97639",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Yttrande över motion av Lennart Jonsson (SD) med flera om utökning av utbildningsplatser för ambulanssjukvårdare i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498288.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Lennart%20Jonsson%20(SD)%20med%20flera%20om%20ut%C3%B6kning%20av%20utbildningsplatser%20f%C3%B6r%20ambulanssjukv%C3%A5rdare%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=139812",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366029",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 55 - Motion av Maria Lindgren (SD) med flera om kloka kliniska val",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 55 - Motion av Maria Lindgren (SD) med flera om kloka kliniska val",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498486.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2055%20-%20Motion%20av%20Maria%20Lindgren%20(SD)%20med%20flera%20om%20kloka%20kliniska%20val&fileSize=97741",
+              "category": "Handling in"
+            },
+            {
+              "title": "Yttrande över motion av Maria Lindgren (SD) med flera om kloka kliniska val",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498487.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Maria%20Lindgren%20(SD)%20med%20flera%20om%20kloka%20kliniska%20val&fileSize=133783",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366030",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 45 - \nBokslutsdispositioner 2025",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 45 - \nBokslutsdispositioner 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497890.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2045%20-%20%0ABokslutsdispositioner%202025&fileSize=93597",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Bokslutsdispositioner 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497891.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Bokslutsdispositioner%202025&fileSize=227321",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bokslutsdispositioner 2025 (1)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4497892.PDF?fileName=Bokslutsdispositioner%202025%20(1)&fileSize=63976",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366031",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 47 -\nRevisionsberättelser och ansvarsprövning av 2025 års verksamhet",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 47 -\nRevisionsberättelser och ansvarsprövning av 2025 års verksamhet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498627.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2047%20-%0ARevisionsber%C3%A4ttelser%20och%20ansvarspr%C3%B6vning%20av%202025%20%C3%A5rs%20verksamhet&fileSize=102733",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Revisionsberättelser och ansvarsprövning av 2025 års verksamhet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498628.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Revisionsber%C3%A4ttelser%20och%20ansvarspr%C3%B6vning%20av%202025%20%C3%A5rs%20verksamhet&fileSize=115105",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Följebrev till RF – Revisionens granskning av  verksamhetsåret 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498629.PDF?fileName=Fo%CC%88ljebrev%20till%20RF%20%E2%80%93%20Revisionens%20granskning%20av%20%20verksamhets%C3%A5ret%202025&fileSize=64799",
+              "category": "Bilaga"
+            },
+            {
+              "title": "1. Revisionsberättelse 2025 gällande regionens nämnder, styrelser och räkenskaper",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498630.PDF?fileName=1.%20Revisionsber%C3%A4ttelse%202025%20g%C3%A4llande%20regionens%20n%C3%A4mnder%2C%20styrelser%20och%20r%C3%A4kenskaper&fileSize=168116",
+              "category": "Bilaga"
+            },
+            {
+              "title": "2. Revisionens redogörelse 2025 – en bilaga till revisionsberättelsen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498631.PDF?fileName=2.%20Revisionens%20redogo%CC%88relse%202025%20%E2%80%93%20en%20bilaga%20till%20revisionsbera%CC%88ttelsen&fileSize=361917",
+              "category": "Bilaga"
+            },
+            {
+              "title": "3. Revisorernas bedömning av delårsrapporten 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498632.PDF?fileName=3.%20Revisorernas%20bed%C3%B6mning%20av%20del%C3%A5rsrapporten%202025&fileSize=660355",
+              "category": "Bilaga"
+            },
+            {
+              "title": "4. Granskning av bokslut och årsredovisning 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498633.PDF?fileName=4.%20Granskning%20av%20bokslut%20och%20a%CC%8Arsredovisning%202025&fileSize=995139",
+              "category": "Bilaga"
+            },
+            {
+              "title": "5. Revisionsrapporter för styrelserna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498634.PDF?fileName=5.%20Revisionsrapporter%20f%C3%B6r%20styrelserna&fileSize=1027667",
+              "category": "Bilaga"
+            },
+            {
+              "title": "6. Revisionsrapporter för nämnderna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498635.PDF?fileName=6.%20Revisionsrapporter%20f%C3%B6r%20n%C3%A4mnderna&fileSize=1103061",
+              "category": "Bilaga"
+            },
+            {
+              "title": "7. Revisionsrapporter och granskningsrapporter för bolagen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498636.PDF?fileName=7.%20Revisionsrapporter%20och%20granskningsrapporter%20f%C3%B6r%20bolagen&fileSize=3963080",
+              "category": "Bilaga"
+            },
+            {
+              "title": "8. Revisionsrapporter från de fördjupade granskningarna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498637.PDF?fileName=8.%20Revisionsrapporter%20fr%C3%A5n%20de%20f%C3%B6rdjupade%20granskningarna&fileSize=1897011",
+              "category": "Bilaga"
+            },
+            {
+              "title": "9. Revisorernas rapport 2025 enligt lagen om insyn i vissa finansiella förbindelser m.m",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498638.PDF?fileName=9.%20Revisorernas%20rapport%202025%20enligt%20lagen%20om%20insyn%20i%20vissa%20finansiella%20f%C3%B6rbindelser%20m.m&fileSize=120434",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366032",
+          "title": "Beslut från regionfullmäktige 2026-04-14 § 49 - Förslag till detaljutformning av den politiska organisationen 2027 till 2030",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-04-14 § 49 - Förslag till detaljutformning av den politiska organisationen 2027 till 2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498972.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-04-14%20%C2%A7%2049%20-%20F%C3%B6rslag%20till%20detaljutformning%20av%20den%20politiska%20organisationen%202027%20till%202030&fileSize=109302",
+              "category": "Handling in"
+            },
+            {
+              "title": "Förslag till detaljutformning av den politiska organisationen 2027 till 2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498973.PDF?fileName=F%C3%B6rslag%20till%20detaljutformning%20av%20den%20politiska%20organisationen%202027%20till%202030&fileSize=161127",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Politisk organisation 2027-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4498974.PDF?fileName=Politisk%20organisation%202027-2030&fileSize=844599",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366643",
+          "title": "Beslut från regionstyrelsen 2026-04-28 § 107 - Ansökan om att få bedriva nationell högspecialiserad vård avseende sällsynta motorikstörningar",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-04-28 § 107 - Ansökan om att få bedriva nationell högspecialiserad vård avseende sällsynta motorikstörningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520776.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-04-28%20%C2%A7%20107%20-%20Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20s%C3%A4llsynta%20motorikst%C3%B6rningar&fileSize=101283",
+              "category": "Handling in"
+            },
+            {
+              "title": "Ansökan om att få bedriva nationell högspecialiserad vård avseende sällsynta motorikstörningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520777.PDF?fileName=Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20s%C3%A4llsynta%20motorikst%C3%B6rningar&fileSize=166325",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regional konsekvensbeskrivning NHV Sällsynta motorikstörningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520778.PDF?fileName=Regional%20konsekvensbeskrivning%20NHV%20S%C3%A4llsynta%20motorikst%C3%B6rningar&fileSize=767877",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366644",
+          "title": "Beslut från regionstyrelsen 2026-04-28 § 108 - Nationell högspecialiserad vård avseende Endokrin oftalmopati",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-04-28 § 108 - Nationell högspecialiserad vård avseende Endokrin oftalmopati",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520810.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-04-28%20%C2%A7%20108%20-%20Nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20Endokrin%20oftalmopati&fileSize=97245",
+              "category": "Handling in"
+            },
+            {
+              "title": "Nationell högspecialiserad vård avseende Endokrin oftalmopati",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520811.PDF?fileName=Nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20Endokrin%20oftalmopati&fileSize=141766",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regional konsekvensbeskrivning NHV Endokrin oftalmopati",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520812.PDF?fileName=Regional%20konsekvensbeskrivning%20NHV%20Endokrin%20oftalmopati&fileSize=499542",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366645",
+          "title": "Beslut från regionstyrelsen 2026-04-28 § 106 - Ansökan om att få bedriva nationell högspecialiserad vård avseende perifera luftvägsfistlar",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-04-28 § 106 - Ansökan om att få bedriva nationell högspecialiserad vård avseende perifera luftvägsfistlar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520760.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-04-28%20%C2%A7%20106%20-%20Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20perifera%20luftv%C3%A4gsfistlar&fileSize=100356",
+              "category": "Handling in"
+            },
+            {
+              "title": "Ansökan om att få bedriva nationell högspecialiserad vård avseende perifera luftvägsfistlar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520761.PDF?fileName=Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20perifera%20luftv%C3%A4gsfistlar&fileSize=152700",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regional konsekvensbeskrivning NHV Komplicerade fistlar i perifera luftvägarna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520762.PDF?fileName=Regional%20konsekvensbeskrivning%20NHV%20Komplicerade%20fistlar%20i%20perifera%20luftv%C3%A4garna&fileSize=631217",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366646",
+          "title": "Beslut från regionstyrelsen 2026-04-28 § 105 - Ansökan om att få bedriva nationell högspecialiserad vård avseende trakealkirurgi",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-04-28 § 105 - Ansökan om att få bedriva nationell högspecialiserad vård avseende trakealkirurgi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520482.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-04-28%20%C2%A7%20105%20-%20Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20trakealkirurgi&fileSize=100546",
+              "category": "Handling in"
+            },
+            {
+              "title": "Ansökan om att få bedriva nationell högspecialiserad vård avseende trakealkirurgi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520483.PDF?fileName=Ans%C3%B6kan%20om%20att%20f%C3%A5%20bedriva%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20avseende%20trakealkirurgi&fileSize=192293",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regional konsekvensbeskrivning NHV Trakealkirurgi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520484.PDF?fileName=Regional%20konsekvensbeskrivning%20NHV%20Trakealkirurgi&fileSize=634268",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366647",
+          "title": "Beslut från regionstyrelsen 2026-04-28 § 101 - Regiongemensam plan för utveckling av säkerhet och civil beredskap 2026 - 2030",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-04-28 § 101 - Regiongemensam plan för utveckling av säkerhet och civil beredskap 2026 - 2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520405.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-04-28%20%C2%A7%20101%20-%20Regiongemensam%20plan%20f%C3%B6r%20utveckling%20av%20s%C3%A4kerhet%20och%20civil%20beredskap%202026%20-%202030&fileSize=85287",
+              "category": "Handling in"
+            },
+            {
+              "title": "Regiongemensam plan för utveckling av säkerhet och civil beredskap 2026 - 2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520406.PDF?fileName=Regiongemensam%20plan%20f%C3%B6r%20utveckling%20av%20s%C3%A4kerhet%20och%20civil%20beredskap%202026%20-%202030&fileSize=118888",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regiongemensam plan för utveckling av säkerhet och civil beredskap 2026 - 2030 (2)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520407.PDF?fileName=Regiongemensam%20plan%20f%C3%B6r%20utveckling%20av%20s%C3%A4kerhet%20och%20civil%20beredskap%202026%20-%202030%20(2)&fileSize=539382",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367158",
+          "title": "Beslut från personalutskottet 2026-05-12 § 26 - Kompetensförsörjning inom ambulanssjukvården",
+          "documents": [
+            {
+              "title": "Beslut från personalutskottet 2026-05-12 § 26 - Kompetensförsörjning inom ambulanssjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4531368.PDF?fileName=Beslut%20fr%C3%A5n%20personalutskottet%202026-05-12%20%C2%A7%2026%20-%20Kompetensf%C3%B6rs%C3%B6rjning%20inom%20ambulanssjukv%C3%A5rden&fileSize=105616",
+              "category": "Handling in"
+            },
+            {
+              "title": "§26",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4531369.PDF?fileName=%C2%A726&fileSize=219194",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367159",
+          "title": "Beslut från personalutskottet 2026-05-12 § 22 - sammanträde den 12 maj 2026 - Årlig uppföljning systematisk arbetsmiljöarbete 2025 - resultat och förslag på åtgärder",
+          "documents": [
+            {
+              "title": "Beslut från personalutskottet 2026-05-12 § 22 - Årlig uppföljning systematisk arbetsmiljöarbete 2025 - resultat och förslag på åtgärder",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4531387.PDF?fileName=Beslut%20fr%C3%A5n%20personalutskottet%202026-05-12%20%C2%A7%2022%20-%20%C3%85rlig%20uppf%C3%B6ljning%20systematisk%20arbetsmilj%C3%B6arbete%202025%20-%20resultat%20och%20f%C3%B6rslag%20p%C3%A5%20%C3%A5tg%C3%A4rder&fileSize=102812",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "367154",
+          "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-03-27 § 86 - Förändringar i Krav- och kvalitetsbok Vårdval Rehab 2026",
+          "documents": [
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-03-27 § 86 - Förändringar i Krav- och kvalitetsbok Vårdval Rehab 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4488034.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-27%20%C2%A7%2086%20-%20F%C3%B6r%C3%A4ndringar%20i%20Krav-%20och%20kvalitetsbok%20V%C3%A5rdval%20Rehab%202026&fileSize=96204",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "367155",
+          "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-03-27 § 98 - Uppföljning av avtal SOS alarm",
+          "documents": [
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-03-27 § 98 - Uppföljning av avtal SOS alarm",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4488885.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-27%20%C2%A7%2098%20-%20Uppf%C3%B6ljning%20av%20avtal%20SOS%20alarm&fileSize=76284",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Uppföljning av avtal SOS alarm",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4488886.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Uppf%C3%B6ljning%20av%20avtal%20SOS%20alarm&fileSize=439957",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367156",
+          "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-04-22 § 126 - Förstärkning av ätstörningsvården i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-04-22 § 126 - Förstärkning av ätstörningsvården i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4521179.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-22%20%C2%A7%20126%20-%20F%C3%B6rst%C3%A4rkning%20av%20%C3%A4tst%C3%B6rningsv%C3%A5rden%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=109390",
+              "category": "Handling in"
+            },
+            {
+              "title": "Yrkande från S V och MP",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4521180.PDF?fileName=Yrkande%20fr%C3%A5n%20S%20V%20och%20MP&fileSize=151546",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Förstärkning av ätstörningsvården i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4521181.PDF?fileName=F%C3%B6rst%C3%A4rkning%20av%20%C3%A4tst%C3%B6rningsv%C3%A5rden%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=188190",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367157",
+          "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-04-22 § 136 - Årsrapport riktade statsbidrag för hälso- och sjukvård 2025",
+          "documents": [
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-04-22 § 136 - Årsrapport riktade statsbidrag för hälso- och sjukvård 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4522338.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-22%20%C2%A7%20136%20-%20%C3%85rsrapport%20riktade%20statsbidrag%20f%C3%B6r%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%202025&fileSize=131095",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Årsrapport riktade statsbidrag för hälso- och sjukvård 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4522339.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20%C3%85rsrapport%20riktade%20statsbidrag%20f%C3%B6r%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%202025&fileSize=357632",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Fördelning av riktade statsbidrag 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4522340.PDF?fileName=F%C3%B6rdelning%20av%20riktade%20statsbidrag%202025&fileSize=56101",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367161",
+          "title": "Utskick av mötesanteckningar presidiedialog mellan SSN, OSN, DRN den 18 mars 2026",
+          "documents": [
+            {
+              "title": "Utskick av mötesanteckningar presidiedialog mellan SSN, OSN, DRN den 18 mars 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490034.PDF?fileName=Utskick%20av%20m%C3%B6tesanteckningar%20presidiedialog%20mellan%20SSN%2C%20OSN%2C%20DRN%20den%2018%20mars%202026&fileSize=85786",
+              "category": "Handling ut"
+            },
+            {
+              "title": "Mötesanteckningar presidiedialog mellan SSN, OSN och DRN 2026-03-18",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490035.PDF?fileName=M%C3%B6tesanteckningar%20presidiedialog%20mellan%20SSN%2C%20OSN%20och%20DRN%202026-03-18&fileSize=187568",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 1 - Beredningen för psykisk hälsa -  information om uppdrag och utvecklingsmedel",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490036.PDF?fileName=Bilaga%201%20-%20Beredningen%20f%C3%B6r%20psykisk%20h%C3%A4lsa%20-%20%20information%20om%20uppdrag%20och%20utvecklingsmedel&fileSize=229892",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 2  Regionalt omhändertagande av nationell strategi för psykisk hälsa och",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490037.PDF?fileName=Bilaga%202%20%20Regionalt%20omh%C3%A4ndertagande%20av%20nationell%20strategi%20f%C3%B6r%20psykisk%20h%C3%A4lsa%20och&fileSize=212764",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 3 - Framtagande av underlag för principer gällande samverkan inom Finsam",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490038.PDF?fileName=Bilaga%203%20-%20Framtagande%20av%20underlag%20f%C3%B6r%20principer%20g%C3%A4llande%20samverkan%20inom%20Finsam&fileSize=83631",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 4 - Gemensamma insatser mot välfärdsbrottslighet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490039.PDF?fileName=Bilaga%204%20-%20Gemensamma%20insatser%20mot%20v%C3%A4lf%C3%A4rdsbrottslighet&fileSize=165895",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 5 - DRNx5 Inspel och nomineringar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490040.PDF?fileName=Bilaga%205%20-%20DRNx5%20Inspel%20och%20nomineringar&fileSize=1039977",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 6 - DRN dialog den 10 mars sammanfattning av gruppdiskussion",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490041.PDF?fileName=Bilaga%206%20-%20DRN%20dialog%20den%2010%20mars%20sammanfattning%20av%20gruppdiskussion&fileSize=64623",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 7 - Implementering nytt hälso- och sjukvårdsavtal",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490042.PDF?fileName=Bilaga%207%20-%20Implementering%20nytt%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsavtal&fileSize=1045083",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367162",
+          "title": "Strategiska hälso- och sjukvårdsnämnden – granskningsplan för verksamhetsåret 2026",
+          "documents": [
+            {
+              "title": "Strategiska hälso- och sjukvårdsnämnden – granskningsplan för verksamhetsåret 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4525627.PDF?fileName=Strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20%E2%80%93%20granskningsplan%20f%C3%B6r%20verksamhets%C3%A5ret%202026&fileSize=149494",
+              "category": "Handling upprättad"
+            }
+          ]
         }
       ]
     },
