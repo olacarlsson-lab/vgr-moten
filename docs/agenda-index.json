@@ -247,7 +247,18 @@
         {
           "agendaId": "367643",
           "title": "78 - Månadskommentar maj 2026 Styrelsen för fastighet, stöd och service",
-          "documents": []
+          "documents": [
+            {
+              "title": "Månadskommentar maj 2026 Styrelsen för fastighet, stöd och service",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4546074.PDF?fileName=M%C3%A5nadskommentar%20maj%202026%20Styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=93174",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Månadskommentar 2026-05",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4562010.PDF?fileName=M%C3%A5nadskommentar%202026-05&fileSize=3924148",
+              "category": "Bilaga"
+            }
+          ]
         },
         {
           "agendaId": "367232",
@@ -1262,8 +1273,44 @@
       "meetingId": "3384356",
       "items": [
         {
+          "agendaId": "367827",
+          "title": "188 - Skyddad",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från operativa hälso- och sjukvårdsnämndens sammanträde den 8 juni 2026 - Avtal inom vårdval vårdcentral med Hälsa Hemma Sverige AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4561101.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%208%20juni%202026%20-%20Avtal%20inom%20v%C3%A5rdval%20v%C3%A5rdcentral%20med%20H%C3%A4lsa%20Hemma%20Sverige%20AB&fileSize=124234",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Skyddad",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4552590.PDF?fileName=Skyddad&fileSize=200379",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Slutrapport Fördjupad uppföljning av Hälsa Hemma Vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4555376.PDF?fileName=Slutrapport%20F%C3%B6rdjupad%20uppf%C3%B6ljning%20av%20H%C3%A4lsa%20Hemma%20V%C3%A5rdcentral&fileSize=420505",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga Marknadsföring Hälsa Hemma Vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4554173.PDF?fileName=Bilaga%20Marknadsf%C3%B6ring%20H%C3%A4lsa%20Hemma%20V%C3%A5rdcentral&fileSize=8858248",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga beräkning UPH",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4553093.PDF?fileName=Bilaga%20ber%C3%A4kning%20UPH&fileSize=301697",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Följebrev gällande fördjupad uppföljning av Hälsa Hemma Vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4553099.PDF?fileName=F%C3%B6ljebrev%20g%C3%A4llande%20f%C3%B6rdjupad%20uppf%C3%B6ljning%20av%20H%C3%A4lsa%20Hemma%20V%C3%A5rdcentral&fileSize=191657",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
           "agendaId": "367828",
-          "title": "188 - Skyddad: OSL 17 kap 3 b § Utredning av rapporter om missförhållande",
+          "title": "189 - Yrkande från Socialdemokraterna, Vänsterpartiet och Miljöpartiet om att framtidssäkra vården på Lundby sjukhus",
           "documents": [
             {
               "title": "Yrkande från Socialdemokraterna, Vänsterpartiet och Miljöpartiet om att framtidssäkra vården på Lundby sjukhus",
@@ -1274,7 +1321,7 @@
         },
         {
           "agendaId": "367826",
-          "title": "189 - Yrkande från Socialdemokraterna, Vänsterpartiet och Miljöpartiet om att framtidssäkra vården på Lundby sjukhus",
+          "title": "190 - Yrkande från Sverigedemokraterna om att bevara sjukhuset på Hisingen",
           "documents": [
             {
               "title": "Yrkande från Sverigedemokraterna om att bevara sjukhuset på Hisingen",
@@ -1285,7 +1332,7 @@
         },
         {
           "agendaId": "367829",
-          "title": "190 - Yrkande från Sverigedemokraterna om att bevara sjukhuset på Hisingen",
+          "title": "191 - Yrkande från Kristdemokraterna, Moderaterna, Centerpartiet och Liberalerna om att barn ska få logopedstöd i tid och nära hemmet",
           "documents": [
             {
               "title": "Yrkande från Kristdemokraterna, Moderaterna, Centerpartiet och Liberalerna om att barn ska få logopedstöd i tid och nära hemmet",
@@ -1531,6 +1578,16 @@
               "title": "Protokollsutdrag från regionstyrelsens sammanträde den 2 juni 2026 - Yttrande över motion av Conny Brännberg (KD) om att underlätta för personer att ansöka om färdtjänst",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4557194.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%202%20juni%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Conny%20Br%C3%A4nnberg%20(KD)%20om%20att%20underl%C3%A4tta%20f%C3%B6r%20personer%20att%20ans%C3%B6ka%20om%20f%C3%A4rdtj%C3%A4nst&fileSize=97093",
               "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Bilaga § 154A - Protokollsanteckning från (M), (L) och (C)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4556987.PDF?fileName=Bilaga%20%C2%A7%20154A%20-%20Protokollsanteckning%20fr%C3%A5n%20(M)%2C%20(L)%20och%20(C)&fileSize=212860",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga § 154B - Yrkande från (KD)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4556992.PDF?fileName=Bilaga%20%C2%A7%20154B%20-%20Yrkande%20fr%C3%A5n%20(KD)&fileSize=87504",
+              "category": "Bilaga"
             },
             {
               "title": "Yttrande över motion av Conny Brännberg (KD) om att underlätta för personer att ansöka om färdtjänst",
@@ -5008,6 +5065,11 @@
               "category": "Protokollsutdrag"
             },
             {
+              "title": "Bilaga § 106 Omrösningsprotokoll",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4560758.PDF?fileName=Bilaga%20%C2%A7%20106%20Omr%C3%B6sningsprotokoll&fileSize=130503",
+              "category": "Bilaga"
+            },
+            {
               "title": "Yttrande över motion av Stefan Svensson (KD) och Pernilla Wendesten (KD) om ökad patienttid för läkare",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4352850.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Stefan%20Svensson%20(KD)%20och%20Pernilla%20Wendesten%20(KD)%20om%20%C3%B6kad%20patienttid%20f%C3%B6r%20l%C3%A4kare&fileSize=139446",
               "category": "Tjänsteutlåtande"
@@ -5077,6 +5139,11 @@
               "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 26 maj 2026 - Yttrande över motion av Helene Strand (SD) med flera om implementering av arbetsmodellen PAX till skolor i Västra Götaland som ett komplement till dagens PALS",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4560700.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%2026%20maj%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Helene%20Strand%20(SD)%20med%20flera%20om%20implementering%20av%20arbetsmodellen%20PAX%20till%20skolor%20i%20V%C3%A4stra%20G%C3%B6taland%20som%20ett%20komplement%20till%20dagens%20PALS&fileSize=104251",
               "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Bilaga § 107 Omrösningsprotokoll",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4560765.PDF?fileName=Bilaga%20%C2%A7%20107%20Omr%C3%B6sningsprotokoll&fileSize=132579",
+              "category": "Bilaga"
             },
             {
               "title": "Yttrande över motion av Helene Strand (SD) med flera om implementering av arbetsmodellen PAX till skolor i Västra Götaland som ett komplement till dagens PALS",
@@ -5162,7 +5229,7 @@
           "documents": [
             {
               "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 26 maj 2026 - Yttrande över motion av Monika Beiring (M) om pilotprojekt för stärkta möjligheter till cancervård nära hemmet",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4560702.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%2026%20maj%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Monika%20Beiring%20(M)%20om%20pilotprojekt%20f%C3%B6r%20st%C3%A4rkta%20m%C3%B6jligheter%20till%20cancerv%C3%A5rd%20n%C3%A4ra%20hemmet&fileSize=63185",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4560702.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%2026%20maj%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Monika%20Beiring%20(M)%20om%20pilotprojekt%20f%C3%B6r%20st%C3%A4rkta%20m%C3%B6jligheter%20till%20cancerv%C3%A5rd%20n%C3%A4ra%20hemmet&fileSize=131018",
               "category": "Protokollsutdrag"
             },
             {
