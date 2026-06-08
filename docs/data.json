@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T06:22:45.100Z",
+  "generatedAt": "2026-06-08T11:28:43.112Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -682,15 +682,20 @@
     },
     {
       "key": "212615|2026-06-15",
-      "meetingId": "",
+      "meetingId": "3148575",
       "boardId": "212615",
       "board": "regionfullmäktige",
       "date": "2026-06-15",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
-      "documents": [],
-      "agendaDocCount": 0
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3148575",
+      "documents": [
+        {
+          "title": "Föredragningslista regionfullmäktige 2026-06-15 - 16",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4552703.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-06-15%20-%2016&fileSize=100299"
+        }
+      ],
+      "agendaDocCount": 29
     },
     {
       "key": "222324|2026-06-12",

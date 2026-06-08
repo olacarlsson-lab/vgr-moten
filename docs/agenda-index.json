@@ -1,5 +1,224 @@
 {
   "meetings": {
+    "212615|2026-06-15": {
+      "meetingId": "3148575",
+      "items": [
+        {
+          "agendaId": "367747",
+          "title": "125 - Avsägelser och anmälan om nyvalda i regionfullmäktige",
+          "documents": [
+            {
+              "title": "Avsägelser och anmälan om nyvalda i regionfullmäktige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548662.PDF?fileName=Avs%C3%A4gelser%20och%20anm%C3%A4lan%20om%20nyvalda%20i%20regionfullm%C3%A4ktige&fileSize=102834",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "367757",
+          "title": "126 - Frågestund",
+          "documents": []
+        },
+        {
+          "agendaId": "367750",
+          "title": "127 - Delårsrapport april 2026 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Delårsrapport april 2026 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4524928.PDF?fileName=Del%C3%A5rsrapport%20april%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=150688",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Västra Götalandsregionens delårsrapport april 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4544503.PDF?fileName=V%C3%A4stra%20G%C3%B6talandsregionens%20del%C3%A5rsrapport%20april%202026&fileSize=1675335",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 1 Statusrapport Energiläget och energiinvesteringarna år 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4456457.PDF?fileName=Bilaga%201%20Statusrapport%20Energil%C3%A4get%20och%20energiinvesteringarna%20%C3%A5r%202025&fileSize=333517",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368062",
+          "title": "128 - Budget 2027 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 2 juni 2026 - Budget 2027 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4557179.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%202%20juni%202026%20-%20Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=111328",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Budget 2027 för Västra Götalandsregionen - RödGrön ledning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537833.PDF?fileName=Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%20-%20R%C3%B6dGr%C3%B6n%20ledning&fileSize=853619",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Budget 2027 för Västra Götalandsregionen - Moderaterna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4552021.PDF?fileName=Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%20-%20Moderaterna&fileSize=556147",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Budget 2027 för Västra Götalandsregionen - Sverigedemokraterna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4552853.PDF?fileName=Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%20-%20Sverigedemokraterna&fileSize=2776476",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Budget 2027 för Västra Götalandsregionen - Kristdemokraterna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4551176.PDF?fileName=Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%20-%20Kristdemokraterna&fileSize=557474",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Budget 2027 för Västra Götalandsregionen - Centerpartiet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4551188.PDF?fileName=Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%20-%20Centerpartiet&fileSize=1275205",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Budget 2027 för Västra Götalandsregionen - Liberalerna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4552852.PDF?fileName=Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%20-%20Liberalerna&fileSize=591088",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367751",
+          "title": "129 - Budget 2027 för revisorskollegiet",
+          "documents": [
+            {
+              "title": "Budget 2027 för revisorskollegiet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4512030.PDF?fileName=Budget%202027%20f%C3%B6r%20revisorskollegiet&fileSize=101037",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Beslut från revisorskollegiet 2026-04-22 § 26 - Revisorskollegiets budgetäskande 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511610.PDF?fileName=Beslut%20fr%C3%A5n%20revisorskollegiet%202026-04-22%20%C2%A7%2026%20-%20Revisorskollegiets%20budget%C3%A4skande%202027&fileSize=62022",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Tjänsteutlåtande - Revisorskollegiets budgetäskande 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511611.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Revisorskollegiets%20budget%C3%A4skande%202027&fileSize=86453",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368063",
+          "title": "130 - Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
+          "documents": [
+            {
+              "title": "Protokollsutdrag regionstyrelsen 2026-06-02 - § 147 Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4557230.PDF?fileName=Protokollsutdrag%20regionstyrelsen%202026-06-02%20-%20%C2%A7%20147%20Arvodesbest%C3%A4mmelser%20f%C3%B6r%20f%C3%B6rtroendevalda%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%202026-2030&fileSize=171903",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Bilaga § 147A - Yrkande från (SD)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4556982.PDF?fileName=Bilaga%20%C2%A7%20147A%20-%20Yrkande%20fr%C3%A5n%20(SD)&fileSize=166230",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga § 147B - Yrkande från (C)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4556984.PDF?fileName=Bilaga%20%C2%A7%20147B%20-%20Yrkande%20fr%C3%A5n%20(C)&fileSize=58650",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från arvodesberedningens sammanträde den 15 maj - Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen mandatperioden 2026-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4535320.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20arvodesberedningens%20sammantr%C3%A4de%20den%2015%20maj%20-%20Arvodesbest%C3%A4mmelser%20f%C3%B6r%20f%C3%B6rtroendevalda%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%20mandatperioden%202026-2030&fileSize=118577",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4444765.PDF?fileName=Arvodesbest%C3%A4mmelser%20f%C3%B6r%20f%C3%B6rtroendevalda%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%202026-2030&fileSize=554483",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Arvodesbestämmelser 2022-2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4524660.PDF?fileName=Arvodesbest%C3%A4mmelser%202022-2026&fileSize=519016",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367753",
+          "title": "131 - Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
+          "documents": [
+            {
+              "title": "Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4538135.PDF?fileName=Tillf%C3%A4llig%20avgiftsfrihet%20f%C3%B6r%20ikappvaccination%20mot%20pneumokocker%2065%2B%20under%202026&fileSize=125625",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-05-27 § 109 - Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549400.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-27%20%C2%A7%20109%20-%20Tillf%C3%A4llig%20avgiftsfrihet%20f%C3%B6r%20ikappvaccination%20mot%20pneumokocker%2065%2B%20under%202026&fileSize=82958",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367754",
+          "title": "132 - Tillfällig rabatt på Västtrafiks månadsbiljetter",
+          "documents": [
+            {
+              "title": "Tillfällig rabatt på Västtrafiks månadsbiljetter",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4547915.PDF?fileName=Tillf%C3%A4llig%20rabatt%20p%C3%A5%20V%C3%A4sttrafiks%20m%C3%A5nadsbiljetter&fileSize=115748",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Information till RKM om nytt stöd till sänkta priser i kollektivtrafiken",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548034.PDF?fileName=Information%20till%20RKM%20om%20nytt%20st%C3%B6d%20till%20s%C3%A4nkta%20priser%20i%20kollektivtrafiken&fileSize=93095",
+              "category": "Bilaga"
+            },
+            {
+              "title": "IKN 2026-00198-2 Ordförandebeslut om tillfällig rabatt på Västtrafiks månadsbiljetter 4545910_8_1",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549575.PDF?fileName=IKN%202026-00198-2%20Ordf%C3%B6randebeslut%20om%20tillf%C3%A4llig%20rabatt%20p%C3%A5%20V%C3%A4sttrafiks%20m%C3%A5nadsbiljetter%204545910_8_1&fileSize=274725",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367752",
+          "title": "133 - Sammanträdestider 2027 för regionfullmäktige",
+          "documents": [
+            {
+              "title": "Sammanträdestider 2027 för regionfullmäktige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4521348.PDF?fileName=Sammantr%C3%A4destider%202027%20f%C3%B6r%20regionfullm%C3%A4ktige&fileSize=108535",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "367748",
+          "title": "134 - Motionsbalans och redovisning av bifallna motioner",
+          "documents": [
+            {
+              "title": "Motionsbalans och redovisning av bifallna motioner",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4537986.PDF?fileName=Motionsbalans%20och%20redovisning%20av%20bifallna%20motioner&fileSize=100124",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Motionsbalans maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4544973.PDF?fileName=Motionsbalans%20maj%202026&fileSize=92312",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Redovisning av bifallna motioner maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4544975.PDF?fileName=Redovisning%20av%20bifallna%20motioner%20maj%202026&fileSize=111987",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367756",
+          "title": "135 - Anmälan av inkomna motioner",
+          "documents": []
+        },
+        {
+          "agendaId": "367746",
+          "title": "136 - Valärenden",
+          "documents": []
+        }
+      ]
+    },
     "222324|2026-06-12": {
       "meetingId": "3256305",
       "items": [
