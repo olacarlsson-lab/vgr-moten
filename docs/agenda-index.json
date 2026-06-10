@@ -15,13 +15,29 @@
           ]
         },
         {
+          "agendaId": "368141",
+          "title": "126 - Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
+          "documents": [
+            {
+              "title": "Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4561938.PDF?fileName=R%C3%A4ttelse%20av%20regionfullm%C3%A4ktiges%20beslut%202026-05-26%20%C2%A7%20109&fileSize=110819",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 26 maj 2026 - Yttrande över motion av Monika Beiring (M) om pilotprojekt för stärkta möjligheter till cancervård nära hemmet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4560702.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%2026%20maj%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Monika%20Beiring%20(M)%20om%20pilotprojekt%20f%C3%B6r%20st%C3%A4rkta%20m%C3%B6jligheter%20till%20cancerv%C3%A5rd%20n%C3%A4ra%20hemmet&fileSize=131018",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
           "agendaId": "367757",
-          "title": "126 - Frågestund",
+          "title": "127 - Frågestund",
           "documents": []
         },
         {
           "agendaId": "367750",
-          "title": "127 - Delårsrapport april 2026 för Västra Götalandsregionen",
+          "title": "128 - Delårsrapport april 2026 för Västra Götalandsregionen",
           "documents": [
             {
               "title": "Delårsrapport april 2026 för Västra Götalandsregionen",
@@ -42,7 +58,7 @@
         },
         {
           "agendaId": "368062",
-          "title": "128 - Budget 2027 för Västra Götalandsregionen",
+          "title": "129 - Budget 2027 för Västra Götalandsregionen",
           "documents": [
             {
               "title": "Protokollsutdrag från regionstyrelsens sammanträde den 2 juni 2026 - Budget 2027 för Västra Götalandsregionen",
@@ -83,7 +99,7 @@
         },
         {
           "agendaId": "367751",
-          "title": "129 - Budget 2027 för revisorskollegiet",
+          "title": "130 - Budget 2027 för revisorskollegiet",
           "documents": [
             {
               "title": "Budget 2027 för revisorskollegiet",
@@ -104,7 +120,7 @@
         },
         {
           "agendaId": "368063",
-          "title": "130 - Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
+          "title": "131 - Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
           "documents": [
             {
               "title": "Protokollsutdrag regionstyrelsen 2026-06-02 - § 147 Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
@@ -140,7 +156,7 @@
         },
         {
           "agendaId": "367753",
-          "title": "131 - Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
+          "title": "132 - Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
           "documents": [
             {
               "title": "Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
@@ -156,7 +172,7 @@
         },
         {
           "agendaId": "367754",
-          "title": "132 - Tillfällig rabatt på Västtrafiks månadsbiljetter",
+          "title": "133 - Tillfällig rabatt på Västtrafiks månadsbiljetter",
           "documents": [
             {
               "title": "Tillfällig rabatt på Västtrafiks månadsbiljetter",
@@ -177,7 +193,7 @@
         },
         {
           "agendaId": "367752",
-          "title": "133 - Sammanträdestider 2027 för regionfullmäktige",
+          "title": "134 - Sammanträdestider 2027 för regionfullmäktige",
           "documents": [
             {
               "title": "Sammanträdestider 2027 för regionfullmäktige",
@@ -188,7 +204,7 @@
         },
         {
           "agendaId": "367748",
-          "title": "134 - Motionsbalans och redovisning av bifallna motioner",
+          "title": "135 - Motionsbalans och redovisning av bifallna motioner",
           "documents": [
             {
               "title": "Motionsbalans och redovisning av bifallna motioner",
@@ -209,12 +225,12 @@
         },
         {
           "agendaId": "367756",
-          "title": "135 - Anmälan av inkomna motioner",
+          "title": "136 - Anmälan av inkomna motioner",
           "documents": []
         },
         {
           "agendaId": "367746",
-          "title": "136 - Valärenden",
+          "title": "137 - Valärenden",
           "documents": []
         }
       ]
