@@ -34,7 +34,7 @@ function buildPrefBoards(boards) {
   for (const b of boards) {
     const label = document.createElement('label')
     label.dataset.name = b.name.toLowerCase()
-    label.innerHTML = `<input type="checkbox" data-board="${b.id}"> ${escapeHtml(b.name)}`
+    label.innerHTML = `<input type="checkbox" data-board="${escapeHtml(String(b.id))}"> ${escapeHtml(b.name)}`
     el.appendChild(label)
   }
 }
@@ -84,14 +84,19 @@ function persistPrefs(prefs) {
   try { localStorage.setItem(PREFS_KEY, JSON.stringify(prefs)) } catch { /* ignore */ }
 }
 
+// Fel ligger kvar tills användaren agerar; info/succé döljs automatiskt.
+let bannerTimer = null
 function showBanner(text, kind = 'info') {
   banner.textContent = text
   banner.className = `banner ${kind}`
   banner.hidden = false
+  clearTimeout(bannerTimer)
+  if (kind !== 'error') bannerTimer = setTimeout(() => { banner.hidden = true }, 8000)
 }
 
 // ---- Datum/status -----------------------------------------------------------
-const today = new Date().toISOString().slice(0, 10)
+// Lokal dag (sv-CA ger ÅÅÅÅ-MM-DD) – toISOString() är UTC och blir fel kvällstid.
+const today = new Date().toLocaleDateString('sv-CA')
 const isUpcoming = (m) => m.date >= today
 const isPublished = (m) => Boolean(m.published) // handlingar/agenda finns
 
@@ -142,7 +147,7 @@ function render() {
     if (handlingar) tags.push(`<span class="tag">${handlingar} handlingar</span>`)
 
     li.innerHTML = `
-      <h2 class="title"><a href="${escapeHtml(m.url)}" rel="noopener">${escapeHtml(m.board)}</a></h2>
+      <h2 class="title"><a href="${escapeHtml(m.url)}" target="_blank" rel="noopener">${escapeHtml(m.board)}</a></h2>
       <div class="row">
         <span>${escapeHtml(formatDate(m.date))}</span>
         ${tags.join(' ')}
@@ -210,7 +215,7 @@ async function loadData() {
     }
   } catch (err) {
     $('#empty').hidden = false
-    showBanner('Kunde inte ladda data.json.', 'error')
+    showBanner('Kunde inte ladda mötesdata. Kontrollera anslutningen och ladda om sidan.', 'error')
   }
 }
 
@@ -227,33 +232,57 @@ async function registerSW() {
   if (!('serviceWorker' in navigator)) return
   try {
     swReg = await navigator.serviceWorker.register('sw.js')
+    await refreshNotifyButton()
   } catch (err) {
     console.error('SW-registrering misslyckades', err)
   }
 }
 
-async function enableNotifications() {
+// Knappen speglar läget: idle ("Aktivera notiser"), working, active.
+function setNotifyState(state) {
   const btn = $('#notify')
+  btn.disabled = state === 'working'
+  btn.textContent =
+    state === 'working' ? 'Aktiverar…'
+      : state === 'active' ? 'Notiser aktiva ✓'
+        : 'Aktivera notiser'
+}
+
+// Vid sidladdning: visa om enheten redan är prenumererad.
+async function refreshNotifyButton() {
+  if (!swReg || !('Notification' in window) || Notification.permission !== 'granted') return
+  try {
+    const sub = await swReg.pushManager.getSubscription()
+    if (sub) setNotifyState('active')
+  } catch { /* ignore */ }
+}
+
+async function enableNotifications() {
   const key = window.VGR_CONFIG?.vapidPublicKey
   if (!key || key.startsWith('REPLACE_')) {
     showBanner('VAPID-nyckel saknas i config.js – se README.', 'error')
     return
   }
   if (!('PushManager' in window) || !swReg) {
-    showBanner('Den här webbläsaren stöder inte push. På iPhone: lägg först till på hemskärmen.', 'error')
+    showBanner('Den här webbläsaren stöder inte push. På iPhone: lägg först till på hemskärmen (Dela → Lägg till på hemskärmen) och öppna appen därifrån.', 'error')
+    return
+  }
+  if (Notification.permission === 'denied') {
+    showBanner('Notiser är blockerade för den här webbplatsen. Tillåt notiser i webbläsarens inställningar och försök igen.', 'error')
     return
   }
   if (gatherPrefs().boards.length === 0) {
     $('#settings').open = true
+    $('#settings').scrollIntoView({ behavior: 'smooth', block: 'start' })
     showBanner('Välj minst en nämnd under Notisinställningar först.', 'error')
     return
   }
-  btn.disabled = true
+  setNotifyState('working')
   try {
     const permission = await Notification.requestPermission()
     if (permission !== 'granted') {
-      showBanner('Notiser nekades.', 'error')
-      btn.disabled = false
+      showBanner('Notiser nekades. Du kan ändra dig via webbläsarens inställningar för den här webbplatsen.', 'error')
+      setNotifyState('idle')
       return
     }
     const existing = await swReg.pushManager.getSubscription()
@@ -267,16 +296,16 @@ async function enableNotifications() {
     const endpoint = window.VGR_CONFIG?.subscribeEndpoint
     if (endpoint) {
       await postSubscription(sub, prefs)
-      showBanner('Notiser aktiverade på den här enheten.', 'success')
+      showBanner(`Notiser aktiverade på den här enheten för ${prefs.boards.length} nämnd(er).`, 'success')
     } else {
       // Ingen endpoint konfigurerad – visa JSON för manuell secret-modell.
       showSubscription(sub)
       showBanner('Notiser aktiverade. Klistra in prenumerationen enligt README.', 'success')
     }
+    setNotifyState('active')
   } catch (err) {
     showBanner('Kunde inte aktivera notiser: ' + err.message, 'error')
-  } finally {
-    btn.disabled = false
+    setNotifyState('idle')
   }
 }
 
@@ -292,22 +321,37 @@ async function postSubscription(sub, prefs) {
   if (!res.ok) throw new Error('servern svarade ' + res.status)
 }
 
+// Statusrad under "Spara inställningar". Fel ligger kvar, annat rensas efter en stund.
+let hintTimer = null
+function setPrefsHint(text, isError = false) {
+  const hint = $('#prefsHint')
+  hint.textContent = text
+  clearTimeout(hintTimer)
+  if (!isError) hintTimer = setTimeout(() => { hint.textContent = '' }, 6000)
+}
+
 // "Spara inställningar" – uppdaterar prefs för en redan aktiverad prenumeration.
 async function savePrefs() {
+  const btn = $('#savePrefs')
   const prefs = gatherPrefs()
   persistPrefs(prefs)
-  const hint = $('#prefsHint')
   const endpoint = window.VGR_CONFIG?.subscribeEndpoint
   const sub = swReg && (await swReg.pushManager.getSubscription())
   if (!sub || !endpoint) {
-    hint.textContent = 'Sparat. Inställningarna gäller när du aktiverar notiser.'
+    setPrefsHint('Sparat. Inställningarna gäller när du aktiverar notiser.')
     return
   }
+  if (prefs.boards.length === 0) {
+    setPrefsHint('Sparat – men inga nämnder är valda, så inga notiser skickas.', true)
+  }
+  btn.disabled = true
   try {
     await postSubscription(sub, prefs)
-    hint.textContent = 'Inställningar sparade.'
+    if (prefs.boards.length > 0) setPrefsHint('Inställningar sparade.')
   } catch (err) {
-    hint.textContent = 'Kunde inte spara mot servern: ' + err.message
+    setPrefsHint('Kunde inte spara mot servern: ' + err.message, true)
+  } finally {
+    btn.disabled = false
   }
 }
 
