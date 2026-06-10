@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T13:58:08.210Z",
+  "generatedAt": "2026-06-10T16:58:22.845Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -309,6 +309,18 @@
   ],
   "meetings": [
     {
+      "key": "212210|2026-12-18",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-12-18",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222324|2026-12-16",
       "meetingId": "",
       "boardId": "222324",
@@ -345,6 +357,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222331|2026-12-10",
+      "meetingId": "",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-12-10",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222298|2026-12-09",
       "meetingId": "",
       "boardId": "222298",
@@ -353,6 +377,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-12-03",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-12-03",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -369,6 +405,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222331|2026-11-26",
+      "meetingId": "",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-11-26",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222298|2026-11-25",
       "meetingId": "",
       "boardId": "222298",
@@ -377,6 +425,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-11-25",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-11-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -453,6 +513,30 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212210|2026-10-23",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-10-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-10-22",
+      "meetingId": "",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-10-22",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222298|2026-10-21",
       "meetingId": "",
       "boardId": "222298",
@@ -489,6 +573,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "210654|2026-10-08",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-10-08",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212615|2026-10-06",
       "meetingId": "",
       "boardId": "212615",
@@ -497,6 +593,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-10-02",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-10-02",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -537,6 +645,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222331|2026-09-24",
+      "meetingId": "",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-09-24",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222298|2026-09-23",
       "meetingId": "",
       "boardId": "222298",
@@ -573,6 +693,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "210654|2026-09-03",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-09-03",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2026-09-02",
       "meetingId": "",
       "boardId": "212298",
@@ -585,6 +717,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222331|2026-08-28",
+      "meetingId": "",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-08-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222324|2026-08-28",
       "meetingId": "",
       "boardId": "222324",
@@ -593,6 +737,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-08-28",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-08-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -657,16 +813,62 @@
       "agendaDocCount": 0
     },
     {
-      "key": "222298|2026-06-17",
+      "key": "212210|2026-06-22",
       "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-06-22",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-06-18",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-06-18",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-06-17",
+      "meetingId": "3210110",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-06-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210110",
+      "documents": [
+        {
+          "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4566927.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-06-17&fileSize=204408"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-06-17",
+      "meetingId": "3218840",
       "boardId": "222298",
       "board": "operativa hälso- och sjukvårdsnämnden",
       "date": "2026-06-17",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
-      "documents": [],
-      "agendaDocCount": 0
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3218840",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4566438.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17&fileSize=174137"
+        }
+      ],
+      "agendaDocCount": 160
     },
     {
       "key": "222299|2026-06-17",
@@ -718,6 +920,23 @@
         }
       ],
       "agendaDocCount": 92
+    },
+    {
+      "key": "212210|2026-06-12",
+      "meetingId": "3217876",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-06-12",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217876",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-06-12",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4558210.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-06-12&fileSize=123112"
+        }
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "212298|2026-06-09",
@@ -794,6 +1013,52 @@
         }
       ],
       "agendaDocCount": 159
+    },
+    {
+      "key": "212210|2026-05-29",
+      "meetingId": "3217875",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-05-29",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217875",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-05-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539922.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-05-29&fileSize=117580"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-05-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4553286.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-05-29&fileSize=1044661"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-05-28",
+      "meetingId": "3210108",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-05-28",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210108",
+      "documents": [
+        {
+          "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-05-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4538079.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-05-28&fileSize=188482"
+        },
+        {
+          "title": "Protokoll 2 av 2 miljö- och regionutvecklingsnämnden 2026-05-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4545965.PDF?fileName=Protokoll%202%20av%202%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-05-28&fileSize=995072"
+        },
+        {
+          "title": "Protokoll 1 av 2  miljö- och regionutvecklingsnämnden 2026-05-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4546190.PDF?fileName=Protokoll%201%20av%202%20%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-05-28&fileSize=352182"
+        }
+      ],
+      "agendaDocCount": 0
     },
     {
       "key": "222299|2026-05-27",
@@ -880,6 +1145,18 @@
       "agendaDocCount": 144
     },
     {
+      "key": "210654|2026-05-07",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-05-07",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2026-05-05",
       "meetingId": "3184048",
       "boardId": "212298",
@@ -896,6 +1173,27 @@
         {
           "title": "Protokoll  ägarutskottet 2026-05-05",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511151.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-05-05&fileSize=988152"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-04-29",
+      "meetingId": "3210105",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-04-29",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210105",
+      "documents": [
+        {
+          "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-04-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4500050.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-04-29&fileSize=179467"
+        },
+        {
+          "title": "Protokoll  miljö- och regionutvecklingsnämnden 2026-04-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4508617.PDF?fileName=Protokoll%20%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-04-29&fileSize=1156310"
         }
       ],
       "agendaDocCount": 0
@@ -947,6 +1245,27 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212210|2026-04-22",
+      "meetingId": "3217874",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-04-22",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217874",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-04-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490732.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-04-22&fileSize=114776"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-04-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4504275.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-04-22&fileSize=1224704"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222299|2026-04-21",
       "meetingId": "3190487",
       "boardId": "222299",
@@ -984,6 +1303,27 @@
         {
           "title": "Protokoll  styrelsen för fastighet, stöd och service 2026-04-17",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4487736.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-04-17&fileSize=529956"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-04-16",
+      "meetingId": "3329754",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-04-16",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3329754",
+      "documents": [
+        {
+          "title": "Kallelse beredningen för hållbar utveckling 2026-04-16",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4482237.PDF?fileName=Kallelse%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-04-16&fileSize=99915"
+        },
+        {
+          "title": "Protokoll  beredningen för hållbar utveckling 2026-04-16",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4486229.PDF?fileName=Protokoll%20%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-04-16&fileSize=352980"
         }
       ],
       "agendaDocCount": 0
@@ -1077,6 +1417,64 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212210|2026-03-25",
+      "meetingId": "3217873",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-03-25",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217873",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-03-25",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4458284.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-03-25&fileSize=130842"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-03-25 omedelbar justering",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4466588.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-03-25%20omedelbar%20justering&fileSize=322718"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-03-25",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4472956.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-03-25&fileSize=1318737"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-03-19",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-03-19",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-03-19",
+      "meetingId": "3210103",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-03-19",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210103",
+      "documents": [
+        {
+          "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-03-19",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4448042.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-03-19&fileSize=190592"
+        },
+        {
+          "title": "Protokoll  miljö- och regionutvecklingsnämnden 2026-03-19",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4463071.PDF?fileName=Protokoll%20%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-03-19&fileSize=945094"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2026-03-17",
       "meetingId": "3184033",
       "boardId": "212458",
@@ -1139,6 +1537,31 @@
         {
           "title": "Protokoll  strategiska hälso- och sjukvårdsnämnden 2026-03-06",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4444885.PDF?fileName=Protokoll%20%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-03-06&fileSize=1203375"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-03-06",
+      "meetingId": "3217871",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-03-06",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217871",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-03-06",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4425725.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-03-06&fileSize=123949"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-03-06 omedelbar justering",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4442589.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-03-06%20omedelbar%20justering&fileSize=416160"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-03-06",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4446825.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-03-06&fileSize=571897"
         }
       ],
       "agendaDocCount": 0
@@ -1219,6 +1642,27 @@
       "agendaDocCount": 0
     },
     {
+      "key": "210654|2026-02-19",
+      "meetingId": "3250563",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-02-19",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3250563",
+      "documents": [
+        {
+          "title": "Kallelse beredningen för hållbar utveckling 2026-02-19",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4407461.PDF?fileName=Kallelse%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-02-19&fileSize=152963"
+        },
+        {
+          "title": "Protokoll  beredningen för hållbar utveckling 2026-02-19",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4414247.PDF?fileName=Protokoll%20%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-02-19&fileSize=517282"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212615|2026-02-17",
       "meetingId": "3148566",
       "boardId": "212615",
@@ -1275,6 +1719,30 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4394003.PDF?fileName=Protokoll%20%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-02-06&fileSize=1677331"
         }
       ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-02-06",
+      "meetingId": "3217870",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-02-06",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217870",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-02-05",
+      "meetingId": "3210100",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-02-05",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210100",
+      "documents": [],
       "agendaDocCount": 0
     },
     {
