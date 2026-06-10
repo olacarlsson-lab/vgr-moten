@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T10:34:30.672Z",
+  "generatedAt": "2026-06-10T13:58:08.210Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -670,15 +670,20 @@
     },
     {
       "key": "222299|2026-06-17",
-      "meetingId": "",
+      "meetingId": "3191843",
       "boardId": "222299",
       "board": "strategiska hälso- och sjukvårdsnämnden",
       "date": "2026-06-17",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
-      "documents": [],
-      "agendaDocCount": 0
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3191843",
+      "documents": [
+        {
+          "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4563651.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17&fileSize=143867"
+        }
+      ],
+      "agendaDocCount": 105
     },
     {
       "key": "212615|2026-06-15",
