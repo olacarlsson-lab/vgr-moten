@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T06:43:23.599Z",
+  "generatedAt": "2026-06-11T11:18:43.408Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -826,14 +826,19 @@
     },
     {
       "key": "210654|2026-06-18",
-      "meetingId": "",
+      "meetingId": "3250568",
       "boardId": "210654",
       "board": "beredningen för hållbar utveckling",
       "date": "2026-06-18",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
-      "documents": [],
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3250568",
+      "documents": [
+        {
+          "title": "Kallelse beredningen för hållbar utveckling 2026-06-18",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4562308.PDF?fileName=Kallelse%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-06-18&fileSize=171294"
+        }
+      ],
       "agendaDocCount": 0
     },
     {
