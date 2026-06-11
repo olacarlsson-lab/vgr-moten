@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T01:42:04.747Z",
+  "generatedAt": "2026-06-11T06:43:23.599Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -951,9 +951,13 @@
         {
           "title": "Kallelse ägarutskottet 2026-06-09",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4554867.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-06-09&fileSize=120921"
+        },
+        {
+          "title": "Protokoll  ägarutskottet 2026-06-09",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4555447.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-06-09&fileSize=1104368"
         }
       ],
-      "agendaDocCount": 31
+      "agendaDocCount": 45
     },
     {
       "key": "222298|2026-06-08",
