@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T11:18:43.408Z",
+  "generatedAt": "2026-06-11T14:59:19.076Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -962,7 +962,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4555447.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-06-09&fileSize=1104368"
         }
       ],
-      "agendaDocCount": 45
+      "agendaDocCount": 46
     },
     {
       "key": "222298|2026-06-08",
@@ -1019,9 +1019,13 @@
         {
           "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-05-29",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539857.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-29&fileSize=152021"
+        },
+        {
+          "title": "Protokoll  operativa hälso- och sjukvårdsnämnden 2026-05-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4557338.PDF?fileName=Protokoll%20%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-29&fileSize=1205903"
         }
       ],
-      "agendaDocCount": 159
+      "agendaDocCount": 193
     },
     {
       "key": "212210|2026-05-29",
@@ -1060,7 +1064,7 @@
         },
         {
           "title": "Protokoll 2 av 2 miljö- och regionutvecklingsnämnden 2026-05-28",
-          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4545965.PDF?fileName=Protokoll%202%20av%202%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-05-28&fileSize=995072"
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4545965.PDF?fileName=Protokoll%202%20av%202%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-05-28&fileSize=2272853"
         },
         {
           "title": "Protokoll 1 av 2  miljö- och regionutvecklingsnämnden 2026-05-28",
