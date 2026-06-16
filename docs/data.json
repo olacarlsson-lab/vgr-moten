@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T20:45:11.578Z",
+  "generatedAt": "2026-06-16T22:50:30.420Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -815,7 +815,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572311.PDF?fileName=Kallelse%20regionstyrelsen%202026-06-22&fileSize=138048"
         }
       ],
-      "agendaDocCount": 157
+      "agendaDocCount": 158
     },
     {
       "key": "212210|2026-06-22",
@@ -863,7 +863,7 @@
       "documents": [
         {
           "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-06-17",
-          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4566927.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-06-17&fileSize=204408"
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4566927.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-06-17&fileSize=193823"
         }
       ],
       "agendaDocCount": 0
@@ -883,7 +883,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4566438.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17&fileSize=174137"
         }
       ],
-      "agendaDocCount": 160
+      "agendaDocCount": 162
     },
     {
       "key": "222299|2026-06-17",
@@ -1123,7 +1123,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4546865.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-05-26&fileSize=3291858"
         }
       ],
-      "agendaDocCount": 128
+      "agendaDocCount": 135
     },
     {
       "key": "222324|2026-05-22",
