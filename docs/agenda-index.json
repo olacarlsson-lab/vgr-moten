@@ -3679,8 +3679,33 @@
           "documents": []
         },
         {
-          "agendaId": "367746",
-          "title": "137 - Valärenden",
+          "agendaId": "368384",
+          "title": "137 - Ledamot tillika regionråd i regionstyrelsen",
+          "documents": []
+        },
+        {
+          "agendaId": "368389",
+          "title": "138 - Ledamot till revisorskollegiet",
+          "documents": []
+        },
+        {
+          "agendaId": "368385",
+          "title": "139 - Nämndemän i Förvaltningsrätten i Göteborg",
+          "documents": []
+        },
+        {
+          "agendaId": "368387",
+          "title": "140 - Nämndeman i Förvaltningsrätten i Jönköping",
+          "documents": []
+        },
+        {
+          "agendaId": "368386",
+          "title": "141 - Nämndeman i Hovrätten för Västra Sverige",
+          "documents": []
+        },
+        {
+          "agendaId": "368388",
+          "title": "142 - Ledamöter i tryckfrihetsmål vid Göteborgs Tingsrätt",
           "documents": []
         }
       ]
@@ -4544,6 +4569,16 @@
               "title": "Protokollsutdrag från ägarutskottets sammanträde den 9 juni 2026 - Förändrat ägarförhållande Stiftelsen Stenebyskolan",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4567117.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20%C3%A4garutskottets%20sammantr%C3%A4de%20den%209%20juni%202026%20-%20F%C3%B6r%C3%A4ndrat%20%C3%A4garf%C3%B6rh%C3%A5llande%20Stiftelsen%20Stenebyskolan&fileSize=105443",
               "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Anteckningar politiskt möte om Stiftelsen Stenebyskolan 2026-05-04",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4575606.PDF?fileName=Anteckningar%20politiskt%20m%C3%B6te%20om%20Stiftelsen%20Stenebyskolan%202026-05-04&fileSize=56318",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Synpunkter på utredningsförslag och inriktning samarbetsavtal Stiftelsen Stenebyskolan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4575607.PDF?fileName=Synpunkter%20p%C3%A5%20utredningsf%C3%B6rslag%20och%20inriktning%20samarbetsavtal%20Stiftelsen%20Stenebyskolan&fileSize=133578",
+              "category": "Bilaga"
             },
             {
               "title": "Förändrat ägarförhållande Stiftelsen Stenebyskolan",
