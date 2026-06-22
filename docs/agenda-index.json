@@ -449,7 +449,7 @@
             },
             {
               "title": "Rättssäker samhällsvård för barn och unga (SOU 2026:8)",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4543828.PDF?fileName=R%C3%A4ttss%C3%A4ker%20samh%C3%A4llsv%C3%A5rd%20f%C3%B6r%20barn%20och%20unga%20(SOU%202026%3A8)&fileSize=185513",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4543828.PDF?fileName=R%C3%A4ttss%C3%A4ker%20samh%C3%A4llsv%C3%A5rd%20f%C3%B6r%20barn%20och%20unga%20(SOU%202026%3A8)&fileSize=185237",
               "category": "Bilaga"
             }
           ]
@@ -464,6 +464,22 @@
               "category": "Tjänsteutlåtande"
             }
           ]
+        },
+        {
+          "agendaId": "368427",
+          "title": "187 - Fyllnadsval av ledamot till digitaliseringsutskottet och ersättare till ägarutskottet",
+          "documents": [
+            {
+              "title": "Fyllnadsval av ledamot till digitaliseringsutskottet och ersättare till ägarutskottet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576399.PDF?fileName=Fyllnadsval%20av%20ledamot%20till%20digitaliseringsutskottet%20och%20ers%C3%A4ttare%20till%20%C3%A4garutskottet&fileSize=110520",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "368431",
+          "title": "188 - Ansökan om projektstöd från judiska församlingen i Göteborg för etablering av Göteborgs Judiska Kunskapscenter",
+          "documents": []
         },
         {
           "agendaId": "368261",
@@ -921,8 +937,35 @@
           ]
         },
         {
-          "agendaId": "368194",
+          "agendaId": "368419",
           "title": "Skyddad: OSL 21 kap 1 § Hälsa och sexualliv",
+          "documents": [
+            {
+              "title": "Ansvarig tjänsteperson för delregional nämnd östra från och med 1 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4564858.PDF?fileName=Ansvarig%20tj%C3%A4nsteperson%20f%C3%B6r%20delregional%20n%C3%A4mnd%20%C3%B6stra%20fr%C3%A5n%20och%20med%201%20augusti%202026&fileSize=105032",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "368428",
+          "title": "Skyddad",
+          "documents": [
+            {
+              "title": "Remiss av motioner anmälda på\r\nregionfullmäktige den 15-16 juni 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576415.PDF?fileName=Remiss%20av%20motioner%20anm%C3%A4lda%20p%C3%A5%0D%0Aregionfullm%C3%A4ktige%20den%2015-16%20juni%202026&fileSize=103045",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Motion anmäld på regionfullmäktige 2026-06-15 - 16",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576417.PDF?fileName=Motion%20anm%C3%A4ld%20p%C3%A5%20regionfullm%C3%A4ktige%202026-06-15%20-%2016&fileSize=23820",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368194",
+          "title": "Skyddad",
           "documents": [
             {
               "title": "Skrivelse till Regionstyrelsen för att informera om det utmanande läget med ekonomi och produktion på Sahlgrenska Universitetssjukhuset",
@@ -943,7 +986,7 @@
         },
         {
           "agendaId": "368119",
-          "title": "Skyddad",
+          "title": "Skyddad: OSL 39 kap 2 § Personaladministrativ verksamhet i övrigt",
           "documents": [
             {
               "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 22 maj 2026 - Rapportering av milstolpe, nybygg",
@@ -980,7 +1023,7 @@
         },
         {
           "agendaId": "368121",
-          "title": "Skyddad: OSL 39 kap 2 § Personaladministrativ verksamhet i övrigt",
+          "title": "Skyddad",
           "documents": [
             {
               "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 22 maj 2026 - Slutredovisning Sahlgrenska Unive",
@@ -1038,7 +1081,7 @@
         },
         {
           "agendaId": "368124",
-          "title": "Skyddad",
+          "title": "Skiljande från anställning utan egen begäran april 2026",
           "documents": [
             {
               "title": "Protokollsutdrag från kulturnämndens sammanträde den 13 maj 2026 - Uppföljning av indikatorer kopplade till mål och fokusområden",
@@ -1054,7 +1097,7 @@
         },
         {
           "agendaId": "368125",
-          "title": "Skyddad",
+          "title": "Skyddad: OSL 19 kap 3 § Upphandling m.m.",
           "documents": [
             {
               "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Svar på revisionsrapport - Granskni",
@@ -1070,7 +1113,7 @@
         },
         {
           "agendaId": "368126",
-          "title": "Skiljande från anställning utan egen begäran april 2026",
+          "title": "Utse ombud att företräda Västra Götalandsregionen vid årsstämma i Netwest Sweden AB 2026",
           "documents": [
             {
               "title": "Utskick av beslut från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 § 121 Uppföljning av aktiviteter i genomförandeplan för strategi för omställning av hälso- och sjukvården",
@@ -1101,7 +1144,7 @@
         },
         {
           "agendaId": "368127",
-          "title": "Skyddad: OSL 19 kap 3 § Upphandling m.m.",
+          "title": "Utse ombud att företräda Västra Götalandsregionen vid årsstämma i AB Transitio 2026",
           "documents": [
             {
               "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 27 maj 2026 - Svar på väckt ärende att utreda vår",
@@ -1122,7 +1165,7 @@
         },
         {
           "agendaId": "368128",
-          "title": "Utse ombud att företräda Västra Götalandsregionen vid årsstämma i Netwest Sweden AB 2026",
+          "title": "Utse ombud att företräda Västra Götalandsregionen vid årsstämma i Inera AB 2026",
           "documents": [
             {
               "title": "Protokoll  beredningen för mänskliga rättigheter 2026-05-27",
@@ -1133,7 +1176,7 @@
         },
         {
           "agendaId": "368129",
-          "title": "Utse ombud att företräda Västra Götalandsregionen vid årsstämma i AB Transitio 2026",
+          "title": "Utse ombud att företräda Västra Götalandsregionen vid årsstämma i den ideella föreningen Brew House Göteborg",
           "documents": [
             {
               "title": "Ansvar planering och uppföljning vid införande av nya digitala system  – granskningsplan 2026 (2026-05-27)",
@@ -1149,7 +1192,7 @@
         },
         {
           "agendaId": "368130",
-          "title": "Utse ombud att företräda Västra Götalandsregionen vid årsstämma i Inera AB 2026",
+          "title": "Begäran om genomförande - Solhem, ombyggnad för habilitering & hälsa projektnummer 22147",
           "documents": [
             {
               "title": "LÖF Regionernas Ömsesidiga försäkringsbolag – Bolagsstämma 2026",
@@ -1165,7 +1208,7 @@
         },
         {
           "agendaId": "368254",
-          "title": "Utse ombud att företräda Västra Götalandsregionen vid årsstämma i den ideella föreningen Brew House Göteborg",
+          "title": "Beslut om avtal för Dawnzera",
           "documents": [
             {
               "title": "Delegeringsprotokoll årsstämma för Sahlgrenska Science Park 2026",
@@ -1176,7 +1219,7 @@
         },
         {
           "agendaId": "368255",
-          "title": "Begäran om genomförande - Solhem, ombyggnad för habilitering & hälsa projektnummer 22147",
+          "title": "Ansvarig tjänsteperson för delregional nämnd östra från och med 1 augusti 2026",
           "documents": [
             {
               "title": "Fullmakt för Bolagsstämma för GöteborgsOperan AB 2026",
@@ -1187,7 +1230,7 @@
         },
         {
           "agendaId": "368256",
-          "title": "Beslut om avtal för Dawnzera",
+          "title": "Remiss av motioner anmälda på\nregionfullmäktige den 15-16 juni 2026",
           "documents": [
             {
               "title": "Fullmakt för Bolagsstämma för Göteborgs Symfoniker AB (GSAB) 2026",
@@ -1268,13 +1311,141 @@
           ]
         },
         {
-          "agendaId": "368290",
+          "agendaId": "368420",
           "title": "Beslut från kulturnämnden 2026-05-13 § 52 - Uppföljning av indikatorer kopplade till mål och fokusområden för 2025",
+          "documents": [
+            {
+              "title": "Beslut från Västtrafik 2026-06-12 - Genomförandebeslut spårvagnsdepå vagnhallen Majorna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576511.PDF?fileName=Beslut%20fr%C3%A5n%20V%C3%A4sttrafik%202026-06-12%20-%20Genomf%C3%B6randebeslut%20sp%C3%A5rvagnsdep%C3%A5%20vagnhallen%20Majorna&fileSize=772233",
+              "category": "Handling in"
+            },
+            {
+              "title": "Följebrev",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576512.PDF?fileName=F%C3%B6ljebrev&fileSize=80543",
+              "category": "Följebrev"
+            }
+          ]
+        },
+        {
+          "agendaId": "368421",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-05-27 § 119 - Svar på revisionsrapport - Granskning av ny politisk organisation, kvarstående\nrekommendationer",
+          "documents": [
+            {
+              "title": "Protokoll från årsstämma AB Transitio 2026-06-02",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4573896.PDF?fileName=Protokoll%20fr%C3%A5n%20%C3%A5rsst%C3%A4mma%20AB%20Transitio%202026-06-02&fileSize=1609203",
+              "category": "Handling in"
+            },
+            {
+              "title": "Följebrev",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4573897.PDF?fileName=F%C3%B6ljebrev&fileSize=94048",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368422",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-05-27 § 121 - Uppföljning av aktiviteter 2025 i genomförandeplan för strategi för omställning av hälso- och sjukvården",
+          "documents": [
+            {
+              "title": "Beslut från kulturnämnden 2026-06-09 § 73 - Återrapportering av ekonomiska stöd och bidrag 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4575875.PDF?fileName=Beslut%20fr%C3%A5n%20kulturn%C3%A4mnden%202026-06-09%20%C2%A7%2073%20-%20%C3%85terrapportering%20av%20ekonomiska%20st%C3%B6d%20och%20bidrag%202025&fileSize=82612",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "368423",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-05-27 § 118 - Svar på väckt ärende att utreda\nvårdorganisatoriskt upptagningsområde",
+          "documents": [
+            {
+              "title": "Ungdomsfullmäktige motion",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4574541.PDF?fileName=Ungdomsfullm%C3%A4ktige%20motion&fileSize=136630",
+              "category": "Handling in"
+            },
+            {
+              "title": "Motion av Jonathan Boström  angående att sänka åldern på att komma åt sin digitala patientjournal_",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4574542.PDF?fileName=Motion%20av%20Jonathan%20Bostr%C3%B6m%20%20ang%C3%A5ende%20att%20s%C3%A4nka%20%C3%A5ldern%20p%C3%A5%20att%20komma%20%C3%A5t%20sin%20digitala%20patientjournal_&fileSize=226310",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Snabbprotokoll ungdomsfullmäktiges stormöte 27 maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4574543.PDF?fileName=Snabbprotokoll%20ungdomsfullm%C3%A4ktiges%20storm%C3%B6te%2027%20maj%202026&fileSize=284668",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368424",
+          "title": "Protokoll  beredningen för mänskliga rättigheter 2026-05-27",
+          "documents": [
+            {
+              "title": "Överenskommelse mellan staten och Sveriges Kommuner och Regioner om ikappvaccinering\npneumokocker 2026-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576855.PDF?fileName=%C3%96verenskommelse%20mellan%20staten%20och%20Sveriges%20Kommuner%20och%20Regioner%20om%20ikappvaccinering%0Apneumokocker%202026-2029&fileSize=476266",
+              "category": "Överenskommelse"
+            },
+            {
+              "title": "Till samtliga regionstyrelser - Meddelande 9/2026 från SKR:s styrelse -  Överenskommelse – Ikappvaccinering pneumokocker 2026-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576856.PDF?fileName=Till%20samtliga%20regionstyrelser%20-%20Meddelande%209%2F2026%20fr%C3%A5n%20SKR%3As%20styrelse%20-%20%20%C3%96verenskommelse%20%E2%80%93%20Ikappvaccinering%20pneumokocker%202026-2029&fileSize=238118",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368425",
+          "title": "Granskningsplan 2026 fördjupad granskning - Ansvar, planering och uppföljning vid införandet av nya digitala system",
+          "documents": [
+            {
+              "title": "Beslut från kulturnämnden 2026-06-09 § 61 - Regional plan social ekonomi 2026-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4577332.PDF?fileName=Beslut%20fr%C3%A5n%20kulturn%C3%A4mnden%202026-06-09%20%C2%A7%2061%20-%20Regional%20plan%20social%20ekonomi%202026-2029&fileSize=74147",
+              "category": "Handling in"
+            },
+            {
+              "title": "Beslut § 61 från kulturnämnden den 9 juni avseende Regional plan social ekonomi 2026-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4577335.PDF?fileName=Beslut%20%C2%A7%2061%20fr%C3%A5n%20kulturn%C3%A4mnden%20den%209%20juni%20avseende%20Regional%20plan%20social%20ekonomi%202026-2029&fileSize=71778",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368426",
+          "title": "LÖF Regionernas Ömsesidiga försäkringsbolag – Bolagsstämma 2026",
+          "documents": [
+            {
+              "title": "Följebrev - Beslut § 62 från kulturnämnden den 9 juni avseende Medfinansiering av Internationellt nätverksmöte ICORN (International Cities of Refuge Network) 2027 i Göteborg",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4577432.PDF?fileName=F%C3%B6ljebrev%20-%20Beslut%20%C2%A7%2062%20fr%C3%A5n%20kulturn%C3%A4mnden%20den%209%20juni%20avseende%20Medfinansiering%20av%20Internationellt%20n%C3%A4tverksm%C3%B6te%20ICORN%20(International%20Cities%20of%20Refuge%20Network)%202027%20i%20G%C3%B6teborg&fileSize=75254",
+              "category": "Handling in"
+            },
+            {
+              "title": "Beslut från Kulturnämnden 2026-06-09 § 62 - Medfinansiering av Internationellt nätverksmöte ICORN (International Cities of Refuge Network) 2027 i Göteborg",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4577433.PDF?fileName=Beslut%20fr%C3%A5n%20Kulturn%C3%A4mnden%202026-06-09%20%C2%A7%2062%20-%20Medfinansiering%20av%20Internationellt%20n%C3%A4tverksm%C3%B6te%20ICORN%20(International%20Cities%20of%20Refuge%20Network)%202027%20i%20G%C3%B6teborg&fileSize=99587",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368429",
+          "title": "Årsstämma för Sahlgrenska Science Park 2026",
+          "documents": [
+            {
+              "title": "Manadskommentar 2026-05 Regionstyrelsen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4573241.PDF?fileName=Manadskommentar%202026-05%20Regionstyrelsen&fileSize=109481",
+              "category": "Handling upprättad"
+            }
+          ]
+        },
+        {
+          "agendaId": "368290",
+          "title": "Fullmakt för Bolagsstämma för GöteborgsOperan AB 2026",
           "documents": []
         },
         {
           "agendaId": "368291",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-05-27 § 119 - Svar på revisionsrapport - Granskning av ny politisk organisation, kvarstående\nrekommendationer",
+          "title": "Fullmakt för Bolagsstämma för Göteborgs Symfoniker AB (GSAB) 2026",
+          "documents": []
+        },
+        {
+          "agendaId": "368433",
+          "title": "Fullmakt för Bolagsstämma för Turistrådet Västsverige AB 2026",
           "documents": []
         }
       ]
@@ -1284,7 +1455,7 @@
       "items": [
         {
           "agendaId": "367548",
-          "title": "1 - Lägesrapport ekonomi för operativa hälso- och sjukvårdsnämnden per maj 2026",
+          "title": "192 - Lägesrapport ekonomi för operativa hälso- och sjukvårdsnämnden per maj 2026",
           "documents": [
             {
               "title": "Lägesrapport ekonomi för operativa hälso- och sjukvårdsnämnden per maj 2026",
@@ -1295,7 +1466,7 @@
         },
         {
           "agendaId": "366992",
-          "title": "2 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
+          "title": "193 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
@@ -1306,7 +1477,7 @@
         },
         {
           "agendaId": "367127",
-          "title": "3 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sjukhusen i väster",
+          "title": "194 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sjukhusen i väster",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sjukhusen i väster",
@@ -1317,7 +1488,7 @@
         },
         {
           "agendaId": "367128",
-          "title": "4 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för NU-sjukvården",
+          "title": "195 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för NU-sjukvården",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för NU-sjukvården",
@@ -1328,7 +1499,7 @@
         },
         {
           "agendaId": "366968",
-          "title": "5 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Skaraborgs Sjukhus",
+          "title": "196 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Skaraborgs Sjukhus",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Skaraborgs Sjukhus",
@@ -1339,7 +1510,7 @@
         },
         {
           "agendaId": "366969",
-          "title": "6 - Inför beslut om förändringar i uppdrag 2025-2027 och beslut om uppdrag till styrelsen för Södra Älvsborgs Sjukhus",
+          "title": "197 - Inför beslut om förändringar i uppdrag 2025-2027 och beslut om uppdrag till styrelsen för Södra Älvsborgs Sjukhus",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Södra Älvsborgs Sjukhus",
@@ -1350,7 +1521,7 @@
         },
         {
           "agendaId": "366351",
-          "title": "7 - Inför beslut om förändringar i uppdrag 2025-2027 och beslut om uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Regionhälsan",
+          "title": "198 - Inför beslut om förändringar i uppdrag 2025-2027 och beslut om uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Regionhälsan",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 samt inför beslut om uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Regionhälsan",
@@ -1361,7 +1532,7 @@
         },
         {
           "agendaId": "366847",
-          "title": "8 - Inför beslut om förändringar i uppdrag 2027 till styrelsen för Habilitering & Hälsa",
+          "title": "199 - Inför beslut om förändringar i uppdrag 2027 till styrelsen för Habilitering & Hälsa",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025–2027 och uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Habilitering & Hälsa",
@@ -1372,7 +1543,7 @@
         },
         {
           "agendaId": "366848",
-          "title": "9 - Inför beslut om förändringar i uppdrag 2025–2027 och inför beslut om uppdrag 2027 till styrelsen för Folktandvården",
+          "title": "200 - Inför beslut om förändringar i uppdrag 2025–2027 och inför beslut om uppdrag 2027 till styrelsen för Folktandvården",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025–2027 och inför beslut om uppdrag 2027 till styrelsen för Folktandvården",
@@ -1383,7 +1554,7 @@
         },
         {
           "agendaId": "367367",
-          "title": "10 - Lägesrapport vårdvalen - juni 2026",
+          "title": "201 - Lägesrapport vårdvalen - juni 2026",
           "documents": [
             {
               "title": "Lägesrapport vårdvalen - juni 2026",
@@ -1394,7 +1565,7 @@
         },
         {
           "agendaId": "366996",
-          "title": "11 - Ansökan om att bedriva verksamhet inom Vårdval vårdcentral för Meliva Väst AB för enhet Meliva vårdcentral Ytterby",
+          "title": "202 - Ansökan om att bedriva verksamhet inom Vårdval vårdcentral för Meliva Väst AB för enhet Meliva vårdcentral Ytterby",
           "documents": [
             {
               "title": "Ansökan om att bedriva verksamhet inom Vårdval vårdcentral för Meliva Väst AB för enhet Meliva vårdcentral Ytterby",
@@ -1405,7 +1576,7 @@
         },
         {
           "agendaId": "366997",
-          "title": "12 - Ansökan om att bedriva verksamhet inom Vårdval rehab för Meliva Väst AB för enhet Meliva rehab Ytterby",
+          "title": "203 - Ansökan om att bedriva verksamhet inom Vårdval rehab för Meliva Väst AB för enhet Meliva rehab Ytterby",
           "documents": [
             {
               "title": "Ansökan om att bedriva verksamhet inom Vårdval rehab för Meliva Väst AB för enhet Meliva rehab Ytterby",
@@ -1416,7 +1587,7 @@
         },
         {
           "agendaId": "366700",
-          "title": "13 - Uppdragshandling till styrelsen för Närhälsan\nom mobilt vårdteam i Fyrbodal 2027, västra området",
+          "title": "204 - Uppdragshandling till styrelsen för Närhälsan\nom mobilt vårdteam i Fyrbodal 2027, västra området",
           "documents": [
             {
               "title": "Uppdragshandling till styrelsen för Närhälsan\r\nom mobilt vårdteam i Fyrbodal 2027, västra området",
@@ -1432,7 +1603,7 @@
         },
         {
           "agendaId": "366339",
-          "title": "14 - Återrapportering av uppdrag avseende förstärkt uppföljning av vårdvalen",
+          "title": "205 - Återrapportering av uppdrag avseende förstärkt uppföljning av vårdvalen",
           "documents": [
             {
               "title": "Återrapportering av uppdrag avseende förstärkt uppföljning av vårdvalen",
@@ -1443,7 +1614,7 @@
         },
         {
           "agendaId": "366713",
-          "title": "15 - Återrapportering av fördjupad uppföljning av Distriktsläkarna Mölndal Vårdcentral och BVC",
+          "title": "206 - Återrapportering av fördjupad uppföljning av Distriktsläkarna Mölndal Vårdcentral och BVC",
           "documents": [
             {
               "title": "Återrapportering av fördjupad uppföljning",
@@ -1469,7 +1640,7 @@
         },
         {
           "agendaId": "366352",
-          "title": "16 - Lägesrapport regionövergripande verksamheter  - juni 2026",
+          "title": "207 - Lägesrapport regionövergripande verksamheter  - juni 2026",
           "documents": [
             {
               "title": "Lägesrapport regionövergripande verksamheter  - juni 2026",
@@ -1480,7 +1651,7 @@
         },
         {
           "agendaId": "367529",
-          "title": "17 - Anpassad ersättningsmodell för barn och ungdomstandvård som tar hänsyn till patienter med omfattande tandvårdsbehov",
+          "title": "208 - Anpassad ersättningsmodell för barn och ungdomstandvård som tar hänsyn till patienter med omfattande tandvårdsbehov",
           "documents": [
             {
               "title": "Anpassad ersättningsmodell för barn och ungdomstandvård som tar hänsyn till patienter med omfattande tandvårdsbehov",
@@ -1501,7 +1672,7 @@
         },
         {
           "agendaId": "366630",
-          "title": "18 - Tandvård för asylsökande och papperslösa i Västra Götalandsregionen",
+          "title": "209 - Tandvård för asylsökande och papperslösa i Västra Götalandsregionen",
           "documents": [
             {
               "title": "Tandvård för asylsökande och papperslösa i Västra Götalandsregionen",
@@ -1512,7 +1683,7 @@
         },
         {
           "agendaId": "367097",
-          "title": "19 - Regionens omhändertagande av hälsokontroller inom screeningprocessen enligt EU:s asyl och migrationspakt",
+          "title": "210 - Regionens omhändertagande av hälsokontroller inom screeningprocessen enligt EU:s asyl och migrationspakt",
           "documents": [
             {
               "title": "Regionens omhändertagande av hälsokontroller inom screeningprocessen enligt EU:s asyl och migrationspakt",
@@ -1523,7 +1694,7 @@
         },
         {
           "agendaId": "367874",
-          "title": "20 - Förslag till inriktning för ersättningsmodellen i Vårdval BUP",
+          "title": "211 - Förslag till inriktning för ersättningsmodellen i Vårdval BUP",
           "documents": [
             {
               "title": "Förslag till inriktning för ersättningsmodellen i Vårdval BUP",
@@ -1549,7 +1720,7 @@
         },
         {
           "agendaId": "367873",
-          "title": "21 - Förslag till förändrat uppdrag för En väg in",
+          "title": "212 - Förslag till förändrat uppdrag för En väg in",
           "documents": [
             {
               "title": "Förslag till förändrat uppdrag för En väg in",
@@ -1570,7 +1741,7 @@
         },
         {
           "agendaId": "367366",
-          "title": "22 - Lägesrapport sjukhus i egen regi - juni 2026",
+          "title": "213 - Lägesrapport sjukhus i egen regi - juni 2026",
           "documents": [
             {
               "title": "Lägesrapport sjukhus i egen regi - juni 2026",
@@ -1581,7 +1752,7 @@
         },
         {
           "agendaId": "366001",
-          "title": "23 - Uppdrag till sjukhus i egen regi om införande av NIPT",
+          "title": "214 - Uppdrag till sjukhus i egen regi om införande av NIPT",
           "documents": [
             {
               "title": "Uppdrag till sjukhus i egen regi om införande av NIPT",
@@ -1592,7 +1763,7 @@
         },
         {
           "agendaId": "367163",
-          "title": "24 - Information om pågående arbete för barns och ungas vårdbehov vid samhällsplacering och frihetsberövande",
+          "title": "215 - Information om pågående arbete för barns och ungas vårdbehov vid samhällsplacering och frihetsberövande",
           "documents": [
             {
               "title": "Information om pågående arbete för barns och ungas vårdbehov vid samhällsplacering och frihetsberövande",
@@ -1603,7 +1774,7 @@
         },
         {
           "agendaId": "367582",
-          "title": "25 - Återrapportering uppdrag att utreda \nbehovet i Västra Götaland, av rättspsykiatriska vårdplatser med säkerhetsklass 3",
+          "title": "216 - Återrapportering uppdrag att utreda \nbehovet i Västra Götaland, av rättspsykiatriska vårdplatser med säkerhetsklass 3",
           "documents": [
             {
               "title": "Återrapportering uppdrag att utreda \r\nbehovet i Västra Götaland, av rättspsykiatriska vårdplatser med säkerhetsklass 3.",
@@ -1614,7 +1785,7 @@
         },
         {
           "agendaId": "367585",
-          "title": "26 - Hälso- och sjukvårdsrapporter till operativa hälso- och sjukvårdsnämnden 2026",
+          "title": "217 - Hälso- och sjukvårdsrapporter till operativa hälso- och sjukvårdsnämnden 2026",
           "documents": [
             {
               "title": "Hälso- och sjukvårdsrapporter till operativa hälso- och sjukvårdsnämnden 2026",
@@ -1625,7 +1796,7 @@
         },
         {
           "agendaId": "364937",
-          "title": "27 - Projekt Samsjukvård Södra Älvsborg",
+          "title": "218 - Projekt Samsjukvård Södra Älvsborg",
           "documents": [
             {
               "title": "Projekt Samsjukvård Södra Älvsborg",
@@ -1636,7 +1807,7 @@
         },
         {
           "agendaId": "367583",
-          "title": "28 - Information om regional plan för psykisk hälsa och \nsuicidprevention i Västra Götalandsregionen",
+          "title": "219 - Information om regional plan för psykisk hälsa och \nsuicidprevention i Västra Götalandsregionen",
           "documents": [
             {
               "title": "Information om regional plan för psykisk hälsa och \r\nsuicidprevention i Västra Götalandsregionen",
@@ -1662,7 +1833,7 @@
         },
         {
           "agendaId": "363018",
-          "title": "29 - Ordnat införande av nya läkemedel, metoder och kunskapsunderlag - etapp 2 2026",
+          "title": "220 - Ordnat införande av nya läkemedel, metoder och kunskapsunderlag - etapp 2 2026",
           "documents": [
             {
               "title": "Ordnat införande av nya läkemedel, metoder och kunskapsunderlag - etapp 2, 2026",
@@ -1688,7 +1859,7 @@
         },
         {
           "agendaId": "367379",
-          "title": "30 - Ordnad överföring mellan \nvårdnivåer -  sublingual immunterapi",
+          "title": "221 - Ordnad överföring mellan \nvårdnivåer -  sublingual immunterapi",
           "documents": [
             {
               "title": "Ordnad överföring mellan \r\nvårdnivåer - nominering som \r\növergripande styrgrupp ställt sig \r\nbakom",
@@ -1699,7 +1870,7 @@
         },
         {
           "agendaId": "364137",
-          "title": "31 - Uppföljning av tillgängligheten vid könsidentitetsmottagningen Sahlgrenska Universitetssjukhuset, per april 2026",
+          "title": "222 - Uppföljning av tillgängligheten vid könsidentitetsmottagningen Sahlgrenska Universitetssjukhuset, per april 2026",
           "documents": [
             {
               "title": "Uppföljning av tillgängligheten vid könsidentitetsmottagningen Sahlgrenska Universitetssjukhuset, per april 2026",
@@ -1720,7 +1891,7 @@
         },
         {
           "agendaId": "366091",
-          "title": "32 - Prognos över behov och kapacitet inom ramen för tillgängligheten i specialistvården 2027",
+          "title": "223 - Prognos över behov och kapacitet inom ramen för tillgängligheten i specialistvården 2027",
           "documents": [
             {
               "title": "Prognos för behov och kapacitet inom ramen för tillgängligheten i specialistvården 2027",
@@ -1731,7 +1902,7 @@
         },
         {
           "agendaId": "362101",
-          "title": "33 - Lägesrapport - behovsöversyner, upphandlingar och avtal juni 2026",
+          "title": "224 - Lägesrapport - behovsöversyner, upphandlingar och avtal juni 2026",
           "documents": [
             {
               "title": "Lägesrapport - behovsöversyner, upphandlingar och avtal juni 2026",
@@ -1747,7 +1918,7 @@
         },
         {
           "agendaId": "366631",
-          "title": "34 - Slutrapport fördjupad uppföljning av vårdgivare på nationella taxan, lag (1993:1651) om läkarvårdsersättning, Kirurgi Heden",
+          "title": "225 - Slutrapport fördjupad uppföljning av vårdgivare på nationella taxan, lag (1993:1651) om läkarvårdsersättning, Kirurgi Heden",
           "documents": [
             {
               "title": "Slutrapport fördjupad uppföljning av vårdgivare på nationella taxan, lag (1993:1651) om läkarvårdsersättning, Kirurgi Heden",
@@ -1763,7 +1934,7 @@
         },
         {
           "agendaId": "367380",
-          "title": "35 - Avtal om bassängverksamhet med Kuling Rehab och Hälsa AB",
+          "title": "226 - Avtal om bassängverksamhet med Kuling Rehab och Hälsa AB",
           "documents": [
             {
               "title": "Avtal om bassängverksamhet med Kuling Rehab och Hälsa AB",
@@ -1779,7 +1950,7 @@
         },
         {
           "agendaId": "367824",
-          "title": "36 - Yttrande till förvaltningsrätten angående laglighetsprövning enligt kommunallagen",
+          "title": "227 - Yttrande till förvaltningsrätten angående laglighetsprövning enligt kommunallagen",
           "documents": [
             {
               "title": "Yttrande till förvaltningsrätten angående laglighetsprövning enligt kommunallagen",
@@ -1795,7 +1966,7 @@
         },
         {
           "agendaId": "364136",
-          "title": "37 - Yttrande över revisionsrapport Granskning av ny politisk organisation, kvarstående rekommendationer",
+          "title": "228 - Yttrande över revisionsrapport Granskning av ny politisk organisation, kvarstående rekommendationer",
           "documents": [
             {
               "title": "Yttrande över revisionsrapport Granskning av ny politisk organisation, kvarstående rekommendationer",
@@ -1816,7 +1987,7 @@
         },
         {
           "agendaId": "368060",
-          "title": "38 - Yttrande över revisionsrapport Granskning av omställningen för hälso- och sjukvård, kvarstående rekommendationer",
+          "title": "229 - Yttrande över revisionsrapport Granskning av omställningen för hälso- och sjukvård, kvarstående rekommendationer",
           "documents": [
             {
               "title": "Yttrande över revisionsrapport Granskning av omställningen för hälso- och sjukvård, kvarstående rekommendationer",
@@ -1837,7 +2008,7 @@
         },
         {
           "agendaId": "365394",
-          "title": "39 - Svar på revisionsrapporten Granskning av god ekonomisk hushållning - ekonomistyrning för verksamhet och ekonomi i balans",
+          "title": "230 - Svar på revisionsrapporten Granskning av god ekonomisk hushållning - ekonomistyrning för verksamhet och ekonomi i balans",
           "documents": [
             {
               "title": "Svar på revisionsrapporten Granskning av god ekonomisk hushållning - ekonomistyrning för verksamhet och ekonomi i balans",
@@ -1853,7 +2024,7 @@
         },
         {
           "agendaId": "364138",
-          "title": "40 - Yttrande över motion av Maria Lindgren (SD) med flera om mottagning för postinfektiösa sjukdomar så som ME/CFS och postcovid",
+          "title": "231 - Yttrande över motion av Maria Lindgren (SD) med flera om mottagning för postinfektiösa sjukdomar så som ME/CFS och postcovid",
           "documents": [
             {
               "title": "Yttrande över motion av Maria Lindgren (SD) med flera om mottagning för postinfektiösa sjukdomar så som ME/CFS och postcovid",
@@ -1869,7 +2040,7 @@
         },
         {
           "agendaId": "365229",
-          "title": "41 - Yttrande över motion av Micaela Kronberg (M) om att införa en prestationsbaserad beredskapsbudget i Västra Götalandsregionen på aggregerad nivå samt inom sjukvårdsstyrelserna för att uppfylla krav kopplade till totalförsvaret",
+          "title": "232 - Yttrande över motion av Micaela Kronberg (M) om att införa en prestationsbaserad beredskapsbudget i Västra Götalandsregionen på aggregerad nivå samt inom sjukvårdsstyrelserna för att uppfylla krav kopplade till totalförsvaret",
           "documents": [
             {
               "title": "Yttrande över motion av Micaela Kronberg (M) om att införa en prestationsbaserad budget",
@@ -1885,7 +2056,7 @@
         },
         {
           "agendaId": "367164",
-          "title": "42 - Remissvar gällande Riktlinje för arkiv och information i Västra Götalandsregionen",
+          "title": "233 - Remissvar gällande Riktlinje för arkiv och information i Västra Götalandsregionen",
           "documents": [
             {
               "title": "Remissvar gällande Riktlinje för arkiv och information i Västra Götalandsregionen",
@@ -1901,7 +2072,7 @@
         },
         {
           "agendaId": "367096",
-          "title": "43 - Svar till Patientnämnd Göteborg angående ökningen av antal klagomål avseende SOS Alarm och Sjukvårdens\nlarmcentral",
+          "title": "234 - Svar till Patientnämnd Göteborg angående ökningen av antal klagomål avseende SOS Alarm och Sjukvårdens\nlarmcentral",
           "documents": [
             {
               "title": "Svar till Patientnämnd Göteborg angående ökningen av antal klagomål avseende SOS Alarm och Sjukvårdens\r\nlarmcentral",
@@ -1927,7 +2098,7 @@
         },
         {
           "agendaId": "367544",
-          "title": "44 - Svar på nomineringsärende från delregional nämnd norra om tillgänglighet till blodgivning Fyrbodal",
+          "title": "235 - Svar på nomineringsärende från delregional nämnd norra om tillgänglighet till blodgivning Fyrbodal",
           "documents": [
             {
               "title": "Svar på nomineringsärende från delregional nämnd norra om tillgänglighet till blodgivning Fyrbodal",
@@ -1943,7 +2114,7 @@
         },
         {
           "agendaId": "367365",
-          "title": "45 - Svar på skrivelse från Regionhälsans styrelse om förfrågan att skyndsamt initiera en upphandling av Masthuggets \ngynekologi- och obstetrikmottagning",
+          "title": "236 - Svar på skrivelse från Regionhälsans styrelse om förfrågan att skyndsamt initiera en upphandling av Masthuggets \ngynekologi- och obstetrikmottagning",
           "documents": [
             {
               "title": "Svar på skrivelse från styrelsen för Regionhälsan om förfrågan att skyndsamt initiera en upphandling av Masthuggets \r\ngynekologi- och obstetrikmottagning",
@@ -1954,7 +2125,7 @@
         },
         {
           "agendaId": "368189",
-          "title": "46 - Yrkande från Socialdemokraterna, Miljöpartiet och Vänsterpartiet om att säkra vård efter behov",
+          "title": "237 - Yrkande från Socialdemokraterna, Miljöpartiet och Vänsterpartiet om att säkra vård efter behov",
           "documents": [
             {
               "title": "Yrkande från Socialdemokraterna, Miljöpartiet och Vänsterpartiet om att säkra vård efter behov",
@@ -1965,7 +2136,7 @@
         },
         {
           "agendaId": "367547",
-          "title": "47 - Sammanträdestider 2027 för operativa hälso- och sjukvårdsnämnden",
+          "title": "238 - Sammanträdestider 2027 för operativa hälso- och sjukvårdsnämnden",
           "documents": [
             {
               "title": "Sammanträdestider 2027 för operativa hälso- och sjukvårdsnämnden",
@@ -1976,7 +2147,7 @@
         },
         {
           "agendaId": "367528",
-          "title": "48 - Återrapporterade uppdrag till operativa hälso- och sjukvårdsnämnden 2023-2026",
+          "title": "239 - Återrapporterade uppdrag till operativa hälso- och sjukvårdsnämnden 2023-2026",
           "documents": [
             {
               "title": "Återrapporterade uppdrag till operativa hälso- och sjukvårdsnämnden 17 juni 2026",
@@ -1987,17 +2158,17 @@
         },
         {
           "agendaId": "367178",
-          "title": "49 - Presidiet informerar",
+          "title": "240 - Presidiet informerar",
           "documents": []
         },
         {
           "agendaId": "366702",
-          "title": "50 - Beredningen informerar",
+          "title": "241 - Beredningen informerar",
           "documents": []
         },
         {
           "agendaId": "365707",
-          "title": "51 - Ansvarig tjänsteperson informerar",
+          "title": "242 - Ansvarig tjänsteperson informerar",
           "documents": []
         },
         {

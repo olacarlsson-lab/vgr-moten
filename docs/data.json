@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T08:51:48.108Z",
+  "generatedAt": "2026-06-22T14:29:51.174Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -802,20 +802,20 @@
     },
     {
       "key": "212458|2026-06-22",
-      "meetingId": "",
+      "meetingId": "3184038",
       "boardId": "212458",
       "board": "regionstyrelsen",
       "date": "2026-06-22",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184038",
       "documents": [
         {
           "title": "Kallelse regionstyrelsen 2026-06-22",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572311.PDF?fileName=Kallelse%20regionstyrelsen%202026-06-22&fileSize=138048"
         }
       ],
-      "agendaDocCount": 158
+      "agendaDocCount": 177
     },
     {
       "key": "212210|2026-06-22",
@@ -830,6 +830,10 @@
         {
           "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-06-22",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572643.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-06-22&fileSize=100270"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-06-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578540.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-06-22&fileSize=315292"
         }
       ],
       "agendaDocCount": 0
@@ -953,6 +957,10 @@
         {
           "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-06-12",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4558210.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-06-12&fileSize=123112"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-06-12",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4567667.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-06-12&fileSize=1298109"
         }
       ],
       "agendaDocCount": 0
