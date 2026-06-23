@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T21:17:48.895Z",
+  "generatedAt": "2026-06-23T22:41:16.105Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -813,9 +813,13 @@
         {
           "title": "Kallelse regionstyrelsen 2026-06-22",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572311.PDF?fileName=Kallelse%20regionstyrelsen%202026-06-22&fileSize=138048"
+        },
+        {
+          "title": "Protokoll regionstyrelsen 2026-06-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572427.PDF?fileName=Protokoll%20regionstyrelsen%202026-06-22&fileSize=1911642"
         }
       ],
-      "agendaDocCount": 177
+      "agendaDocCount": 208
     },
     {
       "key": "212210|2026-06-22",
@@ -919,9 +923,13 @@
         {
           "title": "Föredragningslista regionfullmäktige 2026-06-15 - 16",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4552703.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-06-15%20-%2016&fileSize=107402"
+        },
+        {
+          "title": "Protokoll  regionfullmäktige 2026-06-15 och 2026-06-16",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576343.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-06-15%20och%202026-06-16&fileSize=2911292"
         }
       ],
-      "agendaDocCount": 31
+      "agendaDocCount": 56
     },
     {
       "key": "222324|2026-06-12",
