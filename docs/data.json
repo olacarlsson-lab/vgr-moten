@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T09:59:47.132Z",
+  "generatedAt": "2026-06-29T14:08:49.677Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -855,6 +855,10 @@
         {
           "title": "Kallelse beredningen för hållbar utveckling 2026-06-18",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4562308.PDF?fileName=Kallelse%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-06-18&fileSize=171294"
+        },
+        {
+          "title": "Protokoll  beredningen för hållbar utveckling 2026-06-18",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4569080.PDF?fileName=Protokoll%20%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-06-18&fileSize=588133"
         }
       ],
       "agendaDocCount": 0
@@ -872,6 +876,14 @@
         {
           "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-06-17",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4566927.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-06-17&fileSize=193823"
+        },
+        {
+          "title": "Protokoll  miljö- och regionutvecklingsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572916.PDF?fileName=Protokoll%20%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-06-17&fileSize=1591870"
+        },
+        {
+          "title": "Protokoll 1 av 2  miljö- och regionutvecklingsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576953.PDF?fileName=Protokoll%201%20av%202%20%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-06-17&fileSize=177228"
         }
       ],
       "agendaDocCount": 0
@@ -910,9 +922,13 @@
         {
           "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-06-17",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4563651.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17&fileSize=143867"
+        },
+        {
+          "title": "Protokoll strategiska hälso- och sjukvårdsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4567150.PDF?fileName=Protokoll%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17&fileSize=998664"
         }
       ],
-      "agendaDocCount": 105
+      "agendaDocCount": 128
     },
     {
       "key": "212615|2026-06-15",
