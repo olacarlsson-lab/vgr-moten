@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T13:12:22.467Z",
+  "generatedAt": "2026-07-01T15:49:46.882Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -309,6 +309,42 @@
   ],
   "meetings": [
     {
+      "key": "212458|2027-12-14",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-12-14",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-11-30",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-11-30",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-11-23",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-11-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2027-11-16",
       "meetingId": "",
       "boardId": "212298",
@@ -317,6 +353,30 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-11-09",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-11-09",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-10-25",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-10-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -333,6 +393,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212458|2027-10-11",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-10-11",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2027-09-29",
       "meetingId": "",
       "boardId": "212298",
@@ -341,6 +413,30 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-09-28",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-09-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-09-21",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-09-21",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -357,6 +453,42 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212458|2027-08-31",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-08-31",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-06-28",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-06-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-06-21",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-06-21",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2027-06-15",
       "meetingId": "",
       "boardId": "212298",
@@ -365,6 +497,42 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-06-08",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-06-08",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-05-25",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-05-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-05-11",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-05-11",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -381,6 +549,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212458|2027-04-27",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-04-27",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2027-04-20",
       "meetingId": "",
       "boardId": "212298",
@@ -389,6 +569,30 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-04-13",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-04-13",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-04-06",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-04-06",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -405,6 +609,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212458|2027-03-16",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-03-16",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2027-03-02",
       "meetingId": "",
       "boardId": "212298",
@@ -417,6 +633,42 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212458|2027-02-23",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-02-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-02-09",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-02-09",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-02-02",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-02-02",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2027-01-19",
       "meetingId": "",
       "boardId": "212298",
@@ -425,6 +677,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-01-12",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-01-12",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
       "documents": [],
       "agendaDocCount": 0
     },
