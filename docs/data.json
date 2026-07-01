@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T06:19:03.114Z",
+  "generatedAt": "2026-07-01T10:17:43.312Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -308,6 +308,126 @@
     }
   ],
   "meetings": [
+    {
+      "key": "212298|2027-11-16",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-11-16",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-10-19",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-10-19",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-09-29",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-09-29",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-09-07",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-09-07",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-06-15",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-06-15",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-05-04",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-05-04",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-04-20",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-04-20",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-03-23",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-03-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-03-02",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-03-02",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-01-19",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-01-19",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
     {
       "key": "212210|2026-12-18",
       "meetingId": "",
