@@ -32,8 +32,19 @@
         },
         {
           "agendaId": "369283",
-          "title": "57 - Upphandlingsplan hösten 2026 samt uppföljning av upphandlingsplan för våren 2026 - handlingar kommer senare",
-          "documents": []
+          "title": "57 - Upphandlingsplan hösten 2026 samt uppföljning av upphandlingsplan för våren 2026",
+          "documents": [
+            {
+              "title": "Upphandlingsplan hösten 2026 samt uppföljning av upphandlingsplan för våren 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572907.PDF?fileName=Upphandlingsplan%20h%C3%B6sten%202026%20samt%20uppf%C3%B6ljning%20av%20upphandlingsplan%20f%C3%B6r%20v%C3%A5ren%202026&fileSize=136392",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Upphandlingsplan 2026-2027 Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4620113.PDF?fileName=Upphandlingsplan%202026-2027%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=978184",
+              "category": "Bilaga"
+            }
+          ]
         },
         {
           "agendaId": "369284",
