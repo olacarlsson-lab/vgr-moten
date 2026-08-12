@@ -1,0 +1,48 @@
+name: Test push
+
+# Manuellt test-/återutskick. Skickar EN notis till de prenumeranter vars
+# endpoint matchar "only". Spammar aldrig alla: "only" är obligatoriskt.
+on:
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Endpoint-filter (kommaseparerat). OBLIGATORISKT – väljer mottagare, t.ex. sista tecknen i din endpoint."
+        required: true
+      title:
+        description: "Notistitel"
+        required: false
+        default: 'VGR Möten – testnotis'
+      body:
+        description: "Notistext"
+        required: false
+        default: 'Om du ser den här funkar notiserna på den här enheten.'
+      url:
+        description: "Länk vid klick (tom = startsidan)"
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - name: Skicka testnotis
+        run: node scripts/test-push.mjs
+        env:
+          VAPID_PUBLIC: ${{ secrets.VAPID_PUBLIC }}
+          VAPID_PRIVATE: ${{ secrets.VAPID_PRIVATE }}
+          VAPID_SUBJECT: ${{ secrets.VAPID_SUBJECT }}
+          SUBS_ENDPOINT: ${{ secrets.SUBS_ENDPOINT }}
+          SUBS_TOKEN: ${{ secrets.SUBS_TOKEN }}
+          ONLY: ${{ github.event.inputs.only }}
+          TEST_TITLE: ${{ github.event.inputs.title }}
+          TEST_BODY: ${{ github.event.inputs.body }}
+          TEST_URL: ${{ github.event.inputs.url }}
