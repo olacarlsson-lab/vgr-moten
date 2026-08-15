@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T01:00:47.862Z",
+  "generatedAt": "2026-08-15T02:19:36.893Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -307,5 +307,1805 @@
       "name": "östra hälso- och sjukvårdsnämnden"
     }
   ],
-  "meetings": []
+  "meetings": [
+    {
+      "key": "212458|2027-12-14",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-12-14",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-11-30",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-11-30",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-11-23",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-11-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-11-16",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-11-16",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-11-09",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-11-09",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-10-25",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-10-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-10-19",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-10-19",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-10-11",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-10-11",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-09-29",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-09-29",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-09-28",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-09-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-09-21",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-09-21",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-09-07",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-09-07",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-08-31",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-08-31",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-06-28",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-06-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-06-21",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-06-21",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-06-15",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-06-15",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-06-08",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-06-08",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-05-25",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-05-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-05-11",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-05-11",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-05-04",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-05-04",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-04-27",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-04-27",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-04-20",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-04-20",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-04-13",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-04-13",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-04-06",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-04-06",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-03-23",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-03-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-03-16",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-03-16",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-03-02",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-03-02",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-02-23",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-02-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2027-02-09",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2027-02-09",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-02-02",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-02-02",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2027-01-19",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2027-01-19",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2027-01-12",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2027-01-12",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-12-18",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-12-18",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2026-12-16",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "styrelsen för fastighet, stöd och service",
+      "date": "2026-12-16",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-12-15",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-12-15",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-12-11",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-12-11",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-12-10",
+      "meetingId": "",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-12-10",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-12-09",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-12-09",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-12-03",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-12-03",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2026-11-27",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "styrelsen för fastighet, stöd och service",
+      "date": "2026-11-27",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-11-26",
+      "meetingId": "",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-11-26",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-11-25",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-11-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-11-25",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-11-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2026-11-24",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2026-11-24",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-11-17",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-11-17",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-11-10",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-11-10",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-11-04",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-11-04",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2026-11-03",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2026-11-03",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2026-10-27",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "styrelsen för fastighet, stöd och service",
+      "date": "2026-10-27",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-10-23",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-10-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-10-22",
+      "meetingId": "",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-10-22",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-10-21",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-10-21",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2026-10-20",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2026-10-20",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-10-20",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-10-20",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-10-08",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-10-08",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2026-10-06",
+      "meetingId": "",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2026-10-06",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-10-02",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-10-02",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-09-29",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-09-29",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-09-25",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-09-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2026-09-25",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "styrelsen för fastighet, stöd och service",
+      "date": "2026-09-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-09-24",
+      "meetingId": "",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-09-24",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-09-23",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-09-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-09-22",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-09-22",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-09-09",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-09-09",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-09-03",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-09-03",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-09-02",
+      "meetingId": "",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-09-02",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-08-28",
+      "meetingId": "",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-08-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2026-08-28",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "styrelsen för fastighet, stöd och service",
+      "date": "2026-08-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-08-28",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-08-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-08-26",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-08-26",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-08-25",
+      "meetingId": "",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-08-25",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-08-19",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-08-19",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-08-18",
+      "meetingId": "3184051",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-08-18",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184051",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-08-18",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4628115.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-08-18&fileSize=118769"
+        }
+      ],
+      "agendaDocCount": 18
+    },
+    {
+      "key": "212458|2026-06-22",
+      "meetingId": "3184038",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-06-22",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184038",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-06-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572311.PDF?fileName=Kallelse%20regionstyrelsen%202026-06-22&fileSize=138048"
+        },
+        {
+          "title": "Protokoll regionstyrelsen 2026-06-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572427.PDF?fileName=Protokoll%20regionstyrelsen%202026-06-22&fileSize=1911642"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-06-22",
+      "meetingId": "3375804",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-06-22",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3375804",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-06-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572643.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-06-22&fileSize=100270"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-06-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578540.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-06-22&fileSize=315292"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-06-18",
+      "meetingId": "3250568",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-06-18",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3250568",
+      "documents": [
+        {
+          "title": "Kallelse beredningen för hållbar utveckling 2026-06-18",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4562308.PDF?fileName=Kallelse%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-06-18&fileSize=171294"
+        },
+        {
+          "title": "Protokoll  beredningen för hållbar utveckling 2026-06-18",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4569080.PDF?fileName=Protokoll%20%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-06-18&fileSize=588133"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-06-17",
+      "meetingId": "3210110",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-06-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210110",
+      "documents": [
+        {
+          "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4566927.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-06-17&fileSize=193823"
+        },
+        {
+          "title": "Protokoll 2 av 2 miljö- och regionutvecklingsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4572916.PDF?fileName=Protokoll%202%20av%202%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-06-17&fileSize=1591870"
+        },
+        {
+          "title": "Protokoll 1 av 2  miljö- och regionutvecklingsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576953.PDF?fileName=Protokoll%201%20av%202%20%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-06-17&fileSize=177228"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-06-17",
+      "meetingId": "3218840",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-06-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3218840",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4566438.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17&fileSize=174137"
+        },
+        {
+          "title": "Protokoll  operativa hälso- och sjukvårdsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4569345.PDF?fileName=Protokoll%20%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17&fileSize=1759001"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-06-17",
+      "meetingId": "3191843",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-06-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3191843",
+      "documents": [
+        {
+          "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4563651.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17&fileSize=143867"
+        },
+        {
+          "title": "Protokoll strategiska hälso- och sjukvårdsnämnden 2026-06-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4567150.PDF?fileName=Protokoll%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17&fileSize=998664"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2026-06-15",
+      "meetingId": "3148575",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2026-06-15",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3148575",
+      "documents": [
+        {
+          "title": "Föredragningslista regionfullmäktige 2026-06-15 - 16",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4552703.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-06-15%20-%2016&fileSize=107402"
+        },
+        {
+          "title": "Protokoll  regionfullmäktige 2026-06-15 och 2026-06-16",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576343.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-06-15%20och%202026-06-16&fileSize=2911292"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2026-06-12",
+      "meetingId": "3256305",
+      "boardId": "222324",
+      "board": "styrelsen för fastighet, stöd och service",
+      "date": "2026-06-12",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256305",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för fastighet, stöd och service 2026-06-12",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4559895.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-06-12&fileSize=115978"
+        },
+        {
+          "title": "Protokoll  styrelsen för fastighet, stöd och service 2026-06-12",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4560606.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-06-12&fileSize=809359"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-06-12",
+      "meetingId": "3217876",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-06-12",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217876",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-06-12",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4558210.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-06-12&fileSize=123112"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-06-12",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4567667.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-06-12&fileSize=1298109"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-06-09",
+      "meetingId": "3184050",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-06-09",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184050",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-06-09",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4554867.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-06-09&fileSize=120921"
+        },
+        {
+          "title": "Protokoll  ägarutskottet 2026-06-09",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4555447.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-06-09&fileSize=1104368"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-06-08",
+      "meetingId": "3384356",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-06-08",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3384356",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-06-08",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4556658.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-08&fileSize=102988"
+        },
+        {
+          "title": "Protokoll  operativa hälso- och sjukvårdsnämnden 2026-06-08",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4559090.PDF?fileName=Protokoll%20%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-08&fileSize=460504"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-06-02",
+      "meetingId": "3184036",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-06-02",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184036",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-06-02",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4543670.PDF?fileName=Kallelse%20regionstyrelsen%202026-06-02&fileSize=132146"
+        },
+        {
+          "title": "Protokoll regionstyrelsen 2026-06-02",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4545160.PDF?fileName=Protokoll%20regionstyrelsen%202026-06-02&fileSize=1181037"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-05-29",
+      "meetingId": "3187541",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-05-29",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3187541",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-05-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539857.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-29&fileSize=152021"
+        },
+        {
+          "title": "Protokoll  operativa hälso- och sjukvårdsnämnden 2026-05-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4557338.PDF?fileName=Protokoll%20%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-29&fileSize=1205903"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-05-29",
+      "meetingId": "3217875",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-05-29",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217875",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-05-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539922.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-05-29&fileSize=117580"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-05-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4553286.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-05-29&fileSize=1044661"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-05-28",
+      "meetingId": "3210108",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-05-28",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210108",
+      "documents": [
+        {
+          "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-05-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4538079.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-05-28&fileSize=188482"
+        },
+        {
+          "title": "Protokoll 2 av 2 miljö- och regionutvecklingsnämnden 2026-05-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4545965.PDF?fileName=Protokoll%202%20av%202%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-05-28&fileSize=2272853"
+        },
+        {
+          "title": "Protokoll 1 av 2  miljö- och regionutvecklingsnämnden 2026-05-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4546190.PDF?fileName=Protokoll%201%20av%202%20%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-05-28&fileSize=352182"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-05-27",
+      "meetingId": "3190496",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-05-27",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3190496",
+      "documents": [
+        {
+          "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-05-27",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4534561.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-27&fileSize=136630"
+        },
+        {
+          "title": "Protokoll strategiska hälso- och sjukvårdsnämnden 2026-05-27",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539683.PDF?fileName=Protokoll%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-27&fileSize=1642071"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2026-05-26",
+      "meetingId": "3148571",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2026-05-26",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3148571",
+      "documents": [
+        {
+          "title": "Föredragningslista regionfullmäktige 2026-05-26",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4532571.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-05-26&fileSize=129724"
+        },
+        {
+          "title": "Protokoll  regionfullmäktige 2026-05-26",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4546865.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-05-26&fileSize=3291858"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2026-05-22",
+      "meetingId": "3256301",
+      "boardId": "222324",
+      "board": "styrelsen för fastighet, stöd och service",
+      "date": "2026-05-22",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256301",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för fastighet, stöd och service 2026-05-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4524979.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-05-22&fileSize=119076"
+        },
+        {
+          "title": "Protokoll  styrelsen för fastighet, stöd och service 2026-05-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4531641.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-05-22&fileSize=1066836"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-05-19",
+      "meetingId": "3184035",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-05-19",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184035",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-05-19",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4526983.PDF?fileName=Kallelse%20regionstyrelsen%202026-05-19&fileSize=140862"
+        },
+        {
+          "title": "Protokoll 2 regionstyrelsen 2026-05-19",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4528104.PDF?fileName=Protokoll%202%20regionstyrelsen%202026-05-19&fileSize=1703757"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-05-07",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-05-07",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-05-05",
+      "meetingId": "3184048",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-05-05",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184048",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-05-05",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4510184.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-05-05&fileSize=114987"
+        },
+        {
+          "title": "Protokoll  ägarutskottet 2026-05-05",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4511151.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-05-05&fileSize=988152"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-04-29",
+      "meetingId": "3210105",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-04-29",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210105",
+      "documents": [
+        {
+          "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-04-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4500050.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-04-29&fileSize=179467"
+        },
+        {
+          "title": "Protokoll  miljö- och regionutvecklingsnämnden 2026-04-29",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4508617.PDF?fileName=Protokoll%20%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-04-29&fileSize=1156310"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-04-28",
+      "meetingId": "3184034",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-04-28",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184034",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-04-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4499581.PDF?fileName=Kallelse%20regionstyrelsen%202026-04-28&fileSize=144946"
+        },
+        {
+          "title": "Protokoll 2 regionstyrelsen 2026-04-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4502478.PDF?fileName=Protokoll%202%20regionstyrelsen%202026-04-28&fileSize=2841910"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-04-22",
+      "meetingId": "3186065",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-04-22",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3186065",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-04-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490425.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-22&fileSize=153544"
+        },
+        {
+          "title": "Protokoll  1 av 2 operativa hälso- och sjukvårdsnämnden 2026-04-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4494848.PDF?fileName=Protokoll%20%201%20av%202%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-22&fileSize=197998"
+        },
+        {
+          "title": "Protokoll 2 av 2 operativa hälso- och sjukvårdsnämnden 2026-04-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4508149.PDF?fileName=Protokoll%202%20av%202%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-22&fileSize=1450392"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-04-22",
+      "meetingId": "3217874",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-04-22",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217874",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-04-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490732.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-04-22&fileSize=114776"
+        },
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-04-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4504275.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-04-22&fileSize=1224704"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-04-21",
+      "meetingId": "3190487",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-04-21",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3190487",
+      "documents": [
+        {
+          "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-04-21",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4485311.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-21&fileSize=129594"
+        },
+        {
+          "title": "Protokoll  strategiska hälso- och sjukvårdsnämnden 2026-04-21",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490072.PDF?fileName=Protokoll%20%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-04-21&fileSize=1093296"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2026-04-17",
+      "meetingId": "3256297",
+      "boardId": "222324",
+      "board": "styrelsen för fastighet, stöd och service",
+      "date": "2026-04-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256297",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för fastighet, stöd och service 2026-04-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4485101.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-04-17&fileSize=132054"
+        },
+        {
+          "title": "Protokoll  styrelsen för fastighet, stöd och service 2026-04-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4487736.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-04-17&fileSize=529956"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-04-16",
+      "meetingId": "3329754",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-04-16",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3329754",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2026-04-14",
+      "meetingId": "3148567",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2026-04-14",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3148567",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-03-31",
+      "meetingId": "3184047",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-03-31",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184047",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-03-27",
+      "meetingId": "3187545",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-03-27",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3187545",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-03-25",
+      "meetingId": "3190482",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-03-25",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3190482",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-03-25",
+      "meetingId": "3217873",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-03-25",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217873",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-03-19",
+      "meetingId": "",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-03-19",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-03-19",
+      "meetingId": "3210103",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-03-19",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210103",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-03-17",
+      "meetingId": "3184033",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-03-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184033",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2026-03-11",
+      "meetingId": "3256296",
+      "boardId": "222324",
+      "board": "styrelsen för fastighet, stöd och service",
+      "date": "2026-03-11",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256296",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-03-06",
+      "meetingId": "3190479",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-03-06",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3190479",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-03-06",
+      "meetingId": "3217871",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-03-06",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217871",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-03-04",
+      "meetingId": "3186062",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-03-04",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3186062",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-03-03",
+      "meetingId": "3184046",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-03-03",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184046",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-02-24",
+      "meetingId": "3184032",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-02-24",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184032",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "210654|2026-02-19",
+      "meetingId": "3250563",
+      "boardId": "210654",
+      "board": "beredningen för hållbar utveckling",
+      "date": "2026-02-19",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3250563",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212615|2026-02-17",
+      "meetingId": "3148566",
+      "boardId": "212615",
+      "board": "regionfullmäktige",
+      "date": "2026-02-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3148566",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-02-17",
+      "meetingId": "3299188",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-02-17",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3299188",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-02-06",
+      "meetingId": "3190463",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-02-06",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3190463",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2026-02-06",
+      "meetingId": "3217870",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2026-02-06",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3217870",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222331|2026-02-05",
+      "meetingId": "3210100",
+      "boardId": "222331",
+      "board": "miljö- och regionutvecklingsnämnden",
+      "date": "2026-02-05",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210100",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-02-04",
+      "meetingId": "3182435",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-02-04",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3182435",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-02-03",
+      "meetingId": "3184030",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-02-03",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184030",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2026-02-03",
+      "meetingId": "3256292",
+      "boardId": "222324",
+      "board": "styrelsen för fastighet, stöd och service",
+      "date": "2026-02-03",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256292",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2026-02-02",
+      "meetingId": "3288530",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2026-02-02",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3288530",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-01-27",
+      "meetingId": "3184042",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-01-27",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184042",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-01-20",
+      "meetingId": "3184029",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-01-20",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184029",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212298|2026-01-13",
+      "meetingId": "3184041",
+      "boardId": "212298",
+      "board": "ägarutskottet",
+      "date": "2026-01-13",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184041",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2026-01-08",
+      "meetingId": "3266613",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2026-01-08",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3266613",
+      "documents": [],
+      "agendaDocCount": 0
+    }
+  ]
 }
