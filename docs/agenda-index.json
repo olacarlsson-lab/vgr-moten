@@ -1,5 +1,1708 @@
 {
   "meetings": {
+    "222298|2026-08-26": {
+      "meetingId": "3245752",
+      "items": [
+        {
+          "agendaId": "369288",
+          "title": "1 - Ekonomisk lägesrapport för operativa hälso- och sjukvårdsnämnden 2026",
+          "documents": []
+        },
+        {
+          "agendaId": "369113",
+          "title": "2 - Förslag på hantering av återbetalning för felaktiga chattar",
+          "documents": [
+            {
+              "title": "Förslag på hantering av återbetalning för felaktiga chattar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592338.PDF?fileName=F%C3%B6rslag%20p%C3%A5%20hantering%20av%20%C3%A5terbetalning%20f%C3%B6r%20felaktiga%20chattar&fileSize=210473",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Bilaga Återbetalning till vårdcentraler i VGR",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4608842.PDF?fileName=Bilaga%20%C3%85terbetalning%20till%20v%C3%A5rdcentraler%20i%20VGR&fileSize=375367",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368410",
+          "title": "3 - Lägesrapport vårdvalen - augusti 2026",
+          "documents": [
+            {
+              "title": "Lägesrapport vårdvalen - augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4573923.PDF?fileName=L%C3%A4gesrapport%20v%C3%A5rdvalen%20-%20augusti%202026&fileSize=84123",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "368293",
+          "title": "4 - Ansökan om att bedriva verksamhet inom vårdval vårdcentral för Grebbestad Vårdcentral AB för enhet Grebbestad Vårdcentral och BVC",
+          "documents": [
+            {
+              "title": "Ansökan om att bedriva verksamhet inom vårdval vårdcentral för Grebbestad Vårdcentral AB för enhet Grebbestad Vårdcentral och BVC",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4568490.PDF?fileName=Ans%C3%B6kan%20om%20att%20bedriva%20verksamhet%20inom%20v%C3%A5rdval%20v%C3%A5rdcentral%20f%C3%B6r%20Grebbestad%20V%C3%A5rdcentral%20AB%20f%C3%B6r%20enhet%20Grebbestad%20V%C3%A5rdcentral%20och%20BVC&fileSize=120895",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366354",
+          "title": "5 - Skyddad: OSL 32 kap 3b § Utredning av rapporter om missförhållanden",
+          "documents": [
+            {
+              "title": "Lägesrapport regionövergripande verksamheter - augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4515928.PDF?fileName=L%C3%A4gesrapport%20region%C3%B6vergripande%20verksamheter%20-%20augusti%202026&fileSize=85511",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "367903",
+          "title": "6 - Lägesrapport regionövergripande verksamheter - augusti 2026",
+          "documents": [
+            {
+              "title": "Modell för hantering av läkemedel med höga årskostnader per patient inom ersättningssystemet för Vårdval vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4517118.PDF?fileName=Modell%20f%C3%B6r%20hantering%20av%20l%C3%A4kemedel%20med%20h%C3%B6ga%20%C3%A5rskostnader%20per%20patient%20inom%20ers%C3%A4ttningssystemet%20f%C3%B6r%20V%C3%A5rdval%20v%C3%A5rdcentral&fileSize=136872",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Årshjul för hantering av läkemedel med höga årskostnader per patient inom ersättningssystemet för Vårdval vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4536832.PDF?fileName=%C3%85rshjul%20f%C3%B6r%20hantering%20av%20l%C3%A4kemedel%20med%20h%C3%B6ga%20%C3%A5rskostnader%20per%20patient%20inom%20ers%C3%A4ttningssystemet%20f%C3%B6r%20V%C3%A5rdval%20v%C3%A5rdcentral&fileSize=102601",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från beredningen för krav- och kvalitetsböckers sammanträde den 28 maj 2026 - Modell för hantering av läkemedel med höga årskostnader per patient inom ersättningssystemet för Vårdval vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4557511.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20krav-%20och%20kvalitetsb%C3%B6ckers%20sammantr%C3%A4de%20den%2028%20maj%202026%20-%20Modell%20f%C3%B6r%20hantering%20av%20l%C3%A4kemedel%20med%20h%C3%B6ga%20%C3%A5rskostnader%20per%20patient%20inom%20ers%C3%A4ttningssystemet%20f%C3%B6r%20V%C3%A5rdval%20v%C3%A5rdcentral&fileSize=76874",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368151",
+          "title": "7 - Modell för hantering av läkemedel med höga årskostnader per patient inom ersättningssystemet för Vårdval vårdcentral",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4562748.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset&fileSize=236417",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "368152",
+          "title": "8 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sjukhusen i väster",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4563030.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20Sjukhusen%20i%20v%C3%A4ster&fileSize=203970",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "368153",
+          "title": "9 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sjukhusen i väster",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för NU-sjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4562967.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20NU-sjukv%C3%A5rden&fileSize=215262",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366972",
+          "title": "10 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för NU-sjukvården",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Skaraborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4530861.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20Skaraborgs%20Sjukhus&fileSize=215838",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "367867",
+          "title": "11 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Skaraborgs Sjukhus",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Södra Älvsborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549816.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20S%C3%B6dra%20%C3%84lvsborgs%20Sjukhus&fileSize=210079",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366353",
+          "title": "12 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Södra Älvsborgs Sjukhus",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Regionhälsan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4516063.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20Regionh%C3%A4lsan&fileSize=201603",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366970",
+          "title": "13 - Inför beslut om förändringar i uppdrag 2025-2027 och beslut om uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Regionhälsan",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Habilitering & Hälsa",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4526459.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20uppdrag%202027%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20till%20styrelsen%20f%C3%B6r%20Habilitering%20%26%20H%C3%A4lsa&fileSize=170417",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366971",
+          "title": "14 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Habilitering & Hälsa",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025–2027 och inför beslut om uppdrag 2027 till styrelsen för Folktandvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4526447.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025%E2%80%932027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20Folktandv%C3%A5rden&fileSize=146775",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "368154",
+          "title": "15 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Folktandvården",
+          "documents": [
+            {
+              "title": "Lägesrapport sjukhus i egen regi - augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4561928.PDF?fileName=L%C3%A4gesrapport%20sjukhus%20i%20egen%20regi%20-%20augusti%202026&fileSize=85942",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "368409",
+          "title": "16 - Lägesrapport sjukhus i egen regi - augusti 2026",
+          "documents": [
+            {
+              "title": "Förslag från Sahlgrenska Universitetssjukhuset om utbudspunktsförändring - avveckling av bårhuset i Skene",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576443.PDF?fileName=F%C3%B6rslag%20fr%C3%A5n%20Sahlgrenska%20Universitetssjukhuset%20om%20utbudspunktsf%C3%B6r%C3%A4ndring%20-%20avveckling%20av%20b%C3%A5rhuset%20i%20Skene&fileSize=125627",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Rutin för hantering av avvikelser från gällande planer och uppdrag - Bårhus Skene",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4580114.PDF?fileName=Rutin%20f%C3%B6r%20hantering%20av%20avvikelser%20fr%C3%A5n%20g%C3%A4llande%20planer%20och%20uppdrag%20-%20B%C3%A5rhus%20Skene&fileSize=1240945",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367869",
+          "title": "17 - Förslag från styrelsen för Sahlgrenska Universitetssjukhuset om utbudspunktsförändring - avveckling av bårhuset i Skene",
+          "documents": [
+            {
+              "title": "Uppföljning av vaccination mot TBE för 3-åringar samt mot HPV för 18-26 åringar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4551372.PDF?fileName=Uppf%C3%B6ljning%20av%20vaccination%20mot%20TBE%20f%C3%B6r%203-%C3%A5ringar%20samt%20mot%20HPV%20f%C3%B6r%2018-26%20%C3%A5ringar&fileSize=162801",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "367904",
+          "title": "18 - Uppföljning av vaccination mot TBE för 3-åringar samt mot HPV för 18-26 åringar",
+          "documents": [
+            {
+              "title": "Ikappvaccination mot pneumokocker för personer över 65 år för 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4551385.PDF?fileName=Ikappvaccination%20mot%20pneumokocker%20f%C3%B6r%20personer%20%C3%B6ver%2065%20%C3%A5r%20f%C3%B6r%202026&fileSize=120112",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "369111",
+          "title": "19 - Ikappvaccination mot pneumokocker för personer över 65 år för 2026",
+          "documents": [
+            {
+              "title": "Samlad uppföljning hälso- och sjukvård per juni och juli 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4577118.PDF?fileName=Samlad%20uppf%C3%B6ljning%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20per%20juni%20och%20juli%202026&fileSize=111669",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "369652",
+          "title": "20 - Samlad uppföljning hälso- och sjukvård per juni och juli 2026",
+          "documents": [
+            {
+              "title": "Lägesrapport - behovsöversyner, upphandlingar och avtal augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4628895.PDF?fileName=L%C3%A4gesrapport%20-%20behovs%C3%B6versyner%2C%20upphandlingar%20och%20avtal%20augusti%202026&fileSize=120306",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "369249",
+          "title": "21 - Lägesrapport - behovsöversyner, upphandlingar och avtal augusti 2026",
+          "documents": [
+            {
+              "title": "Återrapportering avseende yrkanden om fortsatt vård på Hisingen och Lundby sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4599931.PDF?fileName=%C3%85terrapportering%20avseende%20yrkanden%20om%20fortsatt%20v%C3%A5rd%20p%C3%A5%20Hisingen%20och%20Lundby%20sjukhus&fileSize=108998",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Yrkande från M, KD, C och L om att upphandla vårdkapacitet för att säkerställa fortsatt vård på Hisingen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4539777.PDF?fileName=Yrkande%20fr%C3%A5n%20M%2C%20KD%2C%20C%20och%20L%20om%20att%20upphandla%20v%C3%A5rdkapacitet%20f%C3%B6r%20att%20s%C3%A4kerst%C3%A4lla%20fortsatt%20v%C3%A5rd%20p%C3%A5%20Hisingen&fileSize=129058",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Yrkande från Socialdemokraterna, Vänsterpartiet och Miljöpartiet om att framtidssäkra vården på Lundby sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4570505.PDF?fileName=Yrkande%20fr%C3%A5n%20Socialdemokraterna%2C%20V%C3%A4nsterpartiet%20och%20Milj%C3%B6partiet%20om%20att%20framtidss%C3%A4kra%20v%C3%A5rden%20p%C3%A5%20Lundby%20sjukhus&fileSize=282463",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Yrkande från Sverigedemokraterna om att bevara sjukhuset på Hisingen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4570517.PDF?fileName=Yrkande%20fr%C3%A5n%20Sverigedemokraterna%20om%20att%20bevara%20sjukhuset%20p%C3%A5%20Hisingen&fileSize=161467",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369634",
+          "title": "22 - Återrapportering avseende yrkanden om fortsatt vård på Hisingen och Lundby sjukhus",
+          "documents": [
+            {
+              "title": "Statsbidrag för ökat antal IVF-försök 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4628262.PDF?fileName=Statsbidrag%20f%C3%B6r%20%C3%B6kat%20antal%20IVF-f%C3%B6rs%C3%B6k%202026&fileSize=109974",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "369771",
+          "title": "23 - Statsbidrag för ökat antal IVF-försök 2026",
+          "documents": [
+            {
+              "title": "Yttrande i mål 8943-26 angående laglighetsprövning enligt kommunallagen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4632140.PDF?fileName=Yttrande%20i%20m%C3%A5l%208943-26%20ang%C3%A5ende%20laglighetspr%C3%B6vning%20enligt%20kommunallagen&fileSize=99113",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Yttrande till förvaltningsrätten i mål nr 8943-26",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4632588.PDF?fileName=Yttrande%20till%20f%C3%B6rvaltningsr%C3%A4tten%20i%20m%C3%A5l%20nr%208943-26&fileSize=198186",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Info till vårdgivare",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4632591.PDF?fileName=Info%20till%20v%C3%A5rdgivare&fileSize=127312",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368155",
+          "title": "24 - Yttrande i mål 8943-26 angående laglighetsprövning enligt kommunallagen",
+          "documents": [
+            {
+              "title": "Yttrande över remiss om reviderat förslag till ny inköpspolicy",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4556951.PDF?fileName=Yttrande%20%C3%B6ver%20remiss%20om%20reviderat%20f%C3%B6rslag%20till%20ny%20ink%C3%B6pspolicy&fileSize=105359",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Remiss om reviderat förslag till ny inköpspolicy",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4536764.PDF?fileName=Remiss%20om%20reviderat%20f%C3%B6rslag%20till%20ny%20ink%C3%B6pspolicy&fileSize=144286",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369389",
+          "title": "25 - Yttrande över remiss om reviderat förslag till ny inköpspolicy",
+          "documents": []
+        },
+        {
+          "agendaId": "369834",
+          "title": "26 - Svar på nomineringsärende från delregional nämnd norra om tillgänglighet till blodgivning i Fyrbodal",
+          "documents": [
+            {
+              "title": "Yrkande från Centerpartiet om översyn av uppdrag och utförare för gynekologisk öppenvård vid Masthuggets gynekologi- och obstetrikmottagning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4633403.PDF?fileName=Yrkande%20fr%C3%A5n%20Centerpartiet%20om%20%C3%B6versyn%20av%20uppdrag%20och%20utf%C3%B6rare%20f%C3%B6r%20gynekologisk%20%C3%B6ppenv%C3%A5rd%20vid%20Masthuggets%20gynekologi-%20och%20obstetrikmottagning&fileSize=80911",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "366356",
+          "title": "27 - Yrkande från Centerpartiet om översyn av uppdrag och utförare för gynekologisk öppenvård vid Masthuggets gynekologi- och obstetrikmottagning",
+          "documents": []
+        },
+        {
+          "agendaId": "366355",
+          "title": "28 - Presidiet informerar",
+          "documents": []
+        },
+        {
+          "agendaId": "366040",
+          "title": "29 - Beredningen informerar",
+          "documents": []
+        },
+        {
+          "agendaId": "369895",
+          "title": "30 - Ansvarig tjänsteperson informerar",
+          "documents": [
+            {
+              "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för enhet Distriktsläkarna Kviberg Vårdcentral och BVC",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4601979.PDF?fileName=Anm%C3%A4lan%20om%20%C3%A4ndrade%20%C3%A4garf%C3%B6rh%C3%A5llanden%20f%C3%B6r%20Distriktsl%C3%A4karna%20i%20V%C3%A4stra%20G%C3%B6taland%20AB%20f%C3%B6r%20enhet%20Distriktsl%C3%A4karna%20Kviberg%20V%C3%A5rdcentral%20och%20BVC&fileSize=119684",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369896",
+          "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för enhet Distriktsläkarna Kviberg Vårdcentral och BVC",
+          "documents": [
+            {
+              "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för eneht Distriktsläkarna Mölndal Vårdcentral och BVC",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4602293.PDF?fileName=Anm%C3%A4lan%20om%20%C3%A4ndrade%20%C3%A4garf%C3%B6rh%C3%A5llanden%20f%C3%B6r%20Distriktsl%C3%A4karna%20i%20V%C3%A4stra%20G%C3%B6taland%20AB%20f%C3%B6r%20eneht%20Distriktsl%C3%A4karna%20M%C3%B6lndal%20V%C3%A5rdcentral%20och%20BVC&fileSize=119361",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369897",
+          "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för eneht Distriktsläkarna Mölndal Vårdcentral och BVC",
+          "documents": [
+            {
+              "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för enhet Läkargruppen Mölndalsbro Vårdcentral",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4602319.PDF?fileName=Anm%C3%A4lan%20om%20%C3%A4ndrade%20%C3%A4garf%C3%B6rh%C3%A5llanden%20f%C3%B6r%20Distriktsl%C3%A4karna%20i%20V%C3%A4stra%20G%C3%B6taland%20AB%20f%C3%B6r%20enhet%20L%C3%A4kargruppen%20M%C3%B6lndalsbro%20V%C3%A5rdcentral&fileSize=119473",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369152",
+          "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för enhet Läkargruppen Mölndalsbro Vårdcentral",
+          "documents": [
+            {
+              "title": "Anmälan om ändrade ägarförändring för Götene Rehab och Fysioterapi AB för enhet Götene Rehab och Fysioterapi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4530819.PDF?fileName=Anm%C3%A4lan%20om%20%C3%A4ndrade%20%C3%A4garf%C3%B6r%C3%A4ndring%20f%C3%B6r%20G%C3%B6tene%20Rehab%20och%20Fysioterapi%20AB%20f%C3%B6r%20enhet%20G%C3%B6tene%20Rehab%20och%20Fysioterapi&fileSize=108427",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369153",
+          "title": "Anmälan om ändrade ägarförändring för Götene Rehab för enhet Götene Rehab och Fysioterapi",
+          "documents": [
+            {
+              "title": "Anmälan om ändrade ägarförhållanden för Forsåker Vårdcentral och BVC",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4568616.PDF?fileName=Anm%C3%A4lan%20om%20%C3%A4ndrade%20%C3%A4garf%C3%B6rh%C3%A5llanden%20f%C3%B6r%20Fors%C3%A5ker%20V%C3%A5rdcentral%20och%20BVC&fileSize=105780",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369150",
+          "title": "Anmälan om ändrade ägarförhållanden för Forsåker Vårdcentral och BVC",
+          "documents": [
+            {
+              "title": "Tillämpningsanvisning för hantering av patientavgift för förvarstagna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4522060.PDF?fileName=Till%C3%A4mpningsanvisning%20f%C3%B6r%20hantering%20av%20patientavgift%20f%C3%B6r%20f%C3%B6rvarstagna&fileSize=164004",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369878",
+          "title": "Tillämpningsanvisning för hantering av patientavgift för förvarstagna",
+          "documents": [
+            {
+              "title": "Beslut om samverkansavtal enligt lag (1993:1652) om ersättning för fysioterapi mellan operativa hälso- och sjukvårdsnämnden och Rebecca Hamrin Senorski, vårdgivarkod 2582",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4565963.PDF?fileName=Beslut%20om%20samverkansavtal%20enligt%20lag%20(1993%3A1652)%20om%20ers%C3%A4ttning%20f%C3%B6r%20fysioterapi%20mellan%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20och%20Rebecca%20Hamrin%20Senorski%2C%20v%C3%A5rdgivarkod%202582&fileSize=96239",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369154",
+          "title": "Beslut om samverkansavtal enligt lag (1993:1652) om ersättning för fysioterapi mellan operativa hälso- och sjukvårdsnämnden och Rebecca Hamrin Senorski, vårdgivarkod 2582",
+          "documents": [
+            {
+              "title": "Behörigheter i bank och Raindance 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576939.PDF?fileName=Beh%C3%B6righeter%20i%20bank%20och%20Raindance%202026&fileSize=95249",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "842 Operativa hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576962.PDF?fileName=842%20Operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=40882",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369155",
+          "title": "Behörigheter i bank och Raindance 2026",
+          "documents": [
+            {
+              "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4579552.PDF?fileName=F%C3%B6r%C3%A4ndringar%20i%20uppdrag%202026%20inom%20ramen%20f%C3%B6r%20tillg%C3%A4nglighetsarbetet&fileSize=195773",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369156",
+          "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
+          "documents": [
+            {
+              "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4551264.PDF?fileName=F%C3%B6r%C3%A4ndringar%20i%20uppdrag%202026%20inom%20ramen%20f%C3%B6r%20tillg%C3%A4nglighetsarbetet&fileSize=125362",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369835",
+          "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
+          "documents": [
+            {
+              "title": "Attestförteckning för operativa hälso- och sjukvårdsnämnden giltig från och med 260615",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4551145.PDF?fileName=Attestf%C3%B6rteckning%20f%C3%B6r%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20giltig%20fr%C3%A5n%20och%20med%20260615&fileSize=96481",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Attestförteckning för OSN giltig from 260615",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4552848.PDF?fileName=Attestf%C3%B6rteckning%20f%C3%B6r%20OSN%20giltig%20from%20260615&fileSize=60157",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369836",
+          "title": "Attestförteckning för operativa hälso- och sjukvårdsnämnden giltig från och med 260615",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med ABC Dental Care KB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596549.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rdtill%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20ABC%20Dental%20Care%20KB&fileSize=95911",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369837",
+          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med ABC Dental Care KB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Helgöppet tandvård tdl. Oksana Olafsson (enskild firma)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598520.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Helg%C3%B6ppet%20tandv%C3%A5rd%20tdl.%20Oksana%20Olafsson%20(enskild%20firma)&fileSize=94733",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369838",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Helgöppet tanvård tdl. Oksana Olafsson (enskild firma)",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Kortedala Tandklinik AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597554.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Kortedala%20Tandklinik%20AB&fileSize=95128",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369839",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Kortedala Tandklinik AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Östra Gbg Tandklinik AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598501.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20%C3%96stra%20Gbg%20Tandklinik%20AB&fileSize=94817",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369840",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Östra Gbg Tandklinik AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Akut och Implantat Göteborg AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598858.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Akut%20och%20Implantat%20G%C3%B6teborg%20AB&fileSize=94587",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369841",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Akut och Implantat Göteborg AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Avenue Dental Care AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598605.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Avenue%20Dental%20Care%20AB&fileSize=95039",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369842",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Avenue Dental Care AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med AshurDent AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596768.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20AshurDent%20AB&fileSize=94262",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369843",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med AshurDent AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Skövde Healthy Smile AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598019.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Sk%C3%B6vde%20Healthy%20Smile%20AB&fileSize=95146",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369844",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Skövde Healthy Smile AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hesam Sowlati Manesh AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597482.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Hesam%20Sowlati%20Manesh%20AB&fileSize=96103",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369845",
+          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med Hesam Sowlati Manesh AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Behrooz Ghahreman AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596771.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Behrooz%20Ghahreman%20AB&fileSize=94794",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369846",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Behrooz Ghahreman AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Motarjemi dental AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597721.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Motarjemi%20dental%20AB&fileSize=95210",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369847",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Motarjemi dental AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Privattandvården Strömstad AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598007.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Privattandv%C3%A5rden%20Str%C3%B6mstad%20AB&fileSize=94428",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369848",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Privattandvården Strömstad AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med RN Dental Clinic AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598839.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20RN%20Dental%20Clinic%20AB&fileSize=95729",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369849",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med RN Dental Clinic AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland Tandhälsan i Lidköping AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598411.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20Tandh%C3%A4lsan%20i%20Lidk%C3%B6ping%20AB&fileSize=94999",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369850",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland Tandhälsan i Lidköping Ab",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Normdens AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597808.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Normdens%20AB&fileSize=94649",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369851",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Normdens AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Lövgärdets Tandklinik AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598947.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20L%C3%B6vg%C3%A4rdets%20Tandklinik%20AB&fileSize=94798",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369852",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Lövgärdets Tandklinik AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Majornas Dentalklinik AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598679.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Majornas%20Dentalklinik%20AB&fileSize=95222",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369853",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Majornas Dentalklinik AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Primärtandvården Kyrkbytorget AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597906.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Prim%C3%A4rtandv%C3%A5rden%20Kyrkbytorget%20AB&fileSize=95081",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369854",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Primärtandvården Kyrkbytorget AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med 3A Tandvård AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584873.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%203A%20Tandv%C3%A5rd%20AB&fileSize=94479",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369855",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med 3A Tandvård AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Familjetandvård i Bohuslän AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598758.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Familjetandv%C3%A5rd%20i%20Bohusl%C3%A4n%20AB&fileSize=94705",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369856",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Familjetandvård i Bohuslän AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland Ingrid Silva AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597505.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20Ingrid%20Silva%20AB&fileSize=94500",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369857",
+          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland Ingrid Silva AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med Ablux AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596572.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rdtill%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Ablux%20AB&fileSize=94064",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369858",
+          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med Ablux AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Massouds Tandklinik AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598549.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Massouds%20Tandklinik%20AB&fileSize=95064",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369859",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Massouds Tandklinik AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Viken Bedros Dental AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598479.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Viken%20Bedros%20Dental%20AB&fileSize=94331",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369860",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Viken Bedros Dental AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Akutkliniken Svingeln AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596753.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Akutkliniken%20Svingeln%20AB&fileSize=94747",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369861",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Akutkliniken Svingeln AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Jwamer Jalal AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598423.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Tandl%C3%A4kare%20Jwamer%20Jalal%20AB&fileSize=95757",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369862",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Jwamer Jalal AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med MK Tandvård Klinik AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597678.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20MK%20Tandv%C3%A5rd%20Klinik%20AB&fileSize=95897",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369863",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med MK Tandvård Klinik AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med M & K Rikardsson AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597639.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20M%20%26%20K%20Rikardsson%20AB&fileSize=97088",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369864",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med M & K Rikardsson AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Korsvägen Dental Clinic AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597526.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Korsv%C3%A4gen%20Dental%20Clinic%20AB&fileSize=96113",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369865",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Korsvägen Dental Clinic AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Göteborg Tandläkargrupp AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596793.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20G%C3%B6teborg%20Tandl%C3%A4kargrupp%20AB&fileSize=94905",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369866",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Göteborg Tandläkargrupp AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Nazareth Invest AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597752.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Nazareth%20Invest%20AB&fileSize=95163",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369867",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Nazareth Invest AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Gentle Dental Sweden AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598905.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Gentle%20Dental%20Sweden%20AB&fileSize=95497",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369868",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Gentle Dental Sweden AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Omars tandklinik AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597851.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Omars%20tandklinik%20AB&fileSize=94516",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369869",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Omars tandklinik AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Dr Vanessa AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596780.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Dr%20Vanessa%20AB&fileSize=94263",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369870",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Dr Vanessa AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Raed Abokhalil AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598442.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Tandl%C3%A4kare%20Raed%20Abokhalil%20AB&fileSize=95128",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369871",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Raed Abokhalil AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Le Mera Tandvård och Estetikcenter (H&H Smile center AB)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4599105.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Le%20Mera%20Tandv%C3%A5rd%20och%20Estetikcenter%20(H%26H%20Smile%20center%20AB)&fileSize=97257",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369872",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Le Mera Tanvård och Estetikcenter (H&H Smile center AB)",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Fiore Clinic AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596781.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Fiore%20Clinic%20AB&fileSize=94788",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369873",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Fiore Clinic AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tuve Tandvård AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598472.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Tuve%20Tandv%C3%A5rd%20AB&fileSize=94500",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369874",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tuve Tandvård AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Lilla Edet Tandläkarcenter AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598649.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Lilla%20Edet%20Tandl%C3%A4karcenter%20AB&fileSize=95687",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369875",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Lilla Edet Tandläkarcenter AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Bita Dental Consult AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596772.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Bita%20Dental%20Consult%20AB&fileSize=94525",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369876",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Bita Dental Consult AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Sävedalen Tandhälsa AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598883.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20S%C3%A4vedalen%20Tandh%C3%A4lsa%20AB&fileSize=95170",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369877",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Sävedalen Tandhälsa AB",
+          "documents": [
+            {
+              "title": "Uppsägning av utbudspunkt Tandläkare Annahita Staf (KPA) i avtal för barn- och ungdomstandvård 3-19 år med Praktikertjänst AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4581004.PDF?fileName=Upps%C3%A4gning%20av%20utbudspunkt%20Tandl%C3%A4kare%20Annahita%20Staf%20(KPA)%20i%20avtal%20f%C3%B6r%20barn-%20och%20ungdomstandv%C3%A5rd%203-19%20%C3%A5r%20med%20Praktikertj%C3%A4nst%20AB&fileSize=97469",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Tillägg till avtal om uppsägning av utbudspunkt Tandläkare Annahita Staf (KPA) i avtal för barn- och ungdomstandvård 3-19 år med Praktikertjänst AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4581173.PDF?fileName=Till%C3%A4gg%20till%20avtal%20om%20upps%C3%A4gning%20av%20utbudspunkt%20Tandl%C3%A4kare%20Annahita%20Staf%20(KPA)%20i%20avtal%20f%C3%B6r%20barn-%20och%20ungdomstandv%C3%A5rd%203-19%20%C3%A5r%20med%20Praktikertj%C3%A4nst%20AB&fileSize=148842",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369879",
+          "title": "Uppsägning av utbudspunkt Tandläkare Annahita Staf (KPA) i avtal för barn- och ungdomstandvård 3-19 år med Praktikertjänst AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Backatandläkarna AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4603860.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Backatandl%C3%A4karna%20AB&fileSize=94001",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369880",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Backatandläkarna AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Gothia Tandvård AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4603888.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Gothia%20Tandv%C3%A5rd%20AB&fileSize=94051",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369881",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Gothia Tandvård AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hisingen tandvård AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4603917.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Hisingen%20tandv%C3%A5rd%20AB&fileSize=94116",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369882",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hisingen tandvård AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hjalmar tandklinik AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4603950.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Hjalmar%20tandklinik%20AB&fileSize=94239",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369883",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hjalmar tandklinik AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Implantat Center Kashani AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4603994.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Implantat%20Center%20Kashani%20AB&fileSize=95464",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369884",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Implantat Center Kashani AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med RA Kliniken AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604264.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20RA%20Kliniken%20AB&fileSize=95034",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369885",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med RA Kliniken AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Samina Dental Care AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604330.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Samina%20Dental%20Care%20AB&fileSize=95081",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369886",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Samina Dental Care AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Ella Yahyapour AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604345.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Tandl%C3%A4kare%20Ella%20Yahyapour%20AB&fileSize=95078",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369887",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Ella Yahyapour AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Mehdi Sedigh AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604450.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Tandl%C3%A4kare%20Mehdi%20Sedigh%20AB&fileSize=95001",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369888",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Mehdi Sedigh AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandvårdsgruppen i Göteborg AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604457.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Tandv%C3%A5rdsgruppen%20i%20G%C3%B6teborg%20AB&fileSize=94124",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369889",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandvårdsgruppen i Göteborg AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Teodor Murgelas EF",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604463.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Teodor%20Murgelas%20EF&fileSize=95025",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369890",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Teodor Murgelas EF",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Vasaplatsen Tandklinik AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604465.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Vasaplatsen%20Tandklinik%20AB&fileSize=94101",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369891",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Vasaplatsen Tandklinik AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Videnta Tandvård AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604558.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Videnta%20Tandv%C3%A5rd%20AB&fileSize=94066",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369892",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Videnta Tandvård AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Skansenkliniken AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604577.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Skansenkliniken%20AB&fileSize=94026",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369893",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Skansenkliniken AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med GSTK Göteborg AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604592.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20GSTK%20G%C3%B6teborg%20AB&fileSize=95404",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369894",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med GSTK Göteborg AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Praktikertjänst AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4630598.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Praktikertj%C3%A4nst%20AB&fileSize=94866",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369130",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Praktikertjänst AB",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15 och 2026-06-16 § 129 - Budget 2027 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585421.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%20och%202026-06-16%20%C2%A7%20129%20-%20Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=137659",
+              "category": "Handling in"
+            },
+            {
+              "title": "Budget 2027 för Västra Götalandsregionen - RödGrön ledning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585422.PDF?fileName=Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%20-%20R%C3%B6dGr%C3%B6n%20ledning&fileSize=853619",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga § 131 Omröstningsprotokoll",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585423.PDF?fileName=Bilaga%20%C2%A7%20131%20Omr%C3%B6stningsprotokoll&fileSize=85232",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369127",
+          "title": "Beslut från regionfullmäktige 2026-06-15 och 2026-06-16 § 129 - Budget 2027 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15 § 128 - Delårsrapport april 2026 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584659.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%20%C2%A7%20128%20-%20Del%C3%A5rsrapport%20april%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=86055",
+              "category": "Handling in"
+            },
+            {
+              "title": "Västra Götalandsregionens delårsrapport april 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584660.PDF?fileName=V%C3%A4stra%20G%C3%B6talandsregionens%20del%C3%A5rsrapport%20april%202026&fileSize=1675335",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369126",
+          "title": "Beslut från regionfullmäktige 2026-06-15 § 128 - Delårsrapport april 2026 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15/16 § 126 - Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585168.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%2F16%20%C2%A7%20126%20-%20R%C3%A4ttelse%20av%20regionfullm%C3%A4ktiges%20beslut%202026-05-26%20%C2%A7%20109&fileSize=77615",
+              "category": "Handling in"
+            },
+            {
+              "title": "Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585169.PDF?fileName=R%C3%A4ttelse%20av%20regionfullm%C3%A4ktiges%20beslut%202026-05-26%20%C2%A7%20109&fileSize=110819",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 26 maj 2026 - Yttrande över motion av Monika Beiring (M) om pilotprojekt för stärkta m...",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585170.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%2026%20maj%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Monika%20Beiring%20(M)%20om%20pilotprojekt%20f%C3%B6r%20st%C3%A4rkta%20m...&fileSize=131018",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369128",
+          "title": "Beslut från regionfullmäktige 2026-06-15/16 § 126 - Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-05-26 § 101 - Hållbarhetsmål 2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4565922.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-05-26%20%C2%A7%20101%20-%20H%C3%A5llbarhetsm%C3%A5l%202030&fileSize=147660",
+              "category": "Handling in"
+            },
+            {
+              "title": "Bilaga § 101 Omrösningsprotokoll",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4565923.PDF?fileName=Bilaga%20%C2%A7%20101%20Omr%C3%B6sningsprotokoll&fileSize=131617",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Hållbarhetsmål 2030 - beslutad 2026-05-26",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4565924.PDF?fileName=H%C3%A5llbarhetsm%C3%A5l%202030%20-%20beslutad%202026-05-26&fileSize=2591912",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Hållbarhetsmål 2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4565925.PDF?fileName=H%C3%A5llbarhetsm%C3%A5l%202030&fileSize=172657",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369131",
+          "title": "Beslut från regionfullmäktige 2026-05-26 § 101 - Hållbarhetsmål 2030",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15/16 § 131 -  Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4587455.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%2F16%20%C2%A7%20131%20-%20%20Arvodesbest%C3%A4mmelser%20f%C3%B6r%20f%C3%B6rtroendevalda%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%202026-2030&fileSize=124901",
+              "category": "Handling in"
+            },
+            {
+              "title": "Bilaga § 131 Omröstningsprotokoll",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4587456.PDF?fileName=Bilaga%20%C2%A7%20131%20Omr%C3%B6stningsprotokoll&fileSize=85232",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Arvodesbestämmelser 2026-2030 -  Antagen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4587457.PDF?fileName=Arvodesbest%C3%A4mmelser%202026-2030%20-%20%20Antagen&fileSize=554569",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368506",
+          "title": "Beslut från regionfullmäktige 2026-06-15/16 § 131 -  Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-05-26 § 113 - Ersättare i operativa hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4564281.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-05-26%20%C2%A7%20113%20-%20Ers%C3%A4ttare%20i%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=69792",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "369132",
+          "title": "Beslut från regionfullmäktige 2026-05-26 § 113 - Ersättare i operativa hälso- och sjukvårdsnämnden",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15 § 134 - Sammanträdestider 2027 för regionfullmäktige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4587950.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%20%C2%A7%20134%20-%20Sammantr%C3%A4destider%202027%20f%C3%B6r%20regionfullm%C3%A4ktige&fileSize=77865",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "369133",
+          "title": "Beslut från regionfullmäktige 2026-06-15 § 134 - Sammanträdestider 2027 för regionfullmäktige",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-06-22 § 171 - Riktlinjer för ersättningar i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583044.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-06-22%20%C2%A7%20171%20-%20Riktlinjer%20f%C3%B6r%20ers%C3%A4ttningar%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=75253",
+              "category": "Handling in"
+            },
+            {
+              "title": "Förslag - Riktlinje för ersättningar i VGR",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583045.PDF?fileName=F%C3%B6rslag%20-%20Riktlinje%20f%C3%B6r%20ers%C3%A4ttningar%20i%20VGR&fileSize=175344",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga - Remissammanställning förslag till riktlinje för ersättningar i VGR",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583046.PDF?fileName=Bilaga%20-%20Remissammanst%C3%A4llning%20f%C3%B6rslag%20till%20riktlinje%20f%C3%B6r%20ers%C3%A4ttningar%20i%20VGR&fileSize=105829",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369137",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 171 - Riktlinjer för ersättningar i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-06-22 § 170  - Västra Götalandsregionens investeringsplan 2027-2036",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585021.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-06-22%20%C2%A7%20170%20%20-%20V%C3%A4stra%20G%C3%B6talandsregionens%20investeringsplan%202027-2036&fileSize=76085",
+              "category": "Handling in"
+            },
+            {
+              "title": "Västra Götalandsregionens investeringsplan 2027-2036",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585022.PDF?fileName=V%C3%A4stra%20G%C3%B6talandsregionens%20investeringsplan%202027-2036&fileSize=990114",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369134",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 170  - Västra Götalandsregionens investeringsplan 2027-2036",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-06-22 § 181 - Svar på revisionsrapporten Granskning av god ekonomisk hushållning – ekonomistyrning för verksamhet och ekonomi i balans",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584344.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-06-22%20%C2%A7%20181%20-%20Svar%20p%C3%A5%20revisionsrapporten%20Granskning%20av%20god%20ekonomisk%20hush%C3%A5llning%20%E2%80%93%20ekonomistyrning%20f%C3%B6r%20verksamhet%20och%20ekonomi%20i%20balans&fileSize=76845",
+              "category": "Handling in"
+            },
+            {
+              "title": "Svar på revisionsrapporten Granskning av god ekonomisk hushållning – ekonomistyrning för verksamhet och ekonomi i balans",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584345.PDF?fileName=Svar%20p%C3%A5%20revisionsrapporten%20Granskning%20av%20god%20ekonomisk%20hush%C3%A5llning%20%E2%80%93%20ekonomistyrning%20f%C3%B6r%20verksamhet%20och%20ekonomi%20i%20balans&fileSize=159571",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369135",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 181 - Svar på revisionsrapporten Granskning av god ekonomisk hushållning – ekonomistyrning för verksamhet och ekonomi i balans",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-06-22 § 177 - Fortsatt arbete med utgångspunkt i genomförda presidiedialoger under våren 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583325.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-06-22%20%C2%A7%20177%20-%20Fortsatt%20arbete%20med%20utg%C3%A5ngspunkt%20i%20genomf%C3%B6rda%20presidiedialoger%20under%20v%C3%A5ren%202026&fileSize=95495",
+              "category": "Handling in"
+            },
+            {
+              "title": "Gemensam presidiedialog om kompetensförsörjning den 1 april 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583326.PDF?fileName=Gemensam%20presidiedialog%20om%20kompetensf%C3%B6rs%C3%B6rjning%20den%201%20april%202026&fileSize=140539",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Gemensam presidiedialog om tillgänglighet den 6 maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583327.PDF?fileName=Gemensam%20presidiedialog%20om%20tillg%C3%A4nglighet%20den%206%20maj%202026&fileSize=163143",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369136",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 177 - Fortsatt arbete med utgångspunkt i genomförda presidiedialoger under våren 2026",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-06-22 § 179 - Sammanträdestider 2027 för regionstyrelsen, dess utskott och beredningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584554.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-06-22%20%C2%A7%20179%20-%20Sammantr%C3%A4destider%202027%20f%C3%B6r%20regionstyrelsen%2C%20dess%20utskott%20och%20beredningar&fileSize=92483",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "369119",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 179 - Sammanträdestider 2027 för regionstyrelsen, dess utskott och beredningar",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 150 - Information om implementering av nytt hälso- och sjukvårdsavtal",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604810.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20150%20-%20Information%20om%20implementering%20av%20nytt%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsavtal&fileSize=81578",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Information om implementering av nytt hälso- och sjukvårdsavtal",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604811.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Information%20om%20implementering%20av%20nytt%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsavtal&fileSize=124944",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369120",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 150 - Information om implementering av nytt hälso- och sjukvårdsavtal",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 141 -  Samverkansavtal för ungdomsmottagningar i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4599625.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20141%20-%20%20Samverkansavtal%20f%C3%B6r%20ungdomsmottagningar%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=85141",
+              "category": "Handling in"
+            },
+            {
+              "title": "Samverkansavtal för ungdomsmottagningar i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4599626.PDF?fileName=Samverkansavtal%20f%C3%B6r%20ungdomsmottagningar%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=124058",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Samverkansavtal ungdomsmottagningen i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4599627.PDF?fileName=Samverkansavtal%20ungdomsmottagningen%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=523437",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369121",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 141 -  Samverkansavtal för ungdomsmottagningar i Västra Götaland",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 139 - Svar på revisorskollegiets granskning av omställningen av hälso- och sjukvården, kvarstående rekommendationer",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596641.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20139%20-%20Svar%20p%C3%A5%20revisorskollegiets%20granskning%20av%20omst%C3%A4llningen%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rden%2C%20kvarst%C3%A5ende%20rekommendationer&fileSize=83687",
+              "category": "Handling in"
+            },
+            {
+              "title": "Svar på revisorskollegiets granskning av omställningen av hälso- och sjukvården, kvarstående rekommendationer",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596642.PDF?fileName=Svar%20p%C3%A5%20revisorskollegiets%20granskning%20av%20omst%C3%A4llningen%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rden%2C%20kvarst%C3%A5ende%20rekommendationer&fileSize=159038",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369122",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 139 - Svar på revisorskollegiets granskning av omställningen av hälso- och sjukvården, kvarstående rekommendationer",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 131 - Plan för ökad och jämlik digital delaktighet för invånare och patienter",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597424.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20131%20-%20Plan%20f%C3%B6r%20%C3%B6kad%20och%20j%C3%A4mlik%20digital%20delaktighet%20f%C3%B6r%20inv%C3%A5nare%20och%20patienter&fileSize=88682",
+              "category": "Handling in"
+            },
+            {
+              "title": "Plan för ökad och jämlik digital delaktighet för invånare och patienter",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597425.PDF?fileName=Plan%20f%C3%B6r%20%C3%B6kad%20och%20j%C3%A4mlik%20digital%20delaktighet%20f%C3%B6r%20inv%C3%A5nare%20och%20patienter&fileSize=131685",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Förslag på plan för ökad och jämlik digital delaktighet för invånare och patienter",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4597426.PDF?fileName=F%C3%B6rslag%20p%C3%A5%20plan%20f%C3%B6r%20%C3%B6kad%20och%20j%C3%A4mlik%20digital%20delaktighet%20f%C3%B6r%20inv%C3%A5nare%20och%20patienter&fileSize=392509",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369123",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 131 - Plan för ökad och jämlik digital delaktighet för invånare och patienter",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 130 - Kartläggning av deltagande i Västra Götalandsregionens program för bröstcancerscreening",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596924.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20130%20-%20Kartl%C3%A4ggning%20av%20deltagande%20i%20V%C3%A4stra%20G%C3%B6talandsregionens%20program%20f%C3%B6r%20br%C3%B6stcancerscreening&fileSize=86070",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Kartläggning av deltagande i Västra Götalandsregionens program för bröstcancerscreening",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596925.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Kartl%C3%A4ggning%20av%20deltagande%20i%20V%C3%A4stra%20G%C3%B6talandsregionens%20program%20f%C3%B6r%20br%C3%B6stcancerscreening&fileSize=152420",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Deltagande i VGR program för bröstcancerscreening 2024-2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596926.PDF?fileName=Deltagande%20i%20VGR%20program%20f%C3%B6r%20br%C3%B6stcancerscreening%202024-2025&fileSize=45275",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369124",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 130 - Kartläggning av deltagande i Västra Götalandsregionens program för bröstcancerscreening",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 148 - Regionalt omhändertagande av uppdaterad nationell cancerstrategi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604858.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20148%20-%20Regionalt%20omh%C3%A4ndertagande%20av%20uppdaterad%20nationell%20cancerstrategi&fileSize=75108",
+              "category": "Handling in"
+            },
+            {
+              "title": "Regionalt omhändertagande av uppdaterad nationell cancerstrategi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604859.PDF?fileName=Regionalt%20omh%C3%A4ndertagande%20av%20uppdaterad%20nationell%20cancerstrategi&fileSize=110866",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369125",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 148 - Regionalt omhändertagande av uppdaterad nationell cancerstrategi",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 146 - Delrapport i utredning om att inrätta ett Centrum för hälsa i glesbygd i Fyrbodal",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4599735.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20146%20-%20Delrapport%20i%20utredning%20om%20att%20inr%C3%A4tta%20ett%20Centrum%20f%C3%B6r%20h%C3%A4lsa%20i%20glesbygd%20i%20Fyrbodal&fileSize=100127",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Delrapport i utredning om att inrätta ett Centrum för hälsa i glesbygd i Fyrbodal",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4599734.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Delrapport%20i%20utredning%20om%20att%20inr%C3%A4tta%20ett%20Centrum%20f%C3%B6r%20h%C3%A4lsa%20i%20glesbygd%20i%20Fyrbodal&fileSize=171843",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369138",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 146 - Delrapport i utredning om att inrätta ett Centrum för hälsa i glesbygd i Fyrbodal",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 132 -  Ramverk för barn och vårdnadshavare i 1177- tjänster",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596526.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20132%20-%20%20Ramverk%20f%C3%B6r%20barn%20och%20v%C3%A5rdnadshavare%20i%201177-%20tj%C3%A4nster&fileSize=87268",
+              "category": "Handling in"
+            },
+            {
+              "title": "Ramverk för barn och vårdnadshavare i 1177-tjänster",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596527.PDF?fileName=Ramverk%20f%C3%B6r%20barn%20och%20v%C3%A5rdnadshavare%20i%201177-tj%C3%A4nster&fileSize=184701",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Följebrev - Ramverk för barn och vårdnadshavare i 1177-tjänster",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4596528.PDF?fileName=F%C3%B6ljebrev%20-%20Ramverk%20f%C3%B6r%20barn%20och%20v%C3%A5rdnadshavare%20i%201177-tj%C3%A4nster&fileSize=366292",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369139",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 132 -  Ramverk för barn och vårdnadshavare i 1177- tjänster",
+          "documents": [
+            {
+              "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 145 - Överenskommelse - Samverkan kring personer med psykisk funktionsnedsättning och personer med skadligt bruk och beroende",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598703.PDF?fileName=Beslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20145%20-%20%C3%96verenskommelse%20-%20Samverkan%20kring%20personer%20med%20psykisk%20funktionsneds%C3%A4ttning%20och%20personer%20med%20skadligt%20bruk%20och%20beroende&fileSize=83027",
+              "category": "Handling in"
+            },
+            {
+              "title": "Överenskommelse - Samverkan kring personer med psykisk funktionsnedsättning och personer med skadligt bruk och beroende",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4598704.PDF?fileName=%C3%96verenskommelse%20-%20Samverkan%20kring%20personer%20med%20psykisk%20funktionsneds%C3%A4ttning%20och%20personer%20med%20skadligt%20bruk%20och%20beroende&fileSize=118561",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368514",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 145 - Överenskommelse - Samverkan kring personer med psykisk funktionsnedsättning och personer med skadligt bruk och beroende",
+          "documents": [
+            {
+              "title": "Beslut från styrelsen för Sahlgrenska Universitetssjukhuset 2026-05-29 § 68 - Begäran om utökat uppdrag och resursförstärkning för rättspsykiatrin vid Sahlgrenska Universitetssjukhuset",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4564342.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-05-29%20%C2%A7%2068%20-%20Beg%C3%A4ran%20om%20ut%C3%B6kat%20uppdrag%20och%20resursf%C3%B6rst%C3%A4rkning%20f%C3%B6r%20r%C3%A4ttspsykiatrin%20vid%20Sahlgrenska%20Universitetssjukhuset&fileSize=75484",
+              "category": "Handling in"
+            },
+            {
+              "title": "Begäran om utökat uppdrag och resursförstärkning för rättspsykiatrin vid Sahlgrenska Universitetssjukhuset",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4564343.PDF?fileName=Beg%C3%A4ran%20om%20ut%C3%B6kat%20uppdrag%20och%20resursf%C3%B6rst%C3%A4rkning%20f%C3%B6r%20r%C3%A4ttspsykiatrin%20vid%20Sahlgrenska%20Universitetssjukhuset&fileSize=128140",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Samlad bedömning av åtgärder för att möta ett växande vårdbehov inom rättspsykiatrin i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4564344.PDF?fileName=Samlad%20bed%C3%B6mning%20av%20%C3%A5tg%C3%A4rder%20f%C3%B6r%20att%20m%C3%B6ta%20ett%20v%C3%A4xande%20v%C3%A5rdbehov%20inom%20r%C3%A4ttspsykiatrin%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=118212",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368518",
+          "title": "Beslut från styrelsen för Sahlgrenska Universitetssjukhuset 2026-05-29 § 68 - Begäran om utökat uppdrag och resursförstärkning för rättspsykiatrin vid Sahlgrenska Universitetssjukhuset",
+          "documents": [
+            {
+              "title": "Beslut från styrelsen för Skaraborgs Sjukhus 2026-05-22 § 50 - Utökat uppdrag dialys Skaraborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571224.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Skaraborgs%20Sjukhus%202026-05-22%20%C2%A7%2050%20-%20Ut%C3%B6kat%20uppdrag%20dialys%20Skaraborgs%20Sjukhus&fileSize=79776",
+              "category": "Handling in"
+            },
+            {
+              "title": "Skrivelse om utökat uppdrag dialys Skaraborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571225.PDF?fileName=Skrivelse%20om%20ut%C3%B6kat%20uppdrag%20dialys%20Skaraborgs%20Sjukhus&fileSize=313746",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Yrkande (C) § 50 Skaraborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571226.PDF?fileName=Yrkande%20(C)%20%C2%A7%2050%20Skaraborgs%20Sjukhus&fileSize=30746",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369140",
+          "title": "Beslut från styrelsen för Skaraborgs Sjukhus 2026-05-22 § 50 - Utökat uppdrag dialys Skaraborgs Sjukhus",
+          "documents": [
+            {
+              "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 66  - Återrapport och handlingsplan maj 2026, gynekologi Regionhälsan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4590691.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Regionh%C3%A4lsan%202026-06-23%20%C2%A7%2066%20%20-%20%C3%85terrapport%20och%20handlingsplan%20maj%202026%2C%20gynekologi%20Regionh%C3%A4lsan&fileSize=79214",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Återrapport och handlingsplan maj 2026, gynekologi Regionhälsan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4590692.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20%C3%85terrapport%20och%20handlingsplan%20maj%202026%2C%20gynekologi%20Regionh%C3%A4lsan&fileSize=121760",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Handlingsplan Masthuggets gynekologi och obstetrikmottagning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4590693.PDF?fileName=Handlingsplan%20Masthuggets%20gynekologi%20och%20obstetrikmottagning&fileSize=246034",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369145",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 66  - Återrapport och handlingsplan maj 2026, gynekologi Regionhälsan",
+          "documents": [
+            {
+              "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 76 - Initiativärende: Ungdomsmottagningarnas förutsättningar i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592195.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Regionh%C3%A4lsan%202026-06-23%20%C2%A7%2076%20-%20Initiativ%C3%A4rende%3A%20Ungdomsmottagningarnas%20f%C3%B6ruts%C3%A4ttningar%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=88115",
+              "category": "Handling in"
+            },
+            {
+              "title": "Initiativärende- Ungdomsmottagningarnas förutsättningar i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592196.PDF?fileName=Initiativ%C3%A4rende-%20Ungdomsmottagningarnas%20f%C3%B6ruts%C3%A4ttningar%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=161313",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Information UM per kommun i Västra Götaland 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592197.PDF?fileName=Information%20UM%20per%20kommun%20i%20V%C3%A4stra%20G%C3%B6taland%202026&fileSize=7526071",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Underlag för personalbehov för verksamhet i balans",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592198.PDF?fileName=Underlag%20f%C3%B6r%20personalbehov%20f%C3%B6r%20verksamhet%20i%20balans&fileSize=641850",
+              "category": "Bilaga"
+            },
+            {
+              "title": "UM Planperiod 2026-2028",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592199.PDF?fileName=UM%20Planperiod%202026-2028&fileSize=386382",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Excelmall UM per kommun",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592200.PDF?fileName=Excelmall%20UM%20per%20kommun&fileSize=424753",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Initiativärende (presidiet) - Ungdomsmottagningarnas förutsättningar i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592201.PDF?fileName=Initiativ%C3%A4rende%20(presidiet)%20-%20Ungdomsmottagningarnas%20f%C3%B6ruts%C3%A4ttningar%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=101218",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369144",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 76 - Initiativärende: Ungdomsmottagningarnas förutsättningar i Västra Götaland",
+          "documents": [
+            {
+              "title": "Beslut styrelsen för Folktandvården 2026-06-17 § 54 - Genomlysning av specialisttandvårdens ekonomi\nsamt åtgärder för att säkerställa ekonomi i\nbalans",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584275.PDF?fileName=Beslut%20styrelsen%20f%C3%B6r%20Folktandv%C3%A5rden%202026-06-17%20%C2%A7%2054%20-%20Genomlysning%20av%20specialisttandv%C3%A5rdens%20ekonomi%0Asamt%20%C3%A5tg%C3%A4rder%20f%C3%B6r%20att%20s%C3%A4kerst%C3%A4lla%20ekonomi%20i%0Abalans&fileSize=115325",
+              "category": "Handling in"
+            },
+            {
+              "title": "Slutrapport initiativärende om genomlysning av specialisttandvårdens ekonomi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584276.PDF?fileName=Slutrapport%20initiativ%C3%A4rende%20om%20genomlysning%20av%20specialisttandv%C3%A5rdens%20ekonomi&fileSize=464953",
+              "category": "Bilaga"
+            },
+            {
+              "title": "FTV 2025-00292-17 260617 Ändringsyrkande Återrapportering Genomlysning1 4575935_1_1",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584277.PDF?fileName=FTV%202025-00292-17%20260617%20%C3%84ndringsyrkande%20%C3%85terrapportering%20Genomlysning1%204575935_1_1&fileSize=96528",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369159",
+          "title": "Beslut styrelsen för Folktandvården 2026-06-17 § 54 - Genomlysning av specialisttandvårdens ekonomi\nsamt åtgärder för att säkerställa ekonomi i\nbalans",
+          "documents": [
+            {
+              "title": "Beslut från delregional nämnd norra 2026-05-28 § 39 -\nAvtal om ekonomiskt bidrag till folkhälsoinsatser i varmvattenbassäng i Lysekil",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4558247.PDF?fileName=Beslut%20fr%C3%A5n%20delregional%20n%C3%A4mnd%20norra%202026-05-28%20%C2%A7%2039%20-%0AAvtal%20om%20ekonomiskt%20bidrag%20till%20folkh%C3%A4lsoinsatser%20i%20varmvattenbass%C3%A4ng%20i%20Lysekil&fileSize=86094",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "368516",
+          "title": "Beslut från delregional nämnd norra 2026-05-28 § 39 -\nAvtal om ekonomiskt bidrag till folkhälsoinsatser i varmvattenbassäng i Lysekil",
+          "documents": [
+            {
+              "title": "Beslut från styrelsen för Habilitering & Hälsa 2026-05-26 § 35 - Ny ersättningsmodell för statsbidrag tolk",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4567032.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Habilitering%20%26%20H%C3%A4lsa%202026-05-26%20%C2%A7%2035%20-%20Ny%20ers%C3%A4ttningsmodell%20f%C3%B6r%20statsbidrag%20tolk&fileSize=71671",
+              "category": "Handling in"
+            },
+            {
+              "title": "Ny ersättningsmodell för statsbidrag tolk",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4567033.PDF?fileName=Ny%20ers%C3%A4ttningsmodell%20f%C3%B6r%20statsbidrag%20tolk&fileSize=101310",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368521",
+          "title": "Beslut från styrelsen för Habilitering & Hälsa 2026-05-26 § 35 - Ny ersättningsmodell för statsbidrag tolk",
+          "documents": [
+            {
+              "title": "Rekommendationer från Program- och prioriteringsrådet till hälso- och sjukvårdsförvaltningarna avseende HTA-rapport 2026-147 Visuell AI-baserad rörelsemonitorering jämfört med standardvård för att förebygga fall och fallskador i sjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4574107.PDF?fileName=Rekommendationer%20fr%C3%A5n%20Program-%20och%20prioriteringsr%C3%A5det%20till%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsf%C3%B6rvaltningarna%20avseende%20HTA-rapport%202026-147%20Visuell%20AI-baserad%20r%C3%B6relsemonitorering%20j%C3%A4mf%C3%B6rt%20med%20standardv%C3%A5rd%20f%C3%B6r%20att%20f%C3%B6rebygga%20fall%20och%20fallskador%20i%20sjukv%C3%A5rden&fileSize=361791",
+              "category": "Handling in"
+            },
+            {
+              "title": "2026_147 HTA-rapport Visual AI-based motion monitoring 2026-04-29 (1)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4574108.PDF?fileName=2026_147%20HTA-rapport%20Visual%20AI-based%20motion%20monitoring%202026-04-29%20(1)&fileSize=916053",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Följebrev",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4574109.PDF?fileName=F%C3%B6ljebrev&fileSize=74172",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368522",
+          "title": "Rekommendationer från Program- och prioriteringsrådet till hälso- och sjukvårdsförvaltningarna avseende HTA-rapport 2026-147 Visuell AI-baserad rörelsemonitorering jämfört med standardvård för att förebygga fall och fallskador i sjukvården",
+          "documents": [
+            {
+              "title": "Mötesanteckningar från presidiedialog mellan strategiska hälso- och sjukvårdsnämnden, operativa hälso- och sjukvårdsnämnden och de delregionala nämnderna 2026-05-08",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4579281.PDF?fileName=M%C3%B6tesanteckningar%20fr%C3%A5n%20presidiedialog%20mellan%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%2C%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20och%20de%20delregionala%20n%C3%A4mnderna%202026-05-08&fileSize=186466",
+              "category": "Handling in"
+            },
+            {
+              "title": "Bilaga 1 - Information Ungdomsmottagningar per kommun",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4579282.PDF?fileName=Bilaga%201%20-%20Information%20Ungdomsmottagningar%20per%20kommun&fileSize=7576851",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 2 - Informationsmaterial för ungdomsmottagningar i VG 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4579283.PDF?fileName=Bilaga%202%20-%20Informationsmaterial%20f%C3%B6r%20ungdomsmottagningar%20i%20VG%202026&fileSize=948008",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 3 - Information om pågående arbete inför samsjuklighetsreformen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4579284.PDF?fileName=Bilaga%203%20-%20Information%20om%20p%C3%A5g%C3%A5ende%20arbete%20inf%C3%B6r%20samsjuklighetsreformen&fileSize=164889",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 4 - Implementering av hälso- och sjukvårdsavtal",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4579285.PDF?fileName=Bilaga%204%20-%20Implementering%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsavtal&fileSize=526213",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 5 - Nästkommande dialog den 30 september",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4579286.PDF?fileName=Bilaga%205%20-%20N%C3%A4stkommande%20dialog%20den%2030%20september&fileSize=91934",
+              "category": "Bilaga"
+            }
+          ]
+        }
+      ]
+    },
     "212458|2026-08-25": {
       "meetingId": "3184039",
       "items": [
