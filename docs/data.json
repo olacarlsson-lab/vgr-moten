@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:47:37.399Z",
+  "generatedAt": "2026-08-20T06:30:12.071Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -729,6 +729,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "209231|2026-12-11",
+      "meetingId": "",
+      "boardId": "209231",
+      "board": "kulturnämnden",
+      "date": "2026-12-11",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/209231",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222299|2026-12-11",
       "meetingId": "",
       "boardId": "222299",
@@ -909,6 +921,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "209231|2026-10-22",
+      "meetingId": "",
+      "boardId": "209231",
+      "board": "kulturnämnden",
+      "date": "2026-10-22",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/209231",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222331|2026-10-22",
       "meetingId": "",
       "boardId": "222331",
@@ -1029,6 +1053,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "209231|2026-09-24",
+      "meetingId": "",
+      "boardId": "209231",
+      "board": "kulturnämnden",
+      "date": "2026-09-24",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/209231",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222331|2026-09-24",
       "meetingId": "",
       "boardId": "222331",
@@ -1133,6 +1169,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "209231|2026-08-27",
+      "meetingId": "",
+      "boardId": "209231",
+      "board": "kulturnämnden",
+      "date": "2026-08-27",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/209231",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -1397,6 +1445,31 @@
       "agendaDocCount": 0
     },
     {
+      "key": "209231|2026-06-09",
+      "meetingId": "3213881",
+      "boardId": "209231",
+      "board": "kulturnämnden",
+      "date": "2026-06-09",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3213881",
+      "documents": [
+        {
+          "title": "Kallelse kulturnämnden 2026-06-09",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4553905.PDF?fileName=Kallelse%20kulturn%C3%A4mnden%202026-06-09&fileSize=203395"
+        },
+        {
+          "title": "Protokoll  kulturnämnden 2026-06-09 §57-60, §64",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4562430.PDF?fileName=Protokoll%20%20kulturn%C3%A4mnden%202026-06-09%20%C2%A757-60%2C%20%C2%A764&fileSize=1109462"
+        },
+        {
+          "title": "Protokoll  kulturnämnden 2026-06-09",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4566331.PDF?fileName=Protokoll%20%20kulturn%C3%A4mnden%202026-06-09&fileSize=2315265"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2026-06-09",
       "meetingId": "3184050",
       "boardId": "212298",
@@ -1611,6 +1684,31 @@
       "agendaDocCount": 0
     },
     {
+      "key": "209231|2026-05-13",
+      "meetingId": "3213880",
+      "boardId": "209231",
+      "board": "kulturnämnden",
+      "date": "2026-05-13",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3213880",
+      "documents": [
+        {
+          "title": "Kallelse kulturnämnden 2026-05-13",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4520640.PDF?fileName=Kallelse%20kulturn%C3%A4mnden%202026-05-13&fileSize=173069"
+        },
+        {
+          "title": "Protokoll  kulturnämnden 2026-05-13",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4528985.PDF?fileName=Protokoll%20%20kulturn%C3%A4mnden%202026-05-13&fileSize=1557193"
+        },
+        {
+          "title": "Protokoll  kulturnämnden 2026-05-13 § 40, § 51",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4529016.PDF?fileName=Protokoll%20%20kulturn%C3%A4mnden%202026-05-13%20%C2%A7%2040%2C%20%C2%A7%2051&fileSize=393273"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
       "key": "210654|2026-05-07",
       "meetingId": "",
       "boardId": "210654",
@@ -1786,6 +1884,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "209231|2026-04-15",
+      "meetingId": "3213879",
+      "boardId": "209231",
+      "board": "kulturnämnden",
+      "date": "2026-04-15",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3213879",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212615|2026-04-14",
       "meetingId": "3148567",
       "boardId": "212615",
@@ -1890,6 +2000,18 @@
       "status": "Publisert",
       "published": true,
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256296",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "209231|2026-03-10",
+      "meetingId": "3213877",
+      "boardId": "209231",
+      "board": "kulturnämnden",
+      "date": "2026-03-10",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3213877",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -2070,6 +2192,18 @@
       "status": "Publisert",
       "published": true,
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3288530",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "209231|2026-01-27",
+      "meetingId": "3213875",
+      "boardId": "209231",
+      "board": "kulturnämnden",
+      "date": "2026-01-27",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3213875",
       "documents": [],
       "agendaDocCount": 0
     },
