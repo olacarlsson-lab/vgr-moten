@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:29:04.111Z",
+  "generatedAt": "2026-08-21T13:28:56.901Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1155,15 +1155,20 @@
     },
     {
       "key": "222324|2026-08-28",
-      "meetingId": "",
+      "meetingId": "3256323",
       "boardId": "222324",
       "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-08-28",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
-      "documents": [],
-      "agendaDocCount": 0
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256323",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för fastighet, stöd och service 2026-08-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4636591.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-08-28&fileSize=124700"
+        }
+      ],
+      "agendaDocCount": 205
     },
     {
       "key": "212210|2026-08-28",
