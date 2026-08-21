@@ -2115,7 +2115,18 @@
         {
           "agendaId": "369389",
           "title": "25 - Yttrande över remiss om reviderat förslag till ny inköpspolicy",
-          "documents": []
+          "documents": [
+            {
+              "title": "Svar på nomineringsärende från delregional nämnd norra om tillgänglighet till blodgivning i Fyrbodal",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623382.PDF?fileName=Svar%20p%C3%A5%20nominerings%C3%A4rende%20fr%C3%A5n%20delregional%20n%C3%A4mnd%20norra%20om%20tillg%C3%A4nglighet%20till%20blodgivning%20i%20Fyrbodal&fileSize=112253",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Beslut från delregional nämnd norra 2026-02-09 § 6",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4631595.PDF?fileName=Beslut%20fr%C3%A5n%20delregional%20n%C3%A4mnd%20norra%202026-02-09%20%C2%A7%206&fileSize=80889",
+              "category": "Bilaga"
+            }
+          ]
         },
         {
           "agendaId": "369834",
