@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T07:58:36.317Z",
+  "generatedAt": "2026-08-21T08:40:41.523Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1138,14 +1138,19 @@
     },
     {
       "key": "222331|2026-08-28",
-      "meetingId": "",
+      "meetingId": "3210112",
       "boardId": "222331",
       "board": "miljö- och regionutvecklingsnämnden",
       "date": "2026-08-28",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
-      "documents": [],
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210112",
+      "documents": [
+        {
+          "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-08-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4628155.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-08-28&fileSize=188611"
+        }
+      ],
       "agendaDocCount": 0
     },
     {
