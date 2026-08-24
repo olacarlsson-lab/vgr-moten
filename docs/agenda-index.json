@@ -4586,13 +4586,35 @@
           ]
         },
         {
-          "agendaId": "369653",
+          "agendaId": "370195",
           "title": "Beslut från infrastruktur- och kollektivtrafiknämnden 2026-06-12 § 69 - Information om omfattning och genomförande av tillfällig rabatt på Västtrafiks månadsbiljetter",
+          "documents": [
+            {
+              "title": "Protokoll  ägarutskottet 2026-08-18",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4631090.PDF?fileName=Protokoll%20%20%C3%A4garutskottet%202026-08-18&fileSize=872279",
+              "category": "Protokoll"
+            }
+          ]
+        },
+        {
+          "agendaId": "370196",
+          "title": "Beslut från infrastruktur- och kollektivtrafiknämnden 2026-06-12 § 74 - Fastställelse av regional infrastrukturplan för Västra Götaland 2026-2037",
+          "documents": [
+            {
+              "title": "Manadskommentar 2026-07 Regionstyrelsen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4638573.PDF?fileName=Manadskommentar%202026-07%20Regionstyrelsen&fileSize=96749",
+              "category": "Handling upprättad"
+            }
+          ]
+        },
+        {
+          "agendaId": "369653",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 65 - Månadsrapport maj 2026",
           "documents": []
         },
         {
           "agendaId": "369654",
-          "title": "Beslut från infrastruktur- och kollektivtrafiknämnden 2026-06-12 § 74 - Fastställelse av regional infrastrukturplan för Västra Götaland 2026-2037",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 74 - Lägesrapport gällande Läkemedelsleveranser till sjukhus i egen regi, juni 2026",
           "documents": []
         }
       ]
