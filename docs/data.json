@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:06:16.561Z",
+  "generatedAt": "2026-08-26T09:03:55.366Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1126,15 +1126,20 @@
     },
     {
       "key": "212298|2026-09-02",
-      "meetingId": "",
+      "meetingId": "3184054",
       "boardId": "212298",
       "board": "ägarutskottet",
       "date": "2026-09-02",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
-      "documents": [],
-      "agendaDocCount": 0
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184054",
+      "documents": [
+        {
+          "title": "Kallelse ägarutskottet 2026-09-02",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4641541.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-09-02&fileSize=111801"
+        }
+      ],
+      "agendaDocCount": 12
     },
     {
       "key": "222331|2026-08-28",

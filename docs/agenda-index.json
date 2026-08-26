@@ -1,5 +1,110 @@
 {
   "meetings": {
+    "212298|2026-09-02": {
+      "meetingId": "3184054",
+      "items": [
+        {
+          "agendaId": "370189",
+          "title": "63 - Ny riktlinje för arkiv och information i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Ny riktlinje för arkiv och information i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571497.PDF?fileName=Ny%20riktlinje%20f%C3%B6r%20arkiv%20och%20information%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=112770",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Riktlinje för arkiv och information i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4516120.PDF?fileName=Riktlinje%20f%C3%B6r%20arkiv%20och%20information%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=155433",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag Arkivnämndens sammanträde 2026-04-16 § 19",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4495987.PDF?fileName=Protokollsutdrag%20Arkivn%C3%A4mndens%20sammantr%C3%A4de%202026-04-16%20%C2%A7%2019&fileSize=432202",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369675",
+          "title": "64 - Ägarstyrda investeringar i medicinteknisk utrustning 2027",
+          "documents": [
+            {
+              "title": "Ägarstyrda investeringar i medicinteknisk utrustning 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4391936.PDF?fileName=%C3%84garstyrda%20investeringar%20i%20medicinteknisk%20utrustning%202027&fileSize=194427",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Beslut från styrelsen för Sahlgrenska Universitetssjukhuset 2026-06-12 § 91 - Nominering till ägarstyrda utrustningsinvesteringar 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4579198.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-06-12%20%C2%A7%2091%20-%20Nominering%20till%20%C3%A4garstyrda%20utrustningsinvesteringar%202027&fileSize=75833",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369676",
+          "title": "65 - Västra Götalandsregionens inriktning kring drönare",
+          "documents": [
+            {
+              "title": "Västra Götalandsregionens inriktning kring drönare",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4428131.PDF?fileName=V%C3%A4stra%20G%C3%B6talandsregionens%20inriktning%20kring%20dr%C3%B6nare&fileSize=189735",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Drönare i Västra Götalandsregionen - kunskapsunderlag och förslag på inriktning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4503752.PDF?fileName=Dr%C3%B6nare%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%20-%20kunskapsunderlag%20och%20f%C3%B6rslag%20p%C3%A5%20inriktning&fileSize=620431",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370207",
+          "title": "66 - Överlåtelse av Studio Västsvensk Konservering",
+          "documents": [
+            {
+              "title": "Överlåtelse av Studio Västsvensk Konservering",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4633183.PDF?fileName=%C3%96verl%C3%A5telse%20av%20Studio%20V%C3%A4stsvensk%20Konservering&fileSize=101915",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "370188",
+          "title": "67 - PM delregionala nämnder samt utskott",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från ägarutskottets sammanträde den 18 augusti 2026 - PM delregionala nämnder samt utskott",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4635301.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20%C3%A4garutskottets%20sammantr%C3%A4de%20den%2018%20augusti%202026%20-%20PM%20delregionala%20n%C3%A4mnder%20samt%20utskott&fileSize=80980",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "PM delregionala nämnder samt utskott - missiv",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4626901.PDF?fileName=PM%20delregionala%20n%C3%A4mnder%20samt%20utskott%20-%20missiv&fileSize=120659",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "PM Delregionala nämnder",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4626930.PDF?fileName=PM%20Delregionala%20na%CC%88mnder&fileSize=74548",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Styrning inom digitaliseringsfrågor",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4626927.PDF?fileName=Styrning%20inom%20digitaliseringsfra%CC%8Agor&fileSize=185183",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369731",
+          "title": "Information från regiondirektören",
+          "documents": []
+        },
+        {
+          "agendaId": "369732",
+          "title": "Uppföljning ekonomi och verksamhet i balans",
+          "documents": []
+        }
+      ]
+    },
     "222324|2026-08-28": {
       "meetingId": "3256323",
       "items": [
