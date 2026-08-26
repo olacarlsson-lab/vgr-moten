@@ -149,7 +149,13 @@
         {
           "agendaId": "369649",
           "title": "93 - Beslut om mål och fokusområde i detaljbudget 2027",
-          "documents": []
+          "documents": [
+            {
+              "title": "Beslut om mål och fokusområde i detaljbudget 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4628878.PDF?fileName=Beslut%20om%20m%C3%A5l%20och%20fokusomr%C3%A5de%20i%20detaljbudget%202027&fileSize=132468",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
         },
         {
           "agendaId": "368564",
@@ -191,7 +197,23 @@
         {
           "agendaId": "369432",
           "title": "96 - Remissvar Hälso- och sjukvårdsstrategi för Västra Götalandsregionen 2028-2040",
-          "documents": []
+          "documents": [
+            {
+              "title": "Remissvar Hälso- och sjukvårdsstrategi för Västra Götalandsregionen 2028-2040",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4622777.PDF?fileName=Remissvar%20H%C3%A4lso-%20och%20sjukv%C3%A5rdsstrategi%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%202028-2040&fileSize=188516",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Remissbrev",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623157.PDF?fileName=Remissbrev&fileSize=81610",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Remissversion - Hälso- och sjukvårdsstrategi för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623158.PDF?fileName=Remissversion%20-%20H%C3%A4lso-%20och%20sjukv%C3%A5rdsstrategi%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=407840",
+              "category": "Bilaga"
+            }
+          ]
         },
         {
           "agendaId": "368570",
@@ -1952,8 +1974,24 @@
           ]
         },
         {
+          "agendaId": "368170",
+          "title": "5 - Uppföljning av enheter med tilläggsuppdrag Ungas Psykiska hälsa, UPH, i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Uppföljning av Ungas psykiska hälsa, UPH enheter i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4602980.PDF?fileName=Uppf%C3%B6ljning%20av%20Ungas%20psykiska%20h%C3%A4lsa%2C%20UPH%20enheter%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=168545",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Granskning av Ungas Psykiska hälsa, UPH, VGR",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4608446.PDF?fileName=Granskning%20av%20Ungas%20Psykiska%20h%C3%A4lsa%2C%20UPH%2C%20VGR&fileSize=1280785",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
           "agendaId": "366354",
-          "title": "5 - Skyddad: OSL 32 kap 3b § Utredning av rapporter om missförhållanden",
+          "title": "6 - Lägesrapport regionövergripande verksamheter - augusti 2026",
           "documents": [
             {
               "title": "Lägesrapport regionövergripande verksamheter - augusti 2026",
@@ -1964,7 +2002,7 @@
         },
         {
           "agendaId": "367903",
-          "title": "6 - Lägesrapport regionövergripande verksamheter - augusti 2026",
+          "title": "7 - Modell för hantering av läkemedel med höga årskostnader per patient inom ersättningssystemet för Vårdval vårdcentral",
           "documents": [
             {
               "title": "Modell för hantering av läkemedel med höga årskostnader per patient inom ersättningssystemet för Vårdval vårdcentral",
@@ -1985,7 +2023,7 @@
         },
         {
           "agendaId": "368151",
-          "title": "7 - Modell för hantering av läkemedel med höga årskostnader per patient inom ersättningssystemet för Vårdval vårdcentral",
+          "title": "8 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
@@ -1996,7 +2034,7 @@
         },
         {
           "agendaId": "368152",
-          "title": "8 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
+          "title": "9 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sjukhusen i väster",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sjukhusen i väster",
@@ -2007,7 +2045,7 @@
         },
         {
           "agendaId": "368153",
-          "title": "9 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sjukhusen i väster",
+          "title": "10 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för NU-sjukvården",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för NU-sjukvården",
@@ -2018,7 +2056,7 @@
         },
         {
           "agendaId": "366972",
-          "title": "10 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för NU-sjukvården",
+          "title": "11 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Skaraborgs Sjukhus",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Skaraborgs Sjukhus",
@@ -2029,7 +2067,7 @@
         },
         {
           "agendaId": "367867",
-          "title": "11 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Skaraborgs Sjukhus",
+          "title": "12 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Södra Älvsborgs Sjukhus",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Södra Älvsborgs Sjukhus",
@@ -2040,7 +2078,7 @@
         },
         {
           "agendaId": "366353",
-          "title": "12 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Södra Älvsborgs Sjukhus",
+          "title": "13 - Inför beslut om förändringar i uppdrag 2025-2027 och beslut om uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Regionhälsan",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Regionhälsan",
@@ -2051,7 +2089,7 @@
         },
         {
           "agendaId": "366970",
-          "title": "13 - Inför beslut om förändringar i uppdrag 2025-2027 och beslut om uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Regionhälsan",
+          "title": "14 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Habilitering & Hälsa",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025-2027 och uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Habilitering & Hälsa",
@@ -2062,7 +2100,7 @@
         },
         {
           "agendaId": "366971",
-          "title": "14 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Habilitering & Hälsa",
+          "title": "15 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Folktandvården",
           "documents": [
             {
               "title": "Inför beslut om förändringar i uppdrag 2025–2027 och inför beslut om uppdrag 2027 till styrelsen för Folktandvården",
@@ -2073,7 +2111,7 @@
         },
         {
           "agendaId": "368154",
-          "title": "15 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Folktandvården",
+          "title": "16 - Lägesrapport sjukhus i egen regi - augusti 2026",
           "documents": [
             {
               "title": "Lägesrapport sjukhus i egen regi - augusti 2026",
@@ -2084,7 +2122,7 @@
         },
         {
           "agendaId": "368409",
-          "title": "16 - Lägesrapport sjukhus i egen regi - augusti 2026",
+          "title": "17 - Förslag från styrelsen för Sahlgrenska Universitetssjukhuset om utbudspunktsförändring - avveckling av bårhuset i Skene",
           "documents": [
             {
               "title": "Förslag från Sahlgrenska Universitetssjukhuset om utbudspunktsförändring - avveckling av bårhuset i Skene",
@@ -2100,7 +2138,7 @@
         },
         {
           "agendaId": "367869",
-          "title": "17 - Förslag från styrelsen för Sahlgrenska Universitetssjukhuset om utbudspunktsförändring - avveckling av bårhuset i Skene",
+          "title": "18 - Uppföljning av vaccination mot TBE för 3-åringar samt mot HPV för 18-26 åringar",
           "documents": [
             {
               "title": "Uppföljning av vaccination mot TBE för 3-åringar samt mot HPV för 18-26 åringar",
@@ -2111,7 +2149,7 @@
         },
         {
           "agendaId": "367904",
-          "title": "18 - Uppföljning av vaccination mot TBE för 3-åringar samt mot HPV för 18-26 åringar",
+          "title": "19 - Ikappvaccination mot pneumokocker för personer över 65 år för 2026",
           "documents": [
             {
               "title": "Ikappvaccination mot pneumokocker för personer över 65 år för 2026",
@@ -2122,7 +2160,7 @@
         },
         {
           "agendaId": "369111",
-          "title": "19 - Ikappvaccination mot pneumokocker för personer över 65 år för 2026",
+          "title": "20 - Samlad uppföljning hälso- och sjukvård per juni och juli 2026",
           "documents": [
             {
               "title": "Samlad uppföljning hälso- och sjukvård per juni och juli 2026",
@@ -2138,7 +2176,7 @@
         },
         {
           "agendaId": "369652",
-          "title": "20 - Samlad uppföljning hälso- och sjukvård per juni och juli 2026",
+          "title": "21 - Lägesrapport - behovsöversyner, upphandlingar och avtal augusti 2026",
           "documents": [
             {
               "title": "Lägesrapport - behovsöversyner, upphandlingar och avtal augusti 2026",
@@ -2149,7 +2187,7 @@
         },
         {
           "agendaId": "369249",
-          "title": "21 - Lägesrapport - behovsöversyner, upphandlingar och avtal augusti 2026",
+          "title": "22 - Återrapportering avseende yrkanden om fortsatt vård på Hisingen och Lundby sjukhus",
           "documents": [
             {
               "title": "Återrapportering avseende yrkanden om fortsatt vård på Hisingen och Lundby sjukhus",
@@ -2175,7 +2213,7 @@
         },
         {
           "agendaId": "369634",
-          "title": "22 - Återrapportering avseende yrkanden om fortsatt vård på Hisingen och Lundby sjukhus",
+          "title": "23 - Statsbidrag för ökat antal IVF-försök 2026",
           "documents": [
             {
               "title": "Statsbidrag för ökat antal IVF-försök 2026",
@@ -2186,7 +2224,7 @@
         },
         {
           "agendaId": "369771",
-          "title": "23 - Statsbidrag för ökat antal IVF-försök 2026",
+          "title": "24 - Yttrande i mål 8943-26 angående laglighetsprövning enligt kommunallagen",
           "documents": [
             {
               "title": "Yttrande i mål 8943-26 angående laglighetsprövning enligt kommunallagen",
@@ -2207,7 +2245,7 @@
         },
         {
           "agendaId": "368155",
-          "title": "24 - Yttrande i mål 8943-26 angående laglighetsprövning enligt kommunallagen",
+          "title": "25 - Yttrande över remiss om reviderat förslag till ny inköpspolicy",
           "documents": [
             {
               "title": "Yttrande över remiss om reviderat förslag till ny inköpspolicy",
@@ -2223,7 +2261,7 @@
         },
         {
           "agendaId": "369389",
-          "title": "25 - Yttrande över remiss om reviderat förslag till ny inköpspolicy",
+          "title": "26 - Svar på nomineringsärende från delregional nämnd norra om tillgänglighet till blodgivning i Fyrbodal",
           "documents": [
             {
               "title": "Svar på nomineringsärende från delregional nämnd norra om tillgänglighet till blodgivning i Fyrbodal",
@@ -2239,7 +2277,7 @@
         },
         {
           "agendaId": "369834",
-          "title": "26 - Svar på nomineringsärende från delregional nämnd norra om tillgänglighet till blodgivning i Fyrbodal",
+          "title": "27 - Yrkande från Centerpartiet om översyn av uppdrag och utförare för gynekologisk öppenvård vid Masthuggets gynekologi- och obstetrikmottagning",
           "documents": [
             {
               "title": "Yrkande från Centerpartiet om översyn av uppdrag och utförare för gynekologisk öppenvård vid Masthuggets gynekologi- och obstetrikmottagning",
@@ -2250,22 +2288,22 @@
         },
         {
           "agendaId": "366356",
-          "title": "27 - Yrkande från Centerpartiet om översyn av uppdrag och utförare för gynekologisk öppenvård vid Masthuggets gynekologi- och obstetrikmottagning",
-          "documents": []
-        },
-        {
-          "agendaId": "366355",
           "title": "28 - Presidiet informerar",
           "documents": []
         },
         {
-          "agendaId": "366040",
+          "agendaId": "366355",
           "title": "29 - Beredningen informerar",
           "documents": []
         },
         {
-          "agendaId": "369895",
+          "agendaId": "366040",
           "title": "30 - Ansvarig tjänsteperson informerar",
+          "documents": []
+        },
+        {
+          "agendaId": "369895",
+          "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för enhet Distriktsläkarna Kviberg Vårdcentral och BVC",
           "documents": [
             {
               "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för enhet Distriktsläkarna Kviberg Vårdcentral och BVC",
@@ -2276,7 +2314,7 @@
         },
         {
           "agendaId": "369896",
-          "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för enhet Distriktsläkarna Kviberg Vårdcentral och BVC",
+          "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för eneht Distriktsläkarna Mölndal Vårdcentral och BVC",
           "documents": [
             {
               "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för eneht Distriktsläkarna Mölndal Vårdcentral och BVC",
@@ -2287,7 +2325,7 @@
         },
         {
           "agendaId": "369897",
-          "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för eneht Distriktsläkarna Mölndal Vårdcentral och BVC",
+          "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för enhet Läkargruppen Mölndalsbro Vårdcentral",
           "documents": [
             {
               "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för enhet Läkargruppen Mölndalsbro Vårdcentral",
@@ -2298,7 +2336,7 @@
         },
         {
           "agendaId": "369152",
-          "title": "Anmälan om ändrade ägarförhållanden för Distriktsläkarna i Västra Götaland AB för enhet Läkargruppen Mölndalsbro Vårdcentral",
+          "title": "Anmälan om ändrade ägarförändring för Götene Rehab för enhet Götene Rehab och Fysioterapi",
           "documents": [
             {
               "title": "Anmälan om ändrade ägarförändring för Götene Rehab och Fysioterapi AB för enhet Götene Rehab och Fysioterapi",
@@ -2309,7 +2347,7 @@
         },
         {
           "agendaId": "369153",
-          "title": "Anmälan om ändrade ägarförändring för Götene Rehab för enhet Götene Rehab och Fysioterapi",
+          "title": "Anmälan om ändrade ägarförhållanden för Forsåker Vårdcentral och BVC",
           "documents": [
             {
               "title": "Anmälan om ändrade ägarförhållanden för Forsåker Vårdcentral och BVC",
@@ -2320,7 +2358,7 @@
         },
         {
           "agendaId": "369150",
-          "title": "Anmälan om ändrade ägarförhållanden för Forsåker Vårdcentral och BVC",
+          "title": "Tillämpningsanvisning för hantering av patientavgift för förvarstagna",
           "documents": [
             {
               "title": "Tillämpningsanvisning för hantering av patientavgift för förvarstagna",
@@ -2331,7 +2369,7 @@
         },
         {
           "agendaId": "369878",
-          "title": "Tillämpningsanvisning för hantering av patientavgift för förvarstagna",
+          "title": "Beslut om samverkansavtal enligt lag (1993:1652) om ersättning för fysioterapi mellan operativa hälso- och sjukvårdsnämnden och Rebecca Hamrin Senorski, vårdgivarkod 2582",
           "documents": [
             {
               "title": "Beslut om samverkansavtal enligt lag (1993:1652) om ersättning för fysioterapi mellan operativa hälso- och sjukvårdsnämnden och Rebecca Hamrin Senorski, vårdgivarkod 2582",
@@ -2342,7 +2380,7 @@
         },
         {
           "agendaId": "369154",
-          "title": "Beslut om samverkansavtal enligt lag (1993:1652) om ersättning för fysioterapi mellan operativa hälso- och sjukvårdsnämnden och Rebecca Hamrin Senorski, vårdgivarkod 2582",
+          "title": "Behörigheter i bank och Raindance 2026",
           "documents": [
             {
               "title": "Behörigheter i bank och Raindance 2026",
@@ -2358,7 +2396,7 @@
         },
         {
           "agendaId": "369155",
-          "title": "Behörigheter i bank och Raindance 2026",
+          "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
           "documents": [
             {
               "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
@@ -2380,7 +2418,7 @@
         },
         {
           "agendaId": "369835",
-          "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
+          "title": "Attestförteckning för operativa hälso- och sjukvårdsnämnden giltig från och med 260615",
           "documents": [
             {
               "title": "Attestförteckning för operativa hälso- och sjukvårdsnämnden giltig från och med 260615",
@@ -2396,7 +2434,7 @@
         },
         {
           "agendaId": "369836",
-          "title": "Attestförteckning för operativa hälso- och sjukvårdsnämnden giltig från och med 260615",
+          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med ABC Dental Care KB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med ABC Dental Care KB",
@@ -2407,7 +2445,7 @@
         },
         {
           "agendaId": "369837",
-          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med ABC Dental Care KB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Helgöppet tanvård tdl. Oksana Olafsson (enskild firma)",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Helgöppet tandvård tdl. Oksana Olafsson (enskild firma)",
@@ -2418,7 +2456,7 @@
         },
         {
           "agendaId": "369838",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Helgöppet tanvård tdl. Oksana Olafsson (enskild firma)",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Kortedala Tandklinik AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Kortedala Tandklinik AB",
@@ -2429,7 +2467,7 @@
         },
         {
           "agendaId": "369839",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Kortedala Tandklinik AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Östra Gbg Tandklinik AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Östra Gbg Tandklinik AB",
@@ -2440,7 +2478,7 @@
         },
         {
           "agendaId": "369840",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Östra Gbg Tandklinik AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Akut och Implantat Göteborg AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Akut och Implantat Göteborg AB",
@@ -2451,7 +2489,7 @@
         },
         {
           "agendaId": "369841",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Akut och Implantat Göteborg AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Avenue Dental Care AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Avenue Dental Care AB",
@@ -2462,7 +2500,7 @@
         },
         {
           "agendaId": "369842",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Avenue Dental Care AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med AshurDent AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med AshurDent AB",
@@ -2473,7 +2511,7 @@
         },
         {
           "agendaId": "369843",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med AshurDent AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Skövde Healthy Smile AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Skövde Healthy Smile AB",
@@ -2484,7 +2522,7 @@
         },
         {
           "agendaId": "369844",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Skövde Healthy Smile AB",
+          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med Hesam Sowlati Manesh AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hesam Sowlati Manesh AB",
@@ -2495,7 +2533,7 @@
         },
         {
           "agendaId": "369845",
-          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med Hesam Sowlati Manesh AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Behrooz Ghahreman AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Behrooz Ghahreman AB",
@@ -2506,7 +2544,7 @@
         },
         {
           "agendaId": "369846",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Behrooz Ghahreman AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Motarjemi dental AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Motarjemi dental AB",
@@ -2517,7 +2555,7 @@
         },
         {
           "agendaId": "369847",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Motarjemi dental AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Privattandvården Strömstad AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Privattandvården Strömstad AB",
@@ -2528,7 +2566,7 @@
         },
         {
           "agendaId": "369848",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Privattandvården Strömstad AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med RN Dental Clinic AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med RN Dental Clinic AB",
@@ -2539,7 +2577,7 @@
         },
         {
           "agendaId": "369849",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med RN Dental Clinic AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland Tandhälsan i Lidköping Ab",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland Tandhälsan i Lidköping AB",
@@ -2550,7 +2588,7 @@
         },
         {
           "agendaId": "369850",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland Tandhälsan i Lidköping Ab",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Normdens AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Normdens AB",
@@ -2561,7 +2599,7 @@
         },
         {
           "agendaId": "369851",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Normdens AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Lövgärdets Tandklinik AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Lövgärdets Tandklinik AB",
@@ -2572,7 +2610,7 @@
         },
         {
           "agendaId": "369852",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Lövgärdets Tandklinik AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Majornas Dentalklinik AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Majornas Dentalklinik AB",
@@ -2583,7 +2621,7 @@
         },
         {
           "agendaId": "369853",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Majornas Dentalklinik AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Primärtandvården Kyrkbytorget AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Primärtandvården Kyrkbytorget AB",
@@ -2594,7 +2632,7 @@
         },
         {
           "agendaId": "369854",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Primärtandvården Kyrkbytorget AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med 3A Tandvård AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med 3A Tandvård AB",
@@ -2605,7 +2643,7 @@
         },
         {
           "agendaId": "369855",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med 3A Tandvård AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Familjetandvård i Bohuslän AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Familjetandvård i Bohuslän AB",
@@ -2616,7 +2654,7 @@
         },
         {
           "agendaId": "369856",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Familjetandvård i Bohuslän AB",
+          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland Ingrid Silva AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland Ingrid Silva AB",
@@ -2627,7 +2665,7 @@
         },
         {
           "agendaId": "369857",
-          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland Ingrid Silva AB",
+          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med Ablux AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med Ablux AB",
@@ -2638,7 +2676,7 @@
         },
         {
           "agendaId": "369858",
-          "title": "Uppsägning av avtal om tandvårdtill asylsökande barn och vuxna i Västra Götaland med Ablux AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Massouds Tandklinik AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Massouds Tandklinik AB",
@@ -2649,7 +2687,7 @@
         },
         {
           "agendaId": "369859",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Massouds Tandklinik AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Viken Bedros Dental AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Viken Bedros Dental AB",
@@ -2660,7 +2698,7 @@
         },
         {
           "agendaId": "369860",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Viken Bedros Dental AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Akutkliniken Svingeln AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Akutkliniken Svingeln AB",
@@ -2671,7 +2709,7 @@
         },
         {
           "agendaId": "369861",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Akutkliniken Svingeln AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Jwamer Jalal AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Jwamer Jalal AB",
@@ -2682,7 +2720,7 @@
         },
         {
           "agendaId": "369862",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Jwamer Jalal AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med MK Tandvård Klinik AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med MK Tandvård Klinik AB",
@@ -2693,7 +2731,7 @@
         },
         {
           "agendaId": "369863",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med MK Tandvård Klinik AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med M & K Rikardsson AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med M & K Rikardsson AB",
@@ -2704,7 +2742,7 @@
         },
         {
           "agendaId": "369864",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med M & K Rikardsson AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Korsvägen Dental Clinic AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Korsvägen Dental Clinic AB",
@@ -2715,7 +2753,7 @@
         },
         {
           "agendaId": "369865",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Korsvägen Dental Clinic AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Göteborg Tandläkargrupp AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Göteborg Tandläkargrupp AB",
@@ -2726,7 +2764,7 @@
         },
         {
           "agendaId": "369866",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Göteborg Tandläkargrupp AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Nazareth Invest AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Nazareth Invest AB",
@@ -2737,7 +2775,7 @@
         },
         {
           "agendaId": "369867",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Nazareth Invest AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Gentle Dental Sweden AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Gentle Dental Sweden AB",
@@ -2748,7 +2786,7 @@
         },
         {
           "agendaId": "369868",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Gentle Dental Sweden AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Omars tandklinik AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Omars tandklinik AB",
@@ -2759,7 +2797,7 @@
         },
         {
           "agendaId": "369869",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Omars tandklinik AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Dr Vanessa AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Dr Vanessa AB",
@@ -2770,7 +2808,7 @@
         },
         {
           "agendaId": "369870",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Dr Vanessa AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Raed Abokhalil AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Raed Abokhalil AB",
@@ -2781,7 +2819,7 @@
         },
         {
           "agendaId": "369871",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Raed Abokhalil AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Le Mera Tanvård och Estetikcenter (H&H Smile center AB)",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Le Mera Tandvård och Estetikcenter (H&H Smile center AB)",
@@ -2792,7 +2830,7 @@
         },
         {
           "agendaId": "369872",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Le Mera Tanvård och Estetikcenter (H&H Smile center AB)",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Fiore Clinic AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Fiore Clinic AB",
@@ -2803,7 +2841,7 @@
         },
         {
           "agendaId": "369873",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Fiore Clinic AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tuve Tandvård AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tuve Tandvård AB",
@@ -2814,7 +2852,7 @@
         },
         {
           "agendaId": "369874",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tuve Tandvård AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Lilla Edet Tandläkarcenter AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Lilla Edet Tandläkarcenter AB",
@@ -2825,7 +2863,7 @@
         },
         {
           "agendaId": "369875",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Lilla Edet Tandläkarcenter AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Bita Dental Consult AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Bita Dental Consult AB",
@@ -2836,7 +2874,7 @@
         },
         {
           "agendaId": "369876",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Bita Dental Consult AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Sävedalen Tandhälsa AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Sävedalen Tandhälsa AB",
@@ -2847,7 +2885,7 @@
         },
         {
           "agendaId": "369877",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Sävedalen Tandhälsa AB",
+          "title": "Uppsägning av utbudspunkt Tandläkare Annahita Staf (KPA) i avtal för barn- och ungdomstandvård 3-19 år med Praktikertjänst AB",
           "documents": [
             {
               "title": "Uppsägning av utbudspunkt Tandläkare Annahita Staf (KPA) i avtal för barn- och ungdomstandvård 3-19 år med Praktikertjänst AB",
@@ -2863,7 +2901,7 @@
         },
         {
           "agendaId": "369879",
-          "title": "Uppsägning av utbudspunkt Tandläkare Annahita Staf (KPA) i avtal för barn- och ungdomstandvård 3-19 år med Praktikertjänst AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Backatandläkarna AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Backatandläkarna AB",
@@ -2874,7 +2912,7 @@
         },
         {
           "agendaId": "369880",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Backatandläkarna AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Gothia Tandvård AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Gothia Tandvård AB",
@@ -2885,7 +2923,7 @@
         },
         {
           "agendaId": "369881",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Gothia Tandvård AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hisingen tandvård AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hisingen tandvård AB",
@@ -2896,7 +2934,7 @@
         },
         {
           "agendaId": "369882",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hisingen tandvård AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hjalmar tandklinik AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hjalmar tandklinik AB",
@@ -2907,7 +2945,7 @@
         },
         {
           "agendaId": "369883",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Hjalmar tandklinik AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Implantat Center Kashani AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Implantat Center Kashani AB",
@@ -2918,7 +2956,7 @@
         },
         {
           "agendaId": "369884",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Implantat Center Kashani AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med RA Kliniken AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med RA Kliniken AB",
@@ -2929,7 +2967,7 @@
         },
         {
           "agendaId": "369885",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med RA Kliniken AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Samina Dental Care AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Samina Dental Care AB",
@@ -2940,7 +2978,7 @@
         },
         {
           "agendaId": "369886",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Samina Dental Care AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Ella Yahyapour AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Ella Yahyapour AB",
@@ -2951,7 +2989,7 @@
         },
         {
           "agendaId": "369887",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Ella Yahyapour AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Mehdi Sedigh AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Mehdi Sedigh AB",
@@ -2962,7 +3000,7 @@
         },
         {
           "agendaId": "369888",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandläkare Mehdi Sedigh AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandvårdsgruppen i Göteborg AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandvårdsgruppen i Göteborg AB",
@@ -2973,7 +3011,7 @@
         },
         {
           "agendaId": "369889",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Tandvårdsgruppen i Göteborg AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Teodor Murgelas EF",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Teodor Murgelas EF",
@@ -2984,7 +3022,7 @@
         },
         {
           "agendaId": "369890",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Teodor Murgelas EF",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Vasaplatsen Tandklinik AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Vasaplatsen Tandklinik AB",
@@ -2995,7 +3033,7 @@
         },
         {
           "agendaId": "369891",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Vasaplatsen Tandklinik AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Videnta Tandvård AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Videnta Tandvård AB",
@@ -3006,7 +3044,7 @@
         },
         {
           "agendaId": "369892",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Videnta Tandvård AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Skansenkliniken AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Skansenkliniken AB",
@@ -3017,7 +3055,7 @@
         },
         {
           "agendaId": "369893",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Skansenkliniken AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med GSTK Göteborg AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med GSTK Göteborg AB",
@@ -3028,7 +3066,7 @@
         },
         {
           "agendaId": "369894",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med GSTK Göteborg AB",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Praktikertjänst AB",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Praktikertjänst AB",
@@ -3039,7 +3077,7 @@
         },
         {
           "agendaId": "369130",
-          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Praktikertjänst AB",
+          "title": "Beslut från regionfullmäktige 2026-06-15 och 2026-06-16 § 129 - Budget 2027 för Västra Götalandsregionen",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-06-15 och 2026-06-16 § 129 - Budget 2027 för Västra Götalandsregionen",
@@ -3060,7 +3098,7 @@
         },
         {
           "agendaId": "369127",
-          "title": "Beslut från regionfullmäktige 2026-06-15 och 2026-06-16 § 129 - Budget 2027 för Västra Götalandsregionen",
+          "title": "Beslut från regionfullmäktige 2026-06-15 § 128 - Delårsrapport april 2026 för Västra Götalandsregionen",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-06-15 § 128 - Delårsrapport april 2026 för Västra Götalandsregionen",
@@ -3076,7 +3114,7 @@
         },
         {
           "agendaId": "369126",
-          "title": "Beslut från regionfullmäktige 2026-06-15 § 128 - Delårsrapport april 2026 för Västra Götalandsregionen",
+          "title": "Beslut från regionfullmäktige 2026-06-15/16 § 126 - Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-06-15/16 § 126 - Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
@@ -3097,7 +3135,7 @@
         },
         {
           "agendaId": "369128",
-          "title": "Beslut från regionfullmäktige 2026-06-15/16 § 126 - Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
+          "title": "Beslut från regionfullmäktige 2026-05-26 § 101 - Hållbarhetsmål 2030",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-05-26 § 101 - Hållbarhetsmål 2030",
@@ -3123,7 +3161,7 @@
         },
         {
           "agendaId": "369131",
-          "title": "Beslut från regionfullmäktige 2026-05-26 § 101 - Hållbarhetsmål 2030",
+          "title": "Beslut från regionfullmäktige 2026-06-15/16 § 131 -  Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-06-15/16 § 131 -  Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
@@ -3144,7 +3182,7 @@
         },
         {
           "agendaId": "368506",
-          "title": "Beslut från regionfullmäktige 2026-06-15/16 § 131 -  Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
+          "title": "Beslut från regionfullmäktige 2026-05-26 § 113 - Ersättare i operativa hälso- och sjukvårdsnämnden",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-05-26 § 113 - Ersättare i operativa hälso- och sjukvårdsnämnden",
@@ -3155,7 +3193,7 @@
         },
         {
           "agendaId": "369132",
-          "title": "Beslut från regionfullmäktige 2026-05-26 § 113 - Ersättare i operativa hälso- och sjukvårdsnämnden",
+          "title": "Beslut från regionfullmäktige 2026-06-15 § 134 - Sammanträdestider 2027 för regionfullmäktige",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-06-15 § 134 - Sammanträdestider 2027 för regionfullmäktige",
@@ -3166,7 +3204,7 @@
         },
         {
           "agendaId": "369133",
-          "title": "Beslut från regionfullmäktige 2026-06-15 § 134 - Sammanträdestider 2027 för regionfullmäktige",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 171 - Riktlinjer för ersättningar i Västra Götalandsregionen",
           "documents": [
             {
               "title": "Beslut från regionstyrelsen 2026-06-22 § 171 - Riktlinjer för ersättningar i Västra Götalandsregionen",
@@ -3187,7 +3225,7 @@
         },
         {
           "agendaId": "369137",
-          "title": "Beslut från regionstyrelsen 2026-06-22 § 171 - Riktlinjer för ersättningar i Västra Götalandsregionen",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 170  - Västra Götalandsregionens investeringsplan 2027-2036",
           "documents": [
             {
               "title": "Beslut från regionstyrelsen 2026-06-22 § 170  - Västra Götalandsregionens investeringsplan 2027-2036",
@@ -3203,7 +3241,7 @@
         },
         {
           "agendaId": "369134",
-          "title": "Beslut från regionstyrelsen 2026-06-22 § 170  - Västra Götalandsregionens investeringsplan 2027-2036",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 181 - Svar på revisionsrapporten Granskning av god ekonomisk hushållning – ekonomistyrning för verksamhet och ekonomi i balans",
           "documents": [
             {
               "title": "Beslut från regionstyrelsen 2026-06-22 § 181 - Svar på revisionsrapporten Granskning av god ekonomisk hushållning – ekonomistyrning för verksamhet och ekonomi i balans",
@@ -3219,7 +3257,7 @@
         },
         {
           "agendaId": "369135",
-          "title": "Beslut från regionstyrelsen 2026-06-22 § 181 - Svar på revisionsrapporten Granskning av god ekonomisk hushållning – ekonomistyrning för verksamhet och ekonomi i balans",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 177 - Fortsatt arbete med utgångspunkt i genomförda presidiedialoger under våren 2026",
           "documents": [
             {
               "title": "Beslut från regionstyrelsen 2026-06-22 § 177 - Fortsatt arbete med utgångspunkt i genomförda presidiedialoger under våren 2026",
@@ -3240,7 +3278,7 @@
         },
         {
           "agendaId": "369136",
-          "title": "Beslut från regionstyrelsen 2026-06-22 § 177 - Fortsatt arbete med utgångspunkt i genomförda presidiedialoger under våren 2026",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 179 - Sammanträdestider 2027 för regionstyrelsen, dess utskott och beredningar",
           "documents": [
             {
               "title": "Beslut från regionstyrelsen 2026-06-22 § 179 - Sammanträdestider 2027 för regionstyrelsen, dess utskott och beredningar",
@@ -3251,7 +3289,7 @@
         },
         {
           "agendaId": "369119",
-          "title": "Beslut från regionstyrelsen 2026-06-22 § 179 - Sammanträdestider 2027 för regionstyrelsen, dess utskott och beredningar",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 150 - Information om implementering av nytt hälso- och sjukvårdsavtal",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 150 - Information om implementering av nytt hälso- och sjukvårdsavtal",
@@ -3267,7 +3305,7 @@
         },
         {
           "agendaId": "369120",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 150 - Information om implementering av nytt hälso- och sjukvårdsavtal",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 141 -  Samverkansavtal för ungdomsmottagningar i Västra Götaland",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 141 -  Samverkansavtal för ungdomsmottagningar i Västra Götaland",
@@ -3288,7 +3326,7 @@
         },
         {
           "agendaId": "369121",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 141 -  Samverkansavtal för ungdomsmottagningar i Västra Götaland",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 139 - Svar på revisorskollegiets granskning av omställningen av hälso- och sjukvården, kvarstående rekommendationer",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 139 - Svar på revisorskollegiets granskning av omställningen av hälso- och sjukvården, kvarstående rekommendationer",
@@ -3304,7 +3342,7 @@
         },
         {
           "agendaId": "369122",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 139 - Svar på revisorskollegiets granskning av omställningen av hälso- och sjukvården, kvarstående rekommendationer",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 131 - Plan för ökad och jämlik digital delaktighet för invånare och patienter",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 131 - Plan för ökad och jämlik digital delaktighet för invånare och patienter",
@@ -3325,7 +3363,7 @@
         },
         {
           "agendaId": "369123",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 131 - Plan för ökad och jämlik digital delaktighet för invånare och patienter",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 130 - Kartläggning av deltagande i Västra Götalandsregionens program för bröstcancerscreening",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 130 - Kartläggning av deltagande i Västra Götalandsregionens program för bröstcancerscreening",
@@ -3346,7 +3384,7 @@
         },
         {
           "agendaId": "369124",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 130 - Kartläggning av deltagande i Västra Götalandsregionens program för bröstcancerscreening",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 148 - Regionalt omhändertagande av uppdaterad nationell cancerstrategi",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 148 - Regionalt omhändertagande av uppdaterad nationell cancerstrategi",
@@ -3362,7 +3400,7 @@
         },
         {
           "agendaId": "369125",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 148 - Regionalt omhändertagande av uppdaterad nationell cancerstrategi",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 146 - Delrapport i utredning om att inrätta ett Centrum för hälsa i glesbygd i Fyrbodal",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 146 - Delrapport i utredning om att inrätta ett Centrum för hälsa i glesbygd i Fyrbodal",
@@ -3378,7 +3416,7 @@
         },
         {
           "agendaId": "369138",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 146 - Delrapport i utredning om att inrätta ett Centrum för hälsa i glesbygd i Fyrbodal",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 132 -  Ramverk för barn och vårdnadshavare i 1177- tjänster",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 132 -  Ramverk för barn och vårdnadshavare i 1177- tjänster",
@@ -3399,7 +3437,7 @@
         },
         {
           "agendaId": "369139",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 132 -  Ramverk för barn och vårdnadshavare i 1177- tjänster",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 145 - Överenskommelse - Samverkan kring personer med psykisk funktionsnedsättning och personer med skadligt bruk och beroende",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 145 - Överenskommelse - Samverkan kring personer med psykisk funktionsnedsättning och personer med skadligt bruk och beroende",
@@ -3415,7 +3453,7 @@
         },
         {
           "agendaId": "368514",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-06-17 § 145 - Överenskommelse - Samverkan kring personer med psykisk funktionsnedsättning och personer med skadligt bruk och beroende",
+          "title": "Beslut från styrelsen för Sahlgrenska Universitetssjukhuset 2026-05-29 § 68 - Begäran om utökat uppdrag och resursförstärkning för rättspsykiatrin vid Sahlgrenska Universitetssjukhuset",
           "documents": [
             {
               "title": "Beslut från styrelsen för Sahlgrenska Universitetssjukhuset 2026-05-29 § 68 - Begäran om utökat uppdrag och resursförstärkning för rättspsykiatrin vid Sahlgrenska Universitetssjukhuset",
@@ -3436,7 +3474,7 @@
         },
         {
           "agendaId": "368518",
-          "title": "Beslut från styrelsen för Sahlgrenska Universitetssjukhuset 2026-05-29 § 68 - Begäran om utökat uppdrag och resursförstärkning för rättspsykiatrin vid Sahlgrenska Universitetssjukhuset",
+          "title": "Beslut från styrelsen för Skaraborgs Sjukhus 2026-05-22 § 50 - Utökat uppdrag dialys Skaraborgs Sjukhus",
           "documents": [
             {
               "title": "Beslut från styrelsen för Skaraborgs Sjukhus 2026-05-22 § 50 - Utökat uppdrag dialys Skaraborgs Sjukhus",
@@ -3457,7 +3495,7 @@
         },
         {
           "agendaId": "369140",
-          "title": "Beslut från styrelsen för Skaraborgs Sjukhus 2026-05-22 § 50 - Utökat uppdrag dialys Skaraborgs Sjukhus",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 66  - Återrapport och handlingsplan maj 2026, gynekologi Regionhälsan",
           "documents": [
             {
               "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 66  - Återrapport och handlingsplan maj 2026, gynekologi Regionhälsan",
@@ -3478,7 +3516,7 @@
         },
         {
           "agendaId": "369145",
-          "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 66  - Återrapport och handlingsplan maj 2026, gynekologi Regionhälsan",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 76 - Initiativärende: Ungdomsmottagningarnas förutsättningar i Västra Götaland",
           "documents": [
             {
               "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 76 - Initiativärende: Ungdomsmottagningarnas förutsättningar i Västra Götaland",
@@ -3519,7 +3557,7 @@
         },
         {
           "agendaId": "369144",
-          "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 76 - Initiativärende: Ungdomsmottagningarnas förutsättningar i Västra Götaland",
+          "title": "Beslut styrelsen för Folktandvården 2026-06-17 § 54 - Genomlysning av specialisttandvårdens ekonomi\nsamt åtgärder för att säkerställa ekonomi i\nbalans",
           "documents": [
             {
               "title": "Beslut styrelsen för Folktandvården 2026-06-17 § 54 - Genomlysning av specialisttandvårdens ekonomi\nsamt åtgärder för att säkerställa ekonomi i\nbalans",
@@ -3540,7 +3578,7 @@
         },
         {
           "agendaId": "369159",
-          "title": "Beslut styrelsen för Folktandvården 2026-06-17 § 54 - Genomlysning av specialisttandvårdens ekonomi\nsamt åtgärder för att säkerställa ekonomi i\nbalans",
+          "title": "Beslut från delregional nämnd norra 2026-05-28 § 39 -\nAvtal om ekonomiskt bidrag till folkhälsoinsatser i varmvattenbassäng i Lysekil",
           "documents": [
             {
               "title": "Beslut från delregional nämnd norra 2026-05-28 § 39 -\nAvtal om ekonomiskt bidrag till folkhälsoinsatser i varmvattenbassäng i Lysekil",
@@ -3551,7 +3589,7 @@
         },
         {
           "agendaId": "368516",
-          "title": "Beslut från delregional nämnd norra 2026-05-28 § 39 -\nAvtal om ekonomiskt bidrag till folkhälsoinsatser i varmvattenbassäng i Lysekil",
+          "title": "Beslut från styrelsen för Habilitering & Hälsa 2026-05-26 § 35 - Ny ersättningsmodell för statsbidrag tolk",
           "documents": [
             {
               "title": "Beslut från styrelsen för Habilitering & Hälsa 2026-05-26 § 35 - Ny ersättningsmodell för statsbidrag tolk",
@@ -3567,7 +3605,7 @@
         },
         {
           "agendaId": "368521",
-          "title": "Beslut från styrelsen för Habilitering & Hälsa 2026-05-26 § 35 - Ny ersättningsmodell för statsbidrag tolk",
+          "title": "Rekommendationer från Program- och prioriteringsrådet till hälso- och sjukvårdsförvaltningarna avseende HTA-rapport 2026-147 Visuell AI-baserad rörelsemonitorering jämfört med standardvård för att förebygga fall och fallskador i sjukvården",
           "documents": [
             {
               "title": "Rekommendationer från Program- och prioriteringsrådet till hälso- och sjukvårdsförvaltningarna avseende HTA-rapport 2026-147 Visuell AI-baserad rörelsemonitorering jämfört med standardvård för att förebygga fall och fallskador i sjukvården",
@@ -3588,7 +3626,7 @@
         },
         {
           "agendaId": "368522",
-          "title": "Rekommendationer från Program- och prioriteringsrådet till hälso- och sjukvårdsförvaltningarna avseende HTA-rapport 2026-147 Visuell AI-baserad rörelsemonitorering jämfört med standardvård för att förebygga fall och fallskador i sjukvården",
+          "title": "Mötesanteckningar från presidiedialog mellan strategiska hälso- och sjukvårdsnämnden, operativa hälso- och sjukvårdsnämnden och de delregionala nämnderna 2026-05-08",
           "documents": [
             {
               "title": "Mötesanteckningar från presidiedialog mellan strategiska hälso- och sjukvårdsnämnden, operativa hälso- och sjukvårdsnämnden och de delregionala nämnderna 2026-05-08",
