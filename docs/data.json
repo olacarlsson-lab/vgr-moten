@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T09:58:37.979Z",
+  "generatedAt": "2026-08-26T10:35:11.243Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1205,6 +1205,23 @@
         {
           "title": "Kallelse kulturnämnden 2026-08-27",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4634082.PDF?fileName=Kallelse%20kulturn%C3%A4mnden%202026-08-27&fileSize=203291"
+        }
+      ],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212458|2026-08-27",
+      "meetingId": "3433971",
+      "boardId": "212458",
+      "board": "regionstyrelsen",
+      "date": "2026-08-27",
+      "status": "Publisert",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3433971",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-08-27",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4641779.PDF?fileName=Kallelse%20regionstyrelsen%202026-08-27&fileSize=102361"
         }
       ],
       "agendaDocCount": 0
