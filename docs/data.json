@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T03:20:28.607Z",
+  "generatedAt": "2026-08-27T14:36:25.869Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1114,14 +1114,19 @@
     },
     {
       "key": "210654|2026-09-03",
-      "meetingId": "",
+      "meetingId": "3250570",
       "boardId": "210654",
       "board": "beredningen för hållbar utveckling",
       "date": "2026-09-03",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
-      "documents": [],
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3250570",
+      "documents": [
+        {
+          "title": "Kallelse beredningen för hållbar utveckling 2026-09-03",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4639801.PDF?fileName=Kallelse%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-09-03&fileSize=154534"
+        }
+      ],
       "agendaDocCount": 0
     },
     {
@@ -1222,6 +1227,10 @@
         {
           "title": "Kallelse regionstyrelsen 2026-08-27",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4641779.PDF?fileName=Kallelse%20regionstyrelsen%202026-08-27&fileSize=102361"
+        },
+        {
+          "title": "Protokoll regionstyrelsen 2026-08-27",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4642462.PDF?fileName=Protokoll%20regionstyrelsen%202026-08-27&fileSize=170604"
         }
       ],
       "agendaDocCount": 0
