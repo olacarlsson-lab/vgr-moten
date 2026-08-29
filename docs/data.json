@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T09:35:31.615Z",
+  "generatedAt": "2026-08-29T14:41:11.726Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1193,6 +1193,10 @@
         {
           "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-08-28",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4637756.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-08-28&fileSize=118576"
+        },
+        {
+          "title": "Protokoll omedelbar justering - styrelsen för Sahlgrenska Universitetssjukhuset 2026-08-28",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4642950.PDF?fileName=Protokoll%20omedelbar%20justering%20-%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-08-28&fileSize=329238"
         }
       ],
       "agendaDocCount": 0
@@ -1265,9 +1269,13 @@
         {
           "title": "Kallelse regionstyrelsen 2026-08-25",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4633921.PDF?fileName=Kallelse%20regionstyrelsen%202026-08-25&fileSize=140243"
+        },
+        {
+          "title": "Protokoll 2 regionstyrelsen 2026-08-25",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4634377.PDF?fileName=Protokoll%202%20regionstyrelsen%202026-08-25&fileSize=1969932"
         }
       ],
-      "agendaDocCount": 157
+      "agendaDocCount": 178
     },
     {
       "key": "222299|2026-08-19",
