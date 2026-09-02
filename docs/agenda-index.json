@@ -1,5 +1,380 @@
 {
   "meetings": {
+    "222298|2026-09-09": {
+      "meetingId": "3245754",
+      "items": [
+        {
+          "agendaId": "368171",
+          "title": "1 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4562751.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset&fileSize=189749",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppdrag 2025-2027 till styrelsen för Sahlgrenska Universitetssjukhuset",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644626.PDF?fileName=Uppdrag%202025-2027%20till%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset&fileSize=522611",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Uppdrag 2027 för omställning av hälso- och sjukvård, bas- och tilläggsvolymer samt ersättning till styrelsen för Sahlgrenska Universitetssjukhuset",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644661.PDF?fileName=Uppdrag%202027%20f%C3%B6r%20omst%C3%A4llning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%2C%20bas-%20och%20till%C3%A4ggsvolymer%20samt%20ers%C3%A4ttning%20till%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset&fileSize=1540127",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368172",
+          "title": "2 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sjukhusen i väster",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Sjukhusen i väster",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4563048.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20Sjukhusen%20i%20v%C3%A4ster&fileSize=172360",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppdrag 2025–2027 till styrelsen för Sjukhusen i väster",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644657.PDF?fileName=Uppdrag%202025%E2%80%932027%20till%20styrelsen%20f%C3%B6r%20Sjukhusen%20i%20v%C3%A4ster&fileSize=393776",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Uppdrag 2027 för omställning av hälso- och sjukvård, bas- och tilläggsvolymer samt ersättning till styrelsen för Sjukhusen i väster",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644664.PDF?fileName=Uppdrag%202027%20f%C3%B6r%20omst%C3%A4llning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%2C%20bas-%20och%20till%C3%A4ggsvolymer%20samt%20ers%C3%A4ttning%20till%20styrelsen%20f%C3%B6r%20Sjukhusen%20i%20v%C3%A4ster&fileSize=1303967",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "368173",
+          "title": "3 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för NU-sjukvården",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för NU-sjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4562970.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20NU-sjukv%C3%A5rden&fileSize=162599",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppdrag 2025-2027 till styrelsen för NU-sjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644651.PDF?fileName=Uppdrag%202025-2027%20till%20styrelsen%20f%C3%B6r%20NU-sjukv%C3%A5rden&fileSize=423281",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Uppdrag 2027 för omställning av hälso- och sjukvård, bas- och tilläggsvolymer samt ersättning till styrelsen för NU-sjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644652.PDF?fileName=Uppdrag%202027%20f%C3%B6r%20omst%C3%A4llning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%2C%20bas-%20och%20till%C3%A4ggsvolymer%20samt%20ers%C3%A4ttning%20till%20styrelsen%20f%C3%B6r%20NU-sjukv%C3%A5rden&fileSize=1304225",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366977",
+          "title": "4 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Skaraborgs Sjukhus",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Skaraborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4530890.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20Skaraborgs%20Sjukhus&fileSize=163724",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppdrag 2025-2027 till styrelsen för Skaraborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644668.PDF?fileName=Uppdrag%202025-2027%20till%20styrelsen%20f%C3%B6r%20Skaraborgs%20Sjukhus&fileSize=398376",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Uppdrag 2027 för omställning av hälso- och sjukvård, bas- och tilläggsvolymer samt ersättning till styrelsen för Skaraborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644670.PDF?fileName=Uppdrag%202027%20f%C3%B6r%20omst%C3%A4llning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%2C%20bas-%20och%20till%C3%A4ggsvolymer%20samt%20ers%C3%A4ttning%20till%20styrelsen%20f%C3%B6r%20Skaraborgs%20Sjukhus&fileSize=1130526",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "367872",
+          "title": "5 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Södra Älvsborgs Sjukhus",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Södra Älvsborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549697.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20S%C3%B6dra%20%C3%84lvsborgs%20Sjukhus&fileSize=205974",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppdrag 2025-2027 till styrelsen för Södra Älvsborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644672.PDF?fileName=Uppdrag%202025-2027%20till%20styrelsen%20f%C3%B6r%20S%C3%B6dra%20%C3%84lvsborgs%20Sjukhus&fileSize=399804",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Uppdrag 2027 för omställning av hälso- och sjukvård, bas- och tilläggsvolymer samt ersättning till styrelsen för Södra Älvsborgs Sjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644673.PDF?fileName=Uppdrag%202027%20f%C3%B6r%20omst%C3%A4llning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%2C%20bas-%20och%20till%C3%A4ggsvolymer%20samt%20ers%C3%A4ttning%20till%20styrelsen%20f%C3%B6r%20S%C3%B6dra%20%C3%84lvsborgs%20Sjukhus&fileSize=1072858",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "366357",
+          "title": "6 - Inför beslut om förändringar i uppdrag 2025-2027 och beslut om uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Regionhälsan",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och beslut om uppdrag 2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Regionhälsan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4516064.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20beslut%20om%20uppdrag%202027%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20till%20styrelsen%20f%C3%B6r%20Regionh%C3%A4lsan&fileSize=295735",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppdrag 2025-2027 till styrelsen för Regionhälsan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4643102.PDF?fileName=Uppdrag%202025-2027%20till%20styrelsen%20f%C3%B6r%20Regionh%C3%A4lsan&fileSize=569784",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Uppdrag 2027 för omställning av hälso- och sjukvård samt ersättning till styrelsen för Regionhälsan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4643103.PDF?fileName=Uppdrag%202027%20f%C3%B6r%20omst%C3%A4llning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20samt%20ers%C3%A4ttning%20till%20styrelsen%20f%C3%B6r%20Regionh%C3%A4lsan&fileSize=1101459",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Samverkansuppdrag 2025-2027 från operativa hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4643104.PDF?fileName=Samverkansuppdrag%202025-2027%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=169398",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370208",
+          "title": "7 - Ersättning 2027 till styrelsen för Närhälsan",
+          "documents": [
+            {
+              "title": "Inför beslut om ersättning för uppdrag 2027 till styrelsen för Närhälsan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4640572.PDF?fileName=Inf%C3%B6r%20beslut%20om%20ers%C3%A4ttning%20f%C3%B6r%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20N%C3%A4rh%C3%A4lsan&fileSize=145719",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "366976",
+          "title": "8 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Folktandvården",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Folktandvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4526448.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20Folktandv%C3%A5rden&fileSize=173636",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppdrag 2025–2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Folktandvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4643411.PDF?fileName=Uppdrag%202025%E2%80%932027%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20till%20styrelsen%20f%C3%B6r%20Folktandv%C3%A5rden&fileSize=372901",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Uppdrag 2027 för omställning av hälso- och sjukvård samt ersättning till styrelsen för Folktandvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4643413.PDF?fileName=Uppdrag%202027%20f%C3%B6r%20omst%C3%A4llning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20samt%20ers%C3%A4ttning%20till%20styrelsen%20f%C3%B6r%20Folktandv%C3%A5rden&fileSize=624349",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369117",
+          "title": "9 - Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Habilitering & Hälsa",
+          "documents": [
+            {
+              "title": "Inför beslut om förändringar i uppdrag 2025-2027 och inför beslut om uppdrag 2027 till styrelsen för Habilitering & Hälsa",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4601476.PDF?fileName=Inf%C3%B6r%20beslut%20om%20f%C3%B6r%C3%A4ndringar%20i%20uppdrag%202025-2027%20och%20inf%C3%B6r%20beslut%20om%20uppdrag%202027%20till%20styrelsen%20f%C3%B6r%20Habilitering%20%26%20H%C3%A4lsa&fileSize=209808",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppdrag 2027 för omställning av hälso- och sjukvård samt ersättning till styrelsen för Habilitering & Hälsa",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4643416.PDF?fileName=Uppdrag%202027%20f%C3%B6r%20omst%C3%A4llning%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20samt%20ers%C3%A4ttning%20till%20styrelsen%20f%C3%B6r%20Habilitering%20%26%20H%C3%A4lsa&fileSize=596554",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Uppdrag 2025–2027 från operativa hälso- och sjukvårdsnämnden till styrelsen för Habilitering & Hälsa",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4643415.PDF?fileName=Uppdrag%202025%E2%80%932027%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20till%20styrelsen%20f%C3%B6r%20Habilitering%20%26%20H%C3%A4lsa&fileSize=362101",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370408",
+          "title": "10 - Inför beslut om Krav- och kvalitetsbok förfrågningsunderlag Vårdval vårdcentral 2027",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från beredningen för krav- och kvalitetsböckers sammanträde den 21 augusti 2026 - Krav- och kvalitetsbok förfrågningsunderlag Vårdval vårdcentral 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4645284.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20krav-%20och%20kvalitetsb%C3%B6ckers%20sammantr%C3%A4de%20den%2021%20augusti%202026%20-%20Krav-%20och%20kvalitetsbok%20f%C3%B6rfr%C3%A5gningsunderlag%20V%C3%A5rdval%20v%C3%A5rdcentral%202027&fileSize=193619",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Protokollsanteckning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4645312.PDF?fileName=Protokollsanteckning&fileSize=189703",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Tjänsteutlåtande Krav- och kvalitetsbok förfrågningsunderlag Vårdval vårdcentral 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4647961.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20Krav-%20och%20kvalitetsbok%20f%C3%B6rfr%C3%A5gningsunderlag%20V%C3%A5rdval%20v%C3%A5rdcentral%202027&fileSize=397280",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Förslag till ny skrivning inför beslut om Krav- och kvalitetsbok Vårdval vårdcentral 2027 samt aktuell skrivning Krav- och kvalitetsb...",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4647962.PDF?fileName=F%C3%B6rslag%20till%20ny%20skrivning%20inf%C3%B6r%20beslut%20om%20Krav-%20och%20kvalitetsbok%20V%C3%A5rdval%20v%C3%A5rdcentral%202027%20samt%20aktuell%20skrivning%20Krav-%20och%20kvalitetsb...&fileSize=1976159",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsanteckning RS-MBL 2026-08-14",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4647963.PDF?fileName=Protokollsanteckning%20RS-MBL%202026-08-14&fileSize=61202",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370383",
+          "title": "11 - Inför beslut om Krav- och kvalitetsbok förfrågningsunderlag Vårdval rehab 2027",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från beredningen för krav- och kvalitetsböckers sammanträde den 21 augusti 2026 - Krav- och kvalitetsbok förfrågningsunderlag Vårdval rehab 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4645285.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20krav-%20och%20kvalitetsb%C3%B6ckers%20sammantr%C3%A4de%20den%2021%20augusti%202026%20-%20Krav-%20och%20kvalitetsbok%20f%C3%B6rfr%C3%A5gningsunderlag%20V%C3%A5rdval%20rehab%202027&fileSize=169826",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Protokollsanteckning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4645315.PDF?fileName=Protokollsanteckning&fileSize=189639",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Tjänsteutlåtande Krav- och kvalitetsbok förfrågningsunderlag Vårdval rehab 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4648091.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20Krav-%20och%20kvalitetsbok%20f%C3%B6rfr%C3%A5gningsunderlag%20V%C3%A5rdval%20rehab%202027&fileSize=297745",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Förslag till ny skrivning inför beslut om Krav- och kvalitetsbok Vårdval rehab 2027 samt aktuell skrivning Krav- och kvalitetsbok Vårdval rehab",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4648092.PDF?fileName=F%C3%B6rslag%20till%20ny%20skrivning%20inf%C3%B6r%20beslut%20om%20Krav-%20och%20kvalitetsbok%20V%C3%A5rdval%20rehab%202027%20samt%20aktuell%20skrivning%20Krav-%20och%20kvalitetsbok%20V%C3%A5rdval%20rehab&fileSize=1034342",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsanteckning RS-MBL 2026-08-14",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4648093.PDF?fileName=Protokollsanteckning%20RS-MBL%202026-08-14&fileSize=61202",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370317",
+          "title": "12 - Presidiet informerar",
+          "documents": []
+        },
+        {
+          "agendaId": "370322",
+          "title": "13 - Beredningen informerar",
+          "documents": []
+        },
+        {
+          "agendaId": "370328",
+          "title": "14 - Ansvarig tjänsteperson informerar",
+          "documents": []
+        },
+        {
+          "agendaId": "370292",
+          "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
+          "documents": [
+            {
+              "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4632347.PDF?fileName=F%C3%B6r%C3%A4ndringar%20i%20uppdrag%202026%20inom%20ramen%20f%C3%B6r%20tillg%C3%A4nglighetsarbetet&fileSize=191916",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "370291",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Stjärntandläkarna i Västra Hamnen AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med Stjärntandläkarna i Västra Hamnen AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4640222.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20Stj%C3%A4rntandl%C3%A4karna%20i%20V%C3%A4stra%20Hamnen%20AB&fileSize=94858",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "370318",
+          "title": "Avtal om barn- och ungdomstandvård 3-19 år med Tandvårdsgruppen i Kungälv KB, Tandläkare Kajsa Forsberg",
+          "documents": [
+            {
+              "title": "Avtal om barn- och ungdomstandvård 3-19 år med Tandvårdsgruppen i Kungälv KB, Tandläkare Kajsa Forsberg",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4639406.PDF?fileName=Avtal%20om%20barn-%20och%20ungdomstandv%C3%A5rd%203-19%20%C3%A5r%20med%20Tandv%C3%A5rdsgruppen%20i%20Kung%C3%A4lv%20KB%2C%20Tandl%C3%A4kare%20Kajsa%20Forsberg&fileSize=95845",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "370319",
+          "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med OraSolv Clinics AB",
+          "documents": [
+            {
+              "title": "Uppsägning av avtal om tandvård till asylsökande barn och vuxna i Västra Götaland med OraSolv Clinics AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4640201.PDF?fileName=Upps%C3%A4gning%20av%20avtal%20om%20tandv%C3%A5rd%20till%20asyls%C3%B6kande%20barn%20och%20vuxna%20i%20V%C3%A4stra%20G%C3%B6taland%20med%20OraSolv%20Clinics%20AB&fileSize=94638",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "370323",
+          "title": "Avtal om barn- och ungdomstandvård 3-19 år med Distriktstandvården Sverige AB, Distriktstandvården Kungälv",
+          "documents": [
+            {
+              "title": "Avtal om barn- och ungdomstandvård 3-19 år med Distriktstandvården Sverige AB, Distriktstandvården Kungälv",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4639458.PDF?fileName=Avtal%20om%20barn-%20och%20ungdomstandv%C3%A5rd%203-19%20%C3%A5r%20med%20Distriktstandv%C3%A5rden%20Sverige%20AB%2C%20Distriktstandv%C3%A5rden%20Kung%C3%A4lv&fileSize=95462",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "370321",
+          "title": "Beslut från regionstyrelsen 2026-08-27 § 217 - Uppgörelse med Oracle avseende Millenniumavtalet och befintliga system",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-08-27 § 217 - Uppgörelse med Oracle avseende Millenniumavtalet och befintliga system",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644186.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-08-27%20%C2%A7%20217%20-%20Uppg%C3%B6relse%20med%20Oracle%20avseende%20Millenniumavtalet%20och%20befintliga%20system&fileSize=97172",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Uppgörelse med Oracle avseende Millenniumavtalet och befintliga system",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644187.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Uppg%C3%B6relse%20med%20Oracle%20avseende%20Millenniumavtalet%20och%20befintliga%20system&fileSize=163501",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370336",
+          "title": "Protokoll  beredningen för krav- och kvalitetsböcker 2026-08-21",
+          "documents": [
+            {
+              "title": "Protokoll  beredningen för krav- och kvalitetsböcker 2026-08-21",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4634759.PDF?fileName=Protokoll%20%20beredningen%20f%C3%B6r%20krav-%20och%20kvalitetsb%C3%B6cker%202026-08-21&fileSize=749208",
+              "category": "Protokoll"
+            }
+          ]
+        },
+        {
+          "agendaId": "370209",
+          "title": "Ordförandebeslut från strategiska hälso- och sjukvårdsnämnden 2026-08-19 om tillfällig utökning av försök för assisterad befruktning i Västra Götalandsregionen 2026",
+          "documents": [
+            {
+              "title": "Ordförandebeslut från strategiska hälso- och sjukvårdsnämnden 2026-08-19 om tillfällig utökning av försök för assisterad befruktning i Västra Götalandsregionen 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4635868.PDF?fileName=Ordf%C3%B6randebeslut%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-08-19%20om%20tillf%C3%A4llig%20ut%C3%B6kning%20av%20f%C3%B6rs%C3%B6k%20f%C3%B6r%20assisterad%20befruktning%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%202026&fileSize=278123",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "370320",
+          "title": "Skrivelse till Regionstyrelsen från Sjukhusen i väster om ansträngt ekonomiskt läge",
+          "documents": [
+            {
+              "title": "Skrivelse till Regionstyrelsen från Sjukhusen i väster om ansträngt ekonomiskt läge",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4633604.PDF?fileName=Skrivelse%20till%20Regionstyrelsen%20fr%C3%A5n%20Sjukhusen%20i%20v%C3%A4ster%20om%20anstr%C3%A4ngt%20ekonomiskt%20l%C3%A4ge&fileSize=191039",
+              "category": "Handling in"
+            },
+            {
+              "title": "Följebrev",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4633605.PDF?fileName=F%C3%B6ljebrev&fileSize=64541",
+              "category": "Bilaga"
+            }
+          ]
+        }
+      ]
+    },
     "212298|2026-09-02": {
       "meetingId": "3184054",
       "items": [
