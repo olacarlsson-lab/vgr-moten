@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:00:37.478Z",
+  "generatedAt": "2026-09-15T12:32:02.676Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1210,15 +1210,20 @@
     },
     {
       "key": "212458|2026-09-22",
-      "meetingId": "",
+      "meetingId": "3184040",
       "boardId": "212458",
       "board": "regionstyrelsen",
       "date": "2026-09-22",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
-      "documents": [],
-      "agendaDocCount": 0
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3184040",
+      "documents": [
+        {
+          "title": "Kallelse regionstyrelsen 2026-09-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4663128.PDF?fileName=Kallelse%20regionstyrelsen%202026-09-22&fileSize=143086"
+        }
+      ],
+      "agendaDocCount": 115
     },
     {
       "key": "222298|2026-09-09",
