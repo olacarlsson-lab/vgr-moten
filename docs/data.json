@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T09:06:41.052Z",
+  "generatedAt": "2026-09-17T14:19:02.131Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1184,7 +1184,7 @@
       "documents": [
         {
           "title": "Kallelse kulturnämnden 2026-09-24",
-          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4665850.PDF?fileName=Kallelse%20kulturn%C3%A4mnden%202026-09-24&fileSize=176212"
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4665850.PDF?fileName=Kallelse%20kulturn%C3%A4mnden%202026-09-24&fileSize=176962"
         }
       ],
       "agendaDocCount": 0
@@ -1230,10 +1230,10 @@
       "documents": [
         {
           "title": "Kallelse regionstyrelsen 2026-09-22",
-          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4663128.PDF?fileName=Kallelse%20regionstyrelsen%202026-09-22&fileSize=143086"
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4663128.PDF?fileName=Kallelse%20regionstyrelsen%202026-09-22&fileSize=146106"
         }
       ],
-      "agendaDocCount": 115
+      "agendaDocCount": 118
     },
     {
       "key": "222298|2026-09-09",
@@ -1248,9 +1248,13 @@
         {
           "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-09-09",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4647939.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-09-09&fileSize=118729"
+        },
+        {
+          "title": "Protokoll  operativa hälso- och sjukvårdsnämnden 2026-09-09",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4648445.PDF?fileName=Protokoll%20%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-09-09&fileSize=951170"
         }
       ],
-      "agendaDocCount": 47
+      "agendaDocCount": 56
     },
     {
       "key": "210654|2026-09-03",
