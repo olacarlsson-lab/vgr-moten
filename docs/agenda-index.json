@@ -1,5 +1,1422 @@
 {
   "meetings": {
+    "222299|2026-09-25": {
+      "meetingId": "3191856",
+      "items": [
+        {
+          "agendaId": "369445",
+          "title": "157 - Yttrande över remiss om Huntingtons sjukdom - Nationell högspecialiserad vård",
+          "documents": [
+            {
+              "title": "Yttrande över remiss om nationell högspecialiserad vård inom vårdområdet Huntingtons sjukdom",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4514267.PDF?fileName=Yttrande%20%C3%B6ver%20remiss%20om%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20inom%20v%C3%A5rdomr%C3%A5det%20Huntingtons%20sjukdom&fileSize=118461",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Nationell högspecialiserad vård - Huntingtons sjukdom",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4514268.PDF?fileName=Nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20-%20Huntingtons%20sjukdom&fileSize=108872",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Socialstyrelsens förslag på nationell högspecialiserad vård - Huntingtons sjukdom",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4515536.PDF?fileName=Socialstyrelsens%20f%C3%B6rslag%20p%C3%A5%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20-%20Huntingtons%20sjukdom&fileSize=87553",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369446",
+          "title": "158 - Yttrande över remiss om Acetabulär dysplasi - Nationell högspecialiserad vård",
+          "documents": [
+            {
+              "title": "Yttrande över remiss om nationell högspecialiserad vård – acetabulär dysplasi hos tonåringar och vuxna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4514253.PDF?fileName=Yttrande%20%C3%B6ver%20remiss%20om%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20%E2%80%93%20acetabul%C3%A4r%20dysplasi%20hos%20ton%C3%A5ringar%20och%20vuxna&fileSize=115500",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Nationell högspecialiserad vård - Acetabulär dysplasi hos ungdomar och vuxna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4514254.PDF?fileName=Nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20-%20Acetabul%C3%A4r%20dysplasi%20hos%20ungdomar%20och%20vuxna&fileSize=105668",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Acetabulär dysplasi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4515410.PDF?fileName=Acetabul%C3%A4r%20dysplasi&fileSize=300927",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369447",
+          "title": "159 - Yttrande över remiss om Multiligamentära rekonstruktioner - Nationell högspecialiserad vård",
+          "documents": [
+            {
+              "title": "Yttrande över remiss om nationell högspecialiserad vård inom vårdområdet multiligamentära rekonstruktioner",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4514256.PDF?fileName=Yttrande%20%C3%B6ver%20remiss%20om%20nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20inom%20v%C3%A5rdomr%C3%A5det%20multiligament%C3%A4ra%20rekonstruktioner&fileSize=114902",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Nationell högspecialiserad vård - Multiligamentära rekonstruktioner",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4514265.PDF?fileName=Nationell%20h%C3%B6gspecialiserad%20v%C3%A5rd%20-%20Multiligament%C3%A4ra%20rekonstruktioner&fileSize=109491",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Multiligamentära rekonstruktioner",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4515464.PDF?fileName=Multiligament%C3%A4ra%20rekonstruktioner&fileSize=236755",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369399",
+          "title": "160 - Delårsrapport augusti 2026 för strategiska hälso- och sjukvårdsnämnden",
+          "documents": []
+        },
+        {
+          "agendaId": "369398",
+          "title": "161 - Kompletterande underlag till långsiktig inriktning för Skaraborgs Sjukhus Mariestad som nav för god och nära vård",
+          "documents": [
+            {
+              "title": "Kompletterande underlag till långsiktig inriktning för Skaraborgs Sjukhus Mariestad som nav för god och nära vård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4551511.PDF?fileName=Kompletterande%20underlag%20till%20l%C3%A5ngsiktig%20inriktning%20f%C3%B6r%20Skaraborgs%20Sjukhus%20Mariestad%20som%20nav%20f%C3%B6r%20god%20och%20n%C3%A4ra%20v%C3%A5rd&fileSize=196930",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Långsiktig inriktning för Skaraborgs Sjukhus Mariestad, reviderad version utifrån kompletterande underlag (spårbara ändringar)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4637442.PDF?fileName=L%C3%A5ngsiktig%20inriktning%20f%C3%B6r%20Skaraborgs%20Sjukhus%20Mariestad%2C%20reviderad%20version%20utifr%C3%A5n%20kompletterande%20underlag%20(sp%C3%A5rbara%20%C3%A4ndringar)&fileSize=153380",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369899",
+          "title": "162 - Medel till projektet Precisionsplattformen",
+          "documents": [
+            {
+              "title": "Medel till projektet Precisionsplattformen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4632864.PDF?fileName=Medel%20till%20projektet%20Precisionsplattformen&fileSize=185990",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Bilaga 1 Informationsmaterial Precisionsplattformen - ett nytt innovationsnav",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4642175.PDF?fileName=Bilaga%201%20Informationsmaterial%20Precisionsplattformen%20-%20ett%20nytt%20innovationsnav&fileSize=600200",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 2 Beslut om stöd Tillväxtverket för  Precisionsplattformen 8 juni 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4642176.PDF?fileName=Bilaga%202%20Beslut%20om%20st%C3%B6d%20Tillv%C3%A4xtverket%20f%C3%B6r%20%20Precisionsplattformen%208%20juni%202026&fileSize=679731",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369405",
+          "title": "163 - Hantering av ärende om tydligare vägar inom kvinnosjukvården",
+          "documents": [
+            {
+              "title": "Hantering av ärende om tydligare vägar inom kvinnosjukvården",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4523678.PDF?fileName=Hantering%20av%20%C3%A4rende%20om%20tydligare%20v%C3%A4gar%20inom%20kvinnosjukv%C3%A5rden&fileSize=121619",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Väckt ärende (S,V MP) - Tydligare vägar inom kvinnosjukvården – Förbättra vården inom obstetrik och gynekologi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4503331.PDF?fileName=V%C3%A4ckt%20%C3%A4rende%20(S%2CV%20MP)%20-%20Tydligare%20v%C3%A4gar%20inom%20kvinnosjukv%C3%A5rden%20%E2%80%93%20F%C3%B6rb%C3%A4ttra%20v%C3%A5rden%20inom%20obstetrik%20och%20gynekologi&fileSize=174208",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369407",
+          "title": "164 - Hantering av ärende om att stärka arbetet med avancerade terapiläkemedel (ATMP) i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Hantering av ärende om att stärka arbetet med avancerade terapiläkemedel (ATMP) i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4590995.PDF?fileName=Hantering%20av%20%C3%A4rende%20om%20att%20st%C3%A4rka%20arbetet%20med%20avancerade%20terapil%C3%A4kemedel%20(ATMP)%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=138130",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "(Bilaga § 127) Väckt ärende (S,V,MP) om att stärka arbetet med ATMP i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4548965.PDF?fileName=(Bilaga%20%C2%A7%20127)%20V%C3%A4ckt%20%C3%A4rende%20(S%2CV%2CMP)%20om%20att%20st%C3%A4rka%20arbetet%20med%20ATMP%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=174226",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370033",
+          "title": "165 - Hantering av ärende om att göra översyn av hjälpmedelshandboken och riktlinjer för utskrivning av hjälpmedel",
+          "documents": [
+            {
+              "title": "Hantering av ärende om att göra översyn av hjälpmedelshandboken och riktlinjer för utskrivning av hjälpmedel",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4634069.PDF?fileName=Hantering%20av%20%C3%A4rende%20om%20att%20g%C3%B6ra%20%C3%B6versyn%20av%20hj%C3%A4lpmedelshandboken%20och%20riktlinjer%20f%C3%B6r%20utskrivning%20av%20hj%C3%A4lpmedel&fileSize=136831",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Väckt ärende (M, KD, C, L) om att göra en översyn av Hjälpmedelshandboken och riktlinjer för utskrivning av hjälpmedel",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4547754.PDF?fileName=V%C3%A4ckt%20%C3%A4rende%20(M%2C%20KD%2C%20C%2C%20L)%20om%20att%20g%C3%B6ra%20en%20%C3%B6versyn%20av%20Hj%C3%A4lpmedelshandboken%20och%20riktlinjer%20f%C3%B6r%20utskrivning%20av%20hj%C3%A4lpmedel&fileSize=96509",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369395",
+          "title": "166 - Yttrande över motion av Lars Holmin (M) med flera om strategi för upphandling av sjukvård",
+          "documents": [
+            {
+              "title": "Yttrande över motion av Lars Holmin (M) med flera om strategi för upphandling av sjukvård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4543919.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Lars%20Holmin%20(M)%20med%20flera%20om%20strategi%20f%C3%B6r%20upphandling%20av%20sjukv%C3%A5rd&fileSize=120763",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Motion av Lars Holmin (M) med flera om strategi för upphandling av sjukvård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4312843.PDF?fileName=Motion%20av%20Lars%20Holmin%20(M)%20med%20flera%20om%20strategi%20f%C3%B6r%20upphandling%20av%20sjukv%C3%A5rd&fileSize=146284",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369396",
+          "title": "167 - Yttrande över motion av Micaela Kronberg (M) om att införa en prestationsbaserad beredskapsbudget i Västra Götalandsregionen på aggregerad nivå samt inom sjukvårdsstyrelserna för att uppfylla krav kopplade till totalförsvaret",
+          "documents": [
+            {
+              "title": "Yttrande över motion av Micaela Kronberg (M) om att införa en prestationsbaserad beredskapsbudget i Västra Götalandsregionen på aggregerad nivå samt inom sjukvårdsstyrelserna för att uppfylla krav kopplade till totalförsvaret",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4490573.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Micaela%20Kronberg%20(M)%20om%20att%20inf%C3%B6ra%20en%20prestationsbaserad%20beredskapsbudget%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%20p%C3%A5%20aggregerad%20niv%C3%A5%20samt%20inom%20sjukv%C3%A5rdsstyrelserna%20f%C3%B6r%20att%20uppfylla%20krav%20kopplade%20till%20totalf%C3%B6rsvaret&fileSize=129228",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Motion av Micaela Kronberg (M) om att införa en prestationsbaserad beredskapsbudget i Västra Götalandsregionen på aggregerad nivå samt inom sjukvårdsstyrelserna för att uppfylla krav kopplade till totalförsvaret",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4444741.PDF?fileName=Motion%20av%20Micaela%20Kronberg%20(M)%20om%20att%20inf%C3%B6ra%20en%20prestationsbaserad%20beredskapsbudget%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%20p%C3%A5%20aggregerad%20niv%C3%A5%20samt%20inom%20sjukv%C3%A5rdsstyrelserna%20f%C3%B6r%20att%20uppfylla%20krav%20kopplade%20till%20totalf%C3%B6rsvaret&fileSize=112267",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369402",
+          "title": "168 - Yttrande över motion av David Sahlsten (KD) om att etablera en blodcentral på Torp köpcentrum i Uddevalla",
+          "documents": [
+            {
+              "title": "Yttrande över motion av David Sahlsten (KD) om att etablera en blodcentral på Torp köpcentrum i Uddevalla",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4492307.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20David%20Sahlsten%20(KD)%20om%20att%20etablera%20en%20blodcentral%20p%C3%A5%20Torp%20k%C3%B6pcentrum%20i%20Uddevalla&fileSize=113694",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Motion av David Sahlsten (KD) om att etablera en blodcentral på Torp köpcentrum i Uddevalla",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4437759.PDF?fileName=Motion%20av%20David%20Sahlsten%20(KD)%20om%20att%20etablera%20en%20blodcentral%20p%C3%A5%20Torp%20k%C3%B6pcentrum%20i%20Uddevalla&fileSize=116633",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369408",
+          "title": "169 - Yttrande över motion från Ungdomsfullmäktige i Göteborgs stad om att sänka åldern för åtkomst till sin digitala patientjournal",
+          "documents": [
+            {
+              "title": "Yttrande över motion från Ungdomsfullmäktige i Göteborgs stad om att sänka åldern för åtkomst till sin digitala patientjournal",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576340.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20fr%C3%A5n%20Ungdomsfullm%C3%A4ktige%20i%20G%C3%B6teborgs%20stad%20om%20att%20s%C3%A4nka%20%C3%A5ldern%20f%C3%B6r%20%C3%A5tkomst%20till%20sin%20digitala%20patientjournal&fileSize=108135",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Motion av Jonathan Boström (Ungdomsfullmäktige) om att sänka åldern på att komma åt sin digitala patientjournal",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4574939.PDF?fileName=Motion%20av%20Jonathan%20Bostr%C3%B6m%20(Ungdomsfullm%C3%A4ktige)%20om%20att%20s%C3%A4nka%20%C3%A5ldern%20p%C3%A5%20att%20komma%20%C3%A5t%20sin%20digitala%20patientjournal&fileSize=226310",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369409",
+          "title": "170 - Uppföljning av handlingsplan för huvudvärksvården i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Uppföljning av handlingsplan för huvudvärksvården i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4611716.PDF?fileName=Uppf%C3%B6ljning%20av%20handlingsplan%20f%C3%B6r%20huvudv%C3%A4rksv%C3%A5rden%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=128322",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppföljning av handlingsplan för huvudvärksvården i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4611679.PDF?fileName=Uppf%C3%B6ljning%20av%20handlingsplan%20f%C3%B6r%20huvudv%C3%A4rksv%C3%A5rden%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=374000",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369503",
+          "title": "171 - Uppföljning plan för intern kontroll per augusti 2026 för strategiska hälso- och sjukvårdsnämnden",
+          "documents": [
+            {
+              "title": "Uppföljning plan för intern kontroll per augusti 2026 för strategiska hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623760.PDF?fileName=Uppf%C3%B6ljning%20plan%20f%C3%B6r%20intern%20kontroll%20per%20augusti%202026%20f%C3%B6r%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=118789",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Uppföljning plan for intern kontroll - per augusti",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4642784.PDF?fileName=Uppf%C3%B6ljning%20plan%20for%20intern%20kontroll%20-%20per%20augusti&fileSize=185156",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369404",
+          "title": "172 - Uppdatering av ersättningsprinciper till invånare, patienter och närstående som deltar som medskapare i hälso- och sjukvård",
+          "documents": [
+            {
+              "title": "Uppdatering av ersättningsprinciper till invånare, patienter och närstående som deltar som medskapare i hälso- och sjukvård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4502135.PDF?fileName=Uppdatering%20av%20ers%C3%A4ttningsprinciper%20till%20inv%C3%A5nare%2C%20patienter%20och%20n%C3%A4rst%C3%A5ende%20som%20deltar%20som%20medskapare%20i%20h%C3%A4lso-%20och%20sjukv%C3%A5rd&fileSize=143471",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "369531",
+          "title": "173 - Länsgemensamt inriktningsdokument för organiserat integrerat arbete för personer med psykisk ohälsa, missbruk och beroende",
+          "documents": [
+            {
+              "title": "Länsgemensamt inriktningsdokument för organiserat integrerat arbete för personer med psykisk ohälsa, missbruk och beroende",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623343.PDF?fileName=L%C3%A4nsgemensamt%20inriktningsdokument%20f%C3%B6r%20organiserat%20integrerat%20arbete%20f%C3%B6r%20personer%20med%20psykisk%20oh%C3%A4lsa%2C%20missbruk%20och%20beroende&fileSize=115618",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Länsgemensamt inriktningsdokument för regionen och kommunerna i Västra Götaland- Organiserat och integrerat arbete för personer med psykisk ohälsa, missbruk och beroende",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623458.PDF?fileName=L%C3%A4nsgemensamt%20inriktningsdokument%20f%C3%B6r%20regionen%20och%20kommunerna%20i%20V%C3%A4stra%20G%C3%B6taland-%20Organiserat%20och%20integrerat%20arbete%20f%C3%B6r%20personer%20med%20psykisk%20oh%C3%A4lsa%2C%20missbruk%20och%20beroende&fileSize=483939",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369406",
+          "title": "174 - Yttrande över remiss Utredning av förutsättningar för ett regionalt ungdomsråd i Västra Götaland",
+          "documents": [
+            {
+              "title": "Yttrande över remiss Utredning av förutsättningar för ett regionalt ungdomsråd i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4575364.PDF?fileName=Yttrande%20%C3%B6ver%20remiss%20Utredning%20av%20f%C3%B6ruts%C3%A4ttningar%20f%C3%B6r%20ett%20regionalt%20ungdomsr%C3%A5d%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=131618",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Utredning av förutsättningar för ett regionalt ungdomsråd i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4515826.PDF?fileName=Utredning%20av%20f%C3%B6ruts%C3%A4ttningar%20f%C3%B6r%20ett%20regionalt%20ungdomsr%C3%A5d%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=406695",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369448",
+          "title": "175 - Yttrande över remiss av promemorian Ett första steg i genomförandet av en nationell digital infrastruktur på hälsodataområdet",
+          "documents": [
+            {
+              "title": "Yttrande över remiss av promemorian Ett första steg i genomförandet av en nationell digital infrastruktur på hälsodataområdet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4594137.PDF?fileName=Yttrande%20%C3%B6ver%20remiss%20av%20promemorian%20Ett%20f%C3%B6rsta%20steg%20i%20genomf%C3%B6randet%20av%20en%20nationell%20digital%20infrastruktur%20p%C3%A5%20h%C3%A4lsodataomr%C3%A5det&fileSize=120483",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Yttrande över promemorian Ett första steg i genomförandet av en nationell digital infrastruktur på hälsodataområdet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4595779.PDF?fileName=Yttrande%20%C3%B6ver%20promemorian%20Ett%20f%C3%B6rsta%20steg%20i%20genomf%C3%B6randet%20av%20en%20nationell%20digital%20infrastruktur%20p%C3%A5%20h%C3%A4lsodataomr%C3%A5det&fileSize=200400",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Ett första steg i genomförandet av en nationell digital infrastruktur på hälsodataområdet S2026/01360",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4648077.PDF?fileName=Ett%20f%C3%B6rsta%20steg%20i%20genomf%C3%B6randet%20av%20en%20nationell%20digital%20infrastruktur%20p%C3%A5%20h%C3%A4lsodataomr%C3%A5det%20S2026%2F01360&fileSize=1271588",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369709",
+          "title": "176 - Yttrande över remiss om reviderat förslag till ny inköpspolicy",
+          "documents": [
+            {
+              "title": "Yttrande över remiss om reviderat förslag till ny inköpspolicy",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4630654.PDF?fileName=Yttrande%20%C3%B6ver%20remiss%20om%20reviderat%20f%C3%B6rslag%20till%20ny%20ink%C3%B6pspolicy&fileSize=104589",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Remiss om reviderat förslag till ny inköpspolicy",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4536993.PDF?fileName=Remiss%20om%20reviderat%20f%C3%B6rslag%20till%20ny%20ink%C3%B6pspolicy&fileSize=144286",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369710",
+          "title": "177 - Yttrande över remiss om rese- och mötespolicy Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Yttrande över remiss om rese- och mötespolicy Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4630660.PDF?fileName=Yttrande%20%C3%B6ver%20remiss%20om%20rese-%20och%20m%C3%B6tespolicy%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=101205",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Remiss om rese- och mötespolicy Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549656.PDF?fileName=Remiss%20om%20rese-%20och%20m%C3%B6tespolicy%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=76875",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369530",
+          "title": "178 - Projektstöd till peer support inom barn- och ungdomspsykiatrin",
+          "documents": [
+            {
+              "title": "Projektstöd till peer support inom barn- och ungdomspsykiatrin",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4576972.PDF?fileName=Projektst%C3%B6d%20till%20peer%20support%20inom%20barn-%20och%20ungdomspsykiatrin&fileSize=145824",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Barnkonsekvensanalys - prövning och analys av barnets bästa",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4624825.PDF?fileName=Barnkonsekvensanalys%20-%20pr%C3%B6vning%20och%20analys%20av%20barnets%20b%C3%A4sta&fileSize=628673",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370032",
+          "title": "179 - Information om pågående arbete med en mer sammanhållen vård för personer med skadligt bruk eller beroende och andra psykiatriska tillstånd",
+          "documents": [
+            {
+              "title": "Information om pågående arbete med en mer sammanhållen vård för personer med\r\nskadligt bruk eller beroende och andra\r\npsykiatriska tillstånd",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4579181.PDF?fileName=Information%20om%20p%C3%A5g%C3%A5ende%20arbete%20med%20en%20mer%20sammanh%C3%A5llen%20v%C3%A5rd%20f%C3%B6r%20personer%20med%0D%0Askadligt%20bruk%20eller%20beroende%20och%20andra%0D%0Apsykiatriska%20tillst%C3%A5nd&fileSize=101165",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "369397",
+          "title": "180 - Information om ”Kraftsamling Drönare i VGR” – fortsättning och finansiering av tidigare projekt ”Drönare med hjärtstartare\"",
+          "documents": [
+            {
+              "title": "Information om ”Kraftsamling Drönare i VGR” – fortsättning och finansiering av tidigare projekt ”Drönare med hjärtstartare\"",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4450856.PDF?fileName=Information%20om%20%E2%80%9DKraftsamling%20Dr%C3%B6nare%20i%20VGR%E2%80%9D%20%E2%80%93%20forts%C3%A4ttning%20och%20finansiering%20av%20tidigare%20projekt%20%E2%80%9DDr%C3%B6nare%20med%20hj%C3%A4rtstartare%22&fileSize=178664",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Kraftsamling Drönare i Västra Götalandsregionen: Resultat och effekter 2024-2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4640148.PDF?fileName=Kraftsamling%20Dr%C3%B6nare%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%3A%20Resultat%20och%20effekter%202024-2026&fileSize=95002",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Rapport SSN drönare med hjärtstartare och tidig lägesbild",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4640155.PDF?fileName=Rapport%20SSN%20dro%CC%88nare%20med%20hja%CC%88rtstartare%20och%20tidig%20la%CC%88gesbild&fileSize=2024761",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369401",
+          "title": "181 - Information om omhändertagande av rekommendationer från Utvärdering av Innovationsfonden",
+          "documents": [
+            {
+              "title": "Information om omhändertagande av rekommendationer från Utvärdering av Innovationsfonden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4547532.PDF?fileName=Information%20om%20omh%C3%A4ndertagande%20av%20rekommendationer%20fr%C3%A5n%20Utv%C3%A4rdering%20av%20Innovationsfonden&fileSize=137454",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Handlingsplan för innovationsfonden - Insatsområden med åtgärder",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4580798.PDF?fileName=Handlingsplan%20f%C3%B6r%20innovationsfonden%20-%20Insatsomr%C3%A5den%20med%20%C3%A5tg%C3%A4rder&fileSize=42015",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369403",
+          "title": "182 - Information om Skene Närsjukhus",
+          "documents": [
+            {
+              "title": "Information om Skene Närsjukhus",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4582933.PDF?fileName=Information%20om%20Skene%20N%C3%A4rsjukhus&fileSize=139774",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "369400",
+          "title": "183 - Delrapport uppdrag att ta fram förslag på principer för samverkan inom finansiell samordning av rehabiliteringsinsatser",
+          "documents": [
+            {
+              "title": "Delrapport uppdrag att ta fram förslag på principer för samverkan inom finansiell samordning av rehabiliteringsinsatser",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4612821.PDF?fileName=Delrapport%20uppdrag%20att%20ta%20fram%20f%C3%B6rslag%20p%C3%A5%20principer%20f%C3%B6r%20samverkan%20inom%20finansiell%20samordning%20av%20rehabiliteringsinsatser&fileSize=110228",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "369898",
+          "title": "184 - Information om arbetet med revidering av plan för prehospital vård",
+          "documents": [
+            {
+              "title": "Information om arbetet med revidering av plan för prehospital vård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4632805.PDF?fileName=Information%20om%20arbetet%20med%20revidering%20av%20plan%20f%C3%B6r%20prehospital%20v%C3%A5rd&fileSize=104416",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "370031",
+          "title": "185 - Informationsinsatser gentemot invånarna - rapportering utifrån uppdrag kopplat till akut och oplanerad vård",
+          "documents": [
+            {
+              "title": "Informationsinsatser gentemot invånarna - rapportering utifrån uppdrag kopplat till akut och oplanerad vård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4634486.PDF?fileName=Informationsinsatser%20gentemot%20inv%C3%A5narna%20-%20rapportering%20utifr%C3%A5n%20uppdrag%20kopplat%20till%20akut%20och%20oplanerad%20v%C3%A5rd&fileSize=142748",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Invånarkommunikation hälso- och sjukvård årshjul",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4645443.PDF?fileName=Inv%C3%A5narkommunikation%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20%C3%A5rshjul&fileSize=44420",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370729",
+          "title": "186 - Information om bröstcancerscreening och pågående arbete",
+          "documents": [
+            {
+              "title": "Information om bröstcancerscreening och pågående arbete",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4658411.PDF?fileName=Information%20om%20br%C3%B6stcancerscreening%20och%20p%C3%A5g%C3%A5ende%20arbete&fileSize=117144",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "369900",
+          "title": "187 - Riskvärdering inför plan för intern kontroll 2027 för strategiska hälso- och sjukvårdsnämnden",
+          "documents": [
+            {
+              "title": "Riskvärdering inför plan för intern kontroll 2027 för strategiska hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4633355.PDF?fileName=Riskv%C3%A4rdering%20inf%C3%B6r%20plan%20f%C3%B6r%20intern%20kontroll%202027%20f%C3%B6r%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=103452",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Kontrollmiljö 2027 Strategiska hälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4635791.PDF?fileName=Kontrollmilj%C3%B6%202027%20Strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=139218",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Intern kontroll - framtagna risker 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4641562.PDF?fileName=Intern%20kontroll%20-%20framtagna%20risker%202026&fileSize=101740",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370732",
+          "title": "188 - Information från hälso- och sjukvårdsutvecklingsdirektören",
+          "documents": []
+        },
+        {
+          "agendaId": "370733",
+          "title": "189 - Information från presidiet",
+          "documents": []
+        },
+        {
+          "agendaId": "370734",
+          "title": "190 - Information från beredningen",
+          "documents": []
+        },
+        {
+          "agendaId": "370735",
+          "title": "191 - Information från arbetsgrupper",
+          "documents": []
+        },
+        {
+          "agendaId": "369416",
+          "title": "Långtidsuppföljning efter barncancer - regional tillämpning av  nationellt vårdprogram.",
+          "documents": [
+            {
+              "title": "Långtidsuppföljning efter barncancer - regional tillämpning av  nationellt vårdprogram",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4561738.PDF?fileName=L%C3%A5ngtidsuppf%C3%B6ljning%20efter%20barncancer%20-%20regional%20till%C3%A4mpning%20av%20%20nationellt%20v%C3%A5rdprogram&fileSize=132247",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Långtidsuppföljning efter barncancer - regional tillämpning av Nationellt vårdprogram 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4553061.PDF?fileName=L%C3%A5ngtidsuppf%C3%B6ljning%20efter%20barncancer%20-%20regional%20till%C3%A4mpning%20av%20Nationellt%20v%C3%A5rdprogram%202026&fileSize=248176",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369417",
+          "title": "Regional medicinsk riktlinje - Årligt hälsosamtal och somatisk kontroll av vuxna patienter med långvarig psykisk sjukdom",
+          "documents": [
+            {
+              "title": "Regional medicinsk riktlinje - Årligt hälsosamtal och somatisk kontroll av vuxna patienter med långvarig psykisk sjukdom",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4546526.PDF?fileName=Regional%20medicinsk%20riktlinje%20-%20%C3%85rligt%20h%C3%A4lsosamtal%20och%20somatisk%20kontroll%20av%20vuxna%20patienter%20med%20l%C3%A5ngvarig%20psykisk%20sjukdom&fileSize=123013",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "RMR - Årligt hälsosamtal och somatisk kontroll av patienter med långvarig psykisk sjukdom",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4546690.PDF?fileName=RMR%20-%20%C3%85rligt%20h%C3%A4lsosamtal%20och%20somatisk%20kontroll%20av%20patienter%20med%20l%C3%A5ngvarig%20psykisk%20sjukdom&fileSize=258782",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369418",
+          "title": "Beslut om finansiering av förstärkt regional infrastruktur vid GMC Väst som bidrar till förbättrade förutsättningar för precisionsmedicinsk forskning i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut om finansiering av förstärkt regional forskningsinfrastruktur vid GMC Väst",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4591367.PDF?fileName=Beslut%20om%20finansiering%20av%20f%C3%B6rst%C3%A4rkt%20regional%20forskningsinfrastruktur%20vid%20GMC%20V%C3%A4st&fileSize=109669",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Bilaga Huvudavtal 2 GMS inkl signaturer alla parter (dnr RS 2026-03444-1)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592424.PDF?fileName=Bilaga%20Huvudavtal%202%20GMS%20inkl%20signaturer%20alla%20parter%20(dnr%20RS%202026-03444-1)&fileSize=6615115",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369419",
+          "title": "Beslut om stöd för stärkt samverkan med Collaborative platform for Healthcare Improvement (CHI)",
+          "documents": [
+            {
+              "title": "Beslut om stöd för stärkt samverkan med Collaborative platform for Healthcare Improvement (CHI)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4590830.PDF?fileName=Beslut%20om%20st%C3%B6d%20f%C3%B6r%20st%C3%A4rkt%20samverkan%20med%20Collaborative%20platform%20for%20Healthcare%20Improvement%20(CHI)&fileSize=110932",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369420",
+          "title": "Beslut om finansiellt stöd till Sjukhusen i väster till projekt för ökad jämlik tillgång till tidiga insatser för barn med autism och deras vårdnadshavare",
+          "documents": [
+            {
+              "title": "Beslut om finansiellt stöd till Sjukhusen i väster till projekt för ökad jämlik tillgång till tidiga insatser för barn med autism och deras vårdnadshavare",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592300.PDF?fileName=Beslut%20om%20finansiellt%20st%C3%B6d%20till%20Sjukhusen%20i%20v%C3%A4ster%20till%20projekt%20f%C3%B6r%20%C3%B6kad%20j%C3%A4mlik%20tillg%C3%A5ng%20till%20tidiga%20insatser%20f%C3%B6r%20barn%20med%20autism%20och%20deras%20v%C3%A5rdnadshavare&fileSize=118712",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Tidiga insatser - Projektplan_20260511",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4593064.PDF?fileName=Tidiga%20insatser%20-%20Projektplan_20260511&fileSize=154120",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369421",
+          "title": "Beslut om finansiellt stöd till avdelning Data och analys, koncernstab digitalisering för att undersöka hur genomförandekapaciteten vid kliniska studier och prövningar kan ökas genom automatiserad dataöverföring",
+          "documents": [
+            {
+              "title": "Beslut om finansiellt stöd till avdelning Data och analys, koncernstab digitalisering för att undersöka hur genomförandekapaciteten vid kliniska studier och prövningar kan ökas genom automatiserad dataöverföring",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4601532.PDF?fileName=Beslut%20om%20finansiellt%20st%C3%B6d%20till%20avdelning%20Data%20och%20analys%2C%20koncernstab%20digitalisering%20f%C3%B6r%20att%20unders%C3%B6ka%20hur%20genomf%C3%B6randekapaciteten%20vid%20kliniska%20studier%20och%20pr%C3%B6vningar%20kan%20%C3%B6kas%20genom%20automatiserad%20data%C3%B6verf%C3%B6ring&fileSize=102812",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369422",
+          "title": "Beslut om finansiellt stöd till Gothia Forum för kartläggning av åtgärder för att uppfylla regulatoriska kvalitetskrav vid kliniska prövningar i Västra Götalandsregionen.",
+          "documents": [
+            {
+              "title": "Beslut om finansiellt stöd till Gothia Forum för kartläggning av åtgärder för att uppfylla regulatoriska kvalitetskrav vid kliniska prövningar i Västra Götalandsregionen.",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4601561.PDF?fileName=Beslut%20om%20finansiellt%20st%C3%B6d%20till%20Gothia%20Forum%20f%C3%B6r%20kartl%C3%A4ggning%20av%20%C3%A5tg%C3%A4rder%20f%C3%B6r%20att%20uppfylla%20regulatoriska%20kvalitetskrav%20vid%20kliniska%20pr%C3%B6vningar%20i%20V%C3%A4stra%20G%C3%B6talandsregionen.&fileSize=110138",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369423",
+          "title": "Beslut om finansiellt stöd till Gothia Forum för åtgärder för att öka antalet kliniska studier och prövningar i regionen",
+          "documents": [
+            {
+              "title": "Beslut om finansiellt stöd till Gothia Forum för planering av åtgärder för att öka antalet kliniska studier och prövningar i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604870.PDF?fileName=Beslut%20om%20finansiellt%20st%C3%B6d%20till%20Gothia%20Forum%20f%C3%B6r%20planering%20av%20%C3%A5tg%C3%A4rder%20f%C3%B6r%20att%20%C3%B6ka%20antalet%20kliniska%20studier%20och%20pr%C3%B6vningar%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=108563",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "369424",
+          "title": "Deltagande vid Konferens Framtidsrusta barn och unga",
+          "documents": [
+            {
+              "title": "Deltagande vid Konferens Framtidsrusta barn och unga",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4557965.PDF?fileName=Deltagande%20vid%20Konferens%20Framtidsrusta%20barn%20och%20unga&fileSize=251322",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "370029",
+          "title": "Ordförandebeslut om tillfällig utökning av försök för assisterad befruktning i Västra Götalandsregionen 2026",
+          "documents": [
+            {
+              "title": "Ordförandebeslut om tillfällig utökning av försök för assisterad befruktning i Västra Götalandsregionen 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4628405.PDF?fileName=Ordf%C3%B6randebeslut%20om%20tillf%C3%A4llig%20ut%C3%B6kning%20av%20f%C3%B6rs%C3%B6k%20f%C3%B6r%20assisterad%20befruktning%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%202026&fileSize=278123",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "370030",
+          "title": "Ordförandebeslut om fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
+          "documents": [
+            {
+              "title": "Ordförandebeslut om fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4628231.PDF?fileName=Ordf%C3%B6randebeslut%20om%20fortsatt%20avgiftsfri%20vaccination%20mot%20pneumokocker%20fr%C3%A5n%2065%20%C3%A5rs%20%C3%A5lder&fileSize=308701",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Meddelande från SKRs styrelse 2026-06-12; Överenskommelse - Ikappvaccinering pneumokocker 2026-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4630739.PDF?fileName=Meddelande%20fr%C3%A5n%20SKRs%20styrelse%202026-06-12%3B%20%C3%96verenskommelse%20-%20Ikappvaccinering%20pneumokocker%202026-2029&fileSize=459133",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370120",
+          "title": "Ordförandebeslut om avgiftsfri ikappvaccination mot vattkoppor för barn och unga, 5-17 år, 2027-2029",
+          "documents": [
+            {
+              "title": "Ordförandebeslut om avgiftsfri ikappvaccination mot vattkoppor för barn och unga, 5-17 år, 2027-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4628265.PDF?fileName=Ordf%C3%B6randebeslut%20om%20avgiftsfri%20ikappvaccination%20mot%20vattkoppor%20f%C3%B6r%20barn%20och%20unga%2C%205-17%20%C3%A5r%2C%202027-2029&fileSize=306997",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Meddelande från SKRs styrelse 2026-06-12, Överenskommelse - Ikappvaccinering vattenkoppor 2027-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4630748.PDF?fileName=Meddelande%20fr%C3%A5n%20SKRs%20styrelse%202026-06-12%2C%20%C3%96verenskommelse%20-%20Ikappvaccinering%20vattenkoppor%202027-2029&fileSize=608821",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371233",
+          "title": "Deltagande vid seminarium Precisionsmedicin barncancer – från genombrott till klinisk verklighet",
+          "documents": [
+            {
+              "title": "Deltagande vid seminarium Precisionsmedicin barncancer – från genombrott till klinisk verklighet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4658670.PDF?fileName=Deltagande%20vid%20seminarium%20Precisionsmedicin%20barncancer%20%E2%80%93%20fr%C3%A5n%20genombrott%20till%20klinisk%20verklighet&fileSize=229246",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "371234",
+          "title": "Vårdsamverkan: Länsgemensam riktlinje för egenvård",
+          "documents": [
+            {
+              "title": "Vårdsamverkan: Länsgemensam riktlinje för egenvård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623191.PDF?fileName=V%C3%A5rdsamverkan%3A%20L%C3%A4nsgemensam%20riktlinje%20f%C3%B6r%20egenv%C3%A5rd&fileSize=173868",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Länsgemensam riktlinje Egenvård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623318.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20Egenv%C3%A5rd&fileSize=453282",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371235",
+          "title": "Länsgemensam riktlinje Oro för väntat barn",
+          "documents": [
+            {
+              "title": "Länsgemensam riktlinje Oro för väntat barn",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4622524.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20Oro%20f%C3%B6r%20v%C3%A4ntat%20barn&fileSize=143345",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Länsgemensam riktlinje Oro för väntat barn",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623110.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20Oro%20f%C3%B6r%20v%C3%A4ntat%20barn&fileSize=416952",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371236",
+          "title": "Länsgemensam riktlinje Medföljande personal till regionens hälso- och sjukvård samt tandvård",
+          "documents": [
+            {
+              "title": "Länsgemensam riktlinje Medföljande personal till regionens hälso- och sjukvård samt tandvård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4622605.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20Medf%C3%B6ljande%20personal%20till%20regionens%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20samt%20tandv%C3%A5rd&fileSize=144641",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Länsgemensam riktlinje Medföljande personal till regionens hälso- och sjukvård samt tandvård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623115.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20Medf%C3%B6ljande%20personal%20till%20regionens%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20samt%20tandv%C3%A5rd&fileSize=484771",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371237",
+          "title": "Länsgemensam riktlinje In- och utskrivning från sluten hälso- och sjukvård",
+          "documents": [
+            {
+              "title": "Länsgemensam riktlinje In- och utskrivning från sluten hälso- och sjukvård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4622612.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20In-%20och%20utskrivning%20fr%C3%A5n%20sluten%20h%C3%A4lso-%20och%20sjukv%C3%A5rd&fileSize=150358",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Länsgemensam riktlinje In- och utskrivning från sluten hälso- och sjukvård i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623123.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20In-%20och%20utskrivning%20fr%C3%A5n%20sluten%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=745355",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371238",
+          "title": "Länsgemensam riktlinje Öppenvårdsprocessen",
+          "documents": [
+            {
+              "title": "Länsgemensam riktlinje Öppenvårdsprocessen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4622678.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20%C3%96ppenv%C3%A5rdsprocessen&fileSize=144085",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Länsgemensam riktlinje Öppenvårdsprocessen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623137.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20%C3%96ppenv%C3%A5rdsprocessen&fileSize=1260474",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371239",
+          "title": "Länsgemensam riktlinje Liggande sjuktransporter mellan kommunala adresser för patienter som vårdas i livets slut",
+          "documents": [
+            {
+              "title": "Länsgemensam riktlinje Liggande sjuktransporter mellan kommunala adresser för patienter som vårdas i livets slut",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4622790.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20Liggande%20sjuktransporter%20mellan%20kommunala%20adresser%20f%C3%B6r%20patienter%20som%20v%C3%A5rdas%20i%20livets%20slut&fileSize=143538",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Länsgemensam riktlinje Liggande sjuktransporter mellan kommunala adresser för patienter som vårdas i livets slut",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623148.PDF?fileName=L%C3%A4nsgemensam%20riktlinje%20Liggande%20sjuktransporter%20mellan%20kommunala%20adresser%20f%C3%B6r%20patienter%20som%20v%C3%A5rdas%20i%20livets%20slut&fileSize=387878",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369425",
+          "title": "Beslut från regionfullmäktige 2026-06-15/16 § 126 - Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15/16 § 126 - Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585174.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%2F16%20%C2%A7%20126%20-%20R%C3%A4ttelse%20av%20regionfullm%C3%A4ktiges%20beslut%202026-05-26%20%C2%A7%20109&fileSize=77615",
+              "category": "Handling in"
+            },
+            {
+              "title": "Rättelse av regionfullmäktiges beslut 2026-05-26 § 109",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585175.PDF?fileName=R%C3%A4ttelse%20av%20regionfullm%C3%A4ktiges%20beslut%202026-05-26%20%C2%A7%20109&fileSize=110819",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 26 maj 2026 - Yttrande över motion av Monika Beiring (M) om pilotprojekt för stärkta m...",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585176.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%2026%20maj%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Monika%20Beiring%20(M)%20om%20pilotprojekt%20f%C3%B6r%20st%C3%A4rkta%20m...&fileSize=131018",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369426",
+          "title": "Beslut från regionfullmäktige 2026-06-15 § 128 - Delårsrapport april 2026 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15 § 128 - Delårsrapport april 2026 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584654.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%20%C2%A7%20128%20-%20Del%C3%A5rsrapport%20april%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=86055",
+              "category": "Handling in"
+            },
+            {
+              "title": "Västra Götalandsregionens delårsrapport april 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584655.PDF?fileName=V%C3%A4stra%20G%C3%B6talandsregionens%20del%C3%A5rsrapport%20april%202026&fileSize=1675335",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369427",
+          "title": "Beslut från regionfullmäktige 2026-06-15 § 132 - Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15 § 132 - Tillfällig avgiftsfrihet för ikappvaccination mot pneumokocker 65+ under 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4587673.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%20%C2%A7%20132%20-%20Tillf%C3%A4llig%20avgiftsfrihet%20f%C3%B6r%20ikappvaccination%20mot%20pneumokocker%2065%2B%20under%202026&fileSize=83011",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "369428",
+          "title": "Beslut från regionfullmäktige 2026-05-26 § 110 - Motion av Daniel Andersson (L) och Richard Brodd (L) om program för stärkt transvård i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-05-26 § 110 - Motion av Daniel Andersson (L) och Richard Brodd (L) om program för stärkt transvård i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4568160.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-05-26%20%C2%A7%20110%20-%20Motion%20av%20Daniel%20Andersson%20(L)%20och%20Richard%20Brodd%20(L)%20om%20program%20f%C3%B6r%20st%C3%A4rkt%20transv%C3%A5rd%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=87792",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "369429",
+          "title": "Beslut från regionfullmäktige 2026-06-15 och 2026-06-16 § 129 - Budget 2027 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15 och 2026-06-16 § 129 - Budget 2027 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585418.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%20och%202026-06-16%20%C2%A7%20129%20-%20Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=137659",
+              "category": "Handling in"
+            },
+            {
+              "title": "Budget 2027 för Västra Götalandsregionen - RödGrön ledning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585419.PDF?fileName=Budget%202027%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%20-%20R%C3%B6dGr%C3%B6n%20ledning&fileSize=853619",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga § 131 Omröstningsprotokoll",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585420.PDF?fileName=Bilaga%20%C2%A7%20131%20Omr%C3%B6stningsprotokoll&fileSize=85232",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369430",
+          "title": "Beslut från regionfullmäktige 2026-06-15/16 § 131 -  Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15/16 § 131 -  Arvodesbestämmelser för förtroendevalda i Västra Götalandsregionen 2026-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4587452.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%2F16%20%C2%A7%20131%20-%20%20Arvodesbest%C3%A4mmelser%20f%C3%B6r%20f%C3%B6rtroendevalda%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%202026-2030&fileSize=124901",
+              "category": "Handling in"
+            },
+            {
+              "title": "Bilaga § 131 Omröstningsprotokoll",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4587453.PDF?fileName=Bilaga%20%C2%A7%20131%20Omr%C3%B6stningsprotokoll&fileSize=85232",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Arvodesbestämmelser 2026-2030 -  Antagen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4587454.PDF?fileName=Arvodesbest%C3%A4mmelser%202026-2030%20-%20%20Antagen&fileSize=554569",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369431",
+          "title": "Beslut från regionfullmäktige 2026-06-15 § 134 - Sammanträdestider 2027 för regionfullmäktige",
+          "documents": [
+            {
+              "title": "Beslut från regionfullmäktige 2026-06-15 § 134 - Sammanträdestider 2027 för regionfullmäktige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4587948.PDF?fileName=Beslut%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-06-15%20%C2%A7%20134%20-%20Sammantr%C3%A4destider%202027%20f%C3%B6r%20regionfullm%C3%A4ktige&fileSize=77865",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "369433",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 171 - Riktlinjer för ersättningar i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-06-22 § 171 - Riktlinjer för ersättningar i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583038.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-06-22%20%C2%A7%20171%20-%20Riktlinjer%20f%C3%B6r%20ers%C3%A4ttningar%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=75253",
+              "category": "Handling in"
+            },
+            {
+              "title": "Förslag - Riktlinje för ersättningar i VGR",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583039.PDF?fileName=F%C3%B6rslag%20-%20Riktlinje%20f%C3%B6r%20ers%C3%A4ttningar%20i%20VGR&fileSize=175344",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga - Remissammanställning förslag till riktlinje för ersättningar i VGR",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583040.PDF?fileName=Bilaga%20-%20Remissammanst%C3%A4llning%20f%C3%B6rslag%20till%20riktlinje%20f%C3%B6r%20ers%C3%A4ttningar%20i%20VGR&fileSize=105829",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369434",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 177 - Fortsatt arbete med utgångspunkt i genomförda presidiedialoger under våren 2026",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-06-22 § 177 - Fortsatt arbete med utgångspunkt i genomförda presidiedialoger under våren 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583318.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-06-22%20%C2%A7%20177%20-%20Fortsatt%20arbete%20med%20utg%C3%A5ngspunkt%20i%20genomf%C3%B6rda%20presidiedialoger%20under%20v%C3%A5ren%202026&fileSize=95495",
+              "category": "Handling in"
+            },
+            {
+              "title": "Gemensam presidiedialog om kompetensförsörjning den 1 april 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583319.PDF?fileName=Gemensam%20presidiedialog%20om%20kompetensf%C3%B6rs%C3%B6rjning%20den%201%20april%202026&fileSize=140539",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Gemensam presidiedialog om tillgänglighet den 6 maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4583320.PDF?fileName=Gemensam%20presidiedialog%20om%20tillg%C3%A4nglighet%20den%206%20maj%202026&fileSize=163143",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "369435",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 179 - Sammanträdestider 2027 för regionstyrelsen, dess utskott och beredningar",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-06-22 § 179 - Sammanträdestider 2027 för regionstyrelsen, dess utskott och beredningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584553.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-06-22%20%C2%A7%20179%20-%20Sammantr%C3%A4destider%202027%20f%C3%B6r%20regionstyrelsen%2C%20dess%20utskott%20och%20beredningar&fileSize=92483",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "369436",
+          "title": "Beslut från regionstyrelsen 2026-06-22 § 170  - Västra Götalandsregionens investeringsplan 2027-2036",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-06-22 § 170  - Västra Götalandsregionens investeringsplan 2027-2036",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585017.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-06-22%20%C2%A7%20170%20%20-%20V%C3%A4stra%20G%C3%B6talandsregionens%20investeringsplan%202027-2036&fileSize=76085",
+              "category": "Handling in"
+            },
+            {
+              "title": "Västra Götalandsregionens investeringsplan 2027-2036",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585018.PDF?fileName=V%C3%A4stra%20G%C3%B6talandsregionens%20investeringsplan%202027-2036&fileSize=990114",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371240",
+          "title": "Beslut från regionstyrelsen 2026-08-27 § 217 - Uppgörelse med Oracle avseende Millenniumavtalet och befintliga system",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-08-27 § 217 - Uppgörelse med Oracle avseende Millenniumavtalet och befintliga system",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644184.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-08-27%20%C2%A7%20217%20-%20Uppg%C3%B6relse%20med%20Oracle%20avseende%20Millenniumavtalet%20och%20befintliga%20system&fileSize=97172",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Uppgörelse med Oracle avseende Millenniumavtalet och befintliga system",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644185.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Uppg%C3%B6relse%20med%20Oracle%20avseende%20Millenniumavtalet%20och%20befintliga%20system&fileSize=163501",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371241",
+          "title": "Beslut från regionstyrelsen 2026-08-25 § 202 - Riktlinjer för nämnders och styrelsers arbete med detaljbudget 2027 och utblick 2028-2029",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-08-25 § 202 - Riktlinjer för nämnders och styrelsers arbete med detaljbudget 2027 och utblick 2028-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649230.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-08-25%20%C2%A7%20202%20-%20Riktlinjer%20f%C3%B6r%20n%C3%A4mnders%20och%20styrelsers%20arbete%20med%20detaljbudget%202027%20och%20utblick%202028-2029&fileSize=76576",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Riktlinjer för nämnders och styrelsers arbete med detaljbudget 2027 och utblick 2028-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649232.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Riktlinjer%20f%C3%B6r%20n%C3%A4mnders%20och%20styrelsers%20arbete%20med%20detaljbudget%202027%20och%20utblick%202028-2029&fileSize=109648",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Riktlinjer för nämnders och styrelsers arbete med detaljbudget 2027 och utblick 2028-2029 (1)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649231.PDF?fileName=Riktlinjer%20f%C3%B6r%20n%C3%A4mnders%20och%20styrelsers%20arbete%20med%20detaljbudget%202027%20och%20utblick%202028-2029%20(1)&fileSize=627817",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga § 202A - Protokollsanteckning från GrönBlå samverkan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649233.PDF?fileName=Bilaga%20%C2%A7%20202A%20-%20Protokollsanteckning%20fr%C3%A5n%20Gr%C3%B6nBl%C3%A5%20samverkan&fileSize=158495",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga § 202B - Protokollsanteckning från (SD)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649234.PDF?fileName=Bilaga%20%C2%A7%20202B%20-%20Protokollsanteckning%20fr%C3%A5n%20(SD)&fileSize=153116",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371242",
+          "title": "Beslut från regionstyrelsen 2026-08-25 § 203 - Utbildningar för förtroendevalda 2026-2030",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-08-25 § 203 - Utbildningar för förtroendevalda 2026-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649279.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-08-25%20%C2%A7%20203%20-%20Utbildningar%20f%C3%B6r%20f%C3%B6rtroendevalda%202026-2030&fileSize=80110",
+              "category": "Handling in"
+            },
+            {
+              "title": "Utbildningskatalog förtroendevalda 2026-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649280.PDF?fileName=Utbildningskatalog%20f%C3%B6rtroendevalda%202026-2030&fileSize=290291",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371243",
+          "title": "Beslut från regionstyrelsen 2026-08-25 § 205 - Upphandlingsplan höst 2026",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-08-25 § 205 - Upphandlingsplan höst 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649311.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-08-25%20%C2%A7%20205%20-%20Upphandlingsplan%20h%C3%B6st%202026&fileSize=77744",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Upphandlingsplan höst 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649312.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Upphandlingsplan%20h%C3%B6st%202026&fileSize=136392",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Upphandlingsplan 2026-2027 Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649313.PDF?fileName=Upphandlingsplan%202026-2027%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=978184",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371244",
+          "title": "Beslut från regionstyrelsen 2026-08-25 § 206 - Riktlinje för Västra Götalandsregionens påverkansarbete",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-08-25 § 206 - Riktlinje för Västra Götalandsregionens påverkansarbete",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649362.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-08-25%20%C2%A7%20206%20-%20Riktlinje%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionens%20p%C3%A5verkansarbete&fileSize=82473",
+              "category": "Handling in"
+            },
+            {
+              "title": "Riktlinje för Västra Götalandsregionens påverkansarbete",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649363.PDF?fileName=Riktlinje%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionens%20p%C3%A5verkansarbete&fileSize=87145",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371245",
+          "title": "Beslut från regionstyrelsen 2026-08-25 § 208 - Redogörelse av Västra Götalandsregionens medverkan i Almedalen 2026",
+          "documents": [
+            {
+              "title": "Beslut från regionstyrelsen 2026-08-25 § 208 - Redogörelse av Västra Götalandsregionens medverkan i Almedalen 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4650567.PDF?fileName=Beslut%20fr%C3%A5n%20regionstyrelsen%202026-08-25%20%C2%A7%20208%20-%20Redog%C3%B6relse%20av%20V%C3%A4stra%20G%C3%B6talandsregionens%20medverkan%20i%20Almedalen%202026&fileSize=91872",
+              "category": "Handling in"
+            },
+            {
+              "title": "Tjänsteutlåtande - Redogörelse av Västra Götalandsregionens medverkan i Almedalen 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4650568.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%20-%20Redog%C3%B6relse%20av%20V%C3%A4stra%20G%C3%B6talandsregionens%20medverkan%20i%20Almedalen%202026&fileSize=175913",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Redogörelse av Västra Götalandsregionens medverkan i Almedalen 2026 (1)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4650569.PDF?fileName=Redog%C3%B6relse%20av%20V%C3%A4stra%20G%C3%B6talandsregionens%20medverkan%20i%20Almedalen%202026%20(1)&fileSize=216654",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga § 208 - Protokollsanteckning från (SD)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4650570.PDF?fileName=Bilaga%20%C2%A7%20208%20-%20Protokollsanteckning%20fr%C3%A5n%20(SD)&fileSize=170458",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371390",
+          "title": "Beslut från personalutskottet 2026-09-15 § 45 - Revidering och förlängning av VGR Akademins\nuppdrag",
+          "documents": [
+            {
+              "title": "Beslut från personalutskottet 2026-09-15 § 45 - Revidering och förlängning av VGR Akademins\nuppdrag",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4668673.PDF?fileName=Beslut%20fr%C3%A5n%20personalutskottet%202026-09-15%20%C2%A7%2045%20-%20Revidering%20och%20f%C3%B6rl%C3%A4ngning%20av%20VGR%20Akademins%0Auppdrag&fileSize=82240",
+              "category": "Handling in"
+            },
+            {
+              "title": "Reviderat uppdrag för VGR Akademin",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4668674.PDF?fileName=Reviderat%20uppdrag%20f%C3%B6r%20VGR%20Akademin&fileSize=116756",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371250",
+          "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-05-29 § 158 - Svar på skrivelse från strategiska hälso- och sjukvårdsnämnden angående ungdomsmottagningar",
+          "documents": [
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-05-29 § 158 - Svar på skrivelse från strategiska hälso- och sjukvårdsnämnden angående ungdomsmottagningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571541.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-29%20%C2%A7%20158%20-%20Svar%20p%C3%A5%20skrivelse%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20ang%C3%A5ende%20ungdomsmottagningar&fileSize=77335",
+              "category": "Handling in"
+            },
+            {
+              "title": "Svar på skrivelse från strategiska hälso- och sjukvårdsnämnden angående ungdomsmottagningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571542.PDF?fileName=Svar%20p%C3%A5%20skrivelse%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20ang%C3%A5ende%20ungdomsmottagningar&fileSize=141266",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Information UM per kommun I Västra Götaland 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571543.PDF?fileName=Information%20UM%20per%20kommun%20I%20V%C3%A4stra%20G%C3%B6taland%202026&fileSize=6061067",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Informationsmaterial för ungdomsmottagningar i VG 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571544.PDF?fileName=Informationsmaterial%20f%C3%B6r%20ungdomsmottagningar%20i%20VG%202026&fileSize=1774032",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371251",
+          "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-05-29 § 168 - Medel för flickors och kvinnors hälsa 2026",
+          "documents": [
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-05-29 § 168 - Medel för flickors och kvinnors hälsa 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571328.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-29%20%C2%A7%20168%20-%20Medel%20f%C3%B6r%20flickors%20och%20kvinnors%20h%C3%A4lsa%202026&fileSize=99900",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "371252",
+          "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-05-29 § 167 - Nytillkomna riktade statsbidrag hälso- och sjukvård 2026 samt justering statsbidrag 2026",
+          "documents": [
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-05-29 § 167 - Nytillkomna riktade statsbidrag hälso- och sjukvård 2026 samt justering statsbidrag 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571344.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-05-29%20%C2%A7%20167%20-%20Nytillkomna%20riktade%20statsbidrag%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%202026%20samt%20justering%20statsbidrag%202026&fileSize=114448",
+              "category": "Handling in"
+            },
+            {
+              "title": "Fördelning av nytillkomna riktade statsbidrag hälso- och sjukvård samt justering statsbidrag 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571345.PDF?fileName=F%C3%B6rdelning%20av%20nytillkomna%20riktade%20statsbidrag%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20samt%20justering%20statsbidrag%202026&fileSize=48307",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371253",
+          "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-06-17 § 219 - Information om regional plan för psykisk hälsa och suicidprevention i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-06-17 § 219 - Information om regional plan för psykisk hälsa och suicidprevention i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4601889.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20219%20-%20Information%20om%20regional%20plan%20f%C3%B6r%20psykisk%20h%C3%A4lsa%20och%20suicidprevention%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=107724",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "371254",
+          "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-08-26 § 267 - Statsbidrag för ökat antal IVF-försök 2026",
+          "documents": [
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-08-26 § 267 - Statsbidrag för ökat antal IVF-försök 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4654961.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-08-26%20%C2%A7%20267%20-%20Statsbidrag%20f%C3%B6r%20%C3%B6kat%20antal%20IVF-f%C3%B6rs%C3%B6k%202026&fileSize=77097",
+              "category": "Handling in"
+            },
+            {
+              "title": "Statsbidrag för ökat antal IVF-försök 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4654962.PDF?fileName=Statsbidrag%20f%C3%B6r%20%C3%B6kat%20antal%20IVF-f%C3%B6rs%C3%B6k%202026&fileSize=109974",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371255",
+          "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-06-17 § 209 - Tandvård för asylsökande och papperslösa i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Beslut från operativa hälso- och sjukvårdsnämnden 2026-06-17 § 209 - Tandvård för asylsökande och papperslösa i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4604794.PDF?fileName=Beslut%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-06-17%20%C2%A7%20209%20-%20Tandv%C3%A5rd%20f%C3%B6r%20asyls%C3%B6kande%20och%20pappersl%C3%B6sa%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=100841",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "371385",
+          "title": "Utskick av protokollsutdrag från beredningen för psykisk hälsas sammanträde den 3 juni 2026 - Information om förstärkt samverkan mellan Barn- och ungdomspsykiatrin och Statens institutionsstyrelse för barn och unga med normbrytande beteende",
+          "documents": [
+            {
+              "title": "Utskick av protokollsutdrag från beredningen för psykisk hälsas sammanträde den 3 juni 2026 - Information om förstärkt samverkan mellan Barn- och ungdomspsykiatrin och Statens institutionsstyrelse för barn och unga med normbrytande beteende",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4569776.PDF?fileName=Utskick%20av%20protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20psykisk%20h%C3%A4lsas%20sammantr%C3%A4de%20den%203%20juni%202026%20-%20Information%20om%20f%C3%B6rst%C3%A4rkt%20samverkan%20mellan%20Barn-%20och%20ungdomspsykiatrin%20och%20Statens%20institutionsstyrelse%20f%C3%B6r%20barn%20och%20unga%20med%20normbrytande%20beteende&fileSize=63053",
+              "category": "Handling ut"
+            },
+            {
+              "title": "Protokollsutdrag från beredningen för psykisk hälsas sammanträde den 3 juni 2026 - Information om förstärkt samverkan mellan Barn- och ungdomsp...",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4569777.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20psykisk%20h%C3%A4lsas%20sammantr%C3%A4de%20den%203%20juni%202026%20-%20Information%20om%20f%C3%B6rst%C3%A4rkt%20samverkan%20mellan%20Barn-%20och%20ungdomsp...&fileSize=107377",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371386",
+          "title": "Utskick av protokollsutdrag från beredningen för psykisk hälsas sammanträde den 28 augusti 2026 - Nulägesbeskrivning av Mini-Maria i Västra Götaland",
+          "documents": [
+            {
+              "title": "Utskick av protokollsutdrag från beredningen för psykisk hälsas sammanträde den 28 augusti 2026 - Nulägesbeskrivning av Mini-Maria i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4656083.PDF?fileName=Utskick%20av%20protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20psykisk%20h%C3%A4lsas%20sammantr%C3%A4de%20den%2028%20augusti%202026%20-%20Nul%C3%A4gesbeskrivning%20av%20Mini-Maria%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=56939",
+              "category": "Handling ut"
+            },
+            {
+              "title": "Protokollsutdrag från beredningen för psykisk hälsas sammanträde den 28 augusti 2026 - Nulägesbeskrivning av Mini-Maria i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4656084.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20psykisk%20h%C3%A4lsas%20sammantr%C3%A4de%20den%2028%20augusti%202026%20-%20Nul%C3%A4gesbeskrivning%20av%20Mini-Maria%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=80387",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371387",
+          "title": "Utskick av protokollsutdrag från beredningen för psykisk hälsas sammanträde den 3 juni 2026 - Information om samverkan och finansiering av brukarorganisationer avseende brukarrevisioner",
+          "documents": [
+            {
+              "title": "Utskick av protokollsutdrag från beredningen för psykisk hälsas sammanträde den 3 juni 2026 - Information om samverkan och finansiering av brukarorganisationer avseende brukarrevisioner",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4569787.PDF?fileName=Utskick%20av%20protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20psykisk%20h%C3%A4lsas%20sammantr%C3%A4de%20den%203%20juni%202026%20-%20Information%20om%20samverkan%20och%20finansiering%20av%20brukarorganisationer%20avseende%20brukarrevisioner&fileSize=56429",
+              "category": "Handling ut"
+            },
+            {
+              "title": "Protokollsutdrag från beredningen för psykisk hälsas sammanträde den 3 juni 2026 - Information om samverkan och finansiering av brukarorganisat...",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4569788.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20psykisk%20h%C3%A4lsas%20sammantr%C3%A4de%20den%203%20juni%202026%20-%20Information%20om%20samverkan%20och%20finansiering%20av%20brukarorganisat...&fileSize=81043",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371388",
+          "title": "Utskick av protokollsutdrag från beredningen för psykisk hälsas sammanträde den 28 augusti 2026 - Förslag på modell för samlad uppföljning psykisk hälsa",
+          "documents": [
+            {
+              "title": "Utskick av protokollsutdrag från beredningen för psykisk hälsas sammanträde den 28 augusti 2026 - Förslag på modell för samlad uppföljning psykisk hälsa",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4656063.PDF?fileName=Utskick%20av%20protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20psykisk%20h%C3%A4lsas%20sammantr%C3%A4de%20den%2028%20augusti%202026%20-%20F%C3%B6rslag%20p%C3%A5%20modell%20f%C3%B6r%20samlad%20uppf%C3%B6ljning%20psykisk%20h%C3%A4lsa&fileSize=61432",
+              "category": "Handling ut"
+            },
+            {
+              "title": "Protokollsutdrag från beredningen för psykisk hälsas sammanträde den 28 augusti 2026 - Förslag på modell för samlad uppföljning psykisk hälsa",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4656064.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20beredningen%20f%C3%B6r%20psykisk%20h%C3%A4lsas%20sammantr%C3%A4de%20den%2028%20augusti%202026%20-%20F%C3%B6rslag%20p%C3%A5%20modell%20f%C3%B6r%20samlad%20uppf%C3%B6ljning%20psykisk%20h%C3%A4lsa&fileSize=72064",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371389",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 76 - Initiativärende: Ungdomsmottagningarnas förutsättningar i Västra Götaland",
+          "documents": [
+            {
+              "title": "Beslut från styrelsen för Regionhälsan 2026-06-23 § 76 - Initiativärende: Ungdomsmottagningarnas förutsättningar i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592183.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Regionh%C3%A4lsan%202026-06-23%20%C2%A7%2076%20-%20Initiativ%C3%A4rende%3A%20Ungdomsmottagningarnas%20f%C3%B6ruts%C3%A4ttningar%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=88115",
+              "category": "Handling in"
+            },
+            {
+              "title": "Initiativärende- Ungdomsmottagningarnas förutsättningar i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592184.PDF?fileName=Initiativ%C3%A4rende-%20Ungdomsmottagningarnas%20f%C3%B6ruts%C3%A4ttningar%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=161313",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Information UM per kommun i Västra Götaland 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592185.PDF?fileName=Information%20UM%20per%20kommun%20i%20V%C3%A4stra%20G%C3%B6taland%202026&fileSize=7526071",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Underlag för personalbehov för verksamhet i balans",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592186.PDF?fileName=Underlag%20f%C3%B6r%20personalbehov%20f%C3%B6r%20verksamhet%20i%20balans&fileSize=641850",
+              "category": "Bilaga"
+            },
+            {
+              "title": "UM Planperiod 2026-2028",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592187.PDF?fileName=UM%20Planperiod%202026-2028&fileSize=386382",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Excelmall UM per kommun",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592188.PDF?fileName=Excelmall%20UM%20per%20kommun&fileSize=424753",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Initiativärende (presidiet) - Ungdomsmottagningarnas förutsättningar i Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4592189.PDF?fileName=Initiativ%C3%A4rende%20(presidiet)%20-%20Ungdomsmottagningarnas%20f%C3%B6ruts%C3%A4ttningar%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=101218",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371391",
+          "title": "Beslut från beredningen för krav- och kvalitetsböcker 2026-08-21 § 66 - Krav- och kvalitetsbok förfrågningsunderlag Vårdval vårdcentral 2027",
+          "documents": [
+            {
+              "title": "Beslut från beredningen för krav- och kvalitetsböcker 2026-08-21 § 66 - Krav- och kvalitetsbok förfrågningsunderlag Vårdval vårdcentral 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4650265.PDF?fileName=Beslut%20fr%C3%A5n%20beredningen%20f%C3%B6r%20krav-%20och%20kvalitetsb%C3%B6cker%202026-08-21%20%C2%A7%2066%20-%20Krav-%20och%20kvalitetsbok%20f%C3%B6rfr%C3%A5gningsunderlag%20V%C3%A5rdval%20v%C3%A5rdcentral%202027&fileSize=169826",
+              "category": "Handling in"
+            },
+            {
+              "title": "Protokollsanteckning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4650266.PDF?fileName=Protokollsanteckning&fileSize=189639",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Förslag till ny skrivning inför beslut om Krav- och kvalitetsbok Vårdval rehab 2027 samt aktuell skrivning Krav- och kvalitetsbo",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4650267.PDF?fileName=F%C3%B6rslag%20till%20ny%20skrivning%20inf%C3%B6r%20beslut%20om%20Krav-%20och%20kvalitetsbok%20V%C3%A5rdval%20rehab%202027%20samt%20aktuell%20skrivning%20Krav-%20och%20kvalitetsbo&fileSize=1034342",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371392",
+          "title": "Beslut från beredningen för krav- och kvalitetsböcker 2026-08-21 § 67 - Krav- och kvalitetsbok förfrågningsunderlag Vårdval rehab 2027",
+          "documents": [
+            {
+              "title": "Beslut från beredningen för krav- och kvalitetsböcker 2026-08-21 § 67 - Krav- och kvalitetsbok förfrågningsunderlag Vårdval rehab 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4650306.PDF?fileName=Beslut%20fr%C3%A5n%20beredningen%20f%C3%B6r%20krav-%20och%20kvalitetsb%C3%B6cker%202026-08-21%20%C2%A7%2067%20-%20Krav-%20och%20kvalitetsbok%20f%C3%B6rfr%C3%A5gningsunderlag%20V%C3%A5rdval%20rehab%202027&fileSize=169826",
+              "category": "Handling in"
+            },
+            {
+              "title": "Protokollsanteckning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4650307.PDF?fileName=Protokollsanteckning&fileSize=189639",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Förslag till ny skrivning inför beslut om Krav- och kvalitetsbok Vårdval rehab 2027 samt aktuell skrivning Krav- och kvalitetsbo",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4650308.PDF?fileName=F%C3%B6rslag%20till%20ny%20skrivning%20inf%C3%B6r%20beslut%20om%20Krav-%20och%20kvalitetsbok%20V%C3%A5rdval%20rehab%202027%20samt%20aktuell%20skrivning%20Krav-%20och%20kvalitetsbo&fileSize=1034342",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371393",
+          "title": "Mötesanteckningar från presidiedialog mellan SSN, OSN och DRN den 8 maj 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar från presidiedialog mellan SSN, OSN och DRN den 8 maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578385.PDF?fileName=M%C3%B6tesanteckningar%20fr%C3%A5n%20presidiedialog%20mellan%20SSN%2C%20OSN%20och%20DRN%20den%208%20maj%202026&fileSize=64050",
+              "category": "Handling ut"
+            },
+            {
+              "title": "Mötesanteckningar presidiedialog mellan SSN, OSN och DRN 2026-05-08",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578386.PDF?fileName=M%C3%B6tesanteckningar%20presidiedialog%20mellan%20SSN%2C%20OSN%20och%20DRN%202026-05-08&fileSize=186466",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 1 - Information Ungdomsmottagningar per kommun",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578387.PDF?fileName=Bilaga%201%20-%20Information%20Ungdomsmottagningar%20per%20kommun&fileSize=7576851",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 2 - Informationsmaterial för ungdomsmottagningar i VG 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578388.PDF?fileName=Bilaga%202%20-%20Informationsmaterial%20f%C3%B6r%20ungdomsmottagningar%20i%20VG%202026&fileSize=948008",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 3 - Information om pågående arbete inför samsjuklighetsreformen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578389.PDF?fileName=Bilaga%203%20-%20Information%20om%20p%C3%A5g%C3%A5ende%20arbete%20inf%C3%B6r%20samsjuklighetsreformen&fileSize=164889",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 4 - Implementering av hälso- och sjukvårdsavtal",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578390.PDF?fileName=Bilaga%204%20-%20Implementering%20av%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsavtal&fileSize=526213",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 5 - Nästkommande dialog den 30 september",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578391.PDF?fileName=Bilaga%205%20-%20N%C3%A4stkommande%20dialog%20den%2030%20september&fileSize=91934",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371394",
+          "title": "Mötesanteckningar från presidiedialog mellan SSN och SFSS den 12 maj 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar från presidiedialog mellan SSN och SFSS den 12 maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578501.PDF?fileName=M%C3%B6tesanteckningar%20fr%C3%A5n%20presidiedialog%20mellan%20SSN%20och%20SFSS%20den%2012%20maj%202026&fileSize=81809",
+              "category": "Handling ut"
+            },
+            {
+              "title": "Mötesanteckningar presidiedialog mellan SSN och SFSS 2026-05-12",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578502.PDF?fileName=M%C3%B6tesanteckningar%20presidiedialog%20mellan%20SSN%20och%20SFSS%202026-05-12&fileSize=184550",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 1 - Pågående arbeten av strategisk karaktär",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578503.PDF?fileName=Bilaga%201%20-%20P%C3%A5g%C3%A5ende%20arbeten%20av%20strategisk%20karakt%C3%A4r&fileSize=555226",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 2 - Strategisk plan för hälso- och sjukvårdens lokalstruktur",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578504.PDF?fileName=Bilaga%202%20-%20Strategisk%20plan%20f%C3%B6r%20h%C3%A4lso-%20och%20sjukv%C3%A5rdens%20lokalstruktur&fileSize=283856",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370285",
+          "title": "Workshop - erfarenheter och medskick från mandatperioden 2023-2026",
+          "documents": []
+        }
+      ]
+    },
     "222298|2026-09-23": {
       "meetingId": "3245755",
       "items": [
