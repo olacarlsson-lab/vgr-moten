@@ -77,7 +77,7 @@
           "documents": [
             {
               "title": "Kompletterande underlag till långsiktig inriktning för Skaraborgs Sjukhus Mariestad som nav för god och nära vård",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4551511.PDF?fileName=Kompletterande%20underlag%20till%20l%C3%A5ngsiktig%20inriktning%20f%C3%B6r%20Skaraborgs%20Sjukhus%20Mariestad%20som%20nav%20f%C3%B6r%20god%20och%20n%C3%A4ra%20v%C3%A5rd&fileSize=196930",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4551511.PDF?fileName=Kompletterande%20underlag%20till%20l%C3%A5ngsiktig%20inriktning%20f%C3%B6r%20Skaraborgs%20Sjukhus%20Mariestad%20som%20nav%20f%C3%B6r%20god%20och%20n%C3%A4ra%20v%C3%A5rd&fileSize=196730",
               "category": "Tjänsteutlåtande"
             },
             {
@@ -1514,7 +1514,18 @@
         {
           "agendaId": "371383",
           "title": "113 - Svar till delregionalnämnd västra rörande fungerade tillgänglighetsteknik",
-          "documents": []
+          "documents": [
+            {
+              "title": "Svar till delregionalnämnd västra rörande fungerade tillgänglighetsteknik",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4668887.PDF?fileName=Svar%20till%20delregionaln%C3%A4mnd%20v%C3%A4stra%20r%C3%B6rande%20fungerade%20tillg%C3%A4nglighetsteknik&fileSize=97200",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Protokollsutdrag från delregional nämnd västra, 2026-05-21. Väckt Ärende - om att säkerställa fungerande tillgänglighetsteknik i Västra Götalandsregionens lokaler",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4669916.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20delregional%20n%C3%A4mnd%20v%C3%A4stra%2C%202026-05-21.%20V%C3%A4ckt%20%C3%84rende%20-%20om%20att%20s%C3%A4kerst%C3%A4lla%20fungerande%20tillg%C3%A4nglighetsteknik%20i%20V%C3%A4stra%20G%C3%B6talandsregionens%20lokaler&fileSize=74599",
+              "category": "Bilaga"
+            }
+          ]
         },
         {
           "agendaId": "370814",
@@ -2679,6 +2690,11 @@
               "title": "Samlad uppföljning hälso- och sjukvård per augusti 2026",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4639215.PDF?fileName=Samlad%20uppf%C3%B6ljning%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20per%20augusti%202026&fileSize=110561",
               "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Status i arbetet med tillgängligheten augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670954.PDF?fileName=Status%20i%20arbetet%20med%20tillg%C3%A4ngligheten%20augusti%202026&fileSize=1468116",
+              "category": "Bilaga"
             }
           ]
         },
@@ -3140,6 +3156,135 @@
               "title": "Beslut från beredningen för psykisk hälsa 2026-08-26 § 36  - Nulägesbeskrivning av Mini-Maria i Västra Götaland",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4656631.PDF?fileName=Beslut%20fr%C3%A5n%20beredningen%20f%C3%B6r%20psykisk%20h%C3%A4lsa%202026-08-26%20%C2%A7%2036%20%20-%20Nul%C3%A4gesbeskrivning%20av%20Mini-Maria%20i%20V%C3%A4stra%20G%C3%B6taland&fileSize=80387",
               "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "371566",
+          "title": "Mötesanteckningar från presidiedialog mellan styrelsen för Sahlgrenska Universitetssjukhuset och operativa hälso- och sjukvårdsnämnden den 19 augusti 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar från presidiedialog mellan styrelsen för Sahlgrenska Universitetssjukhuset och operativa hälso- och sjukvårdsnämnden den 19 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4668198.PDF?fileName=M%C3%B6tesanteckningar%20fr%C3%A5n%20presidiedialog%20mellan%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%20och%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%20den%2019%20augusti%202026&fileSize=210257",
+              "category": "Handling upprättad"
+            },
+            {
+              "title": "Bildspel SU den 19 augusti",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670532.PDF?fileName=Bildspel%20SU%20den%2019%20augusti&fileSize=515264",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371572",
+          "title": "Mötesanteckningar från presidiedialog mellan styrelsen för Sjukhusen i väster och operativa hälso- och sjukvårdsnämnden den 19 augusti 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar SV och OSN den 19 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4668233.PDF?fileName=M%C3%B6tesanteckningar%20SV%20och%20OSN%20den%2019%20augusti%202026&fileSize=198031",
+              "category": "Handling upprättad"
+            },
+            {
+              "title": "Bildspel SV den 19 augusti",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670549.PDF?fileName=Bildspel%20SV%20den%2019%20augusti&fileSize=135949",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371573",
+          "title": "Mötesanteckningar från presidiedialog mellan styrelsen för NU-sjukvården och operativa hälso- och sjukvårdsnämnden den 19 augusti 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar NU och OSN den 19 augusti  2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4668314.PDF?fileName=M%C3%B6tesanteckningar%20NU%20och%20OSN%20den%2019%20augusti%20%202026&fileSize=203063",
+              "category": "Handling upprättad"
+            },
+            {
+              "title": "Bildspel NU den 19 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670563.PDF?fileName=Bildspel%20NU%20den%2019%20augusti%202026&fileSize=2342671",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371574",
+          "title": "Mötesanteckningar från presidiedialog mellan styrelsen för Skaraborgs Sjukhus och operativa hälso- och sjukvårdsnämnden den 19 augusti 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar SkaS och OSN den 19 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670825.PDF?fileName=M%C3%B6tesanteckningar%20SkaS%20och%20OSN%20den%2019%20augusti%202026&fileSize=237958",
+              "category": "Handling upprättad"
+            },
+            {
+              "title": "Bildspel SKAS den 19 augusti 2026 (002)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670826.PDF?fileName=Bildspel%20SKAS%20den%2019%20augusti%202026%20(002)&fileSize=56653",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371575",
+          "title": "Mötesanteckningar från presidiedialog mellan styrelsen för Södra Älvsborgs Sjukhus och operativa hälso- och \nsjukvårdsnämnden den 19 augusti 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar SÄS och OSN den 19 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670845.PDF?fileName=M%C3%B6tesanteckningar%20S%C3%84S%20och%20OSN%20den%2019%20augusti%202026&fileSize=219050",
+              "category": "Handling upprättad"
+            },
+            {
+              "title": "Bildspel SÄS 19 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670851.PDF?fileName=Bildspel%20S%C3%84S%2019%20augusti%202026&fileSize=54322",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371576",
+          "title": "Mötesanteckningar presidiedialog mellan styrelsen för Regionhälsan och operativa hälso- och sjukvårdsnämnden den 19 augusti 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar RH och OSN den 19 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4671049.PDF?fileName=M%C3%B6tesanteckningar%20RH%20och%20OSN%20den%2019%20augusti%202026&fileSize=194306",
+              "category": "Handling upprättad"
+            },
+            {
+              "title": "Bildspel RH den 19 augusti 2026 (002)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4671055.PDF?fileName=Bildspel%20RH%20den%2019%20augusti%202026%20(002)&fileSize=594549",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371577",
+          "title": "Mötesanteckningar presidiedialog mellan styrelsen för Närhälsan och operativa hälso- och sjukvårdsnämnden den 19 augusti 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar Närhälsan och OSN den 19 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4671044.PDF?fileName=M%C3%B6tesanteckningar%20N%C3%A4rh%C3%A4lsan%20och%20OSN%20den%2019%20augusti%202026&fileSize=224118",
+              "category": "Handling upprättad"
+            }
+          ]
+        },
+        {
+          "agendaId": "371578",
+          "title": "Mötesanteckning presidiedialog mellan styrelsen för\nFolktandvården och operativa hälso- och sjukvårdsnämnden den 19 augusti 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar dialog FTV och OSN den 19 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4671026.PDF?fileName=M%C3%B6tesanteckningar%20dialog%20FTV%20och%20OSN%20den%2019%20augusti%202026&fileSize=199501",
+              "category": "Handling upprättad"
+            }
+          ]
+        },
+        {
+          "agendaId": "371579",
+          "title": "Mötesanteckning Presidiedialog mellan styrelsen för Habilitering & Hälsa och operativa hälso- och sjukvårdsnämnden den 19 augusti 2026",
+          "documents": [
+            {
+              "title": "Mötesanteckningar HH och OSN den 19 augusti 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4671034.PDF?fileName=M%C3%B6tesanteckningar%20HH%20och%20OSN%20den%2019%20augusti%202026&fileSize=248616",
+              "category": "Handling upprättad"
             }
           ]
         }
@@ -4039,6 +4184,11 @@
         {
           "agendaId": "370731",
           "title": "Beslut från styrelsen för fastighet, stöd och service 2026-08-28 § 97 - Sahlgrenska Sjukhuset byggnad 5071\ngenomförandebeslut installation av avfuktning på operationsaggregat MÄFI projektnummer 11583",
+          "documents": []
+        },
+        {
+          "agendaId": "371538",
+          "title": "Skyddad: OSL 18 kap 8 § Säkerhets- eller bevakningsåtgärd",
           "documents": []
         }
       ]
