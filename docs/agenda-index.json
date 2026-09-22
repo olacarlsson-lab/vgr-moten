@@ -1,5 +1,120 @@
 {
   "meetings": {
+    "212298|2026-09-29": {
+      "meetingId": "3184058",
+      "items": [
+        {
+          "agendaId": "370553",
+          "title": "69 - Policy för Västra Götalandsregionens budgetprocess",
+          "documents": [
+            {
+              "title": "Policy för Västra Götalandsregionens budgetprocess",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4585643.PDF?fileName=Policy%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionens%20budgetprocess&fileSize=160858",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Policy för Västra Götalandsregionens budgetprocess",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4651177.PDF?fileName=Policy%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionens%20budgetprocess&fileSize=117628",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Sammanställning av inkomna remissvar på förslag till Policy för Västra Götalandsregionens budgetprocess",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4651095.PDF?fileName=Sammanst%C3%A4llning%20av%20inkomna%20remissvar%20p%C3%A5%20f%C3%B6rslag%20till%20Policy%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionens%20budgetprocess&fileSize=110175",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370555",
+          "title": "70 - Målbild för ny vårdinformationsmiljö",
+          "documents": [
+            {
+              "title": "Målbild för ny vårdinformationsmiljö",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4644450.PDF?fileName=M%C3%A5lbild%20f%C3%B6r%20ny%20v%C3%A5rdinformationsmilj%C3%B6&fileSize=133052",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Målbild vårdinformationsmiljö - förslag till beslut",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4648246.PDF?fileName=M%C3%A5lbild%20v%C3%A5rdinformationsmilj%C3%B6%20-%20f%C3%B6rslag%20till%20beslut&fileSize=198023",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från digitaliseringsutskottets sammanträde den 4 september 2026 - Målbild för ny vårdinformationsmiljö",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4654394.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20digitaliseringsutskottets%20sammantr%C3%A4de%20den%204%20september%202026%20-%20M%C3%A5lbild%20f%C3%B6r%20ny%20v%C3%A5rdinformationsmilj%C3%B6&fileSize=74689",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från personalutskottets sammanträde den 15 september 2026 - Målbild för ny vårdinformationsmiljö",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4666210.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20personalutskottets%20sammantr%C3%A4de%20den%2015%20september%202026%20-%20M%C3%A5lbild%20f%C3%B6r%20ny%20v%C3%A5rdinformationsmilj%C3%B6&fileSize=76472",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370552",
+          "title": "71 - Nästa steg gällande förändrad ägarstruktur i Almi-koncernen för Västsverige",
+          "documents": [
+            {
+              "title": "Nästa steg gällande förändrad ägarstruktur i Almi-koncernen för Västsverige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4553029.PDF?fileName=N%C3%A4sta%20steg%20g%C3%A4llande%20f%C3%B6r%C3%A4ndrad%20%C3%A4garstruktur%20i%20Almi-koncernen%20f%C3%B6r%20V%C3%A4stsverige&fileSize=164565",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Bilaga 1 - Processbeskrivning för omstrukturering av Almi i Västsverige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4651275.PDF?fileName=Bilaga%201%20-%20Processbeskrivning%20f%C3%B6r%20omstrukturering%20av%20Almi%20i%20V%C3%A4stsverige&fileSize=111906",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 2 – Samverkansavtal för Almi Västsverige AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4652092.PDF?fileName=Bilaga%202%20%E2%80%93%20Samverkansavtal%20f%C3%B6r%20Almi%20V%C3%A4stsverige%20AB&fileSize=140017",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 4 – Ägaranvisning för Almi Västsverige AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4652093.PDF?fileName=Bilaga%204%20%E2%80%93%20%C3%84garanvisning%20f%C3%B6r%20Almi%20V%C3%A4stsverige%20AB&fileSize=104792",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370554",
+          "title": "72 - Nästa steg för minskad internhandel i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Nästa steg för minskad internhandel i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4646740.PDF?fileName=N%C3%A4sta%20steg%20f%C3%B6r%20minskad%20internhandel%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=228645",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Bilaga 1 - uppskattade växlingar av regionbidrag per nämnd och styrelse",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4668914.PDF?fileName=Bilaga%201%20-%20uppskattade%20v%C3%A4xlingar%20av%20regionbidrag%20per%20n%C3%A4mnd%20och%20styrelse&fileSize=164023",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "370793",
+          "title": "73 - Information om reglementen för nämnder och styrelser 2027-2030",
+          "documents": [
+            {
+              "title": "Information om reglementen för nämnder och styrelser 2027-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4659843.PDF?fileName=Information%20om%20reglementen%20f%C3%B6r%20n%C3%A4mnder%20och%20styrelser%202027-2030&fileSize=95399",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "371588",
+          "title": "Information från regiondirektören",
+          "documents": []
+        },
+        {
+          "agendaId": "371589",
+          "title": "Uppföljning ekonomi och verksamhet i balans",
+          "documents": []
+        }
+      ]
+    },
     "222299|2026-09-25": {
       "meetingId": "3191856",
       "items": [
