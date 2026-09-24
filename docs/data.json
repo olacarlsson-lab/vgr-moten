@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T01:37:32.289Z",
+  "generatedAt": "2026-09-24T06:43:15.907Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1168,7 +1168,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4663710.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-09-25&fileSize=160158"
         }
       ],
-      "agendaDocCount": 178
+      "agendaDocCount": 183
     },
     {
       "key": "222324|2026-09-25",
@@ -1185,7 +1185,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670114.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-09-25&fileSize=117150"
         }
       ],
-      "agendaDocCount": 93
+      "agendaDocCount": 95
     },
     {
       "key": "209231|2026-09-24",
@@ -1251,9 +1251,13 @@
         {
           "title": "Kallelse regionstyrelsen 2026-09-22",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4663128.PDF?fileName=Kallelse%20regionstyrelsen%202026-09-22&fileSize=146106"
+        },
+        {
+          "title": "Protokoll regionstyrelsen 2026-09-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4666676.PDF?fileName=Protokoll%20regionstyrelsen%202026-09-22&fileSize=1680425"
         }
       ],
-      "agendaDocCount": 119
+      "agendaDocCount": 147
     },
     {
       "key": "222298|2026-09-09",
