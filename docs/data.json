@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T08:22:20.027Z",
+  "generatedAt": "2026-09-25T14:08:26.657Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1126,13 +1126,13 @@
     },
     {
       "key": "212210|2026-10-02",
-      "meetingId": "",
+      "meetingId": "3375808",
       "boardId": "212210",
       "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
       "date": "2026-10-02",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3375808",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -1185,7 +1185,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670114.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-09-25&fileSize=117150"
         }
       ],
-      "agendaDocCount": 95
+      "agendaDocCount": 98
     },
     {
       "key": "209231|2026-09-24",
@@ -1257,7 +1257,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4666676.PDF?fileName=Protokoll%20regionstyrelsen%202026-09-22&fileSize=1680425"
         }
       ],
-      "agendaDocCount": 147
+      "agendaDocCount": 152
     },
     {
       "key": "222298|2026-09-09",
