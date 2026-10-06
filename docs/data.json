@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:04:18.542Z",
+  "generatedAt": "2026-10-06T14:14:03.712Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1112,7 +1112,7 @@
       "documents": [
         {
           "title": "Kallelse beredningen för hållbar utveckling 2026-10-08",
-          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4680755.PDF?fileName=Kallelse%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-10-08&fileSize=140470"
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4680755.PDF?fileName=Kallelse%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-10-08&fileSize=140483"
         }
       ],
       "agendaDocCount": 0
@@ -1132,7 +1132,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4677513.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-10-06&fileSize=125679"
         }
       ],
-      "agendaDocCount": 105
+      "agendaDocCount": 107
     },
     {
       "key": "212210|2026-10-02",
@@ -1180,9 +1180,13 @@
         {
           "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-09-25",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4663710.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-09-25&fileSize=160158"
+        },
+        {
+          "title": "Protokoll  strategiska hälso- och sjukvårdsnämnden 2026-09-25",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4670948.PDF?fileName=Protokoll%20%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-09-25&fileSize=1655222"
         }
       ],
-      "agendaDocCount": 183
+      "agendaDocCount": 219
     },
     {
       "key": "222324|2026-09-25",
@@ -1256,9 +1260,13 @@
         {
           "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-09-23",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4665383.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-09-23&fileSize=168565"
+        },
+        {
+          "title": "Protokoll  operativa hälso- och sjukvårdsnämnden 2026-09-23",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4671984.PDF?fileName=Protokoll%20%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-09-23&fileSize=2779991"
         }
       ],
-      "agendaDocCount": 152
+      "agendaDocCount": 200
     },
     {
       "key": "212458|2026-09-22",
