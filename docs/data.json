@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T09:11:31.587Z",
+  "generatedAt": "2026-10-07T16:32:24.470Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -260,6 +260,10 @@
     },
     {
       "id": "207881",
+      "name": "styrelsen för Närhälsan"
+    },
+    {
+      "id": "227392",
       "name": "styrelsen för Närhälsan"
     },
     {
