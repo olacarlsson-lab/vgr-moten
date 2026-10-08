@@ -694,13 +694,8 @@
           "documents": []
         },
         {
-          "agendaId": "370462",
-          "title": "171 - Valärenden",
-          "documents": []
-        },
-        {
           "agendaId": "372192",
-          "title": "172 - Beslut från revisorskollegiet 2026-08-26 § 40 - Val av lekmannarevisor till Öresundståg AB",
+          "title": "171 - Beslut från revisorskollegiet 2026-08-26 § 40 - Val av lekmannarevisor till Öresundståg AB",
           "documents": [
             {
               "title": "Beslut från revisorskollegiet 2026-08-26 § 40 - Val av lekmannarevisor till Öresundståg AB",
@@ -713,6 +708,71 @@
               "category": "Bilaga"
             }
           ]
+        },
+        {
+          "agendaId": "372230",
+          "title": "172 - Ledamot och förste vice ordförande i strategiska\nhälso- och sjukvårdsnämnden",
+          "documents": []
+        },
+        {
+          "agendaId": "372231",
+          "title": "173 - Ledamot och vice ordförande i arvodesberedningen",
+          "documents": []
+        },
+        {
+          "agendaId": "372232",
+          "title": "174 - Ersättare i delregional nämnd Göteborg",
+          "documents": []
+        },
+        {
+          "agendaId": "372233",
+          "title": "175 - Ledamot i delregional nämnd norra",
+          "documents": []
+        },
+        {
+          "agendaId": "372234",
+          "title": "176 - Ledamot i kulturnämnden",
+          "documents": []
+        },
+        {
+          "agendaId": "372235",
+          "title": "177 - Ledamot i styrelsen för kulturutveckling",
+          "documents": []
+        },
+        {
+          "agendaId": "372236",
+          "title": "178 - Ersättare till styrelsen för naturbruk",
+          "documents": []
+        },
+        {
+          "agendaId": "372237",
+          "title": "179 - Ledamot i Viltförvaltningsdelegationen för VG län",
+          "documents": []
+        },
+        {
+          "agendaId": "372238",
+          "title": "180 - Nämndemän i Förvaltningsrätten i Göteborg",
+          "documents": []
+        },
+        {
+          "agendaId": "372239",
+          "title": "181 - Nämndemän i Hovrätten för Västra Sverige",
+          "documents": []
+        },
+        {
+          "agendaId": "372240",
+          "title": "182 - Ledamot i Göteborgs djurförsöksetiska nämnd",
+          "documents": []
+        },
+        {
+          "agendaId": "372241",
+          "title": "183 - Ersättare till Etikprövningsmyndigheten",
+          "documents": []
+        },
+        {
+          "agendaId": "372242",
+          "title": "184 - Ledamot till Stiftelsen Stenebyskolan",
+          "documents": []
         }
       ]
     },
@@ -2498,6 +2558,11 @@
           "title": "106 - Information från presidiet för styrelsen för fastighet, stöd och service",
           "documents": [
             {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 25 september 2026 - Information från presidiet för styrelsen för fastighet, stöd och service",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692167.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2025%20september%202026%20-%20Information%20fr%C3%A5n%20presidiet%20f%C3%B6r%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=64004",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Information från presidiet för styrelsen för fastighet, stöd och service",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4669763.PDF?fileName=Information%20fr%C3%A5n%20presidiet%20f%C3%B6r%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=80776",
               "category": "Tjänsteutlåtande"
@@ -2509,6 +2574,11 @@
           "title": "107 - Information från förvaltningsdirektören för fastighet, stöd och service",
           "documents": [
             {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 25 september 2026 - Information från förvaltningsdirektören för fastighet, stöd och service",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692168.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2025%20september%202026%20-%20Information%20fr%C3%A5n%20f%C3%B6rvaltningsdirekt%C3%B6ren%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=71917",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Information från förvaltningsdirektören för fastighet, stöd och service",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4669796.PDF?fileName=Information%20fr%C3%A5n%20f%C3%B6rvaltningsdirekt%C3%B6ren%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=81163",
               "category": "Tjänsteutlåtande"
@@ -2519,6 +2589,11 @@
           "agendaId": "370401",
           "title": "108 - Kungälvs sjukhus, Hus 1 Ombyggnad till gastroenterologisk enhet inklusive endoskopi, projektnummer 22314",
           "documents": [
+            {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 25 september 2026 - Kungälvs sjukhus, Hus 1 Ombyggnad till gastroenterologisk enhet inklusive endoskopi, projektnummer 22314",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692169.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2025%20september%202026%20-%20Kung%C3%A4lvs%20sjukhus%2C%20Hus%201%20Ombyggnad%20till%20gastroenterologisk%20enhet%20inklusive%20endoskopi%2C%20projektnummer%2022314&fileSize=95549",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Kungälvs sjukhus, Hus 1 Ombyggnad till gastroenterologisk enhet inklusive endoskopi, projektnummer 22314",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4615959.PDF?fileName=Kung%C3%A4lvs%20sjukhus%2C%20Hus%201%20Ombyggnad%20till%20gastroenterologisk%20enhet%20inklusive%20endoskopi%2C%20projektnummer%2022314&fileSize=219277",
@@ -2536,6 +2611,11 @@
           "title": "109 - Skaraborgs sjukhus Skövde hus 24 plan 3 ombyggnad kliniskt fyslab projektnummer 22378",
           "documents": [
             {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 25 september 2026 - Om- och tillbyggnad kliniskt fysiologiskt laboratorium och hjärtmottagning, Skaraborgs sjukhus Skövde hus 24, projektnummer 22378",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692171.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2025%20september%202026%20-%20Om-%20och%20tillbyggnad%20kliniskt%20fysiologiskt%20laboratorium%20och%20hj%C3%A4rtmottagning%2C%20Skaraborgs%20sjukhus%20Sk%C3%B6vde%20hus%2024%2C%20projektnummer%2022378&fileSize=90596",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Om- och tillbyggnad kliniskt fysiologiskt laboratorium och hjärtmottagning, Skaraborgs sjukhus Skövde hus 24, projektnummer 22378",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4634369.PDF?fileName=Om-%20och%20tillbyggnad%20kliniskt%20fysiologiskt%20laboratorium%20och%20hj%C3%A4rtmottagning%2C%20Skaraborgs%20sjukhus%20Sk%C3%B6vde%20hus%2024%2C%20projektnummer%2022378&fileSize=167742",
               "category": "Tjänsteutlåtande"
@@ -2551,6 +2631,11 @@
           "agendaId": "370400",
           "title": "110 - Ombyggnation av lokaler för administration, Skaraborgs sjukhus Skövde hus 3, projektnummer 22186",
           "documents": [
+            {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 25 september 2026 - Ombyggnation av lokaler för administration, Skaraborgs sjukhus Skövde hus 3, projektnummer 22186",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692173.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2025%20september%202026%20-%20Ombyggnation%20av%20lokaler%20f%C3%B6r%20administration%2C%20Skaraborgs%20sjukhus%20Sk%C3%B6vde%20hus%203%2C%20projektnummer%2022186&fileSize=90164",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Ombyggnation av lokaler för administration, Skaraborgs sjukhus Skövde hus 3, projektnummer 22186",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4643667.PDF?fileName=Ombyggnation%20av%20lokaler%20f%C3%B6r%20administration%2C%20Skaraborgs%20sjukhus%20Sk%C3%B6vde%20hus%203%2C%20projektnummer%2022186&fileSize=155846",
@@ -2568,6 +2653,11 @@
           "title": "111 - Program- och Systemrapport, Botaniska trädgården 5754, Ombyggnation Stora Änggården, Projektnummer 11385",
           "documents": [
             {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 25 september 2026 - Program- och Systemrapport, Botaniska trädgården 5754, Ombyggnation Stora Änggården, Projektnummer 11385",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692175.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2025%20september%202026%20-%20Program-%20och%20Systemrapport%2C%20Botaniska%20tr%C3%A4dg%C3%A5rden%205754%2C%20Ombyggnation%20Stora%20%C3%84ngg%C3%A5rden%2C%20Projektnummer%2011385&fileSize=88690",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Tjänsteutlåtande, Program- och Systemrapport, Botaniska trädgården 5754, Ombyggnation Stora Änggården, Projektnummer 11385",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4638711.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande%2C%20Program-%20och%20Systemrapport%2C%20Botaniska%20tr%C3%A4dg%C3%A5rden%205754%2C%20Ombyggnation%20Stora%20%C3%84ngg%C3%A5rden%2C%20Projektnummer%2011385&fileSize=170955",
               "category": "Tjänsteutlåtande"
@@ -2583,6 +2673,11 @@
           "agendaId": "370798",
           "title": "112 - Delårsrapport augusti 2026 Styrelsen för fastighet, stöd och service",
           "documents": [
+            {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 25 september 2026 - Delårsrapport augusti 2026 Styrelsen för fastighet, stöd och service",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692176.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2025%20september%202026%20-%20Del%C3%A5rsrapport%20augusti%202026%20Styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=73464",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Delårsrapport augusti 2026 Styrelsen för fastighet, stöd och service",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4660303.PDF?fileName=Del%C3%A5rsrapport%20augusti%202026%20Styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=94907",
@@ -2600,6 +2695,11 @@
           "title": "113 - Svar till delregionalnämnd västra rörande fungerade tillgänglighetsteknik",
           "documents": [
             {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 25 september 2026 - Svar till delregionalnämnd västra rörande fungerade tillgänglighetsteknik",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692178.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2025%20september%202026%20-%20Svar%20till%20delregionaln%C3%A4mnd%20v%C3%A4stra%20r%C3%B6rande%20fungerade%20tillg%C3%A4nglighetsteknik&fileSize=71328",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Svar till delregionalnämnd västra rörande fungerade tillgänglighetsteknik",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4668887.PDF?fileName=Svar%20till%20delregionaln%C3%A4mnd%20v%C3%A4stra%20r%C3%B6rande%20fungerade%20tillg%C3%A4nglighetsteknik&fileSize=97200",
               "category": "Tjänsteutlåtande"
@@ -2615,6 +2715,11 @@
           "agendaId": "370814",
           "title": "114 - Fastighetsförvärv Stenebyskolan",
           "documents": [
+            {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 25 september 2026 - Fastighetsförvärv Stenebyskolan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692179.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2025%20september%202026%20-%20Fastighetsf%C3%B6rv%C3%A4rv%20Stenebyskolan&fileSize=75731",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "SFSS 2026-01642-1 Fastighetsförvärv Stenebyskolan 4657036_1_0",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4660711.PDF?fileName=SFSS%202026-01642-1%20Fastighetsf%C3%B6rv%C3%A4rv%20Stenebyskolan%204657036_1_0&fileSize=103358",
