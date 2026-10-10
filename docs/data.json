@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T08:55:08.097Z",
+  "generatedAt": "2026-10-10T14:56:10.087Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1147,7 +1147,12 @@
       "status": "Publisert",
       "published": true,
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3375808",
-      "documents": [],
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-10-02",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4693439.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-10-02&fileSize=124480"
+        }
+      ],
       "agendaDocCount": 0
     },
     {
