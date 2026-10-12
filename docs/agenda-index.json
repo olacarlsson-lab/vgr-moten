@@ -1,5 +1,77 @@
 {
   "meetings": {
+    "212615|2026-10-20": {
+      "meetingId": "3350215",
+      "items": [
+        {
+          "agendaId": "372278",
+          "title": "185 - Avsägelser och anmälan om nyvalda i regionfullmäktige",
+          "documents": []
+        },
+        {
+          "agendaId": "372282",
+          "title": "186 - Val av ordförande i regionfullmäktige",
+          "documents": []
+        },
+        {
+          "agendaId": "372283",
+          "title": "187 - Val av 1:e vice ordförande och 2:e vice ordförande i regionfullmäktige",
+          "documents": []
+        },
+        {
+          "agendaId": "372284",
+          "title": "188 - Val av ledamöter tillika regionråd och oppositionsråd samt ersättare i regionstyrelsen",
+          "documents": []
+        },
+        {
+          "agendaId": "372285",
+          "title": "189 - Val av ledamöter och ersättare i valberedningen",
+          "documents": []
+        },
+        {
+          "agendaId": "372286",
+          "title": "190 - Val av ledamöter och ersättare i arvodesberedningen",
+          "documents": []
+        },
+        {
+          "agendaId": "372210",
+          "title": "191 - Inkallelseordning för ersättare i Västra Götalandsregionens samtliga nämnder och styrelser för mandatperioden 2026-2030",
+          "documents": []
+        },
+        {
+          "agendaId": "372281",
+          "title": "192 - Sammanträdestider för regionfullmäktige återstoden av 2026 och för helåret 2027",
+          "documents": [
+            {
+              "title": "Sammanträdestider för regionfullmäktige återstoden av 2026 och för helåret 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692367.PDF?fileName=Sammantr%C3%A4destider%20f%C3%B6r%20regionfullm%C3%A4ktige%20%C3%A5terstoden%20av%202026%20och%20f%C3%B6r%20hel%C3%A5ret%202027&fileSize=107074",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "372287",
+          "title": "193 - Anmälan av inkomna motioner",
+          "documents": []
+        },
+        {
+          "agendaId": "372276",
+          "title": "194 - Anmälningsärende till regionfullmäktige",
+          "documents": [
+            {
+              "title": "Anmälningsärende till regionfullmäktige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4690802.PDF?fileName=Anm%C3%A4lnings%C3%A4rende%20till%20regionfullm%C3%A4ktige&fileSize=95095",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Slutlig rösträkning och mandatfördelning – \nval till regionfullmäktige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4690480.PDF?fileName=Slutlig%20r%C3%B6str%C3%A4kning%20och%20mandatf%C3%B6rdelning%20%E2%80%93%20%0Aval%20till%20regionfullm%C3%A4ktige&fileSize=650749",
+              "category": "Bilaga"
+            }
+          ]
+        }
+      ]
+    },
     "212615|2026-10-06": {
       "meetingId": "3148586",
       "items": [
