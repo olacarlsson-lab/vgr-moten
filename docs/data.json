@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T07:14:20.097Z",
+  "generatedAt": "2026-10-13T15:05:06.339Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -337,6 +337,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222299|2027-12-08",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2027-12-08",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212615|2027-11-30",
       "meetingId": "",
       "boardId": "212615",
@@ -409,6 +421,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222299|2027-10-29",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2027-10-29",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212615|2027-10-25",
       "meetingId": "",
       "boardId": "212615",
@@ -469,6 +493,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222299|2027-09-24",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2027-09-24",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222331|2027-09-22",
       "meetingId": "",
       "boardId": "222331",
@@ -501,6 +537,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2027-09-03",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2027-09-03",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -565,6 +613,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222299|2027-06-18",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2027-06-18",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2027-06-15",
       "meetingId": "",
       "boardId": "212298",
@@ -601,6 +661,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222299|2027-05-27",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2027-05-27",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2027-05-25",
       "meetingId": "",
       "boardId": "212458",
@@ -621,6 +693,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2027-05-05",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2027-05-05",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -685,6 +769,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222299|2027-04-09",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2027-04-09",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2027-04-06",
       "meetingId": "",
       "boardId": "212458",
@@ -709,6 +805,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222298|2027-03-19",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-03-19",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2027-03-16",
       "meetingId": "",
       "boardId": "212458",
@@ -717,6 +825,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2027-03-10",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2027-03-10",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -741,6 +861,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2027-02-26",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-02-26",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -777,6 +909,30 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2027-02-04",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-02-04",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222299|2027-02-04",
+      "meetingId": "",
+      "boardId": "222299",
+      "board": "strategiska hälso- och sjukvårdsnämnden",
+      "date": "2027-02-04",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
       "documents": [],
       "agendaDocCount": 0
     },
