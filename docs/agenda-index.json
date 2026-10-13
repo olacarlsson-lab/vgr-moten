@@ -72,6 +72,76 @@
         }
       ]
     },
+    "212458|2026-10-20": {
+      "meetingId": "3289022",
+      "items": [
+        {
+          "agendaId": "372493",
+          "title": "249 - Delårsrapport augusti 2026 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Delårsrapport augusti 2026 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4635880.PDF?fileName=Del%C3%A5rsrapport%20augusti%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=159212",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Delårsrapport augusti 2026 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4697361.PDF?fileName=Del%C3%A5rsrapport%20augusti%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=10689594",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "371952",
+          "title": "250 - Skattesats för 2027",
+          "documents": []
+        },
+        {
+          "agendaId": "372277",
+          "title": "251 - Utbetalning av partistöd för 2027",
+          "documents": [
+            {
+              "title": "Utbetalning av partistöd för 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4682368.PDF?fileName=Utbetalning%20av%20partist%C3%B6d%20f%C3%B6r%202027&fileSize=171800",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "371370",
+          "title": "252 - Firmatecknare för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Firmatecknare för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4624684.PDF?fileName=Firmatecknare%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=107780",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "371371",
+          "title": "253 - Sammanträdestider för regionstyrelsen och dess utskott för återstoden av 2026 och för helåret 2027",
+          "documents": [
+            {
+              "title": "Sammanträdestider för regionstyrelsen och dess utskott för återstoden av 2026 och för helåret 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4659393.PDF?fileName=Sammantr%C3%A4destider%20f%C3%B6r%20regionstyrelsen%20och%20dess%20utskott%20f%C3%B6r%20%C3%A5terstoden%20av%202026%20och%20f%C3%B6r%20hel%C3%A5ret%202027&fileSize=116981",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "371953",
+          "title": "254 - Val av ledamöter och ersättare till regionstyrelsens utskott",
+          "documents": [
+            {
+              "title": "Val av ledamöter och ersättare till regionstyrelsens utskott",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4680341.PDF?fileName=Val%20av%20ledam%C3%B6ter%20och%20ers%C3%A4ttare%20till%20regionstyrelsens%20utskott&fileSize=104688",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        }
+      ]
+    },
     "212615|2026-10-06": {
       "meetingId": "3148586",
       "items": [
