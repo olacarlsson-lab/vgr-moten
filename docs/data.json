@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:54:27.739Z",
+  "generatedAt": "2026-10-14T14:48:14.553Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1226,15 +1226,20 @@
     },
     {
       "key": "222298|2026-10-21",
-      "meetingId": "",
+      "meetingId": "3245756",
       "boardId": "222298",
       "board": "operativa hälso- och sjukvårdsnämnden",
       "date": "2026-10-21",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
-      "documents": [],
-      "agendaDocCount": 0
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3245756",
+      "documents": [
+        {
+          "title": "Kallelse operativa hälso- och sjukvårdsnämnden 2026-10-21",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4699568.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-10-21&fileSize=154161"
+        }
+      ],
+      "agendaDocCount": 107
     },
     {
       "key": "212615|2026-10-20",
@@ -1248,7 +1253,7 @@
       "documents": [
         {
           "title": "Föredragningslista regionfullmäktige 2026-10-20",
-          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4694389.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-10-20&fileSize=98218"
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4694389.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-10-20&fileSize=109362"
         }
       ],
       "agendaDocCount": 3
@@ -1314,6 +1319,10 @@
       "published": true,
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3375808",
       "documents": [
+        {
+          "title": "Protokoll  styrelsen för Sahlgrenska Universitetssjukhuset 2026-10-02",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4688433.PDF?fileName=Protokoll%20%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-10-02&fileSize=989974"
+        },
         {
           "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-10-02",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4693439.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-10-02&fileSize=124480"
