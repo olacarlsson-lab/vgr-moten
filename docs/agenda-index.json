@@ -888,6 +888,17 @@
               "category": "Bilaga"
             }
           ]
+        },
+        {
+          "agendaId": "372559",
+          "title": "Mötesanteckningar från möte mellan OSN och revisorskollegiet 2026-10-08",
+          "documents": [
+            {
+              "title": "Mötesanteckningar revisionsmöte 2026-10-08",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692278.PDF?fileName=M%C3%B6tesanteckningar%20revisionsm%C3%B6te%202026-10-08&fileSize=172440",
+              "category": "Handling upprättad"
+            }
+          ]
         }
       ]
     },
@@ -1041,6 +1052,11 @@
           "title": "143 - Avsägelser och anmälan om nyvalda i regionfullmäktige",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Avsägelser och anmälan om nyvalda i regionfullmäktige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700478.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Avs%C3%A4gelser%20och%20anm%C3%A4lan%20om%20nyvalda%20i%20regionfullm%C3%A4ktige&fileSize=76629",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Avsägelser och anmälan om nyvalda i regionfullmäktige",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4649608.PDF?fileName=Avs%C3%A4gelser%20och%20anm%C3%A4lan%20om%20nyvalda%20i%20regionfullm%C3%A4ktige&fileSize=105047",
               "category": "Tjänsteutlåtande"
@@ -1050,12 +1066,28 @@
         {
           "agendaId": "371726",
           "title": "144 - Frågestund",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Frågestund vid regionfullmäktiges sammanträden 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700479.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Fr%C3%A5gestund%20vid%20regionfullm%C3%A4ktiges%20sammantr%C3%A4den%202026&fileSize=49914",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "370434",
           "title": "145 - Sahlgrenska life hus 2-3: genomförandebeslut för förberedande arbeten",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Sahlgrenska life hus 2-3: genomförandebeslut för förberedande arbeten",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700481.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Sahlgrenska%20life%20hus%202-3%3A%20genomf%C3%B6randebeslut%20f%C3%B6r%20f%C3%B6rberedande%20arbeten&fileSize=84366",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Bilaga § 145 - Protokollsanteckning från Grönblå",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4701189.PDF?fileName=Bilaga%20%C2%A7%20145%20-%20Protokollsanteckning%20fr%C3%A5n%20Gr%C3%B6nbl%C3%A5&fileSize=62749",
+              "category": "Bilaga"
+            },
             {
               "title": "Sahlgrenska life hus 2-3: genomförandebeslut för förberedande arbeten",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4575202.PDF?fileName=Sahlgrenska%20life%20hus%202-3%3A%20genomf%C3%B6randebeslut%20f%C3%B6r%20f%C3%B6rberedande%20arbeten&fileSize=159633",
@@ -1067,6 +1099,21 @@
           "agendaId": "371707",
           "title": "146 - Förlängd rabatt av Västtrafiks månadsbiljetter",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Förlängd rabatt av Västtrafiks månadsbiljetter",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700482.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20F%C3%B6rl%C3%A4ngd%20rabatt%20av%20V%C3%A4sttrafiks%20m%C3%A5nadsbiljetter&fileSize=103043",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Bilaga § 146a - Återremissyrkande",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4701434.PDF?fileName=Bilaga%20%C2%A7%20146a%20-%20%C3%85terremissyrkande&fileSize=47650",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga § 146b - Omröstningsprotokoll",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4701436.PDF?fileName=Bilaga%20%C2%A7%20146b%20-%20Omr%C3%B6stningsprotokoll&fileSize=78694",
+              "category": "Bilaga"
+            },
             {
               "title": "Förlängd rabatt av Västtrafiks månadsbiljetter",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4663958.PDF?fileName=F%C3%B6rl%C3%A4ngd%20rabatt%20av%20V%C3%A4sttrafiks%20m%C3%A5nadsbiljetter&fileSize=115955",
@@ -1089,6 +1136,11 @@
           "title": "147 - Avgiftsfrihet vid smittspårning och behandling",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Avgiftsfrihet vid smittspårning och behandling",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700485.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Avgiftsfrihet%20vid%20smittsp%C3%A5rning%20och%20behandling&fileSize=93698",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Avgiftsfrihet vid smittspårning och behandling",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4546424.PDF?fileName=Avgiftsfrihet%20vid%20smittsp%C3%A5rning%20och%20behandling&fileSize=167356",
               "category": "Tjänsteutlåtande"
@@ -1104,6 +1156,11 @@
           "agendaId": "371706",
           "title": "148 - Fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700486.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Fortsatt%20avgiftsfri%20vaccination%20mot%20pneumokocker%20fr%C3%A5n%2065%20%C3%A5rs%20%C3%A5lder&fileSize=85981",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4643688.PDF?fileName=Fortsatt%20avgiftsfri%20vaccination%20mot%20pneumokocker%20fr%C3%A5n%2065%20%C3%A5rs%20%C3%A5lder&fileSize=138605",
@@ -1126,6 +1183,11 @@
           "title": "149 - Ikappvaccination mot vattkoppor, barn och unga, 2027-2029",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ikappvaccination mot vattkoppor för barn och unga 2027-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700487.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ikappvaccination%20mot%20vattkoppor%20f%C3%B6r%20barn%20och%20unga%202027-2029&fileSize=91976",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Ikappvaccination mot vattkoppor för barn och unga 2027-2029",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4609712.PDF?fileName=Ikappvaccination%20mot%20vattkoppor%20f%C3%B6r%20barn%20och%20unga%202027-2029&fileSize=129090",
               "category": "Tjänsteutlåtande"
@@ -1147,6 +1209,11 @@
           "title": "150 - Revidering av digitaliseringspolicy",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Revidering av digitaliseringspolicy",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700488.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Revidering%20av%20digitaliseringspolicy&fileSize=81271",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Revidering av digitaliseringspolicy",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4518510.PDF?fileName=Revidering%20av%20digitaliseringspolicy&fileSize=142525",
               "category": "Tjänsteutlåtande"
@@ -1162,6 +1229,11 @@
           "agendaId": "370435",
           "title": "151 - Ny riktlinje för arkiv och information i Västra Götalandsregionen",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ny riktlinje för arkiv och information i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700489.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ny%20riktlinje%20f%C3%B6r%20arkiv%20och%20information%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=81376",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Ny riktlinje för arkiv och information i Västra Götalandsregionen",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571497.PDF?fileName=Ny%20riktlinje%20f%C3%B6r%20arkiv%20och%20information%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=112770",
@@ -1183,6 +1255,11 @@
           "agendaId": "370432",
           "title": "152 - Redovisning av partistöd 2025",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Redovisning av partistöd 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700490.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Redovisning%20av%20partist%C3%B6d%202025&fileSize=75358",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Redovisning av partistöd 2025",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4601542.PDF?fileName=Redovisning%20av%20partist%C3%B6d%202025&fileSize=107210",
@@ -1260,6 +1337,11 @@
           "title": "153 - Överlämnande av allmänna handlingar mellan patientnämnderna",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Överlämnande av allmänna handlingar mellan patientnämnderna",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700491.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20%C3%96verl%C3%A4mnande%20av%20allm%C3%A4nna%20handlingar%20mellan%20patientn%C3%A4mnderna&fileSize=75200",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Överlämnande av allmänna handlingar mellan patientnämnderna",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4571496.PDF?fileName=%C3%96verl%C3%A4mnande%20av%20allm%C3%A4nna%20handlingar%20mellan%20patientn%C3%A4mnderna&fileSize=108095",
               "category": "Tjänsteutlåtande"
@@ -1270,6 +1352,11 @@
           "agendaId": "370433",
           "title": "154 - Ansvarsfrihet samordningsförbunden i Västra Götaland för verksamhetsåret 2025",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ansvarsfrihet samordningsförbunden i Västra Götaland för verksamhetsåret 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700493.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ansvarsfrihet%20samordningsf%C3%B6rbunden%20i%20V%C3%A4stra%20G%C3%B6taland%20f%C3%B6r%20verksamhets%C3%A5ret%202025&fileSize=103696",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Ansvarsfrihet samordningsförbunden i Västra Götaland för verksamhetsåret 2025",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4551714.PDF?fileName=Ansvarsfrihet%20samordningsf%C3%B6rbunden%20i%20V%C3%A4stra%20G%C3%B6taland%20f%C3%B6r%20verksamhets%C3%A5ret%202025&fileSize=129673",
@@ -1286,6 +1373,11 @@
           "agendaId": "370428",
           "title": "155 - Ansvarsfrihet för Stiftelserna Västsvenska Fritidsområden, Stenebyskolan och Simmersröds Barnhus för räkenskapsåret 2025",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ansvarsfrihet för Stiftelserna Västsvenska Fritidsområden, Stenebyskolan och Simmersröds Barnhus för räkenskapsåret 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700494.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ansvarsfrihet%20f%C3%B6r%20Stiftelserna%20V%C3%A4stsvenska%20Fritidsomr%C3%A5den%2C%20Stenebyskolan%20och%20Simmersr%C3%B6ds%20Barnhus%20f%C3%B6r%20r%C3%A4kenskaps%C3%A5ret%202025&fileSize=84819",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Ansvarsfrihet för Stiftelserna Västsvenska Fritidsområden, Stenebyskolan och Simmersröds Barnhus för räkenskapsåret 2025",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549123.PDF?fileName=Ansvarsfrihet%20f%C3%B6r%20Stiftelserna%20V%C3%A4stsvenska%20Fritidsomr%C3%A5den%2C%20Stenebyskolan%20och%20Simmersr%C3%B6ds%20Barnhus%20f%C3%B6r%20r%C3%A4kenskaps%C3%A5ret%202025&fileSize=132511",
@@ -1328,6 +1420,11 @@
           "title": "156 - Ansvarsfrihet för kommunalförbunden Tolkförmedling Väst, Svenskt Ambulansflyg och Skandionkliniken för räkenskapsåret 2025",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ansvarsfrihet för kommunalförbunden Tolkförmedling Väst, Svenskt Ambulansflyg och Skandionkliniken för räkenskapsåret 2025",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700495.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ansvarsfrihet%20f%C3%B6r%20kommunalf%C3%B6rbunden%20Tolkf%C3%B6rmedling%20V%C3%A4st%2C%20Svenskt%20Ambulansflyg%20och%20Skandionkliniken%20f%C3%B6r%20r%C3%A4kenskaps%C3%A5ret%202025&fileSize=83024",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Ansvarsfrihet för kommunalförbunden Tolkförmedling Väst, Svenskt Ambulansflyg och Skandionkliniken för räkenskapsåret 2025",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4549236.PDF?fileName=Ansvarsfrihet%20f%C3%B6r%20kommunalf%C3%B6rbunden%20Tolkf%C3%B6rmedling%20V%C3%A4st%2C%20Svenskt%20Ambulansflyg%20och%20Skandionkliniken%20f%C3%B6r%20r%C3%A4kenskaps%C3%A5ret%202025&fileSize=135007",
               "category": "Tjänsteutlåtande"
@@ -1369,6 +1466,11 @@
           "title": "157 - Kommunalförbundet Skandionkliniken, verksamhet och ekonomi 2027",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Kommunalförbundet Skandionkliniken, verksamhet och ekonomi 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700496.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Kommunalf%C3%B6rbundet%20Skandionkliniken%2C%20verksamhet%20och%20ekonomi%202027&fileSize=86059",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Kommunalförbundet Skandionkliniken, verksamhet och ekonomi 2027",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4623129.PDF?fileName=Kommunalf%C3%B6rbundet%20Skandionkliniken%2C%20verksamhet%20och%20ekonomi%202027&fileSize=128596",
               "category": "Tjänsteutlåtande"
@@ -1384,6 +1486,11 @@
           "agendaId": "370436",
           "title": "158 - Reviderad förbundsordning för Kommunalförbundet Tolkförmedling Väst",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Reviderad förbundsordning för Kommunalförbundet Tolkförmedling Väst",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700497.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Reviderad%20f%C3%B6rbundsordning%20f%C3%B6r%20Kommunalf%C3%B6rbundet%20Tolkf%C3%B6rmedling%20V%C3%A4st&fileSize=68374",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Reviderad förbundsordning för Kommunalförbundet Tolkförmedling Väst",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4560449.PDF?fileName=Reviderad%20f%C3%B6rbundsordning%20f%C3%B6r%20Kommunalf%C3%B6rbundet%20Tolkf%C3%B6rmedling%20V%C3%A4st&fileSize=112490",
@@ -1411,6 +1518,11 @@
           "title": "159 - Motionsbalans och redovisning av bifallna motioner",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Motionsbalans och redovisning av bifallna motioner",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700498.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Motionsbalans%20och%20redovisning%20av%20bifallna%20motioner&fileSize=62756",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Motionsbalans och redovisning av bifallna motioner",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4648241.PDF?fileName=Motionsbalans%20och%20redovisning%20av%20bifallna%20motioner&fileSize=95623",
               "category": "Tjänsteutlåtande"
@@ -1426,6 +1538,11 @@
           "agendaId": "371709",
           "title": "160 - Motion av Gunilla Lindell (KD) om bättre ADHD-vård för kvinnor: Ta hänsyn till hormoner",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Yttrande över motion av Gunilla Lindell (KD) om bättre ADHD-vård för kvinnor: Ta hänsyn till hormoner",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700499.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Gunilla%20Lindell%20(KD)%20om%20b%C3%A4ttre%20ADHD-v%C3%A5rd%20f%C3%B6r%20kvinnor%3A%20Ta%20h%C3%A4nsyn%20till%20hormoner&fileSize=86371",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Yttrande över motion av Gunilla Lindell (KD) om bättre ADHD-vård för kvinnor: Ta hänsyn till hormoner",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4426711.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Gunilla%20Lindell%20(KD)%20om%20b%C3%A4ttre%20ADHD-v%C3%A5rd%20f%C3%B6r%20kvinnor%3A%20Ta%20h%C3%A4nsyn%20till%20hormoner&fileSize=118439",
@@ -1452,6 +1569,11 @@
           "agendaId": "371711",
           "title": "161 - Motion av Richard Brodd (L) om att förbättra hivprevention i Västra Götalandsregionen genom att öka tillgången till PrEP",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Yttrande över motion av Richard Brodd (L) om att förbättra hivprevention i Västra Götalandsregionen genom att öka tillgången till PrEP",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700500.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Richard%20Brodd%20(L)%20om%20att%20f%C3%B6rb%C3%A4ttra%20hivprevention%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%20genom%20att%20%C3%B6ka%20tillg%C3%A5ngen%20till%20PrEP&fileSize=97679",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Yttrande över motion av Richard Brodd (L) om att förbättra hivprevention i Västra Götalandsregionen genom att öka tillgången till PrEP",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4373325.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Richard%20Brodd%20(L)%20om%20att%20f%C3%B6rb%C3%A4ttra%20hivprevention%20i%20V%C3%A4stra%20G%C3%B6talandsregionen%20genom%20att%20%C3%B6ka%20tillg%C3%A5ngen%20till%20PrEP&fileSize=166024",
@@ -1499,6 +1621,11 @@
           "title": "162 - Motion av Gunilla Druve Jansson (C) om hel kollektivtrafik längs E20",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Yttrande över motion av Gunilla Druve Jansson (C) om hel kollektivtrafik längs E20",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700501.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Gunilla%20Druve%20Jansson%20(C)%20om%20hel%20kollektivtrafik%20l%C3%A4ngs%20E20&fileSize=83182",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Yttrande över motion av Gunilla Druve Jansson (C) om hel kollektivtrafik längs E20",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4366998.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Gunilla%20Druve%20Jansson%20(C)%20om%20hel%20kollektivtrafik%20l%C3%A4ngs%20E20&fileSize=118151",
               "category": "Tjänsteutlåtande"
@@ -1534,6 +1661,11 @@
           "agendaId": "371713",
           "title": "163 - Motion av Håkan Lösnitz (SD) med flera om mammografiscreening för kvinnor även efter 74",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Yttrande över motion av Håkan Lösnitz (SD) med flera om mammografiscreening för kvinnor även efter 74",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700505.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20mammografiscreening%20f%C3%B6r%20kvinnor%20%C3%A4ven%20efter%2074&fileSize=110787",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Yttrande över motion av Håkan Lösnitz (SD) med flera om mammografiscreening för kvinnor även efter 74",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4278269.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20H%C3%A5kan%20L%C3%B6snitz%20(SD)%20med%20flera%20om%20mammografiscreening%20f%C3%B6r%20kvinnor%20%C3%A4ven%20efter%2074&fileSize=129175",
@@ -1581,6 +1713,11 @@
           "title": "164 - Motion av Staffan Setterberg (KD) om robust transportlösning för gods och personer",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Yttrande över motion av Staffan Setterberg (KD) om robust transportlösning för gods och personer",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700518.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Staffan%20Setterberg%20(KD)%20om%20robust%20transportl%C3%B6sning%20f%C3%B6r%20gods%20och%20personer&fileSize=86793",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Yttrande över motion av Staffan Setterberg (KD) om robust transportlösning för gods och personer",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4380828.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Staffan%20Setterberg%20(KD)%20om%20robust%20transportl%C3%B6sning%20f%C3%B6r%20gods%20och%20personer&fileSize=116545",
               "category": "Tjänsteutlåtande"
@@ -1601,6 +1738,11 @@
           "agendaId": "371717",
           "title": "165 - Motion av Conny Brännberg (KD) och Lisa Berglund (KD) om att införa en kulturkanon för Västra Götaland",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Yttrande över motion av Conny Brännberg (KD) och Lisa Berglund (KD) om att införa en kulturkanon för Västra Götaland",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700519.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Conny%20Br%C3%A4nnberg%20(KD)%20och%20Lisa%20Berglund%20(KD)%20om%20att%20inf%C3%B6ra%20en%20kulturkanon%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6taland&fileSize=84960",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Yttrande över motion av Conny Brännberg (KD) och Lisa Berglund (KD) om att införa en kulturkanon för Västra Götaland",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4395411.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Conny%20Br%C3%A4nnberg%20(KD)%20och%20Lisa%20Berglund%20(KD)%20om%20att%20inf%C3%B6ra%20en%20kulturkanon%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6taland&fileSize=117694",
@@ -1633,6 +1775,11 @@
           "title": "166 - Motion av Zandra Pettersson (SD) med flera om att Västra Götalandsregionen ska upphöra med inköp av Fairtrade-märkta varor",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Yttrande över motion av Zandra Pettersson (SD) med flera om att Västra Götalandsregionen ska upphöra med inköp av Fairtrade-märkta varor",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700520.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Zandra%20Pettersson%20(SD)%20med%20flera%20om%20att%20V%C3%A4stra%20G%C3%B6talandsregionen%20ska%20upph%C3%B6ra%20med%20ink%C3%B6p%20av%20Fairtrade-m%C3%A4rkta%20varor&fileSize=96133",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Yttrande över motion av Zandra Pettersson (SD) med flera om att Västra Götalandsregionen ska upphöra med inköp av Fairtrade-märkta varor",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4295078.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Zandra%20Pettersson%20(SD)%20med%20flera%20om%20att%20V%C3%A4stra%20G%C3%B6talandsregionen%20ska%20upph%C3%B6ra%20med%20ink%C3%B6p%20av%20Fairtrade-m%C3%A4rkta%20varor&fileSize=129514",
               "category": "Tjänsteutlåtande"
@@ -1648,6 +1795,11 @@
           "agendaId": "371721",
           "title": "167 - Motion av Helene Strand (SD) med flera om införande av sjukhushundar som komplementär behandling på sjukhus för svårt sjuka i Västra Götalandsregionen",
           "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Yttrande över motion av Helene Strand (SD) med flera om införande av sjukhushundar som komplementär behandling på sjukhus för svårt sjuka i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700522.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Helene%20Strand%20(SD)%20med%20flera%20om%20inf%C3%B6rande%20av%20sjukhushundar%20som%20komplement%C3%A4r%20behandling%20p%C3%A5%20sjukhus%20f%C3%B6r%20sv%C3%A5rt%20sjuka%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=90263",
+              "category": "Protokollsutdrag"
+            },
             {
               "title": "Yttrande över motion av Helene Strand (SD) med flera om införande av sjukhushundar som komplementär behandling på sjukhus för svårt sjuka i Västra Götalandsregionen",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4383421.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Helene%20Strand%20(SD)%20med%20flera%20om%20inf%C3%B6rande%20av%20sjukhushundar%20som%20komplement%C3%A4r%20behandling%20p%C3%A5%20sjukhus%20f%C3%B6r%20sv%C3%A5rt%20sjuka%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=143807",
@@ -1695,6 +1847,11 @@
           "title": "168 - Motion av Pär Lundqvist (L) och Daniel Andersson (L) om att återställa eller förstärka expressbusslinjer som kortats eller ersatts",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Yttrande över motion av Pär Lundqvist (L) och Daniel Andersson (L) om att återställa eller förstärka expressbusslinjer som kortats eller ersatts",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700525.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20P%C3%A4r%20Lundqvist%20(L)%20och%20Daniel%20Andersson%20(L)%20om%20att%20%C3%A5terst%C3%A4lla%20eller%20f%C3%B6rst%C3%A4rka%20expressbusslinjer%20som%20kortats%20eller%20ersatts&fileSize=87765",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Yttrande över motion av Pär Lundqvist (L) och Daniel Andersson (L) om att återställa eller förstärka expressbusslinjer som kortats eller ersatts",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4328554.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20P%C3%A4r%20Lundqvist%20(L)%20och%20Daniel%20Andersson%20(L)%20om%20att%20%C3%A5terst%C3%A4lla%20eller%20f%C3%B6rst%C3%A4rka%20expressbusslinjer%20som%20kortats%20eller%20ersatts&fileSize=122014",
               "category": "Tjänsteutlåtande"
@@ -1731,6 +1888,11 @@
           "title": "171 - Beslut från revisorskollegiet 2026-08-26 § 40 - Val av lekmannarevisor till Öresundståg AB",
           "documents": [
             {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Beslut från revisorskollegiet 2026-08-26 § 40 - Val av lekmannarevisor till Öresundståg AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700530.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Beslut%20fr%C3%A5n%20revisorskollegiet%202026-08-26%20%C2%A7%2040%20-%20Val%20av%20lekmannarevisor%20till%20%C3%96resundst%C3%A5g%20AB&fileSize=75733",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Beslut från revisorskollegiet 2026-08-26 § 40 - Val av lekmannarevisor till Öresundståg AB",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4654187.PDF?fileName=Beslut%20fr%C3%A5n%20revisorskollegiet%202026-08-26%20%C2%A7%2040%20-%20Val%20av%20lekmannarevisor%20till%20%C3%96resundst%C3%A5g%20AB&fileSize=73648",
               "category": "Handling in"
@@ -1745,67 +1907,145 @@
         {
           "agendaId": "372230",
           "title": "172 - Ledamot och förste vice ordförande i strategiska\nhälso- och sjukvårdsnämnden",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ledamot och förste vice ordförande i strategiska\nhälso- och sjukvårdsnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700531.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ledamot%20och%20f%C3%B6rste%20vice%20ordf%C3%B6rande%20i%20strategiska%0Ah%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden&fileSize=71216",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372231",
           "title": "173 - Ledamot och vice ordförande i arvodesberedningen",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ledamot och vice ordförande i arvodesberedningen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700532.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ledamot%20och%20vice%20ordf%C3%B6rande%20i%20arvodesberedningen&fileSize=67539",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372232",
           "title": "174 - Ersättare i delregional nämnd Göteborg",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ersättare i delregional nämnd Göteborg",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700533.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ers%C3%A4ttare%20i%20delregional%20n%C3%A4mnd%20G%C3%B6teborg&fileSize=71497",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372233",
           "title": "175 - Ledamot i delregional nämnd norra",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ledamot i delregional nämnd norra",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700535.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ledamot%20i%20delregional%20n%C3%A4mnd%20norra&fileSize=70577",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372234",
           "title": "176 - Ledamot i kulturnämnden",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ledamot i kulturnämnden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700536.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ledamot%20i%20kulturn%C3%A4mnden&fileSize=67954",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372235",
           "title": "177 - Ledamot i styrelsen för kulturutveckling",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ledamot i styrelsen för kulturutveckling",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700537.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ledamot%20i%20styrelsen%20f%C3%B6r%20kulturutveckling&fileSize=70757",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372236",
           "title": "178 - Ersättare till styrelsen för naturbruk",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ersättare till styrelsen för naturbruk",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700538.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ers%C3%A4ttare%20till%20styrelsen%20f%C3%B6r%20naturbruk&fileSize=81325",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372237",
           "title": "179 - Ledamot i Viltförvaltningsdelegationen för VG län",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ledamot i Viltförvaltningsdelegationen för VG län",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700539.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ledamot%20i%20Viltf%C3%B6rvaltningsdelegationen%20f%C3%B6r%20VG%20l%C3%A4n&fileSize=74584",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372238",
           "title": "180 - Nämndemän i Förvaltningsrätten i Göteborg",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Nämndemän i Förvaltningsrätten i Göteborg",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700540.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20N%C3%A4mndem%C3%A4n%20i%20F%C3%B6rvaltningsr%C3%A4tten%20i%20G%C3%B6teborg&fileSize=69994",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372239",
           "title": "181 - Nämndemän i Hovrätten för Västra Sverige",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Nämndemän i Hovrätten för Västra Sverige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700543.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20N%C3%A4mndem%C3%A4n%20i%20Hovr%C3%A4tten%20f%C3%B6r%20V%C3%A4stra%20Sverige&fileSize=70466",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372240",
           "title": "182 - Ledamot i Göteborgs djurförsöksetiska nämnd",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ledamot i Göteborgs djurförsöksetiska nämnd",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700546.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ledamot%20i%20G%C3%B6teborgs%20djurf%C3%B6rs%C3%B6ksetiska%20n%C3%A4mnd&fileSize=65534",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372241",
           "title": "183 - Ersättare till Etikprövningsmyndigheten",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ersättare till Etikprövningsmyndigheten",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700547.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ers%C3%A4ttare%20till%20Etikpr%C3%B6vningsmyndigheten&fileSize=64922",
+              "category": "Protokollsutdrag"
+            }
+          ]
         },
         {
           "agendaId": "372242",
           "title": "184 - Ledamot till Stiftelsen Stenebyskolan",
-          "documents": []
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ledamot till Stiftelsen Stenebyskolan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700548.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ledamot%20till%20Stiftelsen%20Stenebyskolan&fileSize=61175",
+              "category": "Protokollsutdrag"
+            }
+          ]
         }
       ]
     },

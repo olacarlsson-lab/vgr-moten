@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T09:58:14.069Z",
+  "generatedAt": "2026-10-15T14:41:04.423Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1202,26 +1202,36 @@
     },
     {
       "key": "209231|2026-10-22",
-      "meetingId": "",
+      "meetingId": "3213885",
       "boardId": "209231",
       "board": "kulturnämnden",
       "date": "2026-10-22",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/209231",
-      "documents": [],
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3213885",
+      "documents": [
+        {
+          "title": "Kallelse kulturnämnden 2026-10-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700593.PDF?fileName=Kallelse%20kulturn%C3%A4mnden%202026-10-22&fileSize=162117"
+        }
+      ],
       "agendaDocCount": 0
     },
     {
       "key": "222331|2026-10-22",
-      "meetingId": "",
+      "meetingId": "3210115",
       "boardId": "222331",
       "board": "miljö- och regionutvecklingsnämnden",
       "date": "2026-10-22",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
-      "documents": [],
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3210115",
+      "documents": [
+        {
+          "title": "Kallelse miljö- och regionutvecklingsnämnden 2026-10-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4701160.PDF?fileName=Kallelse%20milj%C3%B6-%20och%20regionutvecklingsn%C3%A4mnden%202026-10-22&fileSize=213048"
+        }
+      ],
       "agendaDocCount": 0
     },
     {
@@ -1239,7 +1249,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4699568.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-10-21&fileSize=154161"
         }
       ],
-      "agendaDocCount": 107
+      "agendaDocCount": 108
     },
     {
       "key": "212615|2026-10-20",
@@ -1305,9 +1315,13 @@
         {
           "title": "Föredragningslista regionfullmäktige 2026-10-06",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4677513.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-10-06&fileSize=125679"
+        },
+        {
+          "title": "Protokoll  regionfullmäktige 2026-10-06",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4691895.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-10-06&fileSize=3327744"
         }
       ],
-      "agendaDocCount": 107
+      "agendaDocCount": 150
     },
     {
       "key": "212210|2026-10-02",
