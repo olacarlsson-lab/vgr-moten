@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T08:27:59.784Z",
+  "generatedAt": "2026-10-16T13:29:54.784Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1190,14 +1190,19 @@
     },
     {
       "key": "212210|2026-10-23",
-      "meetingId": "",
+      "meetingId": "3375811",
       "boardId": "212210",
       "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
       "date": "2026-10-23",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
-      "documents": [],
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3375811",
+      "documents": [
+        {
+          "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-10-23",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4702174.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-10-23&fileSize=120979"
+        }
+      ],
       "agendaDocCount": 0
     },
     {
