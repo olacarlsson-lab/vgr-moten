@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T09:44:01.144Z",
+  "generatedAt": "2026-10-20T14:35:16.290Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1216,6 +1216,10 @@
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3213885",
       "documents": [
         {
+          "title": "Kallelse presidiemöte den 9 oktober inför sammanträde med kulturnämnden den 22 oktober 2026",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4680858.PDF?fileName=Kallelse%20presidiem%C3%B6te%20den%209%20oktober%20inf%C3%B6r%20sammantr%C3%A4de%20med%20kulturn%C3%A4mnden%20den%2022%20oktober%202026&fileSize=162287"
+        },
+        {
           "title": "Kallelse kulturnämnden 2026-10-22",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700593.PDF?fileName=Kallelse%20kulturn%C3%A4mnden%202026-10-22&fileSize=162117"
         }
@@ -1254,7 +1258,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4699568.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-10-21&fileSize=154161"
         }
       ],
-      "agendaDocCount": 107
+      "agendaDocCount": 109
     },
     {
       "key": "212615|2026-10-20",
@@ -1268,10 +1272,10 @@
       "documents": [
         {
           "title": "Föredragningslista regionfullmäktige 2026-10-20",
-          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4694389.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-10-20&fileSize=109362"
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4694389.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-10-20&fileSize=97921"
         }
       ],
-      "agendaDocCount": 3
+      "agendaDocCount": 5
     },
     {
       "key": "212458|2026-10-20",
@@ -1303,6 +1307,10 @@
         {
           "title": "Kallelse beredningen för hållbar utveckling 2026-10-08",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4680755.PDF?fileName=Kallelse%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-10-08&fileSize=140483"
+        },
+        {
+          "title": "Protokoll  beredningen för hållbar utveckling 2026-10-08",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4688096.PDF?fileName=Protokoll%20%20beredningen%20f%C3%B6r%20h%C3%A5llbar%20utveckling%202026-10-08&fileSize=441089"
         }
       ],
       "agendaDocCount": 0
@@ -1326,7 +1334,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4691895.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-10-06&fileSize=3327744"
         }
       ],
-      "agendaDocCount": 154
+      "agendaDocCount": 167
     },
     {
       "key": "212210|2026-10-02",
