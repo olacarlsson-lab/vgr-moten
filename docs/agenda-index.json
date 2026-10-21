@@ -101,8 +101,24 @@
           ]
         },
         {
+          "agendaId": "372450",
+          "title": "124 - Remissyttrande Rese- och mötespolicy Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Remissyttrande Rese- och mötespolicy Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4697374.PDF?fileName=Remissyttrande%20Rese-%20och%20m%C3%B6tespolicy%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=101535",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Rese- och mötespolicy Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4550629.PDF?fileName=Rese-%20och%20m%C3%B6tespolicy%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=76875",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
           "agendaId": "372020",
-          "title": "124 - Skyddad: OSL 18 kap 13 § Risk- och sårbarhetsanalyser m.m.",
+          "title": "125 - Ombyggnad dagsjukvård kardiologen, Skaraborgs sjukhus Skövde, projektnummer 22349",
           "documents": [
             {
               "title": "Ombyggnad dagsjukvård kardiologen, Skaraborgs sjukhus Skövde hus 09, projektnummer 22349",
@@ -113,7 +129,7 @@
         },
         {
           "agendaId": "371881",
-          "title": "125 - Ombyggnad dagsjukvård kardiologen, Skaraborgs sjukhus Skövde, projektnummer 22349",
+          "title": "126 - Ombyggnad infektionsklinik, Skaraborgs sjukhus Skövde hus 04, 06 och 24, projektnummer 21233",
           "documents": [
             {
               "title": "Ombyggnad infektionsklinik, Skaraborgs sjukhus Skövde hus 04, 06 och 24, projektnummer 21233",
@@ -129,7 +145,7 @@
         },
         {
           "agendaId": "371885",
-          "title": "126 - Ombyggnad infektionsklinik, Skaraborgs sjukhus Skövde hus 04, 06 och 24, projektnummer 21233",
+          "title": "127 - Reviderat förslag till regler för sjukresor efter remiss",
           "documents": [
             {
               "title": "Reviderat förslag till regler för sjukresor efter remiss",
@@ -150,7 +166,7 @@
         },
         {
           "agendaId": "372270",
-          "title": "127 - Reviderat förslag till regler för sjukresor efter remiss",
+          "title": "128 - Svar på initiativärende om begränsning av underentreprenadkedjor i VGR:s bygg- och anläggningsprojekt",
           "documents": [
             {
               "title": "Initiativärende - Begränsning av underentreprenadkedjor i VGR-s bygg- och anläggningsprojekt",
@@ -170,24 +186,8 @@
           ]
         },
         {
-          "agendaId": "372450",
-          "title": "128 - Svar på initiativärende om begränsning av underentreprenadkedjor i VGR:s bygg- och anläggningsprojekt",
-          "documents": [
-            {
-              "title": "Remissyttrande Rese- och mötespolicy Västra Götalandsregionen",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4697374.PDF?fileName=Remissyttrande%20Rese-%20och%20m%C3%B6tespolicy%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=101535",
-              "category": "Tjänsteutlåtande"
-            },
-            {
-              "title": "Rese- och mötespolicy Västra Götalandsregionen",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4550629.PDF?fileName=Rese-%20och%20m%C3%B6tespolicy%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=76875",
-              "category": "Bilaga"
-            }
-          ]
-        },
-        {
           "agendaId": "371973",
-          "title": "129 - Remissyttrande Rese- och mötespolicy Västra Götalandsregionen",
+          "title": "129 - Skyddad: OSL 18 kap 13 § Risk- och sårbarhetsanalyser m.m.",
           "documents": []
         },
         {
@@ -1309,6 +1309,11 @@
             {
               "title": "Handbok vårdgaranti och valfrihet i vården",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4698964.PDF?fileName=Handbok%20v%C3%A5rdgaranti%20och%20valfrihet%20i%20v%C3%A5rden&fileSize=591089",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Status i arbetet med tillgängligheten september 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4705698.PDF?fileName=Status%20i%20arbetet%20med%20tillg%C3%A4ngligheten%20september%202026&fileSize=1358848",
               "category": "Bilaga"
             }
           ]
