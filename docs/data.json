@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:57:00.064Z",
+  "generatedAt": "2026-10-22T16:33:01.334Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -208,7 +208,7 @@
     },
     {
       "id": "222324",
-      "name": "styrelsen för fastighet, stöd och service"
+      "name": "Styrelsen för fastighet, stöd och service"
     },
     {
       "id": "218402",
@@ -988,7 +988,7 @@
       "key": "222324|2026-12-16",
       "meetingId": "",
       "boardId": "222324",
-      "board": "styrelsen för fastighet, stöd och service",
+      "board": "Styrelsen för fastighet, stöd och service",
       "date": "2026-12-16",
       "status": "Publisert",
       "published": false,
@@ -1072,7 +1072,7 @@
       "key": "222324|2026-11-27",
       "meetingId": "",
       "boardId": "222324",
-      "board": "styrelsen för fastighet, stöd och service",
+      "board": "Styrelsen för fastighet, stöd och service",
       "date": "2026-11-27",
       "status": "Publisert",
       "published": false,
@@ -1178,20 +1178,20 @@
     },
     {
       "key": "222324|2026-10-27",
-      "meetingId": "",
+      "meetingId": "3256331",
       "boardId": "222324",
-      "board": "styrelsen för fastighet, stöd och service",
+      "board": "Styrelsen för fastighet, stöd och service",
       "date": "2026-10-27",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256331",
       "documents": [
         {
           "title": "Kallelse styrelsen för fastighet, stöd och service 2026-10-27",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4705642.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-10-27&fileSize=126364"
         }
       ],
-      "agendaDocCount": 130
+      "agendaDocCount": 128
     },
     {
       "key": "212210|2026-10-23",
@@ -1408,7 +1408,7 @@
       "key": "222324|2026-09-25",
       "meetingId": "3256327",
       "boardId": "222324",
-      "board": "styrelsen för fastighet, stöd och service",
+      "board": "Styrelsen för fastighet, stöd och service",
       "date": "2026-09-25",
       "status": "Publisert",
       "published": true,
@@ -1593,7 +1593,7 @@
       "key": "222324|2026-08-28",
       "meetingId": "3256323",
       "boardId": "222324",
-      "board": "styrelsen för fastighet, stöd och service",
+      "board": "Styrelsen för fastighet, stöd och service",
       "date": "2026-08-28",
       "status": "Publisert",
       "published": true,
@@ -1903,7 +1903,7 @@
       "key": "222324|2026-06-12",
       "meetingId": "3256305",
       "boardId": "222324",
-      "board": "styrelsen för fastighet, stöd och service",
+      "board": "Styrelsen för fastighet, stöd och service",
       "date": "2026-06-12",
       "status": "Publisert",
       "published": true,
@@ -2142,7 +2142,7 @@
       "key": "222324|2026-05-22",
       "meetingId": "3256301",
       "boardId": "222324",
-      "board": "styrelsen för fastighet, stöd och service",
+      "board": "Styrelsen för fastighet, stöd och service",
       "date": "2026-05-22",
       "status": "Publisert",
       "published": true,
@@ -2351,7 +2351,7 @@
       "key": "222324|2026-04-17",
       "meetingId": "3256297",
       "boardId": "222324",
-      "board": "styrelsen för fastighet, stöd och service",
+      "board": "Styrelsen för fastighet, stöd och service",
       "date": "2026-04-17",
       "status": "Publisert",
       "published": true,
@@ -2492,7 +2492,7 @@
       "key": "222324|2026-03-11",
       "meetingId": "3256296",
       "boardId": "222324",
-      "board": "styrelsen för fastighet, stöd och service",
+      "board": "Styrelsen för fastighet, stöd och service",
       "date": "2026-03-11",
       "status": "Publisert",
       "published": true,
@@ -2672,7 +2672,7 @@
       "key": "222324|2026-02-03",
       "meetingId": "3256292",
       "boardId": "222324",
-      "board": "styrelsen för fastighet, stöd och service",
+      "board": "Styrelsen för fastighet, stöd och service",
       "date": "2026-02-03",
       "status": "Publisert",
       "published": true,

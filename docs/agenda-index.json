@@ -149,17 +149,17 @@
           "documents": [
             {
               "title": "Reviderat förslag till regler för sjukresor efter remiss",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4661500.PDF?fileName=Reviderat%20f%C3%B6rslag%20till%20regler%20f%C3%B6r%20sjukresor%20efter%20remiss&fileSize=147527",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4661500.PDF?fileName=Reviderat%20f%C3%B6rslag%20till%20regler%20f%C3%B6r%20sjukresor%20efter%20remiss&fileSize=147517",
               "category": "Tjänsteutlåtande"
             },
             {
-              "title": "Översikt av föreslagna förändringar av regler för sjukresor - reviderad efter remissutskick",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4704929.PDF?fileName=%C3%96versikt%20av%20f%C3%B6reslagna%20f%C3%B6r%C3%A4ndringar%20av%20regler%20f%C3%B6r%20sjukresor%20-%20reviderad%20efter%20remissutskick&fileSize=403110",
+              "title": "Regler för sjukresor",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4707595.PDF?fileName=Regler%20f%C3%B6r%20sjukresor&fileSize=287369",
               "category": "Bilaga"
             },
             {
-              "title": "Regler för sjukresor",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4704930.PDF?fileName=Regler%20f%C3%B6r%20sjukresor&fileSize=293031",
+              "title": "Översikt av föreslagna förändringar av regler för sjukresor - reviderad efter remissutskick",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4707762.PDF?fileName=%C3%96versikt%20av%20f%C3%B6reslagna%20f%C3%B6r%C3%A4ndringar%20av%20regler%20f%C3%B6r%20sjukresor%20-%20reviderad%20efter%20remissutskick&fileSize=539477",
               "category": "Bilaga"
             }
           ]
@@ -744,24 +744,8 @@
           ]
         },
         {
-          "agendaId": "372730",
-          "title": "Utrangering i samband med lösen av TSA-anläggning, Regionhälsan Lidköpings ungdomsmottagning, projekt 45292",
-          "documents": [
-            {
-              "title": "Markupplåtelse för jordkabelförläggning på Billströmska Folkhögskolan, Fastigheten TJÖRN TYFT 1:21",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4652497.PDF?fileName=Markuppl%C3%A5telse%20f%C3%B6r%20jordkabelf%C3%B6rl%C3%A4ggning%20p%C3%A5%20Billstr%C3%B6mska%20Folkh%C3%B6gskolan%2C%20Fastigheten%20TJ%C3%96RN%20TYFT%201%3A21&fileSize=102994",
-              "category": "Tjänsteutlåtande"
-            },
-            {
-              "title": "Medgivande kabelförläggning till transformator vid parkering_ (004)",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4655378.PDF?fileName=Medgivande%20kabelf%C3%B6rl%C3%A4ggning%20till%20transformator%20vid%20parkering_%20(004)&fileSize=778042",
-              "category": "Bilaga"
-            }
-          ]
-        },
-        {
           "agendaId": "372735",
-          "title": "Utrangering i samband med lösen av TSA-anläggning, Regionstyrelsen Smittskyddsenheten, Uddevalla, projekt 45147",
+          "title": "Utrangering i samband med lösen av TSA-anläggning, Regionhälsan Lidköpings ungdomsmottagning, projekt 45292",
           "documents": [
             {
               "title": "Externa fastigheter, laddinfrastruktur bilpool Ekelundsgatan 8, projekt 40243",
@@ -777,7 +761,7 @@
         },
         {
           "agendaId": "372752",
-          "title": "Tilläggsbeslut tekniska säkerhetsanläggningar TSA, Närhälsan Olskroken rehab - Projekt 45283 och 45414",
+          "title": "Utrangering i samband med lösen av TSA-anläggning, Regionstyrelsen Smittskyddsenheten, Uddevalla, projekt 45147",
           "documents": [
             {
               "title": "Solhem upprustning av internt fjärrvärmenät projektnummer 22531",
@@ -788,7 +772,7 @@
         },
         {
           "agendaId": "372706",
-          "title": "Tilläggsbeslut tekniska säkerhetsanläggningar TSA, Boda vårdcentral, Smörhulegatan 2 - projekt 45366",
+          "title": "Tilläggsbeslut tekniska säkerhetsanläggningar TSA, Närhälsan Olskroken rehab - Projekt 45283 och 45414",
           "documents": [
             {
               "title": "Slutredovisning Mölndals sjukhus fjärrkyla 2021-2023,  etapp 4, projektnummer 11255",
@@ -809,7 +793,7 @@
         },
         {
           "agendaId": "372739",
-          "title": "Markupplåtelse för jordkabelförläggning på Billströmska Folkhögskolan, Fastigheten TJÖRN TYFT 1:21",
+          "title": "Tilläggsbeslut tekniska säkerhetsanläggningar TSA, Boda vårdcentral, Smörhulegatan 2 - projekt 45366",
           "documents": [
             {
               "title": "Slutredovisning Skaraborgs sjukhus Lidköping hus 17 byte av solskydd projektnummer 21975",
