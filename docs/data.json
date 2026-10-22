@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T06:08:24.182Z",
+  "generatedAt": "2026-10-22T11:57:00.064Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1178,13 +1178,13 @@
     },
     {
       "key": "222324|2026-10-27",
-      "meetingId": "3256331",
+      "meetingId": "",
       "boardId": "222324",
       "board": "styrelsen för fastighet, stöd och service",
       "date": "2026-10-27",
       "status": "Publisert",
-      "published": true,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3256331",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
       "documents": [
         {
           "title": "Kallelse styrelsen för fastighet, stöd och service 2026-10-27",
