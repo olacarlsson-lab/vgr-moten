@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:55:42.303Z",
+  "generatedAt": "2026-10-24T06:43:59.271Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1305,10 +1305,6 @@
       "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3213885",
       "documents": [
         {
-          "title": "Kallelse presidiemöte den 9 oktober inför sammanträde med kulturnämnden den 22 oktober 2026",
-          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4680858.PDF?fileName=Kallelse%20presidiem%C3%B6te%20den%209%20oktober%20inf%C3%B6r%20sammantr%C3%A4de%20med%20kulturn%C3%A4mnden%20den%2022%20oktober%202026&fileSize=162287"
-        },
-        {
           "title": "Kallelse kulturnämnden 2026-10-22",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700593.PDF?fileName=Kallelse%20kulturn%C3%A4mnden%202026-10-22&fileSize=162117"
         }
@@ -1379,9 +1375,13 @@
         {
           "title": "Kallelse regionstyrelsen 2026-10-20",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4683650.PDF?fileName=Kallelse%20regionstyrelsen%202026-10-20&fileSize=108106"
+        },
+        {
+          "title": "Protokoll regionstyrelsen 2026-10-20",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4698594.PDF?fileName=Protokoll%20regionstyrelsen%202026-10-20&fileSize=666594"
         }
       ],
-      "agendaDocCount": 6
+      "agendaDocCount": 13
     },
     {
       "key": "210654|2026-10-08",
