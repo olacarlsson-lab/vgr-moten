@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:37:43.526Z",
+  "generatedAt": "2026-10-26T11:30:36.290Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1250,15 +1250,20 @@
     },
     {
       "key": "212615|2026-11-03",
-      "meetingId": "",
+      "meetingId": "3350219",
       "boardId": "212615",
       "board": "regionfullmäktige",
       "date": "2026-11-03",
       "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
-      "documents": [],
-      "agendaDocCount": 0
+      "published": true,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Meetings/Details/3350219",
+      "documents": [
+        {
+          "title": "Föredragningslista regionfullmäktige 2026-11-03",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4710109.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-11-03&fileSize=119770"
+        }
+      ],
+      "agendaDocCount": 62
     },
     {
       "key": "222324|2026-10-27",
