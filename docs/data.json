@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:19:39.750Z",
+  "generatedAt": "2026-10-27T12:25:18.799Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -609,18 +609,6 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
-      "documents": [],
-      "agendaDocCount": 0
-    },
-    {
-      "key": "210654|2027-08-19",
-      "meetingId": "",
-      "boardId": "210654",
-      "board": "beredningen för hållbar utveckling",
-      "date": "2027-08-19",
-      "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
       "documents": [],
       "agendaDocCount": 0
     },
