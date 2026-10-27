@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T18:12:56.350Z",
+  "generatedAt": "2026-10-27T22:17:06.587Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1432,6 +1432,10 @@
         {
           "title": "Kallelse kulturnämnden 2026-10-22",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700593.PDF?fileName=Kallelse%20kulturn%C3%A4mnden%202026-10-22&fileSize=162117"
+        },
+        {
+          "title": "Protokoll  kulturnämnden 2026-10-22",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708691.PDF?fileName=Protokoll%20%20kulturn%C3%A4mnden%202026-10-22&fileSize=1363447"
         }
       ],
       "agendaDocCount": 0
@@ -1487,9 +1491,13 @@
         {
           "title": "Föredragningslista regionfullmäktige 2026-10-20",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4694389.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-10-20&fileSize=97921"
+        },
+        {
+          "title": "Protokoll  regionfullmäktige 2026-10-20",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4705115.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-10-20&fileSize=1684815"
         }
       ],
-      "agendaDocCount": 5
+      "agendaDocCount": 9
     },
     {
       "key": "212458|2026-10-20",
