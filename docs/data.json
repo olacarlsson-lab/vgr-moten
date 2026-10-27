@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:25:18.799Z",
+  "generatedAt": "2026-10-27T18:12:56.350Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -313,6 +313,18 @@
   ],
   "meetings": [
     {
+      "key": "212210|2027-12-17",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-12-17",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2027-12-14",
       "meetingId": "",
       "boardId": "212458",
@@ -369,6 +381,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2027-11-24",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-11-24",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -445,6 +469,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212210|2027-10-29",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-10-29",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212615|2027-10-25",
       "meetingId": "",
       "boardId": "212615",
@@ -489,6 +525,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2027-10-01",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-10-01",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -589,6 +637,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212210|2027-09-03",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-09-03",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2027-08-31",
       "meetingId": "",
       "boardId": "212458",
@@ -661,6 +721,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212210|2027-06-18",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-06-18",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "210654|2027-06-17",
       "meetingId": "",
       "boardId": "210654",
@@ -693,6 +765,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2027-05-28",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-05-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -777,6 +861,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2027-04-28",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-04-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -877,6 +973,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212210|2027-03-18",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-03-18",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212458|2027-03-16",
       "meetingId": "",
       "boardId": "212458",
@@ -937,6 +1045,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "212210|2027-02-26",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-02-26",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "210654|2027-02-25",
       "meetingId": "",
       "boardId": "210654",
@@ -969,6 +1089,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212615",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "212210|2027-02-05",
+      "meetingId": "",
+      "boardId": "212210",
+      "board": "styrelsen för Sahlgrenska Universitetssjukhuset",
+      "date": "2027-02-05",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212210",
       "documents": [],
       "agendaDocCount": 0
     },
