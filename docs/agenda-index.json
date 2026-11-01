@@ -788,7 +788,13 @@
         {
           "agendaId": "373009",
           "title": "195 - Avsägelser och anmälan om nyvalda i regionfullmäktige",
-          "documents": []
+          "documents": [
+            {
+              "title": "Avsägelser och anmälan om nyvalda i regionfullmäktige",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4709681.PDF?fileName=Avs%C3%A4gelser%20och%20anm%C3%A4lan%20om%20nyvalda%20i%20regionfullm%C3%A4ktige&fileSize=105902",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
         },
         {
           "agendaId": "373008",
