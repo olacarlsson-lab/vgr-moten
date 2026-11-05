@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T09:48:12.205Z",
+  "generatedAt": "2026-11-05T17:46:01.275Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -841,6 +841,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222298|2027-05-28",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-05-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212210|2027-05-28",
       "meetingId": "",
       "boardId": "212210",
@@ -945,6 +957,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222331",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2027-04-28",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-04-28",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
       "documents": [],
       "agendaDocCount": 0
     },
