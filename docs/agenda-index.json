@@ -1,5 +1,296 @@
 {
   "meetings": {
+    "212298|2026-11-17": {
+      "meetingId": "3184062",
+      "items": [
+        {
+          "agendaId": "373145",
+          "title": "75 - Inköpspolicy för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Inköpspolicy för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4678649.PDF?fileName=Ink%C3%B6pspolicy%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=130455",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Reviderad inköpspolicy för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4712618.PDF?fileName=Reviderad%20ink%C3%B6pspolicy%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=125230",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373149",
+          "title": "76 - Avveckling av studio Västsvensk Konservering",
+          "documents": [
+            {
+              "title": "Avveckling av studio Västsvensk Konservering och säkerställande av konservatorskompetens inom Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4690272.PDF?fileName=Avveckling%20av%20studio%20V%C3%A4stsvensk%20Konservering%20och%20s%C3%A4kerst%C3%A4llande%20av%20konservatorskompetens%20inom%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=160270",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Huvudmannaskap för Studio Västsvensk Konservering – Bakgrund och historik",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4687614.PDF?fileName=Huvudmannaskap%20f%C3%B6r%20Studio%20V%C3%A4stsvensk%20Konservering%20%E2%80%93%20Bakgrund%20och%20historik&fileSize=120434",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Skrivelse - Fackligt underlag avseende SVK 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4688419.PDF?fileName=Skrivelse%20-%20Fackligt%20underlag%20avseende%20SVK%202026&fileSize=316793",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Följebrev - Fackligt underlag avseende Studio Västsvensk konservering (SVK) – begäran om omprövning av beslut från 2019",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4688420.PDF?fileName=F%C3%B6ljebrev%20-%20Fackligt%20underlag%20avseende%20Studio%20V%C3%A4stsvensk%20konservering%20(SVK)%20%E2%80%93%20beg%C3%A4ran%20om%20ompr%C3%B6vning%20av%20beslut%20fr%C3%A5n%202019&fileSize=45399",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373147",
+          "title": "77 - Nästa steg för minskad internhandel i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Nästa steg för minskad internhandel i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4646740.PDF?fileName=N%C3%A4sta%20steg%20f%C3%B6r%20minskad%20internhandel%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=228645",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Bilaga 1 - uppskattade växlingar av regionbidrag per nämnd och styrelse",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4668914.PDF?fileName=Bilaga%201%20-%20uppskattade%20v%C3%A4xlingar%20av%20regionbidrag%20per%20n%C3%A4mnd%20och%20styrelse&fileSize=164023",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373151",
+          "title": "78 - Göteborgs botaniska trädgård i Västra Götalandsregionens varumärkesarkitektur",
+          "documents": [
+            {
+              "title": "Göteborgs botaniska trädgård i Västra Götalandsregionens varumärkesarkitektur",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4642018.PDF?fileName=G%C3%B6teborgs%20botaniska%20tr%C3%A4dg%C3%A5rd%20i%20V%C3%A4stra%20G%C3%B6talandsregionens%20varum%C3%A4rkesarkitektur&fileSize=121164",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "373142",
+          "title": "79 - Genomförandebeslut hållplatstak Korsvägen",
+          "documents": [
+            {
+              "title": "Genomförandebeslut hållplatstak Korsvägen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4703256.PDF?fileName=Genomf%C3%B6randebeslut%20h%C3%A5llplatstak%20Korsv%C3%A4gen&fileSize=187199",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "HPL Korsvägen Programhandling",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4496590.PDF?fileName=HPL%20Korsv%C3%A4gen%20Programhandling&fileSize=7785167",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från Styrelsen för Västtrafik AB 2026-04-29 - Nybyggnation hållplatstak Korsvägen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4519044.PDF?fileName=Beslut%20fr%C3%A5n%20Styrelsen%20f%C3%B6r%20V%C3%A4sttrafik%20AB%202026-04-29%20-%20Nybyggnation%20h%C3%A5llplatstak%20Korsv%C3%A4gen&fileSize=188876",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 17 april 2026 - Västtrafik Nybyggnation hållpla",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4496587.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2017%20april%202026%20-%20V%C3%A4sttrafik%20Nybyggnation%20h%C3%A5llpla&fileSize=85631",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373154",
+          "title": "80 - Genomförandebeslut - ombyggnad infektionsklinik, Skaraborgs sjukhus Skövde hus 04, 06 och 24, projektnummer 21233",
+          "documents": [
+            {
+              "title": "Genomförandebeslut - ombyggnad infektionsklinik, Skaraborgs sjukhus Skövde hus 04, 06 och 24, projektnummer 21233",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4703251.PDF?fileName=Genomf%C3%B6randebeslut%20-%20ombyggnad%20infektionsklinik%2C%20Skaraborgs%20sjukhus%20Sk%C3%B6vde%20hus%2004%2C%2006%20och%2024%2C%20projektnummer%2021233&fileSize=210907",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Systemrapport - Ombyggnad infektionsklinik, Skaraborgs sjukhus Skövde, projektnummer 21233",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4692344.PDF?fileName=Systemrapport%20-%20Ombyggnad%20infektionsklinik%2C%20Skaraborgs%20sjukhus%20Sk%C3%B6vde%2C%20projektnummer%2021233&fileSize=8427673",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från Styrelsen för fastighet, stöd och service 2026-10-27 § 126 - Ombyggnad infektionsklinik, Skaraborgs sjukhus Skövde hus 04, 06 och 24, projektnummer 21233",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4724010.PDF?fileName=Beslut%20fr%C3%A5n%20Styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-10-27%20%C2%A7%20126%20-%20Ombyggnad%20infektionsklinik%2C%20Skaraborgs%20sjukhus%20Sk%C3%B6vde%20hus%2004%2C%2006%20och%2024%2C%20projektnummer%2021233&fileSize=98150",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från styrelsen för Skaraborgs Sjukhus sammanträde den 30 oktober 2026 - Systemrapport ombyggnad infektionsklini",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4727425.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Skaraborgs%20Sjukhus%20sammantr%C3%A4de%20den%2030%20oktober%202026%20-%20Systemrapport%20ombyggnad%20infektionsklini&fileSize=117610",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373155",
+          "title": "81 - Genomförandebeslut - uppgradering av ombordsystemet ERTMS på tåg",
+          "documents": [
+            {
+              "title": "Genomförandebelsut - uppgradering av ombordsystemet ERTMS på tåg",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4707217.PDF?fileName=Genomf%C3%B6randebelsut%20-%20uppgradering%20av%20ombordsystemet%20ERTMS%20p%C3%A5%20t%C3%A5g&fileSize=123864",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "NR 12.2_bilaga Coradia X61 ERTMS baseline 3.4_KLAR",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4707452.PDF?fileName=NR%2012.2_bilaga%20Coradia%20X61%20ERTMS%20baseline%203.4_KLAR&fileSize=210967",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373152",
+          "title": "82 - Skyddad: OSL 18 kap 8 § Säkerhets- eller bevakningsåtgärd",
+          "documents": [
+            {
+              "title": "Bemyndiganden och fullmakter avseende finansverksamheten och moderförvaltningen samt Västra Götalandsregionens anknutna stiftelser 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4700996.PDF?fileName=Bemyndiganden%20och%20fullmakter%20avseende%20finansverksamheten%20och%20moderf%C3%B6rvaltningen%20samt%20V%C3%A4stra%20G%C3%B6talandsregionens%20anknutna%20stiftelser%202027&fileSize=189440",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "373144",
+          "title": "83 - Bemyndiganden och fullmakter avseende finansverksamheten och moderförvaltningen samt Västra Götalandsregionens anknutna stiftelser 2027",
+          "documents": [
+            {
+              "title": "Laddning av elfordon vid egna verksamheter med hjälp av externa leverantörer",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4523863.PDF?fileName=Laddning%20av%20elfordon%20vid%20egna%20verksamheter%20med%20hj%C3%A4lp%20av%20externa%20leverant%C3%B6rer&fileSize=126956",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "373969",
+          "title": "84 - Laddning av elfordon vid egna verksamheter med hjälp av externa aktörer",
+          "documents": [
+            {
+              "title": "Information om behov av bemyndigande och investeringsram för markköp kollektivtrafikfastigheter",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4725582.PDF?fileName=Information%20om%20behov%20av%20bemyndigande%20och%20investeringsram%20f%C3%B6r%20markk%C3%B6p%20kollektivtrafikfastigheter&fileSize=104258",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "PM samlat markbehov för spårvagns- och bussdepåer_rev. 260515",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4659332.PDF?fileName=PM%20samlat%20markbehov%20f%C3%B6r%20sp%C3%A5rvagns-%20och%20bussdep%C3%A5er_rev.%20260515&fileSize=310180",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 22 maj 2026 - Markstrategi kollektivtrafikfasti",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4550054.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2022%20maj%202026%20-%20Markstrategi%20kollektivtrafikfasti&fileSize=82624",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374004",
+          "title": "85 - Information om behov av bemyndigande och investeringsram för markköp kollektivtrafikfastigheter",
+          "documents": [
+            {
+              "title": "Information om möjliga ersättningslokaler för Campus Nya Varvet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4728516.PDF?fileName=Information%20om%20m%C3%B6jliga%20ers%C3%A4ttningslokaler%20f%C3%B6r%20Campus%20Nya%20Varvet&fileSize=213576",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "373971",
+          "title": "86 - Information om möjliga ersättningslokaler för Campus Nya Varvet",
+          "documents": [
+            {
+              "title": "Information om yttrande över Europeiska kommissionens förslag till förordning om offentliga kontrakt och koncessioner",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4723646.PDF?fileName=Information%20om%20yttrande%20%C3%B6ver%20Europeiska%20kommissionens%20f%C3%B6rslag%20till%20f%C3%B6rordning%20om%20offentliga%20kontrakt%20och%20koncessioner&fileSize=102328",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "kommissionens-forslag-till-en-forordning-om-offentlig-upphandling",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4694542.PDF?fileName=kommissionens-forslag-till-en-forordning-om-offentlig-upphandling&fileSize=1416967",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373146",
+          "title": "87 - \nInformation om yttrande över Europeiska kommissionens förslag till förordning om offentliga kontrakt och koncessioner",
+          "documents": [
+            {
+              "title": "Gemensam presidiedialog om beredskap den 2 oktober 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4687882.PDF?fileName=Gemensam%20presidiedialog%20om%20beredskap%20den%202%20oktober%202026&fileSize=154481",
+              "category": "Handling upprättad"
+            },
+            {
+              "title": "Bilaga 2 - Samtal runt borden - sammanställning från Menti",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4689172.PDF?fileName=Bilaga%202%20-%20Samtal%20runt%20borden%20-%20sammanst%C3%A4llning%20fr%C3%A5n%20Menti&fileSize=107039",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Bilaga 1: Presentation presidiedialog beredskap",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4689173.PDF?fileName=Bilaga%201%3A%20Presentation%20presidiedialog%20beredskap&fileSize=4664973",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373148",
+          "title": "Gemensam presidiedialog om beredskap den 2 oktober 2026",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 20 oktober 2026 - Sammanträdestider för regionstyrelsen och dess utskott för återstoden av 2026 och för helåret 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708828.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%2020%20oktober%202026%20-%20Sammantr%C3%A4destider%20f%C3%B6r%20regionstyrelsen%20och%20dess%20utskott%20f%C3%B6r%20%C3%A5terstoden%20av%202026%20och%20f%C3%B6r%20hel%C3%A5ret%202027&fileSize=81614",
+              "category": "Protokollsutdrag"
+            }
+          ]
+        },
+        {
+          "agendaId": "373153",
+          "title": "Protokollsutdrag från regionstyrelsens sammanträde den 20 oktober 2026 - Sammanträdestider för regionstyrelsen och dess utskott för återstoden av 2026 och för helåret 2027",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 20 oktober 2026 - Val av ledamöter och ersättare till regionstyrelsens utskott",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708829.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%2020%20oktober%202026%20-%20Val%20av%20ledam%C3%B6ter%20och%20ers%C3%A4ttare%20till%20regionstyrelsens%20utskott&fileSize=83500",
+              "category": "Protokollsutdrag"
+            }
+          ]
+        },
+        {
+          "agendaId": "373970",
+          "title": "Protokollsutdrag från regionstyrelsens sammanträde den 20 oktober 2026 - Val av ledamöter och ersättare till regionstyrelsens utskott",
+          "documents": [
+            {
+              "title": "Beslut från RS den 20 oktober 2026 - § 254 Val av ledamöter och ersättare till regionstyrelsens utskott",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708962.PDF?fileName=Beslut%20fr%C3%A5n%20RS%20den%2020%20oktober%202026%20-%20%C2%A7%20254%20Val%20av%20ledam%C3%B6ter%20och%20ers%C3%A4ttare%20till%20regionstyrelsens%20utskott&fileSize=94594",
+              "category": "Handling ut"
+            },
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 20 oktober 2026 - Val av ledamöter och ersättare till regionstyrelsens utskott",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708963.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%2020%20oktober%202026%20-%20Val%20av%20ledam%C3%B6ter%20och%20ers%C3%A4ttare%20till%20regionstyrelsens%20utskott&fileSize=83500",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374005",
+          "title": "Beslut från RS den 20 oktober 2026 - § 254 Val av ledamöter och ersättare till regionstyrelsens utskott",
+          "documents": []
+        },
+        {
+          "agendaId": "373170",
+          "title": "Presidiedialog mellan ägarutskottet och samtliga bolag den 6 november 2026",
+          "documents": []
+        },
+        {
+          "agendaId": "373171",
+          "title": "Information från regiondirektören",
+          "documents": []
+        },
+        {
+          "agendaId": "373172",
+          "title": "Rapport från presidiet",
+          "documents": []
+        }
+      ]
+    },
     "212458|2026-11-10": {
       "meetingId": "3289023",
       "items": [
