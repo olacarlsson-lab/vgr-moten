@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T16:18:06.017Z",
+  "generatedAt": "2026-11-11T22:47:17.921Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1508,7 +1508,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4715867.PDF?fileName=Kallelse%20regionstyrelsen%202026-11-10&fileSize=141804"
         }
       ],
-      "agendaDocCount": 307
+      "agendaDocCount": 313
     },
     {
       "key": "222299|2026-11-04",
@@ -1523,9 +1523,17 @@
         {
           "title": "Kallelse strategiska hälso- och sjukvårdsnämnden 2026-11-04",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4707386.PDF?fileName=Kallelse%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-11-04&fileSize=151023"
+        },
+        {
+          "title": "Protokoll 2 av 2 strategiska hälso- och sjukvårdsnämnden 2026-11-04",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4721028.PDF?fileName=Protokoll%202%20av%202%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-11-04&fileSize=1298309"
+        },
+        {
+          "title": "Protokoll 1 av 2 strategiska hälso- och sjukvårdsnämnden 2026-11-04",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4721125.PDF?fileName=Protokoll%201%20av%202%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-11-04&fileSize=336159"
         }
       ],
-      "agendaDocCount": 96
+      "agendaDocCount": 124
     },
     {
       "key": "212615|2026-11-03",
