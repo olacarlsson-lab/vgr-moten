@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T11:45:54.631Z",
+  "generatedAt": "2026-11-12T19:21:33.462Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -577,6 +577,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222324|2027-09-29",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2027-09-29",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "212298|2027-09-29",
       "meetingId": "",
       "boardId": "212298",
@@ -609,18 +621,6 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222299",
-      "documents": [],
-      "agendaDocCount": 0
-    },
-    {
-      "key": "222324|2027-09-24",
-      "meetingId": "",
-      "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
-      "date": "2027-09-24",
-      "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -781,18 +781,6 @@
       "agendaDocCount": 0
     },
     {
-      "key": "222324|2027-06-18",
-      "meetingId": "",
-      "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
-      "date": "2027-06-18",
-      "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
-      "documents": [],
-      "agendaDocCount": 0
-    },
-    {
       "key": "212210|2027-06-18",
       "meetingId": "",
       "boardId": "212210",
@@ -813,6 +801,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2027-06-17",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2027-06-17",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -1273,18 +1273,6 @@
       "agendaDocCount": 0
     },
     {
-      "key": "222324|2027-02-03",
-      "meetingId": "",
-      "boardId": "222324",
-      "board": "Styrelsen för fastighet, stöd och service",
-      "date": "2027-02-03",
-      "status": "Publisert",
-      "published": false,
-      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
-      "documents": [],
-      "agendaDocCount": 0
-    },
-    {
       "key": "212458|2027-02-02",
       "meetingId": "",
       "boardId": "212458",
@@ -1293,6 +1281,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/212458",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222324|2027-02-02",
+      "meetingId": "",
+      "boardId": "222324",
+      "board": "Styrelsen för fastighet, stöd och service",
+      "date": "2027-02-02",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
       "documents": [],
       "agendaDocCount": 0
     },
