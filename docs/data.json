@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:11:34.009Z",
+  "generatedAt": "2026-11-16T09:48:22.093Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -349,6 +349,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222298|2027-12-10",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-12-10",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222331|2027-12-09",
       "meetingId": "",
       "boardId": "222331",
@@ -405,6 +417,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2027-11-24",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-11-24",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -529,6 +553,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222298|2027-10-22",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-10-22",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "210654|2027-10-21",
       "meetingId": "",
       "boardId": "210654",
@@ -625,6 +661,18 @@
       "agendaDocCount": 0
     },
     {
+      "key": "222298|2027-09-23",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-09-23",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
       "key": "222331|2027-09-22",
       "meetingId": "",
       "boardId": "222331",
@@ -657,6 +705,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/210654",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2027-09-08",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-09-08",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -717,6 +777,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2027-08-27",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-08-27",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
       "documents": [],
       "agendaDocCount": 0
     },
@@ -813,6 +885,18 @@
       "status": "Publisert",
       "published": false,
       "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222324",
+      "documents": [],
+      "agendaDocCount": 0
+    },
+    {
+      "key": "222298|2027-06-16",
+      "meetingId": "",
+      "boardId": "222298",
+      "board": "operativa hälso- och sjukvårdsnämnden",
+      "date": "2027-06-16",
+      "status": "Publisert",
+      "published": false,
+      "url": "https://opengov.360online.com/Meetings/vgregion/Boards/Details/222298",
       "documents": [],
       "agendaDocCount": 0
     },
