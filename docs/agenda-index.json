@@ -1,5 +1,1394 @@
 {
   "meetings": {
+    "222324|2026-11-27": {
+      "meetingId": "3256337",
+      "items": [
+        {
+          "agendaId": "374140",
+          "title": "135 - Information från presidiet för styrelsen för fastighet, stöd och service",
+          "documents": [
+            {
+              "title": "Information från presidiet för styrelsen för fastighet, stöd och service",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4731449.PDF?fileName=Information%20fr%C3%A5n%20presidiet%20f%C3%B6r%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=79996",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "374139",
+          "title": "136 - Information från förvaltningsdirektören för fastighet, stöd och service",
+          "documents": [
+            {
+              "title": "Information från förvaltningsdirektören för fastighet, stöd och service",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4731438.PDF?fileName=Information%20fr%C3%A5n%20f%C3%B6rvaltningsdirekt%C3%B6ren%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=80376",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "374841",
+          "title": "137 - Information till styrelsen om parkeringsuppdraget inom Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Information till styrelsen om parkeringsuppdraget inom Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738492.PDF?fileName=Information%20till%20styrelsen%20om%20parkeringsuppdraget%20inom%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=71259",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "374141",
+          "title": "138 - Månadskommentar oktober 2026, Styrelsen för fastighet, stöd och service",
+          "documents": [
+            {
+              "title": "Månadskommentar oktober 2026, Styrelsen för fastighet, stöd och service",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4731486.PDF?fileName=M%C3%A5nadskommentar%20oktober%202026%2C%20Styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=93360",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Bilaga 1, Månadskommentar oktober 2026, Styrelsen för fastighet, stöd och service",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4731508.PDF?fileName=Bilaga%201%2C%20M%C3%A5nadskommentar%20oktober%202026%2C%20Styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=2460690",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374142",
+          "title": "139 - Detaljbudget för fastighet, stöd och service 2027",
+          "documents": [
+            {
+              "title": "Detaljbudget för fastighet, stöd och service 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4731594.PDF?fileName=Detaljbudget%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202027&fileSize=103356",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Detaljbudget 2027 och utblick 2028-2029, Styrelsen för fastighet, stöd och service",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738343.PDF?fileName=Detaljbudget%202027%20och%20utblick%202028-2029%2C%20Styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service&fileSize=743838",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374840",
+          "title": "140 - Information till styrelsen om arbetssätt för enprocentsregeln",
+          "documents": [
+            {
+              "title": "Information till styrelsen om arbetssätt för enprocentsregeln",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4742517.PDF?fileName=Information%20till%20styrelsen%20om%20arbetss%C3%A4tt%20f%C3%B6r%20enprocentsregeln&fileSize=94599",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Protokollsutdrag från styrelsen för fastighet, stöd och services sammanträde den 28 augusti 2026 - Nulägesanalys pott för kompletterande konstnärlig gestaltning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4658793.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20services%20sammantr%C3%A4de%20den%2028%20augusti%202026%20-%20Nul%C3%A4gesanalys%20pott%20f%C3%B6r%20kompletterande%20konstn%C3%A4rlig%20gestaltning&fileSize=64101",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Nulägesanalys pott för kompletterande konstnärlig gestaltning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4584423.PDF?fileName=Nul%C3%A4gesanalys%20pott%20f%C3%B6r%20kompletterande%20konstn%C3%A4rlig%20gestaltning&fileSize=112966",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373504",
+          "title": "141 - Sahlgrenska Sjukhuset utbyggnad av rörpost på sjukhuset projetknummer  11694",
+          "documents": [
+            {
+              "title": "Sahlgrenska Sjukhuset utbyggnad av rörpost på sjukhuset projektnummer 11694",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4676246.PDF?fileName=Sahlgrenska%20Sjukhuset%20utbyggnad%20av%20r%C3%B6rpost%20p%C3%A5%20sjukhuset%20projektnummer%2011694&fileSize=238667",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 23 juni 2025 - Västra Götalandsregionens investeringsplan 2026-2035 (2)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4710189.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%2023%20juni%202025%20-%20V%C3%A4stra%20G%C3%B6talandsregionens%20investeringsplan%202026-2035%20(2)&fileSize=60152",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373191",
+          "title": "142 - Uddevalla sjukhus - Öppenpsykiatricentrum, projektnummer 30261",
+          "documents": [
+            {
+              "title": "Uddevalla sjukhus - Öppenpsykiatricentrum, projektnummer 30261",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4709284.PDF?fileName=Uddevalla%20sjukhus%20-%20%C3%96ppenpsykiatricentrum%2C%20projektnummer%2030261&fileSize=175850",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Bilaga 3.1 Ritningsbilaga Arkitekt",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4709395.PDF?fileName=Bilaga%203.1%20Ritningsbilaga%20Arkitekt&fileSize=643011",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Förstudierapport Uddevalla Sjukhus Psykiatricentrum",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4711617.PDF?fileName=F%C3%B6rstudierapport%20Uddevalla%20Sjukhus%20Psykiatricentrum&fileSize=1198963",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373187",
+          "title": "143 - Västtrafik, Nybyggnation Lerum resecentrum, projektnummer 42100, ansökan om genomförandebeslut",
+          "documents": [
+            {
+              "title": "Västtrafik, Nybyggnation Lerum resecentrum, projektnummer 42100, ansökan om genomförandebeslut",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4648568.PDF?fileName=V%C3%A4sttrafik%2C%20Nybyggnation%20Lerum%20resecentrum%2C%20projektnummer%2042100%2C%20ans%C3%B6kan%20om%20genomf%C3%B6randebeslut&fileSize=142610",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "373811",
+          "title": "144 - Västtrafik, Nybyggnation Temporär skadeverkstad spårvagnsdepå Ringön E1, projektnummer 42203",
+          "documents": [
+            {
+              "title": "Västtrafik, Nybyggnation Temporär skadeverkstad spårvagnsdepå Ringön E1, projektnummer 42203",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4709129.PDF?fileName=V%C3%A4sttrafik%2C%20Nybyggnation%20Tempor%C3%A4r%20skadeverkstad%20sp%C3%A5rvagnsdep%C3%A5%20Ring%C3%B6n%20E1%2C%20projektnummer%2042203&fileSize=169469",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Systemrapport Temporär skadeverkstad Ringön M34",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4740335.PDF?fileName=Systemrapport%20Tempor%C3%A4r%20skadeverkstad%20Ring%C3%B6n%20M34&fileSize=2003704",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373398",
+          "title": "145 - Återrapportering av internkontroll per oktober 2026",
+          "documents": [
+            {
+              "title": "Återrapportering av internkontroll per oktober 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4660804.PDF?fileName=%C3%85terrapportering%20av%20internkontroll%20per%20oktober%202026&fileSize=117522",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "373399",
+          "title": "146 - Svar från fastighet, stöd och service på att initiera ett avgränsat införande av Ronden",
+          "documents": [
+            {
+              "title": "Svar från fastighet, stöd och service på att initiera ett avgränsat införande av Ronden",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4675277.PDF?fileName=Svar%20fr%C3%A5n%20fastighet%2C%20st%C3%B6d%20och%20service%20p%C3%A5%20att%20initiera%20ett%20avgr%C3%A4nsat%20inf%C3%B6rande%20av%20Ronden&fileSize=111615",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Protokollsutdrag från delregional nämnd norras sammanträde den 28 maj 2026 - Svar på väckt ärende om att tillskriva Styrelsen för fastighet, stöd och service att initiera ett avgränsat införande av Ronden i delregional norras område",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4558679.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20delregional%20n%C3%A4mnd%20norras%20sammantr%C3%A4de%20den%2028%20maj%202026%20-%20Svar%20p%C3%A5%20v%C3%A4ckt%20%C3%A4rende%20om%20att%20tillskriva%20Styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%20att%20initiera%20ett%20avgr%C3%A4nsat%20inf%C3%B6rande%20av%20Ronden%20i%20delregional%20norras%20omr%C3%A5de&fileSize=80745",
+              "category": "Bilaga"
+            },
+            {
+              "title": "DRNN 2025-00189-2 Initiativ om att tillskriva Styrelsen för fastighet, stöd och service om ronden i delregional  norras område",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4558680.PDF?fileName=DRNN%202025-00189-2%20Initiativ%20om%20att%20tillskriva%20Styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%20om%20ronden%20i%20delregional%20%20norras%20omr%C3%A5de&fileSize=152717",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374784",
+          "title": "147 - Initiativärende - Utredning av batterilager vid Billströmska folkhögskolan",
+          "documents": [
+            {
+              "title": "Initiativärende - Utredning av batterilager vid Billströmska folkhögskolan",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4741210.PDF?fileName=Initiativ%C3%A4rende%20-%20Utredning%20av%20batterilager%20vid%20Billstr%C3%B6mska%20folkh%C3%B6gskolan&fileSize=70278",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "373993",
+          "title": "148 - Justering av Sammanträdestider för styrelsen för fastighet, stöd och service 2027",
+          "documents": [
+            {
+              "title": "Justering av sammanträdestider för styrelsen för fastighet, stöd och service 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4728381.PDF?fileName=Justering%20av%20sammantr%C3%A4destider%20f%C3%B6r%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202027&fileSize=101014",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
+          "agendaId": "373820",
+          "title": "149 - Återkallelse och förgäveskostnader för Hållplats Södra torget, projektnummer 47008",
+          "documents": [
+            {
+              "title": "Återkallelse och förgäveskostnader för Hållplats Södra torget, projektnummer 47008",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4709595.PDF?fileName=%C3%85terkallelse%20och%20f%C3%B6rg%C3%A4veskostnader%20f%C3%B6r%20H%C3%A5llplats%20S%C3%B6dra%20torget%2C%20projektnummer%2047008&fileSize=108781",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Genomförandebeslut Hållplats södra torget \nBorås, projektnummer 47008",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4724975.PDF?fileName=Genomf%C3%B6randebeslut%20H%C3%A5llplats%20s%C3%B6dra%20torget%20%0ABor%C3%A5s%2C%20projektnummer%2047008&fileSize=330740",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Fortsatt genomförandeplanering mindre \nägarstyrda fastighetsinvesteringar omgång 1 \nhöst – 2021",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4724979.PDF?fileName=Fortsatt%20genomf%C3%B6randeplanering%20mindre%20%0A%C3%A4garstyrda%20fastighetsinvesteringar%20omg%C3%A5ng%201%20%0Ah%C3%B6st%20%E2%80%93%202021&fileSize=398024",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373186",
+          "title": "150 - Slutredovisning Mölndals sjukhus, 4429 Ombyggnad hus Z, projektnummer 30034, 10800, 10728, 10729",
+          "documents": [
+            {
+              "title": "Slutredovisning Mölndals sjukhus, 4429 Ombyggnad hus Z, projektnummer 30034, delprojektnummer 30493",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4144903.PDF?fileName=Slutredovisning%20M%C3%B6lndals%20sjukhus%2C%204429%20Ombyggnad%20hus%20Z%2C%20projektnummer%2030034%2C%20delprojektnummer%2030493&fileSize=129796",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Västfastigheter - Mölndals sjukhus Om- och tillbyggnad av försörjningsbyggnad hus Z, Byggnad 4429",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4704219.PDF?fileName=V%C3%A4stfastigheter%20-%20M%C3%B6lndals%20sjukhus%20Om-%20och%20tillbyggnad%20av%20f%C3%B6rs%C3%B6rjningsbyggnad%20hus%20Z%2C%20Byggnad%204429&fileSize=133280",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Protokollsutdrag från fastighetsnämnden, 2017-02-06, § 18 - Beslut om Mölndals sjukhus, Om- och tillbyggnad av försörjningsbyggnad hus Z, byggnad 4429",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4704221.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20fastighetsn%C3%A4mnden%2C%202017-02-06%2C%20%C2%A7%2018%20-%20Beslut%20om%20M%C3%B6lndals%20sjukhus%2C%20Om-%20och%20tillbyggnad%20av%20f%C3%B6rs%C3%B6rjningsbyggnad%20hus%20Z%2C%20byggnad%204429&fileSize=976057",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373185",
+          "title": "151 - Slutredovisning. Östra Sjukhuset - Försörjning, logistik och teknisk infrastruktur 2017, projektnummer 11031, 11434 - Rörpost etapp 1",
+          "documents": [
+            {
+              "title": "Slutredovisning, Östra Sjukhuset - Försörjning, logistik och teknisk infrastruktur 2017, projektnummer 11031, 11434 - Rörpost etapp 1",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4509493.PDF?fileName=Slutredovisning%2C%20%C3%96stra%20Sjukhuset%20-%20F%C3%B6rs%C3%B6rjning%2C%20logistik%20och%20teknisk%20infrastruktur%202017%2C%20projektnummer%2011031%2C%2011434%20-%20R%C3%B6rpost%20etapp%201&fileSize=109622",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 26 juni 2018 - Genomförande av etapp 1 för smågodstransportör rörpost vid Ö",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4510299.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%2026%20juni%202018%20-%20Genomf%C3%B6rande%20av%20etapp%201%20f%C3%B6r%20sm%C3%A5godstransport%C3%B6r%20r%C3%B6rpost%20vid%20%C3%96&fileSize=310592",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "373193",
+          "title": "152 - Markupplåtelse för jordkabelförläggning på Billströmska Folkhögskolan, Fastigheten TJÖRN TYFT 1:21",
+          "documents": [
+            {
+              "title": "Markupplåtelse för jordkabelförläggning på Billströmska Folkhögskolan, Fastigheten TJÖRN TYFT 1:21",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4652497.PDF?fileName=Markuppl%C3%A5telse%20f%C3%B6r%20jordkabelf%C3%B6rl%C3%A4ggning%20p%C3%A5%20Billstr%C3%B6mska%20Folkh%C3%B6gskolan%2C%20Fastigheten%20TJ%C3%96RN%20TYFT%201%3A21&fileSize=102377",
+              "category": "Tjänsteutlåtande"
+            },
+            {
+              "title": "Medgivande kabelförläggning till transformator vid parkering",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4655378.PDF?fileName=Medgivande%20kabelf%C3%B6rl%C3%A4ggning%20till%20transformator%20vid%20parkering&fileSize=778042",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374851",
+          "title": "Redovisning av beslut enligt förvaltningsdirektörens vidaredelegering - september 2026 Stödtjänster och regional samordning",
+          "documents": [
+            {
+              "title": "Redovisning av beslut enligt förvaltningsdirektörens vidaredelegering - september 2026 Stödtjänster och regional samordning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4709096.PDF?fileName=Redovisning%20av%20beslut%20enligt%20f%C3%B6rvaltningsdirekt%C3%B6rens%20vidaredelegering%20-%20september%202026%20St%C3%B6dtj%C3%A4nster%20och%20regional%20samordning&fileSize=593829",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374940",
+          "title": "Redovisning av beslut enligt förvaltningschefs vidaredelegering – september och oktober 2026",
+          "documents": [
+            {
+              "title": "Redovisning av beslut enligt förvaltningschefs vidaredelegering – september och oktober 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4733281.PDF?fileName=Redovisning%20av%20beslut%20enligt%20f%C3%B6rvaltningschefs%20vidaredelegering%20%E2%80%93%20september%20och%20oktober%202026&fileSize=98201",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "2026-09,10 Redovisning av beslut enligt förvaltningschefens vidaredelegering - september, oktober 2026, Intern service",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4733269.PDF?fileName=2026-09%2C10%20Redovisning%20av%20beslut%20enligt%20f%C3%B6rvaltningschefens%20vidaredelegering%20-%20september%2C%20oktober%202026%2C%20Intern%20service&fileSize=130845",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374850",
+          "title": "Redovisning av tillsättningsbeslut för tillsvidareanställningar oktober 2026",
+          "documents": [
+            {
+              "title": "Redovisning av tillsättningsbeslut för tillsvidareanställningar oktober 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4720567.PDF?fileName=Redovisning%20av%20tills%C3%A4ttningsbeslut%20f%C3%B6r%20tillsvidareanst%C3%A4llningar%20oktober%202026&fileSize=200987",
+              "category": "Handling upprättad"
+            }
+          ]
+        },
+        {
+          "agendaId": "374857",
+          "title": "Detaljprojektering Sahlgrenska Sjukhuset ombyggnation av huvudentré, projekt 11914",
+          "documents": [
+            {
+              "title": "Detaljprojektering Sahlgrenska Sjukhuset ombyggnation av huvudentré, projekt 11914",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4699510.PDF?fileName=Detaljprojektering%20Sahlgrenska%20Sjukhuset%20ombyggnation%20av%20huvudentr%C3%A9%2C%20projekt%2011914&fileSize=116003",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374847",
+          "title": "Sahlgrenska Universitetssjukhus byggnad 5308 drift- och funktionssäkring avd 80 projekt 12366",
+          "documents": [
+            {
+              "title": "Sahlgrenska sjukhuset, byggnad 5308, drift- och funktionssäkring av avdelning 80 projekt 12366",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4711579.PDF?fileName=Sahlgrenska%20sjukhuset%2C%20byggnad%205308%2C%20drift-%20och%20funktionss%C3%A4kring%20av%20avdelning%2080%20projekt%2012366&fileSize=110220",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374848",
+          "title": "Sahlgrenska Universitetssjukhus byggnad 5308 ombyggnad fastighet avdelning 80 projekt 12369",
+          "documents": [
+            {
+              "title": "Sahlgrenska sjukhuset byggnad 5308, standardhöjande åtgärder på avdelning 80, projekt 12367",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4711880.PDF?fileName=Sahlgrenska%20sjukhuset%20byggnad%205308%2C%20standardh%C3%B6jande%20%C3%A5tg%C3%A4rder%20p%C3%A5%20avdelning%2080%2C%20projekt%2012367&fileSize=114498",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374849",
+          "title": "Sahlgrenska sjukhuset byggnad 5308 teknisk upprustning avdelning 80 projekt 12369",
+          "documents": [
+            {
+              "title": "Sahlgrenska sjukhuset byggnad 5308, teknisk upprustning av avdelning 80, projekt 12369",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4711972.PDF?fileName=Sahlgrenska%20sjukhuset%20byggnad%205308%2C%20teknisk%20upprustning%20av%20avdelning%2080%2C%20projekt%2012369&fileSize=114672",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374853",
+          "title": "Sahlgrenska Sjukhuset byggnad 5011renovering ventilationsaggregat och nytt frånluftssystem projekt 11792",
+          "documents": [
+            {
+              "title": "Sahlgrenska Sjukhuset byggnad 5011 tilläggsbeslut systemhandling renovering ventilationsaggregat och nytt frånluftssystem projekt 11792",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4716142.PDF?fileName=Sahlgrenska%20Sjukhuset%20byggnad%205011%20till%C3%A4ggsbeslut%20systemhandling%20renovering%20ventilationsaggregat%20och%20nytt%20fr%C3%A5nluftssystem%20projekt%2011792&fileSize=103545",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Sahlgrenska Sjukhuset  byggnad 5011 nytt ventilationsaggregat  projektnummer 1792",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4633112.PDF?fileName=Sahlgrenska%20Sjukhuset%20%20byggnad%205011%20nytt%20ventilationsaggregat%20%20projektnummer%201792&fileSize=100603",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374854",
+          "title": "Sahlgrenska Sjukhuset byggnad 5071 byte ergonomiskt ljus på op- och interventionssalar projektnummer 11793",
+          "documents": [
+            {
+              "title": "Sahlgrenska Sjukhuset byggnad 5071 byte ergonomiskt ljus på operations- och interventionssalar projektnummer 11793",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4716838.PDF?fileName=Sahlgrenska%20Sjukhuset%20byggnad%205071%20byte%20ergonomiskt%20ljus%20p%C3%A5%20operations-%20och%20interventionssalar%20projektnummer%2011793&fileSize=107595",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374856",
+          "title": "Återkallese del av investeringsbelopp SAhlgrenska Sjukhuset byggnad 5000 skyddrum",
+          "documents": [
+            {
+              "title": "Återkallelse del av investeringsbelopp - Sahlgrenska Sjukhuset byggnad 5000 inklusive mikrobiologen,  Upprustning skyddsrum, projektnummer 12348",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4711759.PDF?fileName=%C3%85terkallelse%20del%20av%20investeringsbelopp%20-%20Sahlgrenska%20Sjukhuset%20byggnad%205000%20inklusive%20mikrobiologen%2C%20%20Upprustning%20skyddsrum%2C%20projektnummer%2012348&fileSize=100330",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Sahlgrenska Sjukhuset  byggnad 5000 inkl mikrobiologen Upprustning av skyddsrum projektnummer 12348 huvudprojektnummer 12028",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4647182.PDF?fileName=Sahlgrenska%20Sjukhuset%20%20byggnad%205000%20inkl%20mikrobiologen%20Upprustning%20av%20skyddsrum%20projektnummer%2012348%20huvudprojektnummer%2012028&fileSize=113208",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374855",
+          "title": "Återkallelse delar av investeringsbeloppet Sahlgrenska Sjukhuset 5377 byte av fjärrvärmecentral, projekt 11800",
+          "documents": [
+            {
+              "title": "Återkallelse del av investeringsbeloppet, Sahlgrenska sjukhuset byggnad 5377 byte värmeundercentral, projektnummer 11800",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4699438.PDF?fileName=%C3%85terkallelse%20del%20av%20investeringsbeloppet%2C%20Sahlgrenska%20sjukhuset%20byggnad%205377%20byte%20v%C3%A4rmeundercentral%2C%20projektnummer%2011800&fileSize=112138",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Genomförandebeslut Sahlgrenska Sjukhuset byggnad 5377 byte av fjärrvärmeundercentral, projektnummer 11800, 12144",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4363322.PDF?fileName=Genomf%C3%B6randebeslut%20Sahlgrenska%20Sjukhuset%20byggnad%205377%20byte%20av%20fj%C3%A4rrv%C3%A4rmeundercentral%2C%20projektnummer%2011800%2C%2012144&fileSize=168740",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374860",
+          "title": "Återkallelse del av investeringsbeloppet, Sahlgrenska Sjukhuset 5239 byte av aggregat LB1, projekt 12039",
+          "documents": [
+            {
+              "title": "Återkallelse del av investeringsbeloppet, Sahlgrenska Sjukhuset 5239 byte av aggregat LB1, projekt 12039",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4709069.PDF?fileName=%C3%85terkallelse%20del%20av%20investeringsbeloppet%2C%20Sahlgrenska%20Sjukhuset%205239%20byte%20av%20aggregat%20LB1%2C%20projekt%2012039&fileSize=114720",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Genomförandebeslut Sahlgrenska Sjukhuset 5239 byte av aggregat LB1, projekt 12039",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4463248.PDF?fileName=Genomf%C3%B6randebeslut%20Sahlgrenska%20Sjukhuset%205239%20byte%20av%20aggregat%20LB1%2C%20projekt%2012039&fileSize=109916",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374863",
+          "title": "Återkallese investeringsmedel Sahlgrenska Sjukhuset",
+          "documents": [
+            {
+              "title": "Återkallese investeringsmedel Sahlgrenska Sjukhuset byggnad 5032 stigarledningar och utbyte uttagsposter projekt 12301",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4723467.PDF?fileName=%C3%85terkallese%20investeringsmedel%20Sahlgrenska%20Sjukhuset%20byggnad%205032%20stigarledningar%20och%20utbyte%20uttagsposter%20projekt%2012301&fileSize=98861",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Sahlgrenska sjukhuset byggnad 5032 stigarledningar etapp2 projektnummer 12301",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4552595.PDF?fileName=Sahlgrenska%20sjukhuset%20byggnad%205032%20stigarledningar%20etapp2%20projektnummer%2012301&fileSize=118006",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374869",
+          "title": "Återkallelse delar av investeringsbelopp SAhlgrenska Sjukhuset byggnad 4915 ny kantbelysning helikopterplattan  12229",
+          "documents": [
+            {
+              "title": "Återkallelse delar av investeringsbelopp - Sahlgrenska Sjukhuset byggnad 4915, ny kantbelysning helikopterplattan, projektnummer 12229",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4711472.PDF?fileName=%C3%85terkallelse%20delar%20av%20investeringsbelopp%20-%20Sahlgrenska%20Sjukhuset%20byggnad%204915%2C%20ny%20kantbelysning%20helikopterplattan%2C%20projektnummer%2012229&fileSize=100287",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Sahlgrenska Sjukhuset 4915 Diverse åtgärder på helikopterflygplatsen projekt 12229",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4437471.PDF?fileName=Sahlgrenska%20Sjukhuset%204915%20Diverse%20%C3%A5tg%C3%A4rder%20p%C3%A5%20helikopterflygplatsen%20projekt%2012229&fileSize=107357",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374874",
+          "title": "Återkallelse delar av investeringsbelopp, Sahlgrenska Sjukhuset 5150, byte av kallelsesystem OP5 och Avd.95, projekt 12310",
+          "documents": [
+            {
+              "title": "Återkallelse del av investeringsbelopp, Sahlgrenska Sjukhuset 5150, byte av kallelsesignalsystem på OP5 och Avd. 95, Projektnummer 12310",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4705087.PDF?fileName=%C3%85terkallelse%20del%20av%20investeringsbelopp%2C%20Sahlgrenska%20Sjukhuset%205150%2C%20byte%20av%20kallelsesignalsystem%20p%C3%A5%20OP5%20och%20Avd.%2095%2C%20Projektnummer%2012310&fileSize=99687",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Genomförandebeslut Sahlgrenska Sjukhuset 5150 byte av kallelsesystem OP5 och Avd. 95, projekt 12310",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4526642.PDF?fileName=Genomf%C3%B6randebeslut%20Sahlgrenska%20Sjukhuset%205150%20byte%20av%20kallelsesystem%20OP5%20och%20Avd.%2095%2C%20projekt%2012310&fileSize=122237",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374842",
+          "title": "Återkallelse av beslut, Sahlgrenska sjukhuset byggnad 5307 byte av ventilationsaggregat, projektnummer 11895",
+          "documents": [
+            {
+              "title": "Återkallelse del av investeringsbelopp, Sahlgrenska sjukhuset byggnad 5307 byte av ventilationsaggregat, projektnummer 11895",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4699649.PDF?fileName=%C3%85terkallelse%20del%20av%20investeringsbelopp%2C%20Sahlgrenska%20sjukhuset%20byggnad%205307%20byte%20av%20ventilationsaggregat%2C%20projektnummer%2011895&fileSize=101350",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Sahlgrenska sjukhuset byggnad 5307 byte av ventilationsaggregat, projektnummer 11895",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/3953664.PDF?fileName=Sahlgrenska%20sjukhuset%20byggnad%205307%20byte%20av%20ventilationsaggregat%2C%20projektnummer%2011895&fileSize=165374",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374858",
+          "title": "Mölndals sjukhus 4423 Hus T Spillvattenledningar, projektnummer 11951",
+          "documents": [
+            {
+              "title": "Mölndals sjukhus 4423 Hus T, Sprinklerinstallation och byte av spillvattenledningar, etapp 1 projektnummer 11951",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4676010.PDF?fileName=M%C3%B6lndals%20sjukhus%204423%20Hus%20T%2C%20Sprinklerinstallation%20och%20byte%20av%20spillvattenledningar%2C%20etapp%201%20projektnummer%2011951&fileSize=142633",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Mölndals sjukhus 4423 Hus T, systemhandling för sprinklerinstallation och byte av spillvattenledningar, projektnummer 11951",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4375742.PDF?fileName=M%C3%B6lndals%20sjukhus%204423%20Hus%20T%2C%20systemhandling%20f%C3%B6r%20sprinklerinstallation%20och%20byte%20av%20spillvattenledningar%2C%20projektnummer%2011951&fileSize=118522",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374865",
+          "title": "Östra sjukhuset 4234, Centralklinik (CK) Renovering tvättstuga, Projekt 12139",
+          "documents": [
+            {
+              "title": "Östra sjukhuset 4234, Centralklinik (CK) Renovering tvättstuga, Projekt 12139",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4699814.PDF?fileName=%C3%96stra%20sjukhuset%204234%2C%20Centralklinik%20(CK)%20Renovering%20tv%C3%A4ttstuga%2C%20Projekt%2012139&fileSize=124556",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Förstudierapport ÖS 4234 CK ombyggnation tvätteriet",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4699975.PDF?fileName=F%C3%B6rstudierapport%20%C3%96S%204234%20CK%20ombyggnation%20tv%C3%A4tteriet&fileSize=488625",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Kostnadsbedömning 12139 - 4234 CK Renovering tvättstuga",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4699976.PDF?fileName=Kostnadsbed%C3%B6mning%2012139%20-%204234%20CK%20Renovering%20tv%C3%A4ttstuga&fileSize=161854",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374876",
+          "title": "Östra sjukhuset 4200, Alternativa larmvägar, Projekt 12363",
+          "documents": [
+            {
+              "title": "Östra sjukhuset 4200, Alternativa larmvägar, Projekt 12363",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4677718.PDF?fileName=%C3%96stra%20sjukhuset%204200%2C%20Alternativa%20larmv%C3%A4gar%2C%20Projekt%2012363&fileSize=103731",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374844",
+          "title": "Östra sjukhuset, byggnad 4256, Barnkliniker (BK) Byte av kallelsesignalsystem avd. 330, Projekt 12218",
+          "documents": [
+            {
+              "title": "Östra sjukhuset, byggnad 4256, Barnkliniker (BK) Byte av kallelsesignalsystem avd. 330, Projekt 12218",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4666235.PDF?fileName=%C3%96stra%20sjukhuset%2C%20byggnad%204256%2C%20Barnkliniker%20(BK)%20Byte%20av%20kallelsesignalsystem%20avd.%20330%2C%20Projekt%2012218&fileSize=105754",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374864",
+          "title": "Tilläggsbeslut Östra sjukhuset 4231, Psykiatrikliniken (PK) Kallelsesignalsystem, projektnummer 12132",
+          "documents": [
+            {
+              "title": "Tilläggsbeslut Östra sjukhuset 4231, Psykiatrikliniken (PK) Kallelsesignalsystem, projektnummer 12132",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4728292.PDF?fileName=Till%C3%A4ggsbeslut%20%C3%96stra%20sjukhuset%204231%2C%20Psykiatrikliniken%20(PK)%20Kallelsesignalsystem%2C%20projektnummer%2012132&fileSize=109038",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Östra sjukhuset 4231, Psykiatrikliniken (PK) Kallelsesignalsystem,projektnummer 12132",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4733956.PDF?fileName=%C3%96stra%20sjukhuset%204231%2C%20Psykiatrikliniken%20(PK)%20Kallelsesignalsystem%2Cprojektnummer%2012132&fileSize=105134",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374868",
+          "title": "Tilläggsbeslut - Östra Sjukhuset 4230 Infektionskliniken Ståldörrar, projektnummer 12234",
+          "documents": [
+            {
+              "title": "Tilläggsbeslut - Östra Sjukhuset 4230 Infektionskliniken Ståldörrar, projektnummer 12234",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4699978.PDF?fileName=Till%C3%A4ggsbeslut%20-%20%C3%96stra%20Sjukhuset%204230%20Infektionskliniken%20St%C3%A5ld%C3%B6rrar%2C%20projektnummer%2012234&fileSize=117228",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Östra Sjukhuset 4230 Infektionskliniken Ståldörrar, projektnummer 12234",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4734084.PDF?fileName=%C3%96stra%20Sjukhuset%204230%20Infektionskliniken%20St%C3%A5ld%C3%B6rrar%2C%20projektnummer%2012234&fileSize=108752",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374871",
+          "title": "Tilläggsbeslut - Östra sjukhuset 4200, Utfasning ljuskällor 2026, Projekt 12261",
+          "documents": [
+            {
+              "title": "Tilläggsbeslut - Östra sjukhuset 4200, Utfasning ljuskällor 2026, Projekt 12261",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4691263.PDF?fileName=Till%C3%A4ggsbeslut%20-%20%C3%96stra%20sjukhuset%204200%2C%20Utfasning%20ljusk%C3%A4llor%202026%2C%20Projekt%2012261&fileSize=116407",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "SFSS 2026-00654-1 ÖS 4200, Utfasning av ljuskällor, projektnummer 12261",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4715633.PDF?fileName=SFSS%202026-00654-1%20%C3%96S%204200%2C%20Utfasning%20av%20ljusk%C3%A4llor%2C%20projektnummer%2012261&fileSize=75289",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374843",
+          "title": "Tilläggsbeslut - Östra sjukhuset byggnad 4256, Barnkliniker(BK), Flytt ögonmottagning till plan 00, samfinansiering. Projektnummer 12069",
+          "documents": [
+            {
+              "title": "Tilläggsbeslut - Östra sjukhuset byggnad 4256, Barnkliniker(BK), Flytt ögonmottagning till plan 00, samfinansiering. Projektnummer 12069",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4722940.PDF?fileName=Till%C3%A4ggsbeslut%20-%20%C3%96stra%20sjukhuset%20byggnad%204256%2C%20Barnkliniker(BK)%2C%20Flytt%20%C3%B6gonmottagning%20till%20plan%2000%2C%20samfinansiering.%20Projektnummer%2012069&fileSize=118239",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "SU 2026-05443-2 Bestallning av projekt, Flytt av Ögonmottagning barn till plan 00 hus BK.",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4722973.PDF?fileName=SU%202026-05443-2%20Bestallning%20av%20projekt%2C%20Flytt%20av%20%C3%96gonmottagning%20barn%20till%20plan%2000%20hus%20BK.&fileSize=275544",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Kostnadsbedömning ÖS 4256 BK flytt ögonmottagning, SU projektnummer 12069 - tillägg",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4722980.PDF?fileName=Kostnadsbed%C3%B6mning%20%C3%96S%204256%20BK%20flytt%20%C3%B6gonmottagning%2C%20SU%20projektnummer%2012069%20-%20till%C3%A4gg&fileSize=205728",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374891",
+          "title": "Kungälvs sjukhus Hus 1, Byggnadsteknisk anpassning för mottagning för ätstörning och dialektisk beteendeterapi, projekt 22553",
+          "documents": [
+            {
+              "title": "Kungälvs sjukhus Hus 1, Byggnadsteknisk anpassning för mottagning för ätstörning och dialektisk beteendeterapi, projekt 22553",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4736961.PDF?fileName=Kung%C3%A4lvs%20sjukhus%20Hus%201%2C%20Byggnadsteknisk%20anpassning%20f%C3%B6r%20mottagning%20f%C3%B6r%20%C3%A4tst%C3%B6rning%20och%20dialektisk%20beteendeterapi%2C%20projekt%2022553&fileSize=102116",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374885",
+          "title": "Kungälvs sjukhus Hus 1 Byte ventilation, Del 2, projektnummer 22464",
+          "documents": [
+            {
+              "title": "Kungälvs sjukhus Hus 1 Byte ventilation, Del 2, projektnummer 22464",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4709280.PDF?fileName=Kung%C3%A4lvs%20sjukhus%20Hus%201%20Byte%20ventilation%2C%20Del%202%2C%20projektnummer%2022464&fileSize=117177",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Kungälvs sjukhus Hus 1 Ombyggnad ventilation, projektnummer 30828",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4301134.PDF?fileName=Kung%C3%A4lvs%20sjukhus%20Hus%201%20Ombyggnad%20ventilation%2C%20projektnummer%2030828&fileSize=117710",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374882",
+          "title": "Kungälvs sjukhus Hus 1 Byte tappvattenledningar, projekt 22176",
+          "documents": [
+            {
+              "title": "Kungälvs sjukhus Hus 1 Byte tappvattenledningar, projekt 22176",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4733737.PDF?fileName=Kung%C3%A4lvs%20sjukhus%20Hus%201%20Byte%20tappvattenledningar%2C%20projekt%2022176&fileSize=114062",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374884",
+          "title": "Kungälvs sjukhus Hus 14 Byte ventilationsaggregat samt spillvattenledningar plan 2-3, projektnummer 22414",
+          "documents": [
+            {
+              "title": "Kungälvs sjukhus, hus 14, byte av ventilationsaggregat samt spillvattenledningar plan 2-3, projektnummer 22414",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708039.PDF?fileName=Kung%C3%A4lvs%20sjukhus%2C%20hus%2014%2C%20byte%20av%20ventilationsaggregat%20samt%20spillvattenledningar%20plan%202-3%2C%20projektnummer%2022414&fileSize=112098",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374886",
+          "title": "Kungälvs sjukhus Virtuell server rörpost, projekt 22466",
+          "documents": []
+        },
+        {
+          "agendaId": "374892",
+          "title": "Kungälvs sjukhus Hus 16 plan 2 Ombyggnad till förråd, projektnummer 22554",
+          "documents": [
+            {
+              "title": "Kungälvs sjukhus Hus 16 plan 1 Ombyggnad till förråd, projektnummer 22554",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4736987.PDF?fileName=Kung%C3%A4lvs%20sjukhus%20Hus%2016%20plan%201%20Ombyggnad%20till%20f%C3%B6rr%C3%A5d%2C%20projektnummer%2022554&fileSize=103332",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374862",
+          "title": "Högsbo sjukhus 5601, Stambyte spill- och tappvatten, Projekt 12073",
+          "documents": [
+            {
+              "title": "Högsbo sjukhus 5601, Stambyte spill- och tappvatten, Projekt 12073",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708623.PDF?fileName=H%C3%B6gsbo%20sjukhus%205601%2C%20Stambyte%20spill-%20och%20tappvatten%2C%20Projekt%2012073&fileSize=127405",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374881",
+          "title": "Södra Älvsborgs sjukhus Borås, ombyggnad klinisk patologi, projektnummer 22121",
+          "documents": [
+            {
+              "title": "Södra Älvsborgs sjukhus Borås, ombyggnad klinisk patologi, projektnummer 22121",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4722645.PDF?fileName=S%C3%B6dra%20%C3%84lvsborgs%20sjukhus%20Bor%C3%A5s%2C%20ombyggnad%20klinisk%20patologi%2C%20projektnummer%2022121&fileSize=111427",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374883",
+          "title": "Södra Älvsborgs sjukhus Borås, tvättstuga/städcentral byggnad 35, projektnummer 22337",
+          "documents": [
+            {
+              "title": "Södra Älvsborgs sjukhus Borås, tvättstuga/städcentral byggnad 35, projektnummer 22337",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4722545.PDF?fileName=S%C3%B6dra%20%C3%84lvsborgs%20sjukhus%20Bor%C3%A5s%2C%20tv%C3%A4ttstuga%2Fst%C3%A4dcentral%20byggnad%2035%2C%20projektnummer%2022337&fileSize=108568",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374893",
+          "title": "Södra Älvsborgs sjukhus Borås, tillägg till byte elkraftssystem, projektnummer 22620",
+          "documents": [
+            {
+              "title": "Tilläggsbeslut - Södra Älvsborgs sjukhus Borås, byte elkraftssystem, projektnummer 22620",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4722637.PDF?fileName=Till%C3%A4ggsbeslut%20-%20S%C3%B6dra%20%C3%84lvsborgs%20sjukhus%20Bor%C3%A5s%2C%20byte%20elkraftssystem%2C%20projektnummer%2022620&fileSize=110604",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "SFSS 2025-00197-2 Södra Älvsborgs sjukhus Borås, byte elkraftssystem, projektnummer 22212 4346393_3_1 (1)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4722814.PDF?fileName=SFSS%202025-00197-2%20S%C3%B6dra%20%C3%84lvsborgs%20sjukhus%20Bor%C3%A5s%2C%20byte%20elkraftssystem%2C%20projektnummer%2022212%204346393_3_1%20(1)&fileSize=102944",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374887",
+          "title": "Återredovisning Södra Älvsborgs sjukhus Borås, byte 3 luftbehandlingsaggregat byggnad 1, 11 och 40 - projektnummer 22471",
+          "documents": [
+            {
+              "title": "Återredovisning Södra Älvsborgs sjukhus Borås, byte 3 luftbehandlingsaggregat byggnad 1, 11 och 40 - projektnummer 22471",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4723278.PDF?fileName=%C3%85terredovisning%20S%C3%B6dra%20%C3%84lvsborgs%20sjukhus%20Bor%C3%A5s%2C%20byte%203%20luftbehandlingsaggregat%20byggnad%201%2C%2011%20och%2040%20-%20projektnummer%2022471&fileSize=104373",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "SFSS 2026-00335-2 Södra Älvsborgs sjukhus Borås, byte 3 luftbehandlingsaggregat byggnad 1, 11  4567159_3_1",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4723281.PDF?fileName=SFSS%202026-00335-2%20S%C3%B6dra%20%C3%84lvsborgs%20sjukhus%20Bor%C3%A5s%2C%20byte%203%20luftbehandlingsaggregat%20byggnad%201%2C%2011%20%204567159_3_1&fileSize=104163",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374890",
+          "title": "Byte av huvudmatning varmvatten och VVC, Skaraborgs sjukhus Lidköping projektnummer 22513",
+          "documents": [
+            {
+              "title": "Byte av huvudmatning för varmvatten och VVC, på Skaraborgs sjukhus Lidköping, projektnummer 22513",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4715098.PDF?fileName=Byte%20av%20huvudmatning%20f%C3%B6r%20varmvatten%20och%20VVC%2C%20p%C3%A5%20Skaraborgs%20sjukhus%20Lidk%C3%B6ping%2C%20projektnummer%2022513&fileSize=114440",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374872",
+          "title": "NÄL upprustning utemiljö, etapp 2 \nprojektnummer 22521",
+          "documents": [
+            {
+              "title": "NÄL upprustning utemiljö, etapp 2 \r\nprojektnummer 22521",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4734574.PDF?fileName=N%C3%84L%20upprustning%20utemilj%C3%B6%2C%20etapp%202%20%0D%0Aprojektnummer%2022521&fileSize=124696",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374878",
+          "title": "Norra Älvsborgs Länssjukhus, nödljus server, projektnummer 22615",
+          "documents": [
+            {
+              "title": "Norra Älvsborgs Länssjukhus, inköp och installation av server för nödljus, projektnummer 22615",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4715572.PDF?fileName=Norra%20%C3%84lvsborgs%20L%C3%A4nssjukhus%2C%20ink%C3%B6p%20och%20installation%20av%20server%20f%C3%B6r%20n%C3%B6dljus%2C%20projektnummer%2022615&fileSize=116732",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374867",
+          "title": "Brinkåsen brandlarmsanläggning",
+          "documents": [
+            {
+              "title": "Brinkåsen, utbyte av brandlarmanläggning, projektnummer 22395",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4665668.PDF?fileName=Brink%C3%A5sen%2C%20utbyte%20av%20brandlarmanl%C3%A4ggning%2C%20projektnummer%2022395&fileSize=107567",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374875",
+          "title": "Brinkåsen innergårdar skyddsnät projektnummer 22556",
+          "documents": [
+            {
+              "title": "Installation av skyddsnät över innergårdar på Brinkåsen, projektnummer 22556",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4689370.PDF?fileName=Installation%20av%20skyddsn%C3%A4t%20%C3%B6ver%20innerg%C3%A5rdar%20p%C3%A5%20Brink%C3%A5sen%2C%20projektnummer%2022556&fileSize=107261",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374846",
+          "title": "Alingsås Tvätteriet TvA, Röranläggning Panncentral Projektnummer 40003",
+          "documents": [
+            {
+              "title": "Slutredovisning, Alingsås Tvätteriet TvA, Röranläggning Panncentral Projektnummer 40003",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4641977.PDF?fileName=Slutredovisning%2C%20Alings%C3%A5s%20Tv%C3%A4tteriet%20TvA%2C%20R%C3%B6ranl%C3%A4ggning%20Panncentral%20Projektnummer%2040003&fileSize=126343",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Tvätteriet i Alingsås TvA, Röranläggning Panncentral projektnummer 40003",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4674581.PDF?fileName=Tv%C3%A4tteriet%20i%20Alings%C3%A5s%20TvA%2C%20R%C3%B6ranl%C3%A4ggning%20Panncentral%20projektnummer%2040003&fileSize=100308",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374870",
+          "title": "Projekt Västtrafik VT 0105 Anpassning bussplan, projektnummer 42195",
+          "documents": [
+            {
+              "title": "Projekt Västtrafik VT 0105 Anpassning bussplan, projektnummer 42195",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4695182.PDF?fileName=Projekt%20V%C3%A4sttrafik%20VT%200105%20Anpassning%20bussplan%2C%20projektnummer%2042195&fileSize=123096",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "NET investering VTLG",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4702338.PDF?fileName=NET%20investering%20VTLG&fileSize=153581",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Investeringsbeslut VTLG 2027-10-27",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4713103.PDF?fileName=Investeringsbeslut%20VTLG%202027-10-27&fileSize=174526",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374877",
+          "title": "Projekt Västtrafik VT 0140 Installation av ny PLC för dörrstyrning",
+          "documents": [
+            {
+              "title": "Projekt 42291, Västtrafik VT 0140 Installation av ny PLC för dörrstyrning",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4729121.PDF?fileName=Projekt%2042291%2C%20V%C3%A4sttrafik%20VT%200140%20Installation%20av%20ny%20PLC%20f%C3%B6r%20d%C3%B6rrstyrning&fileSize=106361",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374873",
+          "title": "VT Pausbod Heden projekt 42259",
+          "documents": [
+            {
+              "title": "Tilläggsbeslut VT Pausbod Heden projekt 42259",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4661698.PDF?fileName=Till%C3%A4ggsbeslut%20VT%20Pausbod%20Heden%20projekt%2042259&fileSize=108752",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "VT Pausbod Heden projekt 42259",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4578313.PDF?fileName=VT%20Pausbod%20Heden%20projekt%2042259&fileSize=100221",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374879",
+          "title": "VT pausbod Axel Dahlströms torg, projektnummer 30905",
+          "documents": [
+            {
+              "title": "VT pausbod Axel Dahlströms torg, projektnummer 30905",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4517952.PDF?fileName=VT%20pausbod%20Axel%20Dahlstr%C3%B6ms%20torg%2C%20projektnummer%2030905&fileSize=98925",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Pausbod Axel Dahlströms torg enkel lokalbehovsanalys",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4691028.PDF?fileName=Pausbod%20Axel%20Dahlstr%C3%B6ms%20torg%20enkel%20lokalbehovsanalys&fileSize=130111",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Signerad uppdragsbekräftelse",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4703936.PDF?fileName=Signerad%20uppdragsbekr%C3%A4ftelse&fileSize=485668",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374859",
+          "title": "Tilläggsbeslut VT 0146 Sektionering vänthall Kungsbacka RC, projekt 42228",
+          "documents": [
+            {
+              "title": "Tilläggsbeslut VT 0146 Sektionering vänthall Kungsbacka RC, projekt 42228",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4734712.PDF?fileName=Till%C3%A4ggsbeslut%20VT%200146%20Sektionering%20v%C3%A4nthall%20Kungsbacka%20RC%2C%20projekt%2042228&fileSize=103946",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "VT 0146 Sektionera vänthall Kungsbacka RC, projekt 42228",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4341747.PDF?fileName=VT%200146%20Sektionera%20v%C3%A4nthall%20Kungsbacka%20RC%2C%20projekt%2042228&fileSize=106185",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Investeringsbeslut VTLG 2026-11-11",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4739798.PDF?fileName=Investeringsbeslut%20VTLG%202026-11-11&fileSize=168452",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374852",
+          "title": "Naturbruk Uddetorp Mjölkrobot, projektnummer: 22005",
+          "documents": [
+            {
+              "title": "Uddetorp Naturbruksskola, installation av Mjölkrobotar, etapp 1 (nybyggnation av lösdriftshall för ungdjur och sinkor), projektnummer 22005",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4713058.PDF?fileName=Uddetorp%20Naturbruksskola%2C%20installation%20av%20Mj%C3%B6lkrobotar%2C%20etapp%201%20(nybyggnation%20av%20l%C3%B6sdriftshall%20f%C3%B6r%20ungdjur%20och%20sinkor)%2C%20projektnummer%2022005&fileSize=124242",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374866",
+          "title": "Billströmska folkhögskola Musikhuset FT projektnummer 30691",
+          "documents": [
+            {
+              "title": "Byte av värme- och ventilationsaggregat i Musikhuset, Billströmska folkhögskolan,  projektnummer 30691",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4613969.PDF?fileName=Byte%20av%20v%C3%A4rme-%20och%20ventilationsaggregat%20i%20Musikhuset%2C%20Billstr%C3%B6mska%20folkh%C3%B6gskolan%2C%20%20projektnummer%2030691&fileSize=107217",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374845",
+          "title": "Investering i teknisk säkerhetsanläggning TSA, Sahlgrenska Universitetssjukhuset Fouui Medicinaregatan 18 a-c. Nytt Passage och larmsystem projektnummer 45401.",
+          "documents": [
+            {
+              "title": "Investering i teknisk säkerhetsanläggning TSA, Sahlgrenska Universitetssjukhuset Fouui Medicinaregatan 18 a-c, nytt passage- och larmsystem, projektnummer 45401",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4714888.PDF?fileName=Investering%20i%20teknisk%20s%C3%A4kerhetsanl%C3%A4ggning%20TSA%2C%20Sahlgrenska%20Universitetssjukhuset%20Fouui%20Medicinaregatan%2018%20a-c%2C%20nytt%20passage-%20och%20larmsystem%2C%20projektnummer%2045401&fileSize=116351",
+              "category": "Delegeringsbeslut"
+            }
+          ]
+        },
+        {
+          "agendaId": "374880",
+          "title": "Tilläggsbeslut teknisk säkerhetsanläggning TSA Folktandvården Akuttandvården Göteborg. Projekt 45412",
+          "documents": [
+            {
+              "title": "Tilläggsbeslut teknisk säkerhetsanläggning TSA Folktandvården Akuttandvården Göteborg. Projekt 45412",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4716580.PDF?fileName=Till%C3%A4ggsbeslut%20teknisk%20s%C3%A4kerhetsanl%C3%A4ggning%20TSA%20Folktandv%C3%A5rden%20Akuttandv%C3%A5rden%20G%C3%B6teborg.%20Projekt%2045412&fileSize=123334",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Investering teknisk säkerhetsanläggning TSA, Folktandvården akuttandvården Göteborg - projekt 45268",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/3711070.PDF?fileName=Investering%20teknisk%20s%C3%A4kerhetsanl%C3%A4ggning%20TSA%2C%20Folktandv%C3%A5rden%20akuttandv%C3%A5rden%20G%C3%B6teborg%20-%20projekt%2045268&fileSize=136862",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374861",
+          "title": "Alingsås Tvätteriet TvA, Slutredovisning av Byte elcentraler projektnummer 40110",
+          "documents": [
+            {
+              "title": "Slutredovisning Alingsås Tvätteriet TvA, Byte av elcentraler, Projektnummer 40110",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4641748.PDF?fileName=Slutredovisning%20Alings%C3%A5s%20Tv%C3%A4tteriet%20TvA%2C%20Byte%20av%20elcentraler%2C%20Projektnummer%2040110&fileSize=124841",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Tvätteriet Alingsås, TvA, Byte av elcentraler, projektnummer 40100",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4071728.PDF?fileName=Tv%C3%A4tteriet%20Alings%C3%A5s%2C%20TvA%2C%20Byte%20av%20elcentraler%2C%20projektnummer%2040100&fileSize=80898",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374888",
+          "title": "Samlad Slutredovisning oktober 2026 ( mars 2026)",
+          "documents": [
+            {
+              "title": "Samlad Slutredovisning oktober 2026 ( mars 2026)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4716385.PDF?fileName=Samlad%20Slutredovisning%20oktober%202026%20(%20mars%202026)&fileSize=121155",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Samlad slutredovisning okt 2026 (mars 2026)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4716384.PDF?fileName=Samlad%20slutredovisning%20okt%202026%20(mars%202026)&fileSize=66080",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374889",
+          "title": "Återredovisning projekt samlad slutredovisning oktober 2026",
+          "documents": [
+            {
+              "title": "Återredovisning projekt samlad slutredovisning oktober 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4716456.PDF?fileName=%C3%85terredovisning%20projekt%20samlad%20slutredovisning%20oktober%202026&fileSize=107857",
+              "category": "Delegeringsbeslut"
+            },
+            {
+              "title": "Återredovisning projekt samlad slutredovisning oktober 2026. pdf",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4716455.PDF?fileName=%C3%85terredovisning%20projekt%20samlad%20slutredovisning%20oktober%202026.%20pdf&fileSize=53024",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374896",
+          "title": "§ 147  Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Avgiftsfrihet vid smittspårning och behandling",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Avgiftsfrihet vid smittspårning och behandling",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4705875.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Avgiftsfrihet%20vid%20smittsp%C3%A5rning%20och%20behandling&fileSize=93698",
+              "category": "Handling in"
+            },
+            {
+              "title": "Avgiftsfrihet vid smittspårning och behandling",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4705876.PDF?fileName=Avgiftsfrihet%20vid%20smittsp%C3%A5rning%20och%20behandling&fileSize=167356",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374898",
+          "title": "§ 150 Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Revidering av digitaliseringspolicy",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Revidering av digitaliseringspolicy",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4716591.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Revidering%20av%20digitaliseringspolicy&fileSize=81271",
+              "category": "Handling in"
+            },
+            {
+              "title": "Digitaliseringspolicy",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4716593.PDF?fileName=Digitaliseringspolicy&fileSize=105414",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Revidering av digitaliseringspolicy",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4716594.PDF?fileName=Revidering%20av%20digitaliseringspolicy&fileSize=142525",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374897",
+          "title": "§ 151 Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ny riktlinje för arkiv och information i Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 6 oktober 2026 - Ny riktlinje för arkiv och information i Västra Götala",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4705886.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%206%20oktober%202026%20-%20Ny%20riktlinje%20f%C3%B6r%20arkiv%20och%20information%20i%20V%C3%A4stra%20G%C3%B6tala&fileSize=81376",
+              "category": "Handling in"
+            },
+            {
+              "title": "Riktlinje för arkiv och information i Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4705887.PDF?fileName=Riktlinje%20f%C3%B6r%20arkiv%20och%20information%20i%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=155433",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374907",
+          "title": "Beslut § 249 från Regionstyrelsen 20 oktober 2026 Delårsrapport augusti 2026 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 20 oktober 2026 - Delårsrapport augusti 2026 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4710182.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%2020%20oktober%202026%20-%20Del%C3%A5rsrapport%20augusti%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=94652",
+              "category": "Handling in"
+            },
+            {
+              "title": "Delårsrapport augusti 2026 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4710183.PDF?fileName=Del%C3%A5rsrapport%20augusti%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=159212",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Delårsrapport augusti 2026 för Västra Götalandsregionen (1)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4710184.PDF?fileName=Del%C3%A5rsrapport%20augusti%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%20(1)&fileSize=10689594",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374910",
+          "title": "Beslut från RF den 20 oktober 2026 - § 192 - protokollsutdrag från regionfullmäktiges sammanträde den 20 oktober 2026 - Sammanträdestider för regionfullmäktige återstoden av helåret 2027",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 20 oktober 2026 - Sammanträdestider för regionfullmäktige återstoden av",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4727897.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%2020%20oktober%202026%20-%20Sammantr%C3%A4destider%20f%C3%B6r%20regionfullm%C3%A4ktige%20%C3%A5terstoden%20av&fileSize=68757",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "374903",
+          "title": "Beslut §198 regionfullmäktige 2026-11-03 - Skattesats för 2027",
+          "documents": [
+            {
+              "title": "Protokollsutdrag regionfullmäktige 2026-11-03 - § 198 Skattesats för 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738183.PDF?fileName=Protokollsutdrag%20regionfullm%C3%A4ktige%202026-11-03%20-%20%C2%A7%20198%20Skattesats%20f%C3%B6r%202027&fileSize=95163",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "374902",
+          "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 3 november 2026 - Delårsrapport augusti 2026 för Västra Götalandsregionen",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 3 november 2026 - Delårsrapport augusti 2026 för Västra Götalandsregion",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738166.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%203%20november%202026%20-%20Del%C3%A5rsrapport%20augusti%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregion&fileSize=93533",
+              "category": "Handling in"
+            },
+            {
+              "title": "Delårsrapport augusti 2026 för Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738167.PDF?fileName=Del%C3%A5rsrapport%20augusti%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=159212",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Delårsrapport augusti 2026 för Västra Götalandsregionen (1)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738168.PDF?fileName=Del%C3%A5rsrapport%20augusti%202026%20f%C3%B6r%20V%C3%A4stra%20G%C3%B6talandsregionen%20(1)&fileSize=10689594",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Revisionens bedömning av delårsrapporten för 2026 (2026-10-21)",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738169.PDF?fileName=Revisionens%20bedo%CC%88mning%20av%20dela%CC%8Arsrapporten%20fo%CC%88r%202026%20(2026-10-21)&fileSize=374796",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Yttrande_delårsrapport_VGR_2026 sign",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738170.PDF?fileName=Yttrande_del%C3%A5rsrapport_VGR_2026%20sign&fileSize=608432",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Granskning av delårsbokslut och delårsrapport 2026 VGR",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738171.PDF?fileName=Granskning%20av%20del%C3%A5rsbokslut%20och%20del%C3%A5rsrapport%202026%20VGR&fileSize=1183508",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374894",
+          "title": "Beslut §203 från regionfullmäktiges sammanträde den 3 november 2026 - Yttrande över motion av Micaela Kronberg (M) och Lars Holmin (M) om utredning av mindre sjukhus som totalförsvarssjukhus, lagerhållning och samordning av övningar",
+          "documents": [
+            {
+              "title": "Beslut §203 från regionfullmäktiges sammanträde den 3 november 2026 - Yttrande över motion av Micaela Kronberg (M) och Lars Holmin (M) om utredning av mindre sjukhus som totalförsvarssjukhus, lagerhållning och samordning av övningar",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738190.PDF?fileName=Beslut%20%C2%A7203%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%203%20november%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Micaela%20Kronberg%20(M)%20och%20Lars%20Holmin%20(M)%20om%20utredning%20av%20mindre%20sjukhus%20som%20totalf%C3%B6rsvarssjukhus%2C%20lagerh%C3%A5llning%20och%20samordning%20av%20%C3%B6vningar&fileSize=116546",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "374895",
+          "title": "Beslut §206 från regionfullmäktiges sammanträde den 3 november 2026 - Yttrande över motion av Conny Brännberg (KD) om översyn av sjukresor",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 3 november 2026 - Yttrande över motion av Conny Brännberg (KD) om övers",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738199.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%203%20november%202026%20-%20Yttrande%20%C3%B6ver%20motion%20av%20Conny%20Br%C3%A4nnberg%20(KD)%20om%20%C3%B6vers&fileSize=81484",
+              "category": "Handling in"
+            },
+            {
+              "title": "Yttrande över motion av Conny Brännberg (KD) om översyn av sjukresor",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738200.PDF?fileName=Yttrande%20%C3%B6ver%20motion%20av%20Conny%20Br%C3%A4nnberg%20(KD)%20om%20%C3%B6versyn%20av%20sjukresor&fileSize=118180",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374909",
+          "title": "§ 191 Inkallelseordning för ersättare i Västra \nGötalandsregionens samtliga nämnder och \nstyrelser för mandatperioden 2026-2030",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionfullmäktige 2026-10-20 - § 191 Inkallelseordning 2026-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4725263.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktige%202026-10-20%20-%20%C2%A7%20191%20Inkallelseordning%202026-2030&fileSize=175840",
+              "category": "Handling in"
+            },
+            {
+              "title": "Protokollsutdrag från regionfullmäktiges sammanträde den 20 oktober 2026 - Inkallelseordning för ersättare i Västra Götalandsreg",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4725264.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionfullm%C3%A4ktiges%20sammantr%C3%A4de%20den%2020%20oktober%202026%20-%20Inkallelseordning%20f%C3%B6r%20ers%C3%A4ttare%20i%20V%C3%A4stra%20G%C3%B6talandsreg&fileSize=47110",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374899",
+          "title": "Beslut §200 från strategiska hälso- och sjukvårdsnämndens sammanträde den 4 november 2026 - Vårdorganisatoriska gränser och dess påverkan på invånares tillgång till hälso- och sjukvård",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 4 november 2026 - Vårdorganisatoriska gränser och",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738056.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%204%20november%202026%20-%20V%C3%A5rdorganisatoriska%20gr%C3%A4nser%20och&fileSize=95408",
+              "category": "Handling in"
+            },
+            {
+              "title": "§ 200 Yrkande (SSN) Vårdorganisatoriska gränser och dess påverkan på invånares tillgång till hälso- och sjukvård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738057.PDF?fileName=%C2%A7%20200%20Yrkande%20(SSN)%20V%C3%A5rdorganisatoriska%20gr%C3%A4nser%20och%20dess%20p%C3%A5verkan%20p%C3%A5%20inv%C3%A5nares%20tillg%C3%A5ng%20till%20h%C3%A4lso-%20och%20sjukv%C3%A5rd&fileSize=196168",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Vårdorganisatoriska gränser och dess påverkan på invånares tillgång till hälso- och sjukvård",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738058.PDF?fileName=V%C3%A5rdorganisatoriska%20gr%C3%A4nser%20och%20dess%20p%C3%A5verkan%20p%C3%A5%20inv%C3%A5nares%20tillg%C3%A5ng%20till%20h%C3%A4lso-%20och%20sjukv%C3%A5rd&fileSize=150963",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374900",
+          "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 4 november 2026 - Kostnadsuppräkning av taxor för intygsskrivning med mera 2027",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 4 november 2026 - Kostnadsuppräkning av taxor för",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738063.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%204%20november%202026%20-%20Kostnadsuppr%C3%A4kning%20av%20taxor%20f%C3%B6r&fileSize=92593",
+              "category": "Handling in"
+            },
+            {
+              "title": "Kostnadsuppräkning av taxor för intygsskrivning med mera 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738064.PDF?fileName=Kostnadsuppr%C3%A4kning%20av%20taxor%20f%C3%B6r%20intygsskrivning%20med%20mera%202027&fileSize=184180",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374901",
+          "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 4 november 2026 - Högkostnadsskyddet i öppen hälso- och sjukvård och slutenvårdsavgiften 2027",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 4 november 2026 - Högkostnadsskyddet i öppen häls",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738088.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20strategiska%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%204%20november%202026%20-%20H%C3%B6gkostnadsskyddet%20i%20%C3%B6ppen%20h%C3%A4ls&fileSize=83561",
+              "category": "Handling in"
+            },
+            {
+              "title": "Information om högkostnadsskyddsbelopp för vårdavgifter till regionerna och för läkemedel från och med den 1 januari 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738089.PDF?fileName=Information%20om%20h%C3%B6gkostnadsskyddsbelopp%20f%C3%B6r%20v%C3%A5rdavgifter%20till%20regionerna%20och%20f%C3%B6r%20l%C3%A4kemedel%20fr%C3%A5n%20och%20med%20den%201%20januari%202027&fileSize=276263",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Högkostnadsskyddet i öppen hälso- och sjukvård och slutenvårdsavgiften 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738090.PDF?fileName=H%C3%B6gkostnadsskyddet%20i%20%C3%B6ppen%20h%C3%A4lso-%20och%20sjukv%C3%A5rd%20och%20slutenv%C3%A5rdsavgiften%202027&fileSize=118230",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374904",
+          "title": "Beslut § 273 från Regionstyrelsens sammanträde den 10 november 2026 - Regiongemensam plan för kompetensförsörjning 2027-2030.pdf",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 10 november 2026 - Regiongemensam plan för kompetensförsörjning 2027-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738205.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%2010%20november%202026%20-%20Regiongemensam%20plan%20f%C3%B6r%20kompetensf%C3%B6rs%C3%B6rjning%202027-2030&fileSize=84440",
+              "category": "Handling in"
+            },
+            {
+              "title": "Regiongemensam plan för kompetensförsörjning 2027-2030",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738206.PDF?fileName=Regiongemensam%20plan%20f%C3%B6r%20kompetensf%C3%B6rs%C3%B6rjning%202027-2030&fileSize=159455",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Kompetensförsörjningsplan 2027-2030 Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738207.PDF?fileName=Kompetensf%C3%B6rs%C3%B6rjningsplan%202027-2030%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=1260367",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Kompetensförsörjningsplan-Västra Götalandsregionen 2027-2030-Bilaga 1 - Insatsområden-",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738208.PDF?fileName=Kompetensf%C3%B6rs%C3%B6rjningsplan-V%C3%A4stra%20G%C3%B6talandsregionen%202027-2030-Bilaga%201%20-%20Insatsomr%C3%A5den-&fileSize=417968",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Kompetensförsörjningsplan-Västra Götalandsregionen 2027-2030-Bilaga 2 - Analys- och underlagsdel-",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738209.PDF?fileName=Kompetensf%C3%B6rs%C3%B6rjningsplan-V%C3%A4stra%20G%C3%B6talandsregionen%202027-2030-Bilaga%202%20-%20Analys-%20och%20underlagsdel-&fileSize=299296",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374905",
+          "title": "Beslut § 274 från regionstyrelsens sammanträde den 10 november 2026 - Regional plan social ekonomi 2026-2029",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från regionstyrelsens sammanträde den 10 november 2026 - Regional plan social ekonomi 2026-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738221.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20regionstyrelsens%20sammantr%C3%A4de%20den%2010%20november%202026%20-%20Regional%20plan%20social%20ekonomi%202026-2029&fileSize=73769",
+              "category": "Handling in"
+            },
+            {
+              "title": "Regional plan social ekonomi 2026-2029",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738222.PDF?fileName=Regional%20plan%20social%20ekonomi%202026-2029&fileSize=123765",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Regional Plan social ekonomi 2026-2029 - Västra Götalandsregionen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4738223.PDF?fileName=Regional%20Plan%20social%20ekonomi%202026-2029%20-%20V%C3%A4stra%20G%C3%B6talandsregionen&fileSize=242297",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374911",
+          "title": "Protokollsutdrag från styrelsen för Sjukhusen i västers sammanträde den 23 oktober 2026 - Överenskommelse mellan styrelsen för Sjukhusen i Väster",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från styrelsen för Sjukhusen i västers sammanträde den 23 oktober 2026 - Överenskommelse mellan styrelsen för S",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4727950.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Sjukhusen%20i%20v%C3%A4sters%20sammantr%C3%A4de%20den%2023%20oktober%202026%20-%20%C3%96verenskommelse%20mellan%20styrelsen%20f%C3%B6r%20S&fileSize=119742",
+              "category": "Överenskommelse"
+            },
+            {
+              "title": "Servicetjänster 2027 FFSS",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4727951.PDF?fileName=Servicetj%C3%A4nster%202027%20FFSS&fileSize=92235",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Hyresbilaga 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4727952.PDF?fileName=Hyresbilaga%202027&fileSize=185089",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Fastighetstjänster 2027",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4727953.PDF?fileName=Fastighetstj%C3%A4nster%202027&fileSize=272696",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374969",
+          "title": "Beslut § 90 från styrelsen för Sjukhusen i Väster 30 september 2026 - Genomförandeplanering avseende ombyggnad till gastroenterologisk enhet vid Kungälvs\nsjukhus",
+          "documents": [
+            {
+              "title": "Genomförande av Kungälvs sjukhus, Hus 1 Ombyggnad till Endoskopi, projektnummer 22314",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708664.PDF?fileName=Genomf%C3%B6rande%20av%20Kung%C3%A4lvs%20sjukhus%2C%20Hus%201%20Ombyggnad%20till%20Endoskopi%2C%20projektnummer%2022314&fileSize=215893",
+              "category": "Handling in"
+            },
+            {
+              "title": "Program- och systemhandlingsrapport KS Hus 1 Omb till gastroenter enhet inkl endoskopi datum 20260828 rev 2026-09-25",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708665.PDF?fileName=Program-%20och%20systemhandlingsrapport%20KS%20Hus%201%20Omb%20till%20gastroenter%20enhet%20inkl%20endoskopi%20datum%2020260828%20rev%202026-09-25&fileSize=1050510",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från styrelsen för Sjukhusen i väster 2026-09-30 § 90 - Genomförandeplanering avseende ombyggnad till gastroenterologisk",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708666.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20Sjukhusen%20i%20v%C3%A4ster%202026-09-30%20%C2%A7%2090%20-%20Genomf%C3%B6randeplanering%20avseende%20ombyggnad%20till%20gastroenterologisk&fileSize=86914",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Beslut från styrelsen för fastighet, stöd och service 2026-09-25 § 108 - Kungälvs sjukhus, Hus 1 Ombyggnad till-gastroenterologi",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4708667.PDF?fileName=Beslut%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20fastighet%2C%20st%C3%B6d%20och%20service%202026-09-25%20%C2%A7%20108%20-%20Kung%C3%A4lvs%20sjukhus%2C%20Hus%201%20Ombyggnad%20till-gastroenterologi&fileSize=95549",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374970",
+          "title": "Protokollsutdrag från styrelsen för naturbruks sammanträde den 19 maj 2026 - Byggprocesser naturbruksförvaltningen maj 2026",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från styrelsen för naturbruks sammanträde den 19 maj 2026 - Byggprocesser naturbruksförvaltningen maj 2026",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4542796.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20styrelsen%20f%C3%B6r%20naturbruks%20sammantr%C3%A4de%20den%2019%20maj%202026%20-%20Byggprocesser%20naturbruksf%C3%B6rvaltningen%20maj%202026&fileSize=76943",
+              "category": "Handling in"
+            }
+          ]
+        },
+        {
+          "agendaId": "374971",
+          "title": "Beslut Arkivnämndens sammanträde 2026-11-12 § 63",
+          "documents": [
+            {
+              "title": "Protokollsutdrag Arkivnämndens sammanträde 2026-11-12 § 63",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4743212.PDF?fileName=Protokollsutdrag%20Arkivn%C3%A4mndens%20sammantr%C3%A4de%202026-11-12%20%C2%A7%2063&fileSize=513766",
+              "category": "Handling in"
+            },
+            {
+              "title": "Bilaga 1. Bevarande och gallring av handlingar om styrande verksamheter",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4743213.PDF?fileName=Bilaga%201.%20Bevarande%20och%20gallring%20av%20handlingar%20om%20styrande%20verksamheter&fileSize=385077",
+              "category": "Bilaga"
+            },
+            {
+              "title": "Tjänsteutlåtande",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4743214.PDF?fileName=Tj%C3%A4nsteutl%C3%A5tande&fileSize=166715",
+              "category": "Bilaga"
+            }
+          ]
+        }
+      ]
+    },
     "222298|2026-11-25": {
       "meetingId": "3245757",
       "items": [
