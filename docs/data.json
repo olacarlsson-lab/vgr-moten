@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:45:03.902Z",
+  "generatedAt": "2026-11-21T22:38:38.898Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1583,7 +1583,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4730192.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-11-24&fileSize=148405"
         }
       ],
-      "agendaDocCount": 107
+      "agendaDocCount": 117
     },
     {
       "key": "212298|2026-11-17",
@@ -1600,7 +1600,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4729714.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-11-17&fileSize=131575"
         }
       ],
-      "agendaDocCount": 34
+      "agendaDocCount": 41
     },
     {
       "key": "212458|2026-11-10",
@@ -1615,9 +1615,13 @@
         {
           "title": "Kallelse regionstyrelsen 2026-11-10",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4715867.PDF?fileName=Kallelse%20regionstyrelsen%202026-11-10&fileSize=141804"
+        },
+        {
+          "title": "Protokoll regionstyrelsen 2026-11-10",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4724169.PDF?fileName=Protokoll%20regionstyrelsen%202026-11-10&fileSize=1735883"
         }
       ],
-      "agendaDocCount": 313
+      "agendaDocCount": 349
     },
     {
       "key": "222299|2026-11-04",
@@ -1663,7 +1667,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4724174.PDF?fileName=Protokoll%20%20regionfullm%C3%A4ktige%202026-11-03&fileSize=2447362"
         }
       ],
-      "agendaDocCount": 86
+      "agendaDocCount": 88
     },
     {
       "key": "222324|2026-10-27",
