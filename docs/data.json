@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T13:59:45.130Z",
+  "generatedAt": "2026-11-25T23:00:06.485Z",
   "siteName": "VGR Möten",
   "boards": [
     {
@@ -1657,7 +1657,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4740468.PDF?fileName=Kallelse%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mnden%202026-11-25&fileSize=160554"
         }
       ],
-      "agendaDocCount": 146
+      "agendaDocCount": 149
     },
     {
       "key": "212210|2026-11-25",
@@ -1672,6 +1672,10 @@
         {
           "title": "Kallelse styrelsen för Sahlgrenska Universitetssjukhuset 2026-11-25",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4740210.PDF?fileName=Kallelse%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-11-25&fileSize=128116"
+        },
+        {
+          "title": "Omedelbar justering - Protokoll styrelsen för Sahlgrenska Universitetssjukhuset 2026-11-25",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4749290.PDF?fileName=Omedelbar%20justering%20-%20Protokoll%20styrelsen%20f%C3%B6r%20Sahlgrenska%20Universitetssjukhuset%202026-11-25&fileSize=334668"
         }
       ],
       "agendaDocCount": 0
@@ -1691,7 +1695,7 @@
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4730192.PDF?fileName=F%C3%B6redragningslista%20regionfullm%C3%A4ktige%202026-11-24&fileSize=148405"
         }
       ],
-      "agendaDocCount": 117
+      "agendaDocCount": 121
     },
     {
       "key": "212298|2026-11-17",
@@ -1706,9 +1710,13 @@
         {
           "title": "Kallelse ägarutskottet 2026-11-17",
           "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4729714.PDF?fileName=Kallelse%20%C3%A4garutskottet%202026-11-17&fileSize=131575"
+        },
+        {
+          "title": "Protokoll 2  ägarutskottet 2026-11-17",
+          "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4735773.PDF?fileName=Protokoll%202%20%20%C3%A4garutskottet%202026-11-17&fileSize=783502"
         }
       ],
-      "agendaDocCount": 41
+      "agendaDocCount": 53
     },
     {
       "key": "212458|2026-11-10",
