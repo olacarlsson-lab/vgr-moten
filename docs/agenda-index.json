@@ -1510,6 +1510,11 @@
           "title": "384 - Hantering av avtal Tandbågen AB",
           "documents": [
             {
+              "title": "Protokollsutdrag från operativa hälso- och sjukvårdsnämndens sammanträde den 25 november 2026 - Hantering av avtal Tandbågen AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4752191.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2025%20november%202026%20-%20Hantering%20av%20avtal%20Tandb%C3%A5gen%20AB&fileSize=68259",
+              "category": "Protokollsutdrag"
+            },
+            {
               "title": "Hantering av avtal Tandbågen AB",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4712785.PDF?fileName=Hantering%20av%20avtal%20Tandb%C3%A5gen%20AB&fileSize=119764",
               "category": "Tjänsteutlåtande"
@@ -1517,8 +1522,24 @@
           ]
         },
         {
+          "agendaId": "372572",
+          "title": "385 - Hantering av avtal Teodor Murgelas EF",
+          "documents": [
+            {
+              "title": "Protokollsutdrag från operativa hälso- och sjukvårdsnämndens sammanträde den 25 november 2026 - Hantering av avtal Teodor Murgelas EF",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4752193.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2025%20november%202026%20-%20Hantering%20av%20avtal%20Teodor%20Murgelas%20EF&fileSize=74987",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Hantering av avtal Teodor Murgelas EF",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4698472.PDF?fileName=Hantering%20av%20avtal%20Teodor%20Murgelas%20EF&fileSize=101828",
+              "category": "Tjänsteutlåtande"
+            }
+          ]
+        },
+        {
           "agendaId": "372950",
-          "title": "385 - Skyddad: OSL 17 kap 3 b § Utredning av rapporter om missförhållande",
+          "title": "386 - Förlängning av tillfälligt uppdrag för regionens omhändertagande av hälsokontroller inom screeningprocessen enligt EU:s asyl och migrationspakt",
           "documents": [
             {
               "title": "Förlängning av tillfälligt uppdrag för regionens omhändertagande av hälsokontroller inom screeningförfarandet enligt EU:s asyl och migrationspakt",
@@ -1529,7 +1550,7 @@
         },
         {
           "agendaId": "373637",
-          "title": "386 - Förlängning av tillfälligt uppdrag för regionens omhändertagande av hälsokontroller inom screeningprocessen enligt EU:s asyl och migrationspakt",
+          "title": "387 - Förändrad tidplan vårdval barn- och ungdomspsykiatri",
           "documents": [
             {
               "title": "Förändrad tidplan vårdval barn- och ungdomspsykiatri",
@@ -1540,7 +1561,7 @@
         },
         {
           "agendaId": "373638",
-          "title": "387 - Förändrad tidplan vårdval barn- och ungdomspsykiatri",
+          "title": "388 - Återremitterat ärende - förslag till utökat uppdrag för En väg in",
           "documents": [
             {
               "title": "Återremitterat ärende - förslag till utökat uppdrag för En väg in",
@@ -1556,7 +1577,7 @@
         },
         {
           "agendaId": "372947",
-          "title": "388 - Återremitterat ärende - förslag till utökat uppdrag för En väg in",
+          "title": "389 - Lägesrapport sjukhus i egen regi - november 2026",
           "documents": [
             {
               "title": "Lägesrapport sjukhus i egen regi - november 2026",
@@ -1567,7 +1588,7 @@
         },
         {
           "agendaId": "372571",
-          "title": "389 - Lägesrapport sjukhus i egen regi - november 2026",
+          "title": "390 - Uppföljning Högsbo Närsjukhus per september 2026",
           "documents": [
             {
               "title": "Uppföljning Högsbo Närsjukhus per september 2026",
@@ -1578,7 +1599,7 @@
         },
         {
           "agendaId": "365870",
-          "title": "390 - Uppföljning Högsbo Närsjukhus per september 2026",
+          "title": "391 - Uppdatering av förutsättningarna för utvidgning av organiserad prostatacancertestning",
           "documents": [
             {
               "title": "Uppdatering av förutsättningarna för utvidgning av organiserad prostatacancertestning",
@@ -1589,7 +1610,7 @@
         },
         {
           "agendaId": "373042",
-          "title": "391 - Uppdatering av förutsättningarna för utvidgning av organiserad prostatacancertestning",
+          "title": "392 - Återremitterat ärende - Förslag från Sahlgrenska Universitetssjukhuset om utbudspunktsförändring - avveckling av bårhuset i Skene",
           "documents": [
             {
               "title": "Återremitterat ärende - Förslag från Sahlgrenska Universitetssjukhuset om utbudspunktsförändring - avveckling av bårhuset i Skene",
@@ -1605,7 +1626,7 @@
         },
         {
           "agendaId": "365872",
-          "title": "392 - Återremitterat ärende - Förslag från Sahlgrenska Universitetssjukhuset om utbudspunktsförändring - avveckling av bårhuset i Skene",
+          "title": "393 - Utredning avseende permanentning och finansiering av Ryggmärgsskadecentrum Göteborg",
           "documents": [
             {
               "title": "Utredning avseende permanentning och finansiering av Ryggmärgsskadecentrum Göteborg",
@@ -1616,7 +1637,7 @@
         },
         {
           "agendaId": "365871",
-          "title": "393 - Utredning avseende permanentning och finansiering av Ryggmärgsskadecentrum Göteborg",
+          "title": "394 - Ordnat införande av nya läkemedel, metoder och kunskapsunderlag etapp 3 2026",
           "documents": [
             {
               "title": "Ordnat införande av nya läkemedel, metoder och kunskapsunderlag etapp 3 2026",
@@ -1632,7 +1653,7 @@
         },
         {
           "agendaId": "369181",
-          "title": "394 - Ordnat införande av nya läkemedel, metoder och kunskapsunderlag etapp 3 2026",
+          "title": "395 - Ikappvaccination mot vattkoppor, barn och unga, 2027-2029",
           "documents": [
             {
               "title": "Ikappvaccination mot vattkoppor, barn och unga, 2027-2029",
@@ -1643,7 +1664,7 @@
         },
         {
           "agendaId": "373402",
-          "title": "395 - Ikappvaccination mot vattkoppor, barn och unga, 2027-2029",
+          "title": "396 - Fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
           "documents": [
             {
               "title": "Fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
@@ -1654,7 +1675,7 @@
         },
         {
           "agendaId": "371737",
-          "title": "396 - Fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
+          "title": "397 - Samlad uppföljning hälso- och sjukvård per oktober 2026",
           "documents": [
             {
               "title": "Samlad uppföljning hälso- och sjukvård per oktober 2026",
@@ -1670,7 +1691,7 @@
         },
         {
           "agendaId": "373157",
-          "title": "397 - Samlad uppföljning hälso- och sjukvård per oktober 2026",
+          "title": "398 - Medel för överproduktion 2026 inom ramen för tillgänglighetsarbetet",
           "documents": [
             {
               "title": "Medel för överproduktion 2026 inom ramen för tillgänglighetsarbetet",
@@ -1681,7 +1702,7 @@
         },
         {
           "agendaId": "369183",
-          "title": "398 - Medel för överproduktion 2026 inom ramen för tillgänglighetsarbetet",
+          "title": "399 - Uppföljning av tillgängligheten till klinisk radiologisk bröstdiagnostik per september 2026",
           "documents": [
             {
               "title": "Uppföljning av tillgängligheten till klinisk radiologisk bröstdiagnostik per september 2026",
@@ -1692,7 +1713,7 @@
         },
         {
           "agendaId": "372948",
-          "title": "399 - Uppföljning av tillgängligheten till klinisk radiologisk bröstdiagnostik per september 2026",
+          "title": "400 - Återremitterat ärende - Återrapportering av uppdrag om att redovisa tillgängligheten till och konsumtion av ätstörningsvård per kommun i Västra Götaland",
           "documents": [
             {
               "title": "Återremitterat ärende - Återrapportering av uppdrag om att redovisa tillgängligheten till och konsumtion av ätstörningsvård per kommun i Västra Götaland",
@@ -1708,7 +1729,7 @@
         },
         {
           "agendaId": "371738",
-          "title": "400 - Återremitterat ärende - Återrapportering av uppdrag om att redovisa tillgängligheten till och konsumtion av ätstörningsvård per kommun i Västra Götaland",
+          "title": "401 - Omhändertagande av sköra områden, statusrapport",
           "documents": [
             {
               "title": "Omhändertagande av sköra områden, statusrapport",
@@ -1719,7 +1740,7 @@
         },
         {
           "agendaId": "374023",
-          "title": "401 - Omhändertagande av sköra områden, statusrapport",
+          "title": "402 - Lägesrapport - behovsöversyner, upphandlingar och avtal november 2026",
           "documents": [
             {
               "title": "Lägesrapport - behovsöversyner, upphandlingar och avtal november 2026",
@@ -1730,7 +1751,7 @@
         },
         {
           "agendaId": "370755",
-          "title": "402 - Lägesrapport - behovsöversyner, upphandlingar och avtal november 2026",
+          "title": "403 - Utredning om idéburet offentligt partnerskap (IOP) mellan Västra Götalandsregionen och Kraftens hus Skaraborg angående stöd till cancerberörda",
           "documents": [
             {
               "title": "Utredning om idéburet offentligt partnerskap (IOP) mellan Västra Götalandsregionen och Kraftens hus Skaraborg angående stöd till cancerberörda",
@@ -1756,7 +1777,7 @@
         },
         {
           "agendaId": "372266",
-          "title": "403 - Utredning om idéburet offentligt partnerskap (IOP) mellan Västra Götalandsregionen och Kraftens hus Skaraborg angående stöd till cancerberörda",
+          "title": "404 - Option kardiologisk öppenvård i Göteborg Aleris Sjukvård AB",
           "documents": [
             {
               "title": "Option kardiologisk öppenvård i Göteborg Aleris Sjukvård AB",
@@ -1767,7 +1788,7 @@
         },
         {
           "agendaId": "373511",
-          "title": "404 - Option kardiologisk öppenvård i Göteborg Aleris Sjukvård AB",
+          "title": "405 - Option specialiserad palliativ vårdplats, Stiftelsen Hospice Gabriel",
           "documents": [
             {
               "title": "Option specialiserad palliativ vårdplats, Stiftelsen Hospice Gabriel",
@@ -1778,7 +1799,7 @@
         },
         {
           "agendaId": "372984",
-          "title": "405 - Option specialiserad palliativ vårdplats, Stiftelsen Hospice Gabriel",
+          "title": "406 - Uppföljning av måltal för ST-läkare i allmänmedicin och information om handlingsplanför 1100 patienter per läkare",
           "documents": [
             {
               "title": "Uppföljning av måltal för ST-läkare i allmänmedicin och information om handlingsplanför 1100 patienter per läkare",
@@ -1789,7 +1810,7 @@
         },
         {
           "agendaId": "370794",
-          "title": "406 - Uppföljning av måltal för ST-läkare i allmänmedicin och information om handlingsplanför 1100 patienter per läkare",
+          "title": "407 - Yttrande över motion av Håkan Lösnitz (SD) med flera om utökad tillgång till assisterad befruktning: Införande av kostnadsfria syskonförsök",
           "documents": [
             {
               "title": "Yttrande över motion av Håkan Lösnitz (SD) med flera om utökad tillgång till assisterad befruktning: Införande av kostnadsfria syskonförsök",
@@ -1805,7 +1826,7 @@
         },
         {
           "agendaId": "371832",
-          "title": "407 - Yttrande över motion av Håkan Lösnitz (SD) med flera om utökad tillgång till assisterad befruktning: Införande av kostnadsfria syskonförsök",
+          "title": "408 - Svar till delregional nämnd östra om förutsättningar för digital kommunikation mellan vårdgivare i Västra Götaland",
           "documents": [
             {
               "title": "Svar till delregional nämnd östra om förutsättningar för digital kommunikation mellan vårdgivare i Västra Götaland",
@@ -1816,7 +1837,7 @@
         },
         {
           "agendaId": "371833",
-          "title": "408 - Svar till delregional nämnd östra om förutsättningar för digital kommunikation mellan vårdgivare i Västra Götaland",
+          "title": "409 - Svar på yrkande om uppdrag om att säkra tillgången till östrogenplåster och andra läkemedel för att behandla klimakteriebesvär",
           "documents": [
             {
               "title": "Omhändertagande av yrkande om uppdrag om att säkra tillgången till östrogenplåster och andra läkemedel för att behandla klimakteriebesvär",
@@ -1832,7 +1853,7 @@
         },
         {
           "agendaId": "373666",
-          "title": "409 - Svar på yrkande om uppdrag om att säkra tillgången till östrogenplåster och andra läkemedel för att behandla klimakteriebesvär",
+          "title": "410 - Val av ledamot till beredningen för krav- och kvalitetsböcker",
           "documents": [
             {
               "title": "Val av ledamot  till beredningen för krav- och kvalitetsböcker",
@@ -1843,33 +1864,38 @@
         },
         {
           "agendaId": "371834",
-          "title": "410 - Val av ledamot till beredningen för krav- och kvalitetsböcker",
-          "documents": []
-        },
-        {
-          "agendaId": "371836",
           "title": "411 - Presidiet informerar",
           "documents": []
         },
         {
-          "agendaId": "371835",
+          "agendaId": "371836",
           "title": "412 - Beredningen informerar",
           "documents": []
         },
         {
-          "agendaId": "375044",
+          "agendaId": "371835",
           "title": "413 - Ansvarig tjänsteperson informerar",
+          "documents": []
+        },
+        {
+          "agendaId": "375044",
+          "title": "414 - Hantering inom regionalt särskilt tandvårdsstöd för Tandbågen AB",
           "documents": [
             {
-              "title": "Hantering inom regionalt särskilt tandvårdsstöd för Tandbågen AB",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4745876.PDF?fileName=Hantering%20inom%20regionalt%20s%C3%A4rskilt%20tandv%C3%A5rdsst%C3%B6d%20f%C3%B6r%20Tandb%C3%A5gen%20AB&fileSize=112699",
+              "title": "Protokollsutdrag från operativa hälso- och sjukvårdsnämndens sammanträde den 25 november 2026 - Hantering inom regionalt särskilt tandvårdsstöd för Tandbågen AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4752195.PDF?fileName=Protokollsutdrag%20fr%C3%A5n%20operativa%20h%C3%A4lso-%20och%20sjukv%C3%A5rdsn%C3%A4mndens%20sammantr%C3%A4de%20den%2025%20november%202026%20-%20Hantering%20inom%20regionalt%20s%C3%A4rskilt%20tandv%C3%A5rdsst%C3%B6d%20f%C3%B6r%20Tandb%C3%A5gen%20AB&fileSize=78033",
+              "category": "Protokollsutdrag"
+            },
+            {
+              "title": "Tillkommande ärende: Hantering inom regionalt särskilt tandvårdsstöd för Tandbågen AB",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4745876.PDF?fileName=Tillkommande%20%C3%A4rende%3A%20Hantering%20inom%20regionalt%20s%C3%A4rskilt%20tandv%C3%A5rdsst%C3%B6d%20f%C3%B6r%20Tandb%C3%A5gen%20AB&fileSize=112699",
               "category": "Tjänsteutlåtande"
             }
           ]
         },
         {
           "agendaId": "372956",
-          "title": "414 - Hantering inom regionalt särskilt tandvårdsstöd för Tandbågen AB",
+          "title": "Skyddad",
           "documents": [
             {
               "title": "Dispens kompetenskrav för arbetsterapeut inom neurovårdteam för Wästerläkarna Rehab",
@@ -1880,7 +1906,7 @@
         },
         {
           "agendaId": "373131",
-          "title": "Skyddad",
+          "title": "Skyddad: OSL 25 kap 1 § Hälso- och sjukvård och annan medicinsk verksamhet",
           "documents": [
             {
               "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Alida Alivodic, vårdgivarkod 0222",
@@ -1891,7 +1917,7 @@
         },
         {
           "agendaId": "373132",
-          "title": "Skyddad: OSL 25 kap 1 § Hälso- och sjukvård och annan medicinsk verksamhet",
+          "title": "Dispens kompetenskrav för arbetsterapeut inom neurovårdteam för Wästerläkarna Rehab",
           "documents": [
             {
               "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Olof Rosén, vårdgivarkod 0209",
@@ -1902,7 +1928,7 @@
         },
         {
           "agendaId": "373133",
-          "title": "Dispens kompetenskrav för arbetsterapeut inom neurovårdteam för Wästerläkarna Rehab",
+          "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Alida Alivodic, vårdgivarkod 0222",
           "documents": [
             {
               "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Agata Bohlin, vårdgivarkod 0388",
@@ -1913,7 +1939,7 @@
         },
         {
           "agendaId": "373134",
-          "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Alida Alivodic, vårdgivarkod 0222",
+          "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Olof Rosén, vårdgivarkod 0209",
           "documents": [
             {
               "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
@@ -1939,7 +1965,7 @@
         },
         {
           "agendaId": "373371",
-          "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Olof Rosén, vårdgivarkod 0209",
+          "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Agata Bohlin, vårdgivarkod 0388",
           "documents": [
             {
               "title": "Stöd till forskningsstudie Partnership for Precision Cancer Medicine (PPMC) Lungcancer under 2026 (tidigare motfinansiering Sjöbergstiftelsen)",
@@ -1955,7 +1981,7 @@
         },
         {
           "agendaId": "374334",
-          "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande Agata Bohlin, vårdgivarkod 0388",
+          "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till barn- och ungdomar 3-19 år med Brastad Tandvård AB",
@@ -1966,7 +1992,7 @@
         },
         {
           "agendaId": "374335",
-          "title": "Förändringar i uppdrag 2026 inom ramen för tillgänglighetsarbetet",
+          "title": "Stöd till forskningsstudie Partnership for Precision Cancer Medicine (PPMC) Lungcancer under 2026 (tidigare motfinansiering Sjöbergstiftelsen)",
           "documents": [
             {
               "title": "Uppsägning av avtal om tandvård till barn- och ungdomar 3-19 år med Dentaplanet AB",
@@ -1977,7 +2003,7 @@
         },
         {
           "agendaId": "374336",
-          "title": "Stöd till forskningsstudie Partnership for Precision Cancer Medicine (PPMC) Lungcancer under 2026 (tidigare motfinansiering Sjöbergstiftelsen)",
+          "title": "Uppsägning av avtal om tandvård till barn- och ungdomar 3-19 år med Brastad Tandvård AB",
           "documents": [
             {
               "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande\r\nSven Nielsen, vårdgivarkod 1334",
@@ -1988,7 +2014,7 @@
         },
         {
           "agendaId": "373809",
-          "title": "Uppsägning av avtal om tandvård till barn- och ungdomar 3-19 år med Brastad Tandvård AB",
+          "title": "Uppsägning av avtal om tandvård till barn- och ungdomar 3-19 år med Dentaplanet AB",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-10-20 § 192 -\nSammanträdestider för regionfullmäktige återstoden av 2026 och för helåret 2027",
@@ -1999,7 +2025,7 @@
         },
         {
           "agendaId": "373810",
-          "title": "Uppsägning av avtal om tandvård till barn- och ungdomar 3-19 år med Dentaplanet AB",
+          "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande\nSven Nielsen, vårdgivarkod 1334",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-10-20 § 191 -\nInkallelseordning för ersättare i Västra Götalandsregionens samtliga nämnder och styrelser för mandatperioden 2026-2030",
@@ -2010,7 +2036,7 @@
         },
         {
           "agendaId": "373074",
-          "title": "Tilldelningsbeslut för försäljning av ersättningsetablering enligt lag (1993:1651) om läkarvårdsersättning gällande\nSven Nielsen, vårdgivarkod 1334",
+          "title": "Beslut från regionfullmäktige 2026-10-20 § 192 -\nSammanträdestider för regionfullmäktige återstoden av 2026 och för helåret 2027",
           "documents": [
             {
               "title": "Beslut från regionstyrelsen 2026-10-20 § 249 - Delårsrapport augusti 2026 för Västra\nGötalandsregionen",
@@ -2031,7 +2057,7 @@
         },
         {
           "agendaId": "373362",
-          "title": "Beslut från regionfullmäktige 2026-10-20 § 192 -\nSammanträdestider för regionfullmäktige återstoden av 2026 och för helåret 2027",
+          "title": "Beslut från regionfullmäktige 2026-10-20 § 191 -\nInkallelseordning för ersättare i Västra Götalandsregionens samtliga nämnder och styrelser för mandatperioden 2026-2030",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-10-06 § 150 - Revidering av digitaliseringspolicy",
@@ -2057,7 +2083,7 @@
         },
         {
           "agendaId": "372951",
-          "title": "Beslut från regionfullmäktige 2026-10-20 § 191 -\nInkallelseordning för ersättare i Västra Götalandsregionens samtliga nämnder och styrelser för mandatperioden 2026-2030",
+          "title": "Beslut från regionstyrelsen 2026-10-20 § 249 - Delårsrapport augusti 2026 för Västra\nGötalandsregionen",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-10-06 § 161 - Motion av Richard Brodd (L) om att förbättra hivprevention i Västra Götalandsregionen genom att öka tillgången till PrEP",
@@ -2073,7 +2099,7 @@
         },
         {
           "agendaId": "372952",
-          "title": "Beslut från regionstyrelsen 2026-10-20 § 249 - Delårsrapport augusti 2026 för Västra\nGötalandsregionen",
+          "title": "Beslut från regionfullmäktige 2026-10-06 § 150 - Revidering av digitaliseringspolicy",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-10-06 § 163 - Motion av Håkan Lösnitz (SD) med flera om\nmammografiscreening för kvinnor även efter 74",
@@ -2099,7 +2125,7 @@
         },
         {
           "agendaId": "372953",
-          "title": "Beslut från regionfullmäktige 2026-10-06 § 150 - Revidering av digitaliseringspolicy",
+          "title": "Beslut från regionfullmäktige 2026-10-06 § 161 - Motion av Richard Brodd (L) om att förbättra hivprevention i Västra Götalandsregionen genom att öka tillgången till PrEP",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-10-06 § 151 -\nNy riktlinje för arkiv och information i Västra\nGötalandsregionen",
@@ -2115,7 +2141,7 @@
         },
         {
           "agendaId": "372954",
-          "title": "Beslut från regionfullmäktige 2026-10-06 § 161 - Motion av Richard Brodd (L) om att förbättra hivprevention i Västra Götalandsregionen genom att öka tillgången till PrEP",
+          "title": "Beslut från regionfullmäktige 2026-10-06 § 163 - Motion av Håkan Lösnitz (SD) med flera om\nmammografiscreening för kvinnor även efter 74",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-10-06 § 148 - Fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
@@ -2131,7 +2157,7 @@
         },
         {
           "agendaId": "372955",
-          "title": "Beslut från regionfullmäktige 2026-10-06 § 163 - Motion av Håkan Lösnitz (SD) med flera om\nmammografiscreening för kvinnor även efter 74",
+          "title": "Beslut från regionfullmäktige 2026-10-06 § 151 -\nNy riktlinje för arkiv och information i Västra\nGötalandsregionen",
           "documents": [
             {
               "title": "Beslut från regionfullmäktige 2026-10-06 § 147 -Avgiftsfrihet vid smittspårning och behandling",
@@ -2147,7 +2173,7 @@
         },
         {
           "agendaId": "374319",
-          "title": "Beslut från regionfullmäktige 2026-10-06 § 151 -\nNy riktlinje för arkiv och information i Västra\nGötalandsregionen",
+          "title": "Beslut från regionfullmäktige 2026-10-06 § 148 - Fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 198 - Reviderad genomförandeplan 2024-2027 för omställning av hälso- och sjukvård, november\n2026",
@@ -2173,7 +2199,7 @@
         },
         {
           "agendaId": "374320",
-          "title": "Beslut från regionfullmäktige 2026-10-06 § 148 - Fortsatt avgiftsfri vaccination mot pneumokocker från 65 års ålder",
+          "title": "Beslut från regionfullmäktige 2026-10-06 § 147 -Avgiftsfrihet vid smittspårning och behandling",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 214 - Högkostnadsskyddet i öppen hälso- och sjukvård och slutenvårdsavgiften 2027",
@@ -2194,7 +2220,7 @@
         },
         {
           "agendaId": "374321",
-          "title": "Beslut från regionfullmäktige 2026-10-06 § 147 -Avgiftsfrihet vid smittspårning och behandling",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 198 - Reviderad genomförandeplan 2024-2027 för omställning av hälso- och sjukvård, november\n2026",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 212 - Återrapportering av utredning av ett\nvidareutvecklat hänvisningsstöd för 1177 på telefon",
@@ -2210,7 +2236,7 @@
         },
         {
           "agendaId": "374322",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 198 - Reviderad genomförandeplan 2024-2027 för omställning av hälso- och sjukvård, november\n2026",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 214 - Högkostnadsskyddet i öppen hälso- och sjukvård och slutenvårdsavgiften 2027",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 215 - Information om pågående arbete med förstärkt genomförande av omställningen på lång sikt",
@@ -2236,7 +2262,7 @@
         },
         {
           "agendaId": "374323",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 214 - Högkostnadsskyddet i öppen hälso- och sjukvård och slutenvårdsavgiften 2027",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 212 - Återrapportering av utredning av ett\nvidareutvecklat hänvisningsstöd för 1177 på telefon",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 213 - Återrapportering av finansiering för uppstart av Kraftens hus Skaraborg",
@@ -2257,7 +2283,7 @@
         },
         {
           "agendaId": "374324",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 212 - Återrapportering av utredning av ett\nvidareutvecklat hänvisningsstöd för 1177 på telefon",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 215 - Information om pågående arbete med förstärkt genomförande av omställningen på lång sikt",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 197 - Strategisk inriktning för cancervården i Västra Götalandsregionen",
@@ -2278,7 +2304,7 @@
         },
         {
           "agendaId": "374325",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 215 - Information om pågående arbete med förstärkt genomförande av omställningen på lång sikt",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 213 - Återrapportering av finansiering för uppstart av Kraftens hus Skaraborg",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 200 - Vårdorganisatoriska gränser och dess påverkan på invånares tillgång till hälso- och sjukvård",
@@ -2299,7 +2325,7 @@
         },
         {
           "agendaId": "374326",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 213 - Återrapportering av finansiering för uppstart av Kraftens hus Skaraborg",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 197 - Strategisk inriktning för cancervården i Västra Götalandsregionen",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 208 - Strategisk inriktning för en mer sammanhållen vård för personer med skadligt bruk eller\nberoende och andra psykiatriska tillstånd",
@@ -2325,7 +2351,7 @@
         },
         {
           "agendaId": "374327",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 197 - Strategisk inriktning för cancervården i Västra Götalandsregionen",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 200 - Vårdorganisatoriska gränser och dess påverkan på invånares tillgång till hälso- och sjukvård",
           "documents": [
             {
               "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 4 november 2026 - Inriktning för handlingsplan fö",
@@ -2341,7 +2367,7 @@
         },
         {
           "agendaId": "374328",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 200 - Vårdorganisatoriska gränser och dess påverkan på invånares tillgång till hälso- och sjukvård",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 208 - Strategisk inriktning för en mer sammanhållen vård för personer med skadligt bruk eller\nberoende och andra psykiatriska tillstånd",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 199 - Regional handlingsplan för ökad patientsäkerhet 2027-2029",
@@ -2362,7 +2388,7 @@
         },
         {
           "agendaId": "374329",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 208 - Strategisk inriktning för en mer sammanhållen vård för personer med skadligt bruk eller\nberoende och andra psykiatriska tillstånd",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 210 - Inriktning för handlingsplan för att nå riktmärke 1100 patienter per läkare inom primärvården",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 206 - Länsgemensam riktlinje – Patientsäkerhet",
@@ -2383,7 +2409,7 @@
         },
         {
           "agendaId": "374330",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 210 - Inriktning för handlingsplan för att nå riktmärke 1100 patienter per läkare inom primärvården",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 199 - Regional handlingsplan för ökad patientsäkerhet 2027-2029",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 205 - Kostnadsuppräkning av taxor för intygsskrivning med mera 2027",
@@ -2399,7 +2425,7 @@
         },
         {
           "agendaId": "374331",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 199 - Regional handlingsplan för ökad patientsäkerhet 2027-2029",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 206 - Länsgemensam riktlinje – Patientsäkerhet",
           "documents": [
             {
               "title": "Protokollsutdrag från strategiska hälso- och sjukvårdsnämndens sammanträde den 4 november 2026 - Rekommendation från Sveriges Ko",
@@ -2420,7 +2446,7 @@
         },
         {
           "agendaId": "374450",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 206 - Länsgemensam riktlinje – Patientsäkerhet",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 205 - Kostnadsuppräkning av taxor för intygsskrivning med mera 2027",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 221 - Information om pågående arbete med samverkansavtal för ungdomsmottagningar i Västra Götaland",
@@ -2436,7 +2462,7 @@
         },
         {
           "agendaId": "374332",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 205 - Kostnadsuppräkning av taxor för intygsskrivning med mera 2027",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 107 - Rekommendation från Sveriges Kommuner och Regioner (SKR) om assisterad befruktning",
           "documents": [
             {
               "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 209 - Projektstöd för stärkt samordning av hälso- och sjukvård till våldsutsatta kvinnor",
@@ -2457,7 +2483,7 @@
         },
         {
           "agendaId": "373364",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 107 - Rekommendation från Sveriges Kommuner och Regioner (SKR) om assisterad befruktning",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 221 - Information om pågående arbete med samverkansavtal för ungdomsmottagningar i\nVästra Götaland",
           "documents": [
             {
               "title": "Beslut från styrelsen för Regionhälsan 2026-10-21 § 103 - Återrapport av initiativärende (Presidiet) -\nKompetensförsörjning i norra Bohuslän",
@@ -2478,7 +2504,7 @@
         },
         {
           "agendaId": "373365",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 221 - Information om pågående arbete med samverkansavtal för ungdomsmottagningar i\nVästra Götaland",
+          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 209 - Projektstöd för stärkt samordning av hälso- och sjukvård till våldsutsatta kvinnor",
           "documents": [
             {
               "title": "Beslut från styrelsen för Regionhälsan 2026-10-21 § 104 -\nÖversyn av utbudspunkter för att säkerställa ändamålsenliga lokaler för ungdomsmottagningar i stadsområde centrum, Göteborg",
@@ -2499,7 +2525,7 @@
         },
         {
           "agendaId": "373366",
-          "title": "Beslut från strategiska hälso- och sjukvårdsnämnden 2026-11-04 § 209 - Projektstöd för stärkt samordning av hälso- och sjukvård till våldsutsatta kvinnor",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-10-21 § 103 - Återrapport av initiativärende (Presidiet) -\nKompetensförsörjning i norra Bohuslän",
           "documents": [
             {
               "title": "Beslut från styrelsen för Regionhälsan 2026-10-21 § 105\nÅterrapport Initiativärende (presidiet) - Patientperspektiv på primärvårdslogopedi, oktober 2026",
@@ -2515,7 +2541,7 @@
         },
         {
           "agendaId": "373404",
-          "title": "Beslut från styrelsen för Regionhälsan 2026-10-21 § 103 - Återrapport av initiativärende (Presidiet) -\nKompetensförsörjning i norra Bohuslän",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-10-21 § 104 -\nÖversyn av utbudspunkter för att säkerställa ändamålsenliga lokaler för ungdomsmottagningar i stadsområde centrum, Göteborg",
           "documents": [
             {
               "title": "Beslut från kulturnämnden 2026-10-22 § 116 - Förslag på rekommendationer utifrån inventering kultur och hälsa inom hälso och sjukvårdsverksamhet",
@@ -2531,7 +2557,7 @@
         },
         {
           "agendaId": "373736",
-          "title": "Beslut från styrelsen för Regionhälsan 2026-10-21 § 104 -\nÖversyn av utbudspunkter för att säkerställa ändamålsenliga lokaler för ungdomsmottagningar i stadsområde centrum, Göteborg",
+          "title": "Beslut från styrelsen för Regionhälsan 2026-10-21 § 105\nÅterrapport Initiativärende (presidiet) - Patientperspektiv på primärvårdslogopedi, oktober 2026",
           "documents": [
             {
               "title": "Mötesanteckningar från presidiedialog mellan strategiska hälso- och sjukvårdsnämnden, operativa hälso- och sjukvårdsnämnden och de delregionala nämnderna 2026-09-30",
@@ -2660,24 +2686,8 @@
           ]
         },
         {
-          "agendaId": "374383",
-          "title": "218 - Interpellation av Martin Sörbom (SD) om beredskap mot cyberattacker mot blodförsörjningen",
-          "documents": [
-            {
-              "title": "Interpellation av Martin Sörbom (SD) om beredskap mot cyberattacker mot blodförsörjningen",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4735901.PDF?fileName=Interpellation%20av%20Martin%20S%C3%B6rbom%20(SD)%20om%20beredskap%20mot%20cyberattacker%20mot%20blodf%C3%B6rs%C3%B6rjningen&fileSize=174604",
-              "category": "Handling upprättad"
-            },
-            {
-              "title": "Svar på interpellation av Martin Sörbom (SD) om beredskap mot cyberattacker mot blodförsörjningen",
-              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4742554.PDF?fileName=Svar%20p%C3%A5%20interpellation%20av%20Martin%20S%C3%B6rbom%20(SD)%20om%20beredskap%20mot%20cyberattacker%20mot%20blodf%C3%B6rs%C3%B6rjningen&fileSize=112059",
-              "category": "Bilaga"
-            }
-          ]
-        },
-        {
           "agendaId": "374066",
-          "title": "219 - Förlängd rabatt av Västtrafiks månadsbiljetter",
+          "title": "218 - Förlängd rabatt av Västtrafiks månadsbiljetter",
           "documents": [
             {
               "title": "Förlängd rabatt av Västtrafiks månadsbiljetter",
@@ -2723,7 +2733,7 @@
         },
         {
           "agendaId": "374395",
-          "title": "220 - Fastställande av budget 2027 och plan för 2028-2029 för Västra Götalandsregionen",
+          "title": "219 - Fastställande av budget 2027 och plan för 2028-2029 för Västra Götalandsregionen",
           "documents": [
             {
               "title": "Protokollsutdrag från regionstyrelsens sammanträde den 10 november 2026 - Fastställande av budget 2027 och plan för 2028-2029 för Västra Götalandsregionen",
@@ -2764,7 +2774,7 @@
         },
         {
           "agendaId": "374065",
-          "title": "221 - Reglementen för nämnder och styrelser 2027-2030",
+          "title": "220 - Reglementen för nämnder och styrelser 2027-2030",
           "documents": [
             {
               "title": "Reglementen för nämnder och styrelser 2027-2030",
@@ -2790,7 +2800,7 @@
         },
         {
           "agendaId": "374064",
-          "title": "222 - Målbild för ny vårdinformationsmiljö",
+          "title": "221 - Målbild för ny vårdinformationsmiljö",
           "documents": [
             {
               "title": "Målbild för ny vårdinformationsmiljö",
@@ -2816,7 +2826,7 @@
         },
         {
           "agendaId": "374054",
-          "title": "223 - Nästa steg gällande förändrad ägarstruktur i Almi Företagspartner Väst",
+          "title": "222 - Nästa steg gällande förändrad ägarstruktur i Almi Företagspartner Väst",
           "documents": [
             {
               "title": "Nästa steg gällande förändrad ägarstruktur i Almi-koncernen för Västsverige",
@@ -2847,7 +2857,7 @@
         },
         {
           "agendaId": "374062",
-          "title": "224 - Motionsbalans och redovisning av bifallna motioner",
+          "title": "223 - Motionsbalans och redovisning av bifallna motioner",
           "documents": [
             {
               "title": "Motionsbalans och redovisning av bifallna motioner",
@@ -2868,7 +2878,7 @@
         },
         {
           "agendaId": "374052",
-          "title": "225 - Motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
+          "title": "224 - Motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
           "documents": [
             {
               "title": "Yttrande över motion av Håkan Lösnitz (SD) med flera om att införa Vårdval inom den specialiserade ögonsjukvården",
@@ -2999,7 +3009,7 @@
         },
         {
           "agendaId": "374053",
-          "title": "226 - Motion av Lars Holmin (M) med flera om att upphandla vård vid Högsbo närsjukhus",
+          "title": "225 - Motion av Lars Holmin (M) med flera om att upphandla vård vid Högsbo närsjukhus",
           "documents": [
             {
               "title": "Yttrande över motion av Lars Holmin (M) med flera om att upphandla vård vid Högsbo närsjukhus",
@@ -3055,7 +3065,7 @@
         },
         {
           "agendaId": "374055",
-          "title": "227 - Motion av Elin Härling (SD) med flera om initiativ till läkemedelsrobotar vid utskrivning från regionens slutenvård",
+          "title": "226 - Motion av Elin Härling (SD) med flera om initiativ till läkemedelsrobotar vid utskrivning från regionens slutenvård",
           "documents": [
             {
               "title": "Yttrande över motion av Elin Härling (SD) med flera om initiativ till läkemedelsrobotar vid utskrivning från regionens slutenvård",
@@ -3086,7 +3096,7 @@
         },
         {
           "agendaId": "374056",
-          "title": "228 - Motion av Maria Lindgren (SD) och Lennart Jonsson (SD) om att stärka förutsättningarna för god arbetsmiljö i Västra Götalandsregionen",
+          "title": "227 - Motion av Maria Lindgren (SD) och Lennart Jonsson (SD) om att stärka förutsättningarna för god arbetsmiljö i Västra Götalandsregionen",
           "documents": [
             {
               "title": "Yttrande över motion av Maria Lindgren (SD) och Lennart Jonsson (SD) om att stärka förutsättningarna för god arbetsmiljö i Västra Götalandsregionen",
@@ -3107,7 +3117,7 @@
         },
         {
           "agendaId": "374057",
-          "title": "229 - Motion av Angelica Lundgren Bielinski (M) och Peter Heie (C) om att utreda behovet av familjecentraler i fler kommuner i Västra Götaland",
+          "title": "228 - Motion av Angelica Lundgren Bielinski (M) och Peter Heie (C) om att utreda behovet av familjecentraler i fler kommuner i Västra Götaland",
           "documents": [
             {
               "title": "Yttrande över motion av Angelica Lundgren Bielinski (M) och Peter Heie (C) om att utreda behovet av familjecentraler i fler kommuner i Västra Götaland",
@@ -3163,7 +3173,7 @@
         },
         {
           "agendaId": "374058",
-          "title": "230 - Motion av Lisa Berglund (KD) om att minska risken för antibiotikaresistens",
+          "title": "229 - Motion av Lisa Berglund (KD) om att minska risken för antibiotikaresistens",
           "documents": [
             {
               "title": "Yttrande över motion av Lisa Berglund (KD) om att minska risken för antibiotikaresistens",
@@ -3199,7 +3209,7 @@
         },
         {
           "agendaId": "374059",
-          "title": "231 - Motion av Mats Abrahamsson (M) om Västra Götalandsregionen som ledande kraft för minskad marin nedskräpning",
+          "title": "230 - Motion av Mats Abrahamsson (M) om Västra Götalandsregionen som ledande kraft för minskad marin nedskräpning",
           "documents": [
             {
               "title": "Yttrande över motion av Mats Abrahamsson (M) om Västra Götalandsregionen som ledande kraft för minskad marin nedskräpning",
@@ -3225,7 +3235,7 @@
         },
         {
           "agendaId": "374060",
-          "title": "232 - Motion av Johan Sösaeter Johansson (SD) med flera om transparens kring lönens del av skatten",
+          "title": "231 - Motion av Johan Sösaeter Johansson (SD) med flera om transparens kring lönens del av skatten",
           "documents": [
             {
               "title": "Yttrande över motion av Johan Sösaeter Johansson (SD) med flera om transparens kring lönens del av skatten",
@@ -3246,7 +3256,7 @@
         },
         {
           "agendaId": "374061",
-          "title": "233 - Motion av Cecilia Andersson (C) om att inrätta en Senior Advisory Board inom Västra Götalandsregionen",
+          "title": "232 - Motion av Cecilia Andersson (C) om att inrätta en Senior Advisory Board inom Västra Götalandsregionen",
           "documents": [
             {
               "title": "Yttrande över motion av Cecilia Andersson (C) om att inrätta en Senior Advisory Board inom Västra Götalandsregionen",
@@ -3267,12 +3277,12 @@
         },
         {
           "agendaId": "374388",
-          "title": "234 - Anmälan av inkomna motioner",
+          "title": "233 - Anmälan av inkomna motioner",
           "documents": []
         },
         {
           "agendaId": "374425",
-          "title": "235 - Anmälningsärenden",
+          "title": "234 - Anmälningsärenden",
           "documents": [
             {
               "title": "Anmälningsärenden",
@@ -3288,7 +3298,7 @@
         },
         {
           "agendaId": "374068",
-          "title": "236 - Valberedningens förslag till val mandatperioden 2027-2030",
+          "title": "235 - Valberedningens förslag till val mandatperioden 2027-2030",
           "documents": [
             {
               "title": "Valberedningens förslag till val mandatperioden 2027-2030",
@@ -3304,27 +3314,27 @@
         },
         {
           "agendaId": "375145",
-          "title": "237 - Ledamot och ersättare till miljö- och regionutvecklingsnämnden",
+          "title": "236 - Ledamot och ersättare till miljö- och regionutvecklingsnämnden",
           "documents": []
         },
         {
           "agendaId": "375146",
-          "title": "238 - Ledamot i Göteborgs djurförsöksetiska nämnd",
+          "title": "237 - Ledamot i Göteborgs djurförsöksetiska nämnd",
           "documents": []
         },
         {
           "agendaId": "375147",
-          "title": "239 - Nämndeman i Förvaltningsrätten i Göteborg",
+          "title": "238 - Nämndeman i Förvaltningsrätten i Göteborg",
           "documents": []
         },
         {
           "agendaId": "375148",
-          "title": "240 - Nämndemän i Förvaltningsrätten i Göteborg",
+          "title": "239 - Nämndemän i Förvaltningsrätten i Göteborg",
           "documents": []
         },
         {
           "agendaId": "374377",
-          "title": "241 - Interpellation av Angela Fast Torstensson (M) om arbetstidsförkortning och kompetensförsörjning",
+          "title": "240 - Interpellation av Angela Fast Torstensson (M) om arbetstidsförkortning och kompetensförsörjning",
           "documents": [
             {
               "title": "Interpellation av Angela Fast Torstensson (M) om arbetstidsförkortning och kompetensförsörjning",
@@ -3340,7 +3350,7 @@
         },
         {
           "agendaId": "374378",
-          "title": "242 - Interpellation av Micaela Kronberg (M) om förlossningsvården under sommaren 2026",
+          "title": "241 - Interpellation av Micaela Kronberg (M) om förlossningsvården under sommaren 2026",
           "documents": [
             {
               "title": "Interpellation av Micaela Kronberg (M) om förlossningsvården under sommaren 2026",
@@ -3356,7 +3366,7 @@
         },
         {
           "agendaId": "374379",
-          "title": "243 - Interpellation av Richard Brodd (L) om när kvinnor över 74 år ska få rätt till mammografiscreening",
+          "title": "242 - Interpellation av Richard Brodd (L) om när kvinnor över 74 år ska få rätt till mammografiscreening",
           "documents": [
             {
               "title": "Interpellation av Richard Brodd (L) om när kvinnor över 74 år ska få rätt till mammografiscreening",
@@ -3372,7 +3382,7 @@
         },
         {
           "agendaId": "374381",
-          "title": "244 - Interpellation av Ove Kaye (SD) om hur det går i arbetet med att öka tillgängligheten för blodgivning i hela Västra Götaland",
+          "title": "243 - Interpellation av Ove Kaye (SD) om hur det går i arbetet med att öka tillgängligheten för blodgivning i hela Västra Götaland",
           "documents": [
             {
               "title": "Interpellation av Ove Kaye (SD) om hur det går i arbetet med att öka tillgängligheten för blodgivning i hela Västra Götaland",
@@ -3382,6 +3392,22 @@
             {
               "title": "Svar på interpellation av Ove Kaye (SD) om arbetet med att öka tillgängligheten för blodgivning i hela VGR",
               "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4742552.PDF?fileName=Svar%20p%C3%A5%20interpellation%20av%20Ove%20Kaye%20(SD)%20om%20arbetet%20med%20att%20%C3%B6ka%20tillg%C3%A4ngligheten%20f%C3%B6r%20blodgivning%20i%20hela%20VGR&fileSize=192928",
+              "category": "Bilaga"
+            }
+          ]
+        },
+        {
+          "agendaId": "374383",
+          "title": "244 - Interpellation av Martin Sörbom (SD) om beredskap mot cyberattacker mot blodförsörjningen",
+          "documents": [
+            {
+              "title": "Interpellation av Martin Sörbom (SD) om beredskap mot cyberattacker mot blodförsörjningen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4735901.PDF?fileName=Interpellation%20av%20Martin%20S%C3%B6rbom%20(SD)%20om%20beredskap%20mot%20cyberattacker%20mot%20blodf%C3%B6rs%C3%B6rjningen&fileSize=174604",
+              "category": "Handling upprättad"
+            },
+            {
+              "title": "Svar på interpellation av Martin Sörbom (SD) om beredskap mot cyberattacker mot blodförsörjningen",
+              "url": "https://opengov.360online.com/Meetings/vgregion/File/Details/4742554.PDF?fileName=Svar%20p%C3%A5%20interpellation%20av%20Martin%20S%C3%B6rbom%20(SD)%20om%20beredskap%20mot%20cyberattacker%20mot%20blodf%C3%B6rs%C3%B6rjningen&fileSize=112059",
               "category": "Bilaga"
             }
           ]
